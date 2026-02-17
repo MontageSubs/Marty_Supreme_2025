@@ -40,23 +40,20 @@ Dialogue: 0,0:01:05.36,0:01:08.52,Default,,0,0,0,,有位顾客找你 前几天�
 Dialogue: 0,0:01:08.53,0:01:10.59,Default,,0,0,0,,哦 对 是买了那双棕色玛丽珍吧\NOh, yeah. You bought the brown Mary Janes, right?
 Dialogue: 0,0:01:10.61,0:01:12.23,Default,,0,0,0,,- 合脚吗？ - 没错 鞋挺好的\N- How do they fit you? - Yeah, I did. They're great.
 Dialogue: 0,0:01:12.24,0:01:13.98,Default,,0,0,0,,- 我当时穿着就走了 - 好\N- I wore them out of the store. - Okay.
-Dialogue: 0,0:01:13.99,0:01:15.24,Default,,0,0,0,,- 所以我旧鞋落这了\N- So I left my old ones here.
-Dialogue: 0,0:01:15.24,0:01:16.41,Default,,0,0,0,,行 长什么样?\NOkay. What did they look like?
-Dialogue: 0,0:01:16.41,0:01:18.45,Default,,0,0,0,,拼色跟鞋 雕花款\NThey're two-toned pumps, wingtips.
-Dialogue: 0,0:01:18.45,0:01:20.37,Default,,0,0,0,,- 劳埃德 见她鞋了吗? - 没见\N- Lloyd, did you see her shoes? - No.
-Dialogue: 0,0:01:20.37,0:01:22.67,Default,,0,0,0,,有没有可能你把鞋装进我试穿的其他鞋盒里\NIs it possible that you maybe put them in one of the boxes
-Dialogue: 0,0:01:22.67,0:01:25.42,Default,,0,0,0,,重新上架了?\Nof the other shoes that I was trying on and restocked them?
-Dialogue: 0,0:01:25.42,0:01:27.55,Default,,0,0,0,,行吧 呃...\NOkay. All right. Um...
-Dialogue: 0,0:01:27.55,0:01:29.59,Default,,0,0,0,,介意让我同事帮您找找吗?\NDo you mind if my colleague helps you out for a second?
-Dialogue: 0,0:01:29.59,0:01:31.72,Default,,0,0,0,,劳埃德 帮玛丽安找找\NLloyd. Can you help with Mariann here?
-Dialogue: 0,0:01:31.72,0:01:32.84,Default,,0,0,0,,没问题\NSure. Sure.
-Dialogue: 0,0:01:32.84,0:01:34.47,Default,,0,0,0,,我们去地下室看看 跟我来\NYeah, we'll check the basement. Come.
-Dialogue: 0,0:01:34.47,0:01:35.97,Default,,0,0,0,,谢谢 借过\NThank you. Excuse me.
-Dialogue: 0,0:01:35.97,0:01:37.43,Default,,0,0,0,,劳埃德会帮您的 拿几双活力牌试试\NLloyd's gonna help you. Get the Vitalities.
-Dialogue: 0,0:01:37.43,0:01:38.89,Default,,0,0,0,,行 价格我再考虑下\NOkay. I'll think about the price.
-Dialogue: 0,0:01:38.89,0:01:40.64,Default,,0,0,0,,马上就来 忙完手头这点\NI'll be right with you. Let me finish up here.
-Dialogue: 0,0:01:40.64,0:01:41.77,Default,,0,0,0,,好的 谢谢\NOkay, thank you.
-Dialogue: 0,0:01:41.77,0:01:42.90,Default,,0,0,0,,- 干嘛? - 嘘\N- What? - Shh.
+Dialogue: 0,0:01:13.99,0:01:16.55,Default,,0,0,0,,- 然后旧鞋就落在这里了 - 旧鞋长什么样?\N- So I left my old ones here. - Okay. What did they look like?
+Dialogue: 0,0:01:16.57,0:01:18.45,Default,,0,0,0,,拼色高跟鞋 带小翅膀图案\NThey're two-toned pumps, wingtips.
+Dialogue: 0,0:01:18.47,0:01:20.37,Default,,0,0,0,,- 洛伊 有见到那鞋吗? - 没有\N- Lloyd, did you see her shoes? - No.
+Dialogue: 0,0:01:20.39,0:01:22.67,Default,,0,0,0,,不会被你们装回我没拿走的鞋盒\NIs it possible that you maybe put them in one of the boxes
+Dialogue: 0,0:01:22.69,0:01:25.60,Default,,0,0,0,,然后又塞回库房了吧？\Nof the other shoes that I was trying on and restocked them?
+Dialogue: 0,0:01:25.62,0:01:27.74,Default,,0,0,0,,- 好吧... - 要是看见鞋盒 我就能认出来\N- Okay. All right. Um... - If I saw the boxes, I'd be able to recognize it.
+Dialogue: 0,0:01:27.75,0:01:29.74,Default,,0,0,0,,让我同事来帮您选购好吗？\NDo you mind if my colleague helps you out for a second?
+Dialogue: 0,0:01:29.75,0:01:31.90,Default,,0,0,0,,洛伊 你帮忙接待一下这位行吗？\NLloyd. Can you help with Mariann here?
+Dialogue: 0,0:01:31.91,0:01:32.99,Default,,0,0,0,,没问题 没问题\NSure. Sure.
+Dialogue: 0,0:01:33.00,0:01:35.96,Default,,0,0,0,,- 走 跟我去仓库 - 谢谢 借过\N- Yeah, we'll check the basement. Come. - Thank you. Excuse me.
+Dialogue: 0,0:01:35.97,0:01:38.88,Default,,0,0,0,,- 洛伊会拿来足力康的 - 好吧 我得考虑下价格\N- Lloyd's gonna help you. Get the Vitalities. - Okay. I'll think about the price.
+Dialogue: 0,0:01:38.89,0:01:41.68,Default,,0,0,0,,- 您先坐会儿 我马上就来 - 好的 谢谢\N- I'll be right with you. Let me finish up here. - Okay, thank you.
+Dialogue: 0,0:01:41.70,0:01:42.83,Default,,0,0,0,,- 干嘛? - 嘘\N- What? - Shh.
+Dialogue: 0,0:01:43.27,0:01:44.27,Default,,0,0,0,,【小p翻译至此】
 Dialogue: 0,0:01:44.69,0:01:46.11,Default,,0,0,0,,- 马蒂 - 操 该死\N- Marty. - Ah, fuck.
 Dialogue: 0,0:01:46.11,0:01:47.61,Default,,0,0,0,,给你看个宝贝 过来\NI wanna show you something. Come here.
 Dialogue: 0,0:01:47.61,0:01:49.61,Default,,0,0,0,,- 啥? - 等会 蹲低点 蹲下\N- What? - One second. Just get low. Go low.
