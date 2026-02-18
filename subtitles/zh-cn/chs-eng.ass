@@ -62,7 +62,7 @@ Dialogue: 0,0:01:55.63,0:01:56.87,Default,,0,0,0,,什么东西？\NWhat is this?
 Dialogue: 0,0:01:57.16,0:01:58.16,Default,,0,0,0,,仔细瞧瞧\NCheck it out.
 Dialogue: 0,0:01:58.21,0:01:59.75,Screen,,0,0,0,,{\an8}（诺金鞋行 家族老字号 经久耐穿）
 Dialogue: 0,0:01:59.24,0:02:00.76,Default,,0,0,0,,有啥特别的？\NWhat am I looking at?
-Dialogue: 0,0:02:00.77,0:02:02.07,Default,,0,0,0,,看下背面\NTurn it over.
+Dialogue: 0,0:02:00.77,0:02:02.07,Default,,0,0,0,,看看背面\NTurn it over.
 Dialogue: 0,0:02:02.51,0:02:04.59,Screen,,0,0,0,,{\an8}（马蒂·毛瑟 管事）
 Dialogue: 0,0:02:04.60,0:02:06.00,Default,,0,0,0,,- 做管事? - 对 管事\N- Manager? - Manager.
 Dialogue: 0,0:02:06.02,0:02:07.03,Default,,0,0,0,,得了吧 老默\NCome on, Murray.
@@ -71,20 +71,20 @@ Dialogue: 0,0:02:08.95,0:02:11.45,Default,,0,0,0,,舅 我不是不尊重你 但�
 Dialogue: 0,0:02:11.46,0:02:13.66,Default,,0,0,0,,这店子你经营得确实不错\Ntrying to be disrespectful. You built something very commendable here.
 Dialogue: 0,0:02:13.67,0:02:16.20,Default,,0,0,0,,现在别 别谈这些\NI don't wanna-- I don't wanna discuss this now.
 Dialogue: 0,0:02:16.22,0:02:18.17,Default,,0,0,0,,别打断我 让我说完\NStop. Stop. Let me say something.
-Dialogue: 0,0:02:18.18,0:02:20.49,Default,,0,0,0,,这活确实让我学到不少\NIt's been good for my soul to see this up close and personal.
+Dialogue: 0,0:02:18.19,0:02:20.49,Default,,0,0,0,,这活确实让我学到不少\NIt's been good for my soul to see this up close and personal.
 Dialogue: 0,0:02:20.50,0:02:23.07,Default,,0,0,0,,- 但我不是来卖鞋的 - 我不想听这些\N- But I'm not a shoe salesman. - I don't wanna discuss this.
 Dialogue: 0,0:02:23.09,0:02:25.59,Default,,0,0,0,,- 我不是这块料 - 别扯这些 行吗？\N- I'm not a shoe salesman. - I don't wanna discuss this, okay?
-Dialogue: 0,0:02:25.60,0:02:27.76,Default,,0,0,0,,必须谈 等我飞走 这活我就不干了\NI do wanna discuss it, 'cause when I'm back from my trip, this is over.
+Dialogue: 0,0:02:25.60,0:02:27.76,Default,,0,0,0,,必须谈 等我飞走 我就不干了\NI do wanna discuss it, 'cause when I'm back from my trip, this is over.
 Dialogue: 0,0:02:27.77,0:02:29.00,Default,,0,0,0,,我不可能留在这行\NI'm not coming back and doing this.
 Dialogue: 0,0:02:29.02,0:02:30.97,Default,,0,0,0,,说到这 工钱现在能结吗 我得去买机票\NSpeaking of which, can we settle up now? I gotta buy my plane ticket.
 Dialogue: 0,0:02:30.99,0:02:32.01,Default,,0,0,0,,打烊再结\NWe'll settle at closing.
 Dialogue: 0,0:02:32.02,0:02:33.52,Default,,0,0,0,,我得趁午休去买票\NI wanted to see the travel agent on my lunch break.
 Dialogue: 0,0:02:33.54,0:02:35.28,Default,,0,0,0,,你拿到钱肯定不回来了\NYou'll never come back after your lunch break.
-Dialogue: 0,0:02:35.29,0:02:37.23,Default,,0,0,0,,你真把我看成那种人？\NThat's what you think of me?
+Dialogue: 0,0:02:35.30,0:02:37.24,Default,,0,0,0,,你真把我看成那种人？\NThat's what you think of me?
 Dialogue: 0,0:02:37.25,0:02:39.11,Default,,0,0,0,,- 对 - 你真以为我会跑了不回来吗？\N- Yes. - You think I would go and not come back?
 Dialogue: 0,0:02:39.12,0:02:40.79,Default,,0,0,0,,对 我说了打烊再结 行吗？\NYes. I said settle at closing, okay?
 Dialogue: 0,0:02:40.81,0:02:42.72,Default,,0,0,0,,- 就这样？ - 对 就这样 出去吧\N- That's it? - Yeah, that's it. Goodbye.
-Dialogue: 0,0:02:42.74,0:02:43.94,Default,,0,0,0,,真是我的好舅舅\NI love you.
+Dialogue: 0,0:02:42.73,0:02:43.93,Default,,0,0,0,,真是我的好舅舅\NI love you.
 Dialogue: 0,0:02:45.49,0:02:47.24,Default,,0,0,0,,- 快点 - 等我一下\N- Come on. - Wait. Just wait for me.
 Dialogue: 0,0:02:57.88,0:03:01.59,Default,,0,0,0,,- 我本来就...正要去你家的 - 啥？\N- I was about... I was about to come to you. - What?
 Dialogue: 0,0:03:02.22,0:03:03.81,Default,,0,0,0,,不行 艾勒在家病着呢\NNo, Ira's home sick.
@@ -93,12 +93,12 @@ Dialogue: 0,0:03:05.50,0:03:06.69,Default,,0,0,0,,我得去打锦标赛 我可�
 Dialogue: 0,0:03:06.71,0:03:09.57,Default,,0,0,0,,不是 他是食物中毒 只是食物中毒\NNo, it's food poisoning. It's food poisoning.
 Dialogue: 0,0:03:33.19,0:03:35.69,Default,,0,0,0,,真想把你塞进行李箱带走\NI wish I could hide you in my luggage.
 Dialogue: 0,0:03:37.47,0:03:39.68,Default,,0,0,0,,我也好想跟你走\NI wanna come with you so bad.
-Dialogue: 0,0:04:09.31,0:04:11.65,Screen,,0,0,0,,{\fad(280,280)\pos(1265,512)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N提莫西·查拉梅
-Dialogue: 0,0:04:17.20,0:04:19.70,Screen,,0,0,0,,{\pos(626,532)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N格温妮斯·帕特洛
-Dialogue: 0,0:04:22.45,0:04:24.95,Screen,,0,0,0,,{\pos(1418,529)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N敖德萨·阿锡安
-Dialogue: 0,0:04:27.82,0:04:30.34,Screen,,0,0,0,,{\pos(511,532)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N凯文·奥利里
-Dialogue: 0,0:04:33.38,0:04:35.81,Screen,,0,0,0,,{\pos(1398,533)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N泰勒·奥康马
-Dialogue: 0,0:04:38.10,0:04:41.36,Screen,,0,0,0,,{\pos(435,600)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}原创译制{\fs80}\N蒙太奇字幕组
+Dialogue: 0,0:04:09.31,0:04:11.65,Screen,,0,0,0,,{\fad(280,280)\pos(1265,530)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N提莫西·查拉梅
+Dialogue: 0,0:04:17.20,0:04:19.70,Screen,,0,0,0,,{\pos(595,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N格温妮斯·帕特洛
+Dialogue: 0,0:04:22.45,0:04:25.06,Screen,,0,0,0,,{\pos(1418,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N敖德萨·阿锡安
+Dialogue: 0,0:04:27.82,0:04:30.34,Screen,,0,0,0,,{\pos(480,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N凯文·奥利里
+Dialogue: 0,0:04:33.38,0:04:35.81,Screen,,0,0,0,,{\pos(1398,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N泰勒·奥康马
+Dialogue: 0,0:04:38.10,0:04:41.36,Screen,,0,0,0,,{\pos(480,620)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,3340,\c&H477CD1&)\bord1\3c&H7E98CE&}原创译制{\fs80}\N蒙太奇字幕组
 Dialogue: 0,0:04:48.19,0:04:54.29,Screen,,0,0,0,,{\an8}（至尊马蒂\N美国制造）
 Dialogue: 0,0:03:55.19,0:03:58.82,Lyrics,,0,0,0,,{\an7}♪ 尽情共舞 沉醉片刻 ♪\N♪ Let's dance in style Let's dance for a while ♪
 Dialogue: 0,0:03:58.82,0:04:02.28,Lyrics,,0,0,0,,{\an7}♪ 天堂且慢 我们只顾仰望长空 ♪\N♪ Heaven can wait We're only watching the skies ♪
@@ -119,30 +119,39 @@ Dialogue: 0,0:04:46.91,0:04:50.87,Lyrics,,0,0,0,,{\an7}♪ 天长地久 ♪\N♪
 Dialogue: 0,0:04:50.87,0:04:53.04,Lyrics,,0,0,0,,{\an7}♪ 青春永驻 ♪\N♪ Forever young ♪
 Dialogue: 0,0:04:53.04,0:04:56.38,Lyrics,,0,0,0,,{\an7}♪ 我愿青春永驻 ♪\N♪ I want to be forever young ♪
 Dialogue: 0,0:04:57.92,0:05:01.38,Lyrics,,0,0,0,,{\an7}♪ 你真想长生不老吗? ♪\N♪ Do you really want to live forever? ♪
-Dialogue: 0,0:05:01.39,0:05:04.72,Default,,0,0,0,,反手 反手 反手\NBackhand. Backhand. Backhand.
-Dialogue: 0,0:05:04.72,0:05:07.18,Default,,0,0,0,,正手 正手 正手\NForehand. Forehand. Forehand.
+Dialogue: 0,0:05:01.39,0:05:04.69,Default,,0,0,0,,反手 反手 反手\NBackhand. Backhand. Backhand.
+Dialogue: 0,0:05:04.70,0:05:07.16,Default,,0,0,0,,正手 正手 正手\NForehand. Forehand. Forehand.
+Dialogue: 0,0:05:05.28,0:05:07.89,Screen,,0,0,0,,{\pos(520,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N法兰·德瑞雪
 Dialogue: 0,0:05:07.81,0:05:10.64,Default,,0,0,0,,反手 反手 反手\NBackhand. Backhand. Backhand.
-Dialogue: 0,0:05:11.48,0:05:13.86,Default,,0,0,0,,正手 正手\NForehand. Forehand.
+Dialogue: 0,0:05:11.08,0:05:13.90,Screen,,0,0,0,,{\pos(1435,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N阿贝尔·费拉拉
+Dialogue: 0,0:05:11.55,0:05:13.93,Default,,0,0,0,,正手 正手\NForehand. Forehand.
 Dialogue: 0,0:05:15.02,0:05:17.02,Default,,0,0,0,,反手 反手\NBackhand. Backhand.
-Dialogue: 0,0:05:17.03,0:05:18.28,Default,,0,0,0,,放高球\NAnd lob.
+Dialogue: 0,0:05:16.12,0:05:18.94,Screen,,0,0,0,,{\pos(480,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N艾莫里·科恩
+Dialogue: 0,0:05:17.11,0:05:18.36,Default,,0,0,0,,放高球\NAnd lob.
 Dialogue: 0,0:05:19.70,0:05:20.86,Default,,0,0,0,,正手\NForehand.
-Dialogue: 0,0:05:21.49,0:05:22.70,Default,,0,0,0,,- 马蒂! - 怎么!\N- Marty! - What!
-Dialogue: 0,0:05:22.70,0:05:24.87,Default,,0,0,0,,- 电话! - 跟他说我二十分钟前就走了!\N- Phone! - Tell him I left 20 minutes ago!
-Dialogue: 0,0:05:24.87,0:05:27.49,Default,,0,0,0,,我才不当你妈的传声筒! 赶紧接你妈的电话!\NI'm not your goddamn messenger! Pick up the goddamn phone!
-Dialogue: 0,0:05:27.49,0:05:29.66,Default,,0,0,0,,我不行 沃利 把那件白衬衫脱了\NI can't. Wally, take the white shirt off.
-Dialogue: 0,0:05:29.66,0:05:31.87,Default,,0,0,0,,背景是白衬衫 我没法盯着白球\NI can't follow the white ball against the white shirt.
-Dialogue: 0,0:05:31.87,0:05:34.67,Default,,0,0,0,,得了吧 你真是个操蛋的见光死\NStop it. You're a fucking sun dodger.
-Dialogue: 0,0:05:34.67,0:05:36.63,Default,,0,0,0,,噢 是吗? 我爱你 我爱你\NOh, yeah? I love you. I love you.
+Dialogue: 0,0:05:21.32,0:05:24.09,Screen,,0,0,0,,{\pos(1465,530)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N盖札·罗里格
+Dialogue: 0,0:05:21.49,0:05:22.88,Default,,0,0,0,,- 马蒂! - 怎么!\N- Marty! - What!
+Dialogue: 0,0:05:22.89,0:05:24.87,Default,,0,0,0,,- 电话! - 跟他说我二十分钟前就走了!\N- Phone! - Tell him I left 20 minutes ago!
+Dialogue: 0,0:05:24.87,0:05:27.80,Default,,0,0,0,,我才不当你妈的传声筒! 赶紧接你妈的电话!\NI'm not your goddamn messenger! Pick up the goddamn phone!
+Dialogue: 0,0:05:27.06,0:05:29.81,Screen,,0,0,0,,{\pos(480,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N佩恩·吉列特
+Dialogue: 0,0:05:27.81,0:05:29.79,Default,,0,0,0,,我不行 沃利 把那件白衬衫脱了\NI can't. Wally, take the white shirt off.
+Dialogue: 0,0:05:29.81,0:05:31.87,Default,,0,0,0,,背景是白衬衫 我没法盯着白球\NI can't follow the white ball against the white shirt.
+Dialogue: 0,0:05:31.87,0:05:34.72,Default,,0,0,0,,得了吧 你真是个操蛋的见光死\NStop it. You're a fucking sun dodger.
+Dialogue: 0,0:05:32.42,0:05:34.96,Screen,,0,0,0,,{\pos(1310,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N桑德拉·伯恩哈德
+Dialogue: 0,0:05:34.75,0:05:36.71,Default,,0,0,0,,噢 是吗? 我爱你 我爱你\NOh, yeah? I love you. I love you.
 Dialogue: 0,0:05:37.59,0:05:38.67,Default,,0,0,0,,喂?\NHello?
 Dialogue: 0,0:05:38.67,0:05:39.88,Default,,0,0,0,,我是朱莉\NIt's Judy.
-Dialogue: 0,0:05:40.55,0:05:41.88,Default,,0,0,0,,嗨 朱莉\NHi, Judy.
-Dialogue: 0,0:05:41.88,0:05:43.63,Default,,0,0,0,,你妈病得很厉害\NYour mother, she's very sick.
+Dialogue: 0,0:05:39.37,0:05:41.97,Screen,,0,0,0,,{\pos(570,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N川口功人
+Dialogue: 0,0:05:40.72,0:05:42.05,Default,,0,0,0,,嗨 朱莉\NHi, Judy.
+Dialogue: 0,0:05:42.07,0:05:43.63,Default,,0,0,0,,你妈病得很厉害\NYour mother, she's very sick.
 Dialogue: 0,0:05:43.64,0:05:44.72,Default,,0,0,0,,行吧 真的吗?\NOkay, really?
-Dialogue: 0,0:05:44.72,0:05:47.39,Default,,0,0,0,,对 她脸色发灰 满嘴胡话\NYes. She's gray in the face. She's speaking nonsense.
-Dialogue: 0,0:05:47.39,0:05:49.18,Default,,0,0,0,,她在找你 你该回家一趟\NShe's asking for you. You should come home.
-Dialogue: 0,0:05:49.18,0:05:52.27,Default,,0,0,0,,听着挺糟 你也许该叫辆救护车\NSounds really bad. You should probably call an ambulance.
-Dialogue: 0,0:05:53.35,0:05:54.60,Default,,0,0,0,,谁陪她去?\NWho's gonna go with her?
-Dialogue: 0,0:05:54.61,0:05:56.86,Default,,0,0,0,,呃 我哪知道 既然你这么操心 那你去呗\NUh, I don't know. You should probably go since you're so invested.
+Dialogue: 0,0:05:44.72,0:05:47.42,Default,,0,0,0,,对 她脸色发灰 满嘴胡话\NYes. She's gray in the face. She's speaking nonsense.
+Dialogue: 0,0:05:46.79,0:05:49.46,Screen,,0,0,0,,{\pos(650,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N拉瑞·拉索·斯洛曼
+Dialogue: 0,0:05:47.43,0:05:49.29,Default,,0,0,0,,她在找你 你该回家一趟\NShe's asking for you. You should come home.
+Dialogue: 0,0:05:49.30,0:05:52.39,Default,,0,0,0,,听着挺糟 你也许该叫辆救护车\NSounds really bad. You should probably call an ambulance.
+Dialogue: 0,0:05:53.30,0:05:55.94,Screen,,0,0,0,,{\pos(520,540)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N卢克·曼利
+Dialogue: 0,0:05:53.35,0:05:54.67,Default,,0,0,0,,谁陪她去?\NWho's gonna go with her?
+Dialogue: 0,0:05:54.68,0:05:56.93,Default,,0,0,0,,呃 我哪知道 既然你这么操心 那你去呗\NUh, I don't know. You should probably go since you're so invested.
 Dialogue: 0,0:05:57.94,0:05:59.40,Default,,0,0,0,,稍等一下\NHold on a minute.
 Dialogue: 0,0:05:59.40,0:06:00.48,Default,,0,0,0,,他不吃这一套\NHe's not buying it.
 Dialogue: 0,0:06:00.49,0:06:02.20,Default,,0,0,0,,就跟他说我没气了!\NJust tell him I stopped breathing!
@@ -153,6 +162,7 @@ Dialogue: 0,0:06:09.20,0:06:11.29,Default,,0,0,0,,在那坐着 天知道要等�
 Dialogue: 0,0:06:11.29,0:06:14.08,Default,,0,0,0,,然后你过来给我丈夫喂药\NAnd you can come here and give my husband his medicine
 Dialogue: 0,0:06:14.08,0:06:16.25,Default,,0,0,0,,整晚帮他按摩双脚\Nand massage his feet all night long.
 Dialogue: 0,0:06:16.75,0:06:18.29,Default,,0,0,0,,说我昏过去了\NTell him I passed out.
+Dialogue: 0,0:06:17.15,0:06:19.59,Screen,,0,0,0,,{\pos(380,560)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}配乐{\fs80}\N丹尼尔·洛帕汀
 Dialogue: 0,0:06:18.30,0:06:21.01,Default,,0,0,0,,天呐! 你妈 她刚失去知觉了\NOh, my God! Your mother, she just lost consciousness.
 Dialogue: 0,0:06:21.01,0:06:22.84,Default,,0,0,0,,你现在必须得回家\NYou've gotta come home now.
 Dialogue: 0,0:06:24.41,0:06:25.51,Default,,0,0,0,,喂?\NHello?
@@ -165,6 +175,7 @@ Dialogue: 0,0:06:38.65,0:06:39.65,Default,,0,0,0,,你在跟谁说话?\NWho are y
 Dialogue: 0,0:06:40.28,0:06:42.78,Default,,0,0,0,,噢 我没跟谁说话\NOh. I'm not talking to anybody.
 Dialogue: 0,0:06:42.78,0:06:45.32,Default,,0,0,0,,朱莉占着电话快一小时了\NJudy's just been tying up the line for an hour.
 Dialogue: 0,0:06:45.32,0:06:47.03,Default,,0,0,0,,我给你带了些肉汤\NI got you some broth.
+Dialogue: 0,0:06:46.66,0:06:49.20,Screen,,0,0,0,,{\pos(405,500)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}剪辑{\fs80}\N罗纳德·布隆斯坦\N乔什·萨弗迪
 Dialogue: 0,0:06:49.99,0:06:51.58,Default,,0,0,0,,凉透了\NIt's ice cold.
 Dialogue: 0,0:06:51.58,0:06:53.70,Default,,0,0,0,,是啊 因为店里排队的人特多\NYeah, 'cause the line was really long at the shop.
 Dialogue: 0,0:06:53.71,0:06:56.08,Default,,0,0,0,,噢 是吗? 我打电话过去问也是这说法?\NOh, yeah? So that's what they'll say if I call down and ask?
@@ -173,6 +184,7 @@ Dialogue: 0,0:06:57.84,0:06:59.13,Default,,0,0,0,,拿起电话打过去啊\NPick
 Dialogue: 0,0:06:59.13,0:07:00.67,Default,,0,0,0,,你得先让朱莉挂了电话才行\NYou're gonna have to get Judy off the phone first.
 Dialogue: 0,0:07:00.67,0:07:02.13,Default,,0,0,0,,行 没问题\NOh, okay.
 Dialogue: 0,0:07:02.13,0:07:04.01,Default,,0,0,0,,嘿 朱莉 挂了电话\NHey, Judy, get off the phone.
+Dialogue: 0,0:07:09.76,0:07:12.12,Screen,,0,0,0,,{\pos(1585,560)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}摄影{\fs80}\N达吕斯·康第
 Dialogue: 0,0:07:15.27,0:07:18.02,Default,,0,0,0,,听着 这是颗乒联认证的标准球\NOkay, this is a normal IATT approved ball.
 Dialogue: 0,0:07:18.02,0:07:19.90,Default,,0,0,0,,试着在白色背景下盯着这白球\NTry to follow the white ball against the white.
 Dialogue: 0,0:07:21.53,0:07:22.53,Default,,0,0,0,,几乎不可能 吧?\NAlmost impossible, right?
@@ -199,14 +211,16 @@ Dialogue: 0,0:08:01.40,0:08:03.32,Default,,0,0,0,,这叫"至尊马蒂"球 不是
 Dialogue: 0,0:08:03.32,0:08:04.48,Default,,0,0,0,,但成本得多少?\NBut what's it gonna cost?
 Dialogue: 0,0:08:04.48,0:08:06.78,Default,,0,0,0,,钱不重要 咱们不能在这上面省\NIt doesn't matter the cost. We can't cheap out on this.
 Dialogue: 0,0:08:06.78,0:08:08.07,Default,,0,0,0,,花不了多少钱 加拉尼斯先生\NIt's gonna be nominal, Mr. Galanis.
-Dialogue: 0,0:08:08.07,0:08:10.36,Default,,0,0,0,,您老说想赚钱就得先砸钱 对吧?\NYou always said we gotta spend money to make money, right?
-Dialogue: 0,0:08:10.37,0:08:11.70,Default,,0,0,0,,给我弄杯咖啡\NGet me a cup of coffee.
+Dialogue: 0,0:08:08.07,0:08:10.42,Default,,0,0,0,,您老说想赚钱就得先砸钱 对吧?\NYou always said we gotta spend money to make money, right?
+Dialogue: 0,0:08:09.42,0:08:11.90,Screen,,0,0,0,,{\pos(375,560)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}制片人{\fs80}\N提莫西·查拉梅
+Dialogue: 0,0:08:10.44,0:08:11.70,Default,,0,0,0,,给我弄杯咖啡\NGet me a cup of coffee.
 Dialogue: 0,0:08:11.70,0:08:14.04,Default,,0,0,0,,没门 让您秘书去弄\NNo. Get your secretary to get ya a cup of coffee.
 Dialogue: 0,0:08:14.04,0:08:15.62,Default,,0,0,0,,南希忙着呢 赶紧去弄杯咖啡\NNancy's busy. Just get me a coffee.
 Dialogue: 0,0:08:15.62,0:08:17.50,Default,,0,0,0,,爸 我们爷俩在正儿八经谈生意呢\NDad, we're talking like men about business here.
 Dialogue: 0,0:08:17.50,0:08:20.13,Default,,0,0,0,,- 我不给你弄咖啡 - 赶紧去给老子弄杯咖啡!\N- I'm not getting ya a cup of coffee. - Get me the damn coffee!
-Dialogue: 0,0:08:26.51,0:08:27.59,Default,,0,0,0,,马蒂 要咖啡吗?\NMarty, you want a coffee?
-Dialogue: 0,0:08:27.59,0:08:29.34,Default,,0,0,0,,不了 谢了 我不碰咖啡因\NNo, I'm all right. I'm not drinking caffeine.
+Dialogue: 0,0:08:24.01,0:08:26.54,Screen,,0,0,0,,{\pos(1525,560)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}制片人{\fs80}\N安东尼·卡塔格斯
+Dialogue: 0,0:08:26.60,0:08:27.68,Default,,0,0,0,,马蒂 要咖啡吗?\NMarty, you want a coffee?
+Dialogue: 0,0:08:27.69,0:08:29.44,Default,,0,0,0,,不了 谢了 我不碰咖啡因\NNo, I'm all right. I'm not drinking caffeine.
 Dialogue: 0,0:08:33.01,0:08:34.01,Default,,0,0,0,,听着\NListen.
 Dialogue: 0,0:08:34.89,0:08:38.48,Default,,0,0,0,,我很感激你能跟我儿子交朋友\NI appreciate you're friends with my son.
 Dialogue: 0,0:08:38.48,0:08:40.69,Default,,0,0,0,,他资质有限\NHe's limited.
@@ -217,8 +231,9 @@ Dialogue: 0,0:08:47.36,0:08:49.65,Default,,0,0,0,,恕我直言 我不觉得他�
 Dialogue: 0,0:08:49.66,0:08:51.57,Default,,0,0,0,,我是说 看看您生意上的成就\NI mean, look at your business success.
 Dialogue: 0,0:08:51.57,0:08:53.62,Default,,0,0,0,,这都写在您的DNA里了 而且遗传给了迪昂\NThat's in your DNA, and you passed that through to Dion.
 Dialogue: 0,0:08:53.62,0:08:55.74,Default,,0,0,0,,- 只是还没觉醒罢了 - 谁知道呢\N- It just hasn't been awoken yet. - I don't know.
-Dialogue: 0,0:08:55.74,0:08:57.75,Default,,0,0,0,,要不是打心底里深信不疑\NI wouldn't be here trying to involve you in something
-Dialogue: 0,0:08:57.75,0:09:00.46,Default,,0,0,0,,我也不会拉您入伙\Nthat I didn't fully in my bones believe in.
+Dialogue: 0,0:08:55.74,0:08:58.08,Default,,0,0,0,,要不是打心底里深信不疑\NI wouldn't be here trying to involve you in something that I
+Dialogue: 0,0:08:56.37,0:08:58.87,Screen,,0,0,0,,{\pos(410,440)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}制片人{\fs80}\N伊莱·布什\N罗纳德·布隆斯坦\N乔什·萨弗迪
+Dialogue: 0,0:08:58.08,0:09:00.45,Default,,0,0,0,,我也不会拉您入伙\Ndidn't fully in my bones believe in.
 Dialogue: 0,0:09:00.46,0:09:03.17,Default,,0,0,0,,我非常尊重您的每一分钱 我知道这很难相信\NI have tremendous respect for your money. I know it's hard to believe,
 Dialogue: 0,0:09:03.17,0:09:05.96,Default,,0,0,0,,但我告诉你 这项运动在国外能让体育场座无虚席\Nbut I'm telling you, this game, it fills stadiums overseas.
 Dialogue: 0,0:09:05.96,0:09:09.01,Default,,0,0,0,,在美国爆火也是迟早的事\NAnd it's only a matter of time before it fills stadiums in the United States too,
@@ -226,10 +241,12 @@ Dialogue: 0,0:09:09.01,0:09:11.59,Default,,0,0,0,,直到哪天我也上了维他
 Dialogue: 0,0:09:12.30,0:09:14.30,Default,,0,0,0,,我对这行一窍不通\NI don't know nothing about this business.
 Dialogue: 0,0:09:14.30,0:09:16.26,Default,,0,0,0,,确实不通 所以您才得信任我\NNo, you don't. That's why you gotta trust me.
 Dialogue: 0,0:09:16.27,0:09:19.35,Default,,0,0,0,,下周这个时候 我就是首个夺得全英赛冠军的美国人\NThis time next week, I'll be the first American to ever win the British Open.
+Dialogue: 0,0:09:16.50,0:09:18.96,Screen,,0,0,0,,{\pos(400,500)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}编剧{\fs80}\N罗纳德·布隆斯坦\N乔什·萨弗迪
 Dialogue: 0,0:09:19.35,0:09:22.23,Default,,0,0,0,,这样我就能顺势成为世锦赛的头号种子\NThat'll slide me into the number one ranking for the World Championship.
 Dialogue: 0,0:09:22.23,0:09:24.56,Default,,0,0,0,,《生活》杂志会争着报道《看》杂志也会报道\NLife magazine's gonna cover it.Look magazine's gonna cover it.
 Dialogue: 0,0:09:24.57,0:09:28.69,Default,,0,0,0,,他们必须报道 《看》杂志的主编迷死我了 他们都迷我\NThey have to. The editor ofLook magazine, he loves me. They all love me.
 Dialogue: 0,0:09:28.69,0:09:33.78,Default,,0,0,0,,没人比我更适合做全美这项运动的代言人\NI'm uniquely positioned to be the face of the entire sport in the United States.
+Dialogue: 0,0:09:31.15,0:09:33.37,Screen,,0,0,0,,{\pos(340,560)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}导演{\fs80}\N乔什·萨弗迪
 Dialogue: 0,0:09:40.83,0:09:42.04,Default,,0,0,0,,劳埃德!\NLloyd!
 Dialogue: 0,0:09:51.18,0:09:52.30,Default,,0,0,0,,我要关门了\NI'm closing up.
 Dialogue: 0,0:09:52.30,0:09:54.34,Default,,0,0,0,,看得出来 我来找我叔\NYeah, I can see that. Just here to see my uncle.
