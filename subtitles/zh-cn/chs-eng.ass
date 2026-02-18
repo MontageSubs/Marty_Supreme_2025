@@ -90,7 +90,7 @@ Dialogue: 0,0:02:57.88,0:03:01.59,Default,,0,0,0,,- 我本来就...正要去你�
 Dialogue: 0,0:03:02.22,0:03:03.81,Default,,0,0,0,,不行 艾勒在家病着呢\NNo, Ira's home sick.
 Dialogue: 0,0:03:03.83,0:03:05.48,Default,,0,0,0,,- 喂喂喂 什么病 别传染给我 - 什么？\N- Whoa, whoa, whoa. I can't get sick. - What?
 Dialogue: 0,0:03:05.50,0:03:06.69,Default,,0,0,0,,我得去打锦标赛 我可不能病\NI got the championships.
-Dialogue: 0,0:03:06.71,0:03:09.57,Default,,0,0,0,,不是 他是食物中毒 只是食物中毒\NNo, it's food poisoning. It's food poisoning.
+Dialogue: 0,0:03:06.71,0:03:09.57,Default,,0,0,0,,不是 他是吃坏肚子了 只是吃坏肚子了\NNo, it's food poisoning. It's food poisoning.
 Dialogue: 0,0:03:33.19,0:03:35.69,Default,,0,0,0,,真想把你塞进行李箱带走\NI wish I could hide you in my luggage.
 Dialogue: 0,0:03:37.47,0:03:39.68,Default,,0,0,0,,我也好想跟你走\NI wanna come with you so bad.
 Dialogue: 0,0:04:09.31,0:04:11.65,Screen,,0,0,0,,{\an9\pos(1745,400)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N提莫西·查拉梅
@@ -100,25 +100,25 @@ Dialogue: 0,0:04:27.82,0:04:30.34,Screen,,0,0,0,,{\an7\pos(180,400)\fad(280,280)
 Dialogue: 0,0:04:33.38,0:04:35.81,Screen,,0,0,0,,{\an9\pos(1745,400)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N泰勒·奥康马
 Dialogue: 0,0:04:38.10,0:04:41.36,Screen,,0,0,0,,{\an7\pos(180,470)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,3340,\c&H477CD1&)\bord1\3c&H7E98CE&}原创译制{\fs80}\N蒙太奇字幕组
 Dialogue: 0,0:04:48.19,0:04:54.29,Screen,,0,0,0,,{\an8}（至尊马蒂\N美国制造）
-Dialogue: 0,0:03:55.19,0:03:58.82,Lyrics,,0,0,0,,{\an7}♪ 尽情共舞 沉醉片刻 ♪\N♪ Let's dance in style Let's dance for a while ♪
-Dialogue: 0,0:03:58.82,0:04:02.28,Lyrics,,0,0,0,,{\an7}♪ 天堂且慢 我们只顾仰望长空 ♪\N♪ Heaven can wait We're only watching the skies ♪
-Dialogue: 0,0:04:02.28,0:04:05.33,Lyrics,,0,0,0,,{\an7}♪ 虽怀万一之望 亦做最坏打算 ♪\N♪ Hoping for the best But expecting the worst ♪
-Dialogue: 0,0:04:05.33,0:04:08.25,Lyrics,,0,0,0,,{\an7}♪ 终结的炸弹 投还是不投? ♪\N♪ Are you gonna drop the bomb or not? ♪
-Dialogue: 0,0:04:09.17,0:04:12.54,Lyrics,,0,0,0,,{\an7}♪ 或是英年早逝 或是永生不朽 ♪\N♪ Let us die young Or let us live forever ♪
-Dialogue: 0,0:04:12.54,0:04:16.13,Lyrics,,0,0,0,,{\an7}♪ 虽无权柄 但永不言败 ♪\N♪ We don't have the power But we never say never ♪
-Dialogue: 0,0:04:16.13,0:04:19.76,Lyrics,,0,0,0,,{\an7}♪ 困守沙坑 人生苦短 ♪\N♪ Sitting in a sandpit Life is a short trip ♪
-Dialogue: 0,0:04:19.76,0:04:22.01,Lyrics,,0,0,0,,{\an7}♪ 乐章只为伤心人奏响 ♪\N♪ The music's for the sad men ♪
-Dialogue: 0,0:04:23.18,0:04:26.10,Lyrics,,0,0,0,,{\an7}♪ 能否想象 胜局已定之时? ♪\N♪ Can you imagine when this race is won? ♪
-Dialogue: 0,0:04:26.73,0:04:30.14,Lyrics,,0,0,0,,{\an7}♪ 迎着烈日 绽放金色的容颜 ♪\N♪ Turn our golden faces into the sun ♪
-Dialogue: 0,0:04:30.17,0:04:33.14,Lyrics,,0,0,0,,{\an7}♪ 赞颂领袖 歌声嘹亮 ♪\N♪ Praising our leaders We're getting in tune ♪
-Dialogue: 0,0:04:33.15,0:04:36.36,Lyrics,,0,0,0,,{\an7}♪ 伴奏之人... 乃是疯子 ♪\N♪ The music's played by the... The madmen ♪
-Dialogue: 0,0:04:36.61,0:04:38.09,Lyrics,,0,0,0,,{\an7}♪ 青春永驻 ♪\N♪ Forever young ♪
-Dialogue: 0,0:04:38.90,0:04:42.49,Lyrics,,0,0,0,,{\an7}♪ 我愿青春永驻 ♪\N♪ I want to be forever young ♪
-Dialogue: 0,0:04:43.91,0:04:46.91,Lyrics,,0,0,0,,{\an7}♪ 你真想长生不老吗? ♪\N♪ Do you really want to live forever? ♪
-Dialogue: 0,0:04:46.91,0:04:50.87,Lyrics,,0,0,0,,{\an7}♪ 天长地久 ♪\N♪ Forever and ever ♪
-Dialogue: 0,0:04:50.87,0:04:53.04,Lyrics,,0,0,0,,{\an7}♪ 青春永驻 ♪\N♪ Forever young ♪
-Dialogue: 0,0:04:53.04,0:04:56.38,Lyrics,,0,0,0,,{\an7}♪ 我愿青春永驻 ♪\N♪ I want to be forever young ♪
-Dialogue: 0,0:04:57.92,0:05:01.38,Lyrics,,0,0,0,,{\an7}♪ 你真想长生不老吗? ♪\N♪ Do you really want to live forever? ♪
+Dialogue: 0,0:03:55.19,0:03:58.81,Lyrics,,0,0,0,,{\an7}♪ 趁还有机会 跳起来吧 ♪\N♪ Let's dance in style, let's dance for a while ♪
+Dialogue: 0,0:03:58.82,0:04:02.27,Lyrics,,0,0,0,,{\an7}♪ 别靠天命 活在当下吧 ♪\N♪ Heaven can wait, we're only watching the skies ♪
+Dialogue: 0,0:04:02.28,0:04:05.33,Lyrics,,0,0,0,,{\an7}♪ 盼着好事 也做好最坏打算 ♪\N♪ Hoping for the best but expecting the worst ♪
+Dialogue: 0,0:04:05.35,0:04:08.27,Lyrics,,0,0,0,,{\an7}♪ 明天会不会就烟消云散？ ♪\N♪ Are you gonna drop the bomb or not? ♪
+Dialogue: 0,0:04:09.17,0:04:12.54,Lyrics,,0,0,0,,{\an7}♪ 要么痛快地死 要么好好活下去 ♪\N♪ Let us die young or let us live forever ♪
+Dialogue: 0,0:04:12.55,0:04:16.12,Lyrics,,0,0,0,,{\an7}♪ 命靠天定 但我们偏要逆流而上 ♪\N♪ We don't have the power but we never say never ♪
+Dialogue: 0,0:04:16.13,0:04:19.76,Lyrics,,0,0,0,,{\an7}♪ 潮来潮去 人生苦短啊 ♪\N♪ Sitting in a sandpit, life is a short trip ♪
+Dialogue: 0,0:04:19.77,0:04:22.39,Lyrics,,0,0,0,,{\an7}♪ 能懂这歌的人 也懂我的伤 ♪\N♪ The music's for the sad men ♪
+Dialogue: 0,0:04:23.18,0:04:26.10,Lyrics,,0,0,0,,{\an7}♪ 这场竞赛会怎么收场？ ♪\N♪ Can you imagine when this race is won? ♪
+Dialogue: 0,0:04:26.73,0:04:30.14,Lyrics,,0,0,0,,{\an7}♪ 是胜利的曙光 还是湮灭的火光？ ♪\N♪ Turn our golden faces into the sun ♪
+Dialogue: 0,0:04:30.17,0:04:33.14,Lyrics,,0,0,0,,{\an7}♪ 我们唱着赞歌 别无选择 ♪\N♪ Praising our leaders, we're getting in tune ♪
+Dialogue: 0,0:04:33.15,0:04:36.36,Lyrics,,0,0,0,,{\an7}♪ 魔鬼弹着舞曲 逼我们起舞 ♪\N♪ The music's played by the, the mad man ♪
+Dialogue: 0,0:04:36.61,0:04:38.09,Lyrics,,0,0,0,,{\an7}♪ 永远年轻 ♪\N♪ Forever young ♪
+Dialogue: 0,0:04:38.90,0:04:42.49,Lyrics,,0,0,0,,{\an7}♪ 我想永远年轻 ♪\N♪ I want to be forever young ♪
+Dialogue: 0,0:04:43.91,0:04:46.91,Lyrics,,0,0,0,,{\an7}♪ 谁不想永远活着？ ♪\N♪ Do you really want to live forever? ♪
+Dialogue: 0,0:04:46.91,0:04:50.87,Lyrics,,0,0,0,,{\an7}♪ 永远永远地活着 ♪\N♪ Forever and ever ♪
+Dialogue: 0,0:04:50.87,0:04:53.04,Lyrics,,0,0,0,,{\an7}♪ 永远年轻 ♪\N♪ Forever young ♪
+Dialogue: 0,0:04:53.04,0:04:56.38,Lyrics,,0,0,0,,{\an7}♪ 我想永远年轻 ♪\N♪ I want to be forever young ♪
+Dialogue: 0,0:04:57.92,0:05:01.38,Lyrics,,0,0,0,,{\an7}♪ 谁不想永远活着？ ♪\N♪ Do you really want to live forever? ♪
 Dialogue: 0,0:05:01.39,0:05:04.69,Default,,0,0,0,,反手 反手 反手\NBackhand. Backhand. Backhand.
 Dialogue: 0,0:05:04.70,0:05:07.16,Default,,0,0,0,,正手 正手 正手\NForehand. Forehand. Forehand.
 Dialogue: 0,0:05:05.28,0:05:07.89,Screen,,0,0,0,,{\an7\pos(180,400)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}演出{\fs80}\N法兰·德瑞雪
