@@ -93,13 +93,13 @@ Dialogue: 0,0:03:05.50,0:03:06.69,Default,,0,0,0,,我得去打锦标赛 我可�
 Dialogue: 0,0:03:06.71,0:03:09.57,Default,,0,0,0,,不是 他是食物中毒 只是食物中毒\NNo, it's food poisoning. It's food poisoning.
 Dialogue: 0,0:03:33.19,0:03:35.69,Default,,0,0,0,,真想把你塞进行李箱带走\NI wish I could hide you in my luggage.
 Dialogue: 0,0:03:37.47,0:03:39.68,Default,,0,0,0,,我也好想跟你走\NI wanna come with you so bad.
-Dialogue: 0,0:04:09.31,0:04:11.65,Screen,,0,0,0,,{\fad(280,280)\pos(1265,512)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N提莫西·查拉梅
-Dialogue: 0,0:04:17.20,0:04:19.70,Screen,,0,0,0,,{\pos(626,532)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N格温妮斯·帕特洛
-Dialogue: 0,0:04:22.45,0:04:24.95,Screen,,0,0,0,,{\pos(1418,529)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N敖德萨·阿锡安
-Dialogue: 0,0:04:27.82,0:04:30.34,Screen,,0,0,0,,{\pos(511,532)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N凯文·奥利里
-Dialogue: 0,0:04:33.41,0:04:35.81,Screen,,0,0,0,,{\pos(1398,533)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N泰勒·奥康马
-Dialogue: 0,0:04:38.10,0:04:41.06,Screen,,0,0,0,,{\pos(435,600)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}原创译制\N蒙太奇字幕组
-Dialogue: 0,0:04:48.19,0:04:54.29,Screen,,0,0,0,,{\an8}（至尊马蒂牌\N美国制造）
+Dialogue: 0,0:04:09.31,0:04:11.65,Screen,,0,0,0,,{\fad(280,280)\pos(1265,512)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N提莫西·查拉梅
+Dialogue: 0,0:04:17.20,0:04:19.70,Screen,,0,0,0,,{\pos(626,532)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N格温妮斯·帕特洛
+Dialogue: 0,0:04:22.45,0:04:24.95,Screen,,0,0,0,,{\pos(1418,529)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N敖德萨·阿锡安
+Dialogue: 0,0:04:27.82,0:04:30.34,Screen,,0,0,0,,{\pos(511,532)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N凯文·奥利里
+Dialogue: 0,0:04:33.38,0:04:35.81,Screen,,0,0,0,,{\pos(1398,533)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N泰勒·奥康马
+Dialogue: 0,0:04:38.10,0:04:41.36,Screen,,0,0,0,,{\pos(435,600)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}原创译制{\fs80}\N蒙太奇字幕组
+Dialogue: 0,0:04:48.19,0:04:54.29,Screen,,0,0,0,,{\an8}（至尊马蒂\N美国制造）
 Dialogue: 0,0:03:55.19,0:03:58.82,Lyrics,,0,0,0,,{\an7}♪ 尽情共舞 沉醉片刻 ♪\N♪ Let's dance in style Let's dance for a while ♪
 Dialogue: 0,0:03:58.82,0:04:02.28,Lyrics,,0,0,0,,{\an7}♪ 天堂且慢 我们只顾仰望长空 ♪\N♪ Heaven can wait We're only watching the skies ♪
 Dialogue: 0,0:04:02.28,0:04:05.33,Lyrics,,0,0,0,,{\an7}♪ 虽怀万一之望 亦做最坏打算 ♪\N♪ Hoping for the best But expecting the worst ♪
@@ -112,7 +112,7 @@ Dialogue: 0,0:04:23.18,0:04:26.10,Lyrics,,0,0,0,,{\an7}♪ 能否想象 胜局�
 Dialogue: 0,0:04:26.73,0:04:30.14,Lyrics,,0,0,0,,{\an7}♪ 迎着烈日 绽放金色的容颜 ♪\N♪ Turn our golden faces into the sun ♪
 Dialogue: 0,0:04:30.17,0:04:33.14,Lyrics,,0,0,0,,{\an7}♪ 赞颂领袖 歌声嘹亮 ♪\N♪ Praising our leaders We're getting in tune ♪
 Dialogue: 0,0:04:33.15,0:04:36.36,Lyrics,,0,0,0,,{\an7}♪ 伴奏之人... 乃是疯子 ♪\N♪ The music's played by the... The madmen ♪
-Dialogue: 0,0:04:36.99,0:04:38.90,Lyrics,,0,0,0,,{\an7}♪ 青春永驻 ♪\N♪ Forever young ♪
+Dialogue: 0,0:04:36.61,0:04:38.09,Lyrics,,0,0,0,,{\an7}♪ 青春永驻 ♪\N♪ Forever young ♪
 Dialogue: 0,0:04:38.90,0:04:42.49,Lyrics,,0,0,0,,{\an7}♪ 我愿青春永驻 ♪\N♪ I want to be forever young ♪
 Dialogue: 0,0:04:43.91,0:04:46.91,Lyrics,,0,0,0,,{\an7}♪ 你真想长生不老吗? ♪\N♪ Do you really want to live forever? ♪
 Dialogue: 0,0:04:46.91,0:04:50.87,Lyrics,,0,0,0,,{\an7}♪ 天长地久 ♪\N♪ Forever and ever ♪
