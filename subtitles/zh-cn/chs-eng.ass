@@ -19,32 +19,32 @@ Dialogue: 0,0:00:04.42,0:00:08.05,Screen,,0,0,0,,{\an2}（A24影业）
 Dialogue: 0,0:00:12.70,0:00:15.68,Screen,,0,0,0,,{\an2}（纽约中央影业）
 Dialogue: 0,0:00:16.67,0:00:17.83,Screen,,0,0,0,,{\an8}（九码半）
 Dialogue: 0,0:00:19.94,0:00:20.76,Screen,,0,0,0,,{\an8}（八码半）
-Dialogue: 0,0:00:29.91,0:00:31.88,Default,,0,0,0,,- 玛丽安太太 - 是九码半的吗?\N- Mrs. Mariann. - You have the nine and a half?
-Dialogue: 0,0:00:31.89,0:00:33.94,Default,,0,0,0,,- 是的 可给你找到了 - 太好了\N- Yeah, you're a lucky lady. - Oh, I'm excited.
+Dialogue: 0,0:00:29.91,0:00:31.88,Default,,0,0,0,,- 玛丽安太太 - 是九码半的吗？\N- Mrs. Mariann. - You have the nine and a half?
+Dialogue: 0,0:00:31.89,0:00:33.95,Default,,0,0,0,,- 是的 可给你找到了 - 太好了\N- Yeah, you're a lucky lady. - Oh, I'm excited.
 Dialogue: 0,0:00:33.96,0:00:36.25,Default,,0,0,0,,最后一双了 来 露个玉足吧\NLast pair. Let me see those beautiful feet.
 Dialogue: 0,0:00:35.43,0:00:37.68,Screen,,0,0,0,,{\pos(960,225)\fs180\fsp50\fscx130\c&HF7FFFF&\3c&HADCDFF&\bord1\blur0.2\b1}纽约
-Dialogue: 0,0:00:38.25,0:00:39.91,Default,,0,0,0,,右脚还可以吧?\NThe right foot's all right?
+Dialogue: 0,0:00:38.25,0:00:39.91,Default,,0,0,0,,右脚还可以吧？\NThe right foot's all right?
 Dialogue: 0,0:00:39.92,0:00:41.98,Default,,0,0,0,,来 用力伸进去\NThere you go. Get it in there.
 Dialogue: 0,0:00:42.42,0:00:44.75,Default,,0,0,0,,- 太小了 - 加油 加油\N- They're too tight. - It's okay. All right.
-Dialogue: 0,0:00:44.77,0:00:46.83,Default,,0,0,0,,- 这真是九码半? - 对 九码半\N- Are these the nine and a half? - These are the nine and a half, yeah.
-Dialogue: 0,0:00:46.84,0:00:48.72,Default,,0,0,0,,- 有大一号的吗? - 唯独这牌子没有\N- Do you have the next size? - No, not in a Kerrybrooke.
+Dialogue: 0,0:00:44.77,0:00:46.83,Default,,0,0,0,,- 这真是九码半？ - 对 九码半\N- Are these the nine and a half? - These are the nine and a half, yeah.
+Dialogue: 0,0:00:46.84,0:00:48.72,Default,,0,0,0,,- 有大一号的吗？ - 唯独这牌子没有\N- Do you have the next size? - No, not in a Kerrybrooke.
 Dialogue: 0,0:00:48.73,0:00:50.55,Default,,0,0,0,,所以我不推荐凯步轩\NBut that's why I don't like Kerrybrooke,
 Dialogue: 0,0:00:50.57,0:00:53.03,Default,,0,0,0,,穿他们鞋 跟裹小脚一样\Nbecause they fit really small. They're made for dolls or something.
 Dialogue: 0,0:00:53.04,0:00:55.92,Default,,0,0,0,,- 太不合脚了 - 好吧 脱下来吧 脱下来吧\N- They're too tight. - Okay, take 'em off. Don't worry about it.
-Dialogue: 0,0:00:55.93,0:00:57.52,Default,,0,0,0,,- 穿过足力康吗? - 没有\N- You ever try Vitality? - No.
+Dialogue: 0,0:00:55.93,0:00:57.52,Default,,0,0,0,,- 穿过足力康吗？ - 没有\N- You ever try Vitality? - No.
 Dialogue: 0,0:00:57.54,0:00:59.80,Default,,0,0,0,,- 这牌子档次更高 更耐穿 - 稍等一下\N- It's a much better model if you want durable leather. - I'll be right with you.
 Dialogue: 0,0:00:59.82,0:01:01.37,Default,,0,0,0,,- 打扰了 - 拿来试试吧\N- Excuse me. Sorry. - I'll try it.
 Dialogue: 0,0:01:01.38,0:01:04.14,Default,,0,0,0,,我要找前几天卖我鞋的 戴眼镜的那位\NI bought a pair of shoes here the other day from him, with the glasses.
-Dialogue: 0,0:01:04.15,0:01:05.35,Default,,0,0,0,,- 马蒂 - 怎么?\N- Marty. - Yeah?
+Dialogue: 0,0:01:04.15,0:01:05.35,Default,,0,0,0,,- 马蒂 - 怎么了？\N- Marty. - Yeah?
 Dialogue: 0,0:01:05.36,0:01:08.52,Default,,0,0,0,,有位顾客找你 前几天是你卖她鞋吗？\NThis woman said she bought a pair of shoes from you.
-Dialogue: 0,0:01:08.53,0:01:10.59,Default,,0,0,0,,哦 对 是买了那双棕色玛丽珍吧\NOh, yeah. You bought the brown Mary Janes, right?
+Dialogue: 0,0:01:08.54,0:01:10.59,Default,,0,0,0,,哦 对 是买了那双棕色玛丽珍吧\NOh, yeah. You bought the brown Mary Janes, right?
 Dialogue: 0,0:01:10.61,0:01:12.23,Default,,0,0,0,,- 没错 鞋挺好的 - 合脚吗？\N- Yeah, I did. They're great. - How do they fit you?
 Dialogue: 0,0:01:12.24,0:01:13.98,Default,,0,0,0,,- 我当时穿着就走了 - 好\N- I wore them out of the store. - Okay.
-Dialogue: 0,0:01:13.99,0:01:16.55,Default,,0,0,0,,- 然后旧鞋就落在这里了 - 旧鞋长什么样?\N- So I left my old ones here. - Okay. What did they look like?
+Dialogue: 0,0:01:13.99,0:01:16.55,Default,,0,0,0,,- 然后旧鞋就落在这里了 - 旧鞋长什么样？\N- So I left my old ones here. - Okay. What did they look like?
 Dialogue: 0,0:01:16.57,0:01:18.45,Default,,0,0,0,,拼色高跟鞋 带小翅膀图案\NThey're two-toned pumps, wingtips.
-Dialogue: 0,0:01:18.47,0:01:20.37,Default,,0,0,0,,- 洛伊 有见到那鞋吗? - 没有\N- Lloyd, did you see her shoes? - No.
-Dialogue: 0,0:01:20.39,0:01:22.67,Default,,0,0,0,,不会被你们装回我没拿走的鞋盒\NIs it possible that you maybe put them in one of the boxes
-Dialogue: 0,0:01:22.69,0:01:25.60,Default,,0,0,0,,然后又塞回库房了吧？\Nof the other shoes that I was trying on and restocked them?
+Dialogue: 0,0:01:18.47,0:01:20.37,Default,,0,0,0,,- 洛伊 有见到那鞋吗？ - 没有\N- Lloyd, did you see her shoes? - No.
+Dialogue: 0,0:01:20.39,0:01:23.20,Default,,0,0,0,,不会被你们装回我没拿走的鞋盒\NIs it possible that you maybe put them in one of the boxes of the other shoes
+Dialogue: 0,0:01:23.22,0:01:25.60,Default,,0,0,0,,然后又塞回库房了吧？\Nthat I was trying on and restocked them?
 Dialogue: 0,0:01:25.62,0:01:27.74,Default,,0,0,0,,- 好吧... - 要是看见鞋盒 我就能认出来\N- Okay. All right. Um... - If I saw the boxes, I'd be able to recognize it.
 Dialogue: 0,0:01:27.75,0:01:29.74,Default,,0,0,0,,让我同事来帮您选购好吗？\NDo you mind if my colleague helps you out for a second?
 Dialogue: 0,0:01:29.75,0:01:31.90,Default,,0,0,0,,洛伊 你帮忙接待一下这位行吗？\NLloyd. Can you help with Mariann here?
@@ -52,68 +52,73 @@ Dialogue: 0,0:01:31.91,0:01:32.99,Default,,0,0,0,,没问题 等下\NSure. Sure.
 Dialogue: 0,0:01:33.00,0:01:35.96,Default,,0,0,0,,- 走 跟我去仓库 - 谢谢 借过\N- Yeah, we'll check the basement. Come. - Thank you. Excuse me.
 Dialogue: 0,0:01:35.97,0:01:38.88,Default,,0,0,0,,- 洛伊会拿来足力康的 - 好吧 我得考虑下价格\N- Lloyd's gonna help you. Get the Vitalities. - Okay. I'll think about the price.
 Dialogue: 0,0:01:38.89,0:01:41.68,Default,,0,0,0,,- 您先坐会儿 我马上就来 - 好的 谢谢\N- I'll be right with you. Let me finish up here. - Okay, thank you.
-Dialogue: 0,0:01:41.70,0:01:42.83,Default,,0,0,0,,- 干嘛? - 嘘\N- What? - Shh.
-Dialogue: 0,0:01:43.27,0:01:44.27,Default,,0,0,0,,【小p翻译至此】
-Dialogue: 0,0:01:44.69,0:01:46.11,Default,,0,0,0,,- 马蒂 - 操 该死\N- Marty. - Ah, fuck.
-Dialogue: 0,0:01:46.11,0:01:47.61,Default,,0,0,0,,给你看个宝贝 过来\NI wanna show you something. Come here.
-Dialogue: 0,0:01:47.61,0:01:49.61,Default,,0,0,0,,- 啥? - 等会 蹲低点 蹲下\N- What? - One second. Just get low. Go low.
-Dialogue: 0,0:01:49.61,0:01:50.99,Default,,0,0,0,,干嘛非得蹲着?\NWhy do I have to get low?
-Dialogue: 0,0:01:53.07,0:01:55.49,Default,,0,0,0,,- 嘿 怎么样? - 马蒂 看看我给你弄到了什么\N- How you doing? - Marty, look what I got for ya.
-Dialogue: 0,0:01:55.49,0:01:56.49,Default,,0,0,0,,这是啥?\NWhat is this?
-Dialogue: 0,0:01:57.16,0:01:58.16,Default,,0,0,0,,瞧瞧\NCheck it out.
-Dialogue: 0,0:01:59.24,0:02:00.54,Default,,0,0,0,,这看的是啥?\NWhat am I looking at?
-Dialogue: 0,0:02:00.54,0:02:01.54,Default,,0,0,0,,翻过来\NTurn it over.
-Dialogue: 0,0:02:04.58,0:02:06.00,Default,,0,0,0,,- 经理? - 经理\N- Manager? - Manager.
-Dialogue: 0,0:02:06.00,0:02:07.25,Default,,0,0,0,,得了吧 默里\NCome on, Murray.
-Dialogue: 0,0:02:07.25,0:02:09.34,Default,,0,0,0,,不管怎样 千万别跟劳埃德说\NWhatever you do, just don't tell Lloyd about this.
-Dialogue: 0,0:02:09.34,0:02:10.76,Default,,0,0,0,,听着 我跟你说明白了\NLook, I've been very clear with you.
-Dialogue: 0,0:02:10.76,0:02:13.97,Default,,0,0,0,,我不是想冒犯 你的成就确实令人敬佩\NI'm not trying to be disrespectful. You built something very commendable here.
-Dialogue: 0,0:02:13.97,0:02:16.34,Default,,0,0,0,,我现在不想谈这个\NI don't wanna-- I don't wanna discuss this now.
-Dialogue: 0,0:02:16.35,0:02:18.18,Default,,0,0,0,,停下 听我说\NStop. Stop. Let me say something.
-Dialogue: 0,0:02:18.18,0:02:20.72,Default,,0,0,0,,亲眼看到这一切 真是种洗礼\NIt's been good for my soul to see this up close and personal.
-Dialogue: 0,0:02:20.72,0:02:22.81,Default,,0,0,0,,- 但我不是卖鞋的 - 我不想谈这个\N- But I'm not a shoe salesman. - I don't wanna discuss this.
-Dialogue: 0,0:02:22.81,0:02:25.69,Default,,0,0,0,,- 我不是卖鞋的 - 我不想谈这个 行吗?\N- I'm not a shoe salesman. - I don't wanna discuss this, okay?
-Dialogue: 0,0:02:25.69,0:02:27.77,Default,,0,0,0,,我非得谈谈 等我出差回来 这一切就结束了\NI do wanna discuss it, 'cause when I'm back from my trip, this is over.
-Dialogue: 0,0:02:27.77,0:02:28.86,Default,,0,0,0,,我不会回来继续干这个的\NI'm not coming back and doing this.
-Dialogue: 0,0:02:28.86,0:02:30.98,Default,,0,0,0,,说到这 能把账结了吗? 我得买机票\NSpeaking of which, can we settle up now? I gotta buy my plane ticket.
-Dialogue: 0,0:02:30.98,0:02:32.07,Default,,0,0,0,,关门时再结\NWe'll settle at closing.
-Dialogue: 0,0:02:32.07,0:02:33.36,Default,,0,0,0,,我想趁休息去找旅行社\NI wanted to see the travel agent on my break.
-Dialogue: 0,0:02:33.36,0:02:35.03,Default,,0,0,0,,你午休完肯定就不回来了\NYou'll never come back after your lunch break.
-Dialogue: 0,0:02:35.03,0:02:36.45,Default,,0,0,0,,你就是这么看我的?\NThat's what you think of me?
-Dialogue: 0,0:02:37.16,0:02:39.03,Default,,0,0,0,,- 对 - 你觉得我会一去不返?\N- Yes. - You think I would go and not come back?
-Dialogue: 0,0:02:39.03,0:02:40.91,Default,,0,0,0,,对 我说了关门再结 行吗?\NYes. I said settle at closing, okay?
-Dialogue: 0,0:02:40.91,0:02:42.83,Default,,0,0,0,,- 就这样? - 对 就这样 再见\N- That's it? - Yeah, that's it. Goodbye.
-Dialogue: 0,0:02:42.83,0:02:43.96,Default,,0,0,0,,我爱你\NI love you.
-Dialogue: 0,0:02:45.25,0:02:46.67,Default,,0,0,0,,- 别闹了 - 等等 等我一下\N- Come on. - Wait. Just wait for me.
-Dialogue: 0,0:02:57.93,0:03:01.64,Default,,0,0,0,,我正要... 我正要去找你\NI was about... I was about to come to you.
-Dialogue: 0,0:03:02.22,0:03:03.81,Default,,0,0,0,,不行 艾拉病了在家\NNo, Ira's home sick.
-Dialogue: 0,0:03:03.81,0:03:05.48,Default,,0,0,0,,- 喔 喔 喔 我可不能生病 - 什么?\N- Whoa, whoa, whoa. I can't get sick. - What?
-Dialogue: 0,0:03:05.48,0:03:06.69,Default,,0,0,0,,我还得打锦标赛\NI got the championships.
-Dialogue: 0,0:03:06.69,0:03:09.31,Default,,0,0,0,,没事 是食物中毒 食物中毒\NNo, it's food poisoning. It's food poisoning.
-Dialogue: 0,0:03:32.96,0:03:34.72,Default,,0,0,0,,真想把你塞进行李里带走\NI wish I could hide you in my luggage.
-Dialogue: 0,0:03:37.22,0:03:39.30,Default,,0,0,0,,我好想跟你一起去\NI wanna come with you so bad.
-Dialogue: 0,0:03:55.19,0:03:58.82,Lyrics,,0,0,0,,♪ 尽情共舞 沉醉片刻 ♪\N♪ Let's dance in style Let's dance for a while ♪
-Dialogue: 0,0:03:58.82,0:04:02.28,Lyrics,,0,0,0,,♪ 天堂且慢 我们只顾仰望长空 ♪\N♪ Heaven can wait We're only watching the skies ♪
-Dialogue: 0,0:04:02.28,0:04:05.33,Lyrics,,0,0,0,,♪ 虽怀万一之望 亦做最坏打算 ♪\N♪ Hoping for the best But expecting the worst ♪
-Dialogue: 0,0:04:05.33,0:04:08.25,Lyrics,,0,0,0,,♪ 终结的炸弹 投还是不投? ♪\N♪ Are you gonna drop the bomb or not? ♪
-Dialogue: 0,0:04:09.17,0:04:12.54,Lyrics,,0,0,0,,{\an8}♪ 或是英年早逝 或是永生不朽 ♪\N{\an8}♪ Let us die young Or let us live forever ♪
-Dialogue: 0,0:04:09.31,0:04:11.65,Screen,,0,0,0,,{\fad(280,280)\pos(1265,512)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}提摩西·夏勒梅\h{\fs40}饰演\h\h{\fs80}马蒂·毛瑟
-Dialogue: 0,0:04:17.20,0:04:19.70,Screen,,0,0,0,,{\fad(280,280)\pos(1265,512)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}葛妮絲·派特洛\h{\fs40}饰演\h\h{\fs80}凯·斯通
-Dialogue: 0,0:04:22.45,0:04:24.95,Screen,,0,0,0,,{\fad(280,280)\pos(1265,512)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}欧德莎·艾德兰\h{\fs40}饰演\h\h{\fs80}瑞秋·米兹勒
-Dialogue: 0,0:04:12.54,0:04:16.13,Lyrics,,0,0,0,,{\an8}♪ 虽无权柄 但永不言败 ♪\N{\an8}♪ We don't have the power But we never say never ♪
-Dialogue: 0,0:04:16.13,0:04:19.76,Lyrics,,0,0,0,,{\an8}♪ 困守沙坑 人生苦短 ♪\N{\an8}♪ Sitting in a sandpit Life is a short trip ♪
-Dialogue: 0,0:04:19.76,0:04:22.01,Lyrics,,0,0,0,,{\an8}♪ 乐章只为伤心人奏响 ♪\N{\an8}♪ The music's for the sad men ♪
-Dialogue: 0,0:04:23.18,0:04:26.10,Lyrics,,0,0,0,,{\an8}♪ 能否想象 胜局已定之时? ♪\N{\an8}♪ Can you imagine when this race is won? ♪
-Dialogue: 0,0:04:26.73,0:04:30.14,Lyrics,,0,0,0,,{\an8}♪ 迎着烈日 绽放金色的容颜 ♪\N{\an8}♪ Turn our golden faces into the sun ♪
-Dialogue: 0,0:04:30.15,0:04:33.15,Lyrics,,0,0,0,,{\an8}♪ 赞颂领袖 歌声嘹亮 ♪\N{\an8}♪ Praising our leaders We're getting in tune ♪
-Dialogue: 0,0:04:33.15,0:04:36.36,Lyrics,,0,0,0,,{\an8}♪ 伴奏之人... 乃是疯子 ♪\N{\an8}♪ The music's played by the... The madmen ♪
-Dialogue: 0,0:04:36.99,0:04:38.90,Lyrics,,0,0,0,,♪ 青春永驻 ♪\N♪ Forever young ♪
-Dialogue: 0,0:04:38.90,0:04:42.49,Lyrics,,0,0,0,,♪ 我愿青春永驻 ♪\N♪ I want to be forever young ♪
-Dialogue: 0,0:04:43.91,0:04:46.91,Lyrics,,0,0,0,,♪ 你真想长生不老吗? ♪\N♪ Do you really want to live forever? ♪
-Dialogue: 0,0:04:46.91,0:04:50.87,Lyrics,,0,0,0,,♪ 天长地久 ♪\N♪ Forever and ever ♪
-Dialogue: 0,0:04:50.87,0:04:53.04,Lyrics,,0,0,0,,♪ 青春永驻 ♪\N♪ Forever young ♪
-Dialogue: 0,0:04:53.04,0:04:56.38,Lyrics,,0,0,0,,♪ 我愿青春永驻 ♪\N♪ I want to be forever young ♪
-Dialogue: 0,0:04:57.92,0:05:01.38,Lyrics,,0,0,0,,♪ 你真想长生不老吗? ♪\N♪ Do you really want to live forever? ♪
+Dialogue: 0,0:01:41.70,0:01:43.26,Default,,0,0,0,,- 怎么了？ - 嘘\N- What? - Shh.
+Dialogue: 0,0:01:44.69,0:01:46.10,Default,,0,0,0,,- 是马蒂吧? - 是 真倒霉\N- Marty. - Ah, fuck.
+Dialogue: 0,0:01:46.11,0:01:47.43,Default,,0,0,0,,给你看个东西 进来一下\NI wanna show you something. Come here.
+Dialogue: 0,0:01:47.45,0:01:49.61,Default,,0,0,0,,- 什么？ - 蹲下 赶紧蹲下\N- What? - Just get low. Go low.
+Dialogue: 0,0:01:49.63,0:01:51.71,Default,,0,0,0,,我干嘛非得蹲着啊?\NWhy do I have to get low?
+Dialogue: 0,0:01:53.06,0:01:55.62,Default,,0,0,0,,- 舅 一切还好吧 - 马蒂 瞧瞧我给你准备的\N- How you doing? - Marty, look what I got for ya.
+Dialogue: 0,0:01:55.63,0:01:56.87,Default,,0,0,0,,什么东西？\NWhat is this?
+Dialogue: 0,0:01:57.16,0:01:58.16,Default,,0,0,0,,仔细瞧瞧\NCheck it out.
+Dialogue: 0,0:01:58.21,0:01:59.75,Screen,,0,0,0,,{\an8}（诺金鞋行 家族老字号 经久耐穿）
+Dialogue: 0,0:01:59.24,0:02:00.76,Default,,0,0,0,,有啥特别的？\NWhat am I looking at?
+Dialogue: 0,0:02:00.77,0:02:02.07,Default,,0,0,0,,看下背面\NTurn it over.
+Dialogue: 0,0:02:02.51,0:02:04.59,Screen,,0,0,0,,{\an8}（马蒂·毛瑟 管事）
+Dialogue: 0,0:02:04.60,0:02:06.00,Default,,0,0,0,,- 做管事? - 对 管事\N- Manager? - Manager.
+Dialogue: 0,0:02:06.02,0:02:07.03,Default,,0,0,0,,得了吧 老默\NCome on, Murray.
+Dialogue: 0,0:02:07.05,0:02:08.93,Default,,0,0,0,,答不答应 千万别跟洛伊提这事儿啊\NWhatever you do, just don't tell Lloyd about this.
+Dialogue: 0,0:02:08.95,0:02:11.45,Default,,0,0,0,,舅 我不是不尊重你 但把话讲明白\NLook, I've been very clear with you. I'm not...
+Dialogue: 0,0:02:11.46,0:02:13.66,Default,,0,0,0,,这店子你经营得确实不错\Ntrying to be disrespectful. You built something very commendable here.
+Dialogue: 0,0:02:13.67,0:02:16.20,Default,,0,0,0,,现在别 别谈这些\NI don't wanna-- I don't wanna discuss this now.
+Dialogue: 0,0:02:16.22,0:02:18.17,Default,,0,0,0,,别打断我 让我说完\NStop. Stop. Let me say something.
+Dialogue: 0,0:02:18.18,0:02:20.49,Default,,0,0,0,,这活确实让我学到不少\NIt's been good for my soul to see this up close and personal.
+Dialogue: 0,0:02:20.50,0:02:23.07,Default,,0,0,0,,- 但我不是来卖鞋的 - 我不想听这些\N- But I'm not a shoe salesman. - I don't wanna discuss this.
+Dialogue: 0,0:02:23.09,0:02:25.59,Default,,0,0,0,,- 我不是这块料 - 别扯这些 行吗？\N- I'm not a shoe salesman. - I don't wanna discuss this, okay?
+Dialogue: 0,0:02:25.60,0:02:27.76,Default,,0,0,0,,必须谈 等我飞走 这活我就不干了\NI do wanna discuss it, 'cause when I'm back from my trip, this is over.
+Dialogue: 0,0:02:27.77,0:02:29.00,Default,,0,0,0,,我不可能留在这行\NI'm not coming back and doing this.
+Dialogue: 0,0:02:29.02,0:02:30.97,Default,,0,0,0,,说到这 工钱现在能结吗 我得去买机票\NSpeaking of which, can we settle up now? I gotta buy my plane ticket.
+Dialogue: 0,0:02:30.99,0:02:32.01,Default,,0,0,0,,打烊再结\NWe'll settle at closing.
+Dialogue: 0,0:02:32.02,0:02:33.52,Default,,0,0,0,,我得趁午休去买票\NI wanted to see the travel agent on my lunch break.
+Dialogue: 0,0:02:33.54,0:02:35.28,Default,,0,0,0,,你拿到钱肯定不回来了\NYou'll never come back after your lunch break.
+Dialogue: 0,0:02:35.29,0:02:37.23,Default,,0,0,0,,你真把我看成那种人？\NThat's what you think of me?
+Dialogue: 0,0:02:37.25,0:02:39.11,Default,,0,0,0,,- 对 - 你真以为我会跑了不回来吗？\N- Yes. - You think I would go and not come back?
+Dialogue: 0,0:02:39.12,0:02:40.79,Default,,0,0,0,,对 我说了打烊再结 行吗？\NYes. I said settle at closing, okay?
+Dialogue: 0,0:02:40.81,0:02:42.72,Default,,0,0,0,,- 就这样？ - 对 就这样 出去吧\N- That's it? - Yeah, that's it. Goodbye.
+Dialogue: 0,0:02:42.74,0:02:43.94,Default,,0,0,0,,真是我的好舅舅\NI love you.
+Dialogue: 0,0:02:45.49,0:02:47.24,Default,,0,0,0,,- 快点 - 等我一下\N- Come on. - Wait. Just wait for me.
+Dialogue: 0,0:02:57.88,0:03:01.59,Default,,0,0,0,,- 我本来就...正要去你家的 - 啥？\N- I was about... I was about to come to you. - What?
+Dialogue: 0,0:03:02.22,0:03:03.81,Default,,0,0,0,,不行 艾勒在家病着呢\NNo, Ira's home sick.
+Dialogue: 0,0:03:03.83,0:03:05.48,Default,,0,0,0,,- 喂喂喂 什么病 别传染给我 - 什么？\N- Whoa, whoa, whoa. I can't get sick. - What?
+Dialogue: 0,0:03:05.50,0:03:06.69,Default,,0,0,0,,我得去打锦标赛 我可不能病\NI got the championships.
+Dialogue: 0,0:03:06.71,0:03:09.57,Default,,0,0,0,,不是 他是食物中毒 只是食物中毒\NNo, it's food poisoning. It's food poisoning.
+Dialogue: 0,0:03:33.19,0:03:35.69,Default,,0,0,0,,真想把你塞进行李箱带走\NI wish I could hide you in my luggage.
+Dialogue: 0,0:03:37.47,0:03:39.68,Default,,0,0,0,,我也好想跟你走\NI wanna come with you so bad.
+Dialogue: 0,0:04:09.31,0:04:11.65,Screen,,0,0,0,,{\fad(280,280)\pos(1265,512)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N提莫西·查拉梅
+Dialogue: 0,0:04:17.20,0:04:19.70,Screen,,0,0,0,,{\pos(626,532)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N格温妮斯·帕特洛
+Dialogue: 0,0:04:22.45,0:04:24.95,Screen,,0,0,0,,{\pos(1418,529)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N敖德萨·阿锡安
+Dialogue: 0,0:04:27.82,0:04:30.34,Screen,,0,0,0,,{\pos(511,532)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N凯文·奥利里
+Dialogue: 0,0:04:33.41,0:04:35.81,Screen,,0,0,0,,{\pos(1398,533)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演\N泰勒·奥康马
+Dialogue: 0,0:04:38.10,0:04:41.06,Screen,,0,0,0,,{\pos(435,600)\fad(280,280)\fs80\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}原创译制\N蒙太奇字幕组
+Dialogue: 0,0:04:48.19,0:04:54.29,Screen,,0,0,0,,{\an8}（至尊马蒂牌\N美国制造）
+Dialogue: 0,0:03:55.19,0:03:58.82,Lyrics,,0,0,0,,{\an7}♪ 尽情共舞 沉醉片刻 ♪\N♪ Let's dance in style Let's dance for a while ♪
+Dialogue: 0,0:03:58.82,0:04:02.28,Lyrics,,0,0,0,,{\an7}♪ 天堂且慢 我们只顾仰望长空 ♪\N♪ Heaven can wait We're only watching the skies ♪
+Dialogue: 0,0:04:02.28,0:04:05.33,Lyrics,,0,0,0,,{\an7}♪ 虽怀万一之望 亦做最坏打算 ♪\N♪ Hoping for the best But expecting the worst ♪
+Dialogue: 0,0:04:05.33,0:04:08.25,Lyrics,,0,0,0,,{\an7}♪ 终结的炸弹 投还是不投? ♪\N♪ Are you gonna drop the bomb or not? ♪
+Dialogue: 0,0:04:09.17,0:04:12.54,Lyrics,,0,0,0,,{\an7}♪ 或是英年早逝 或是永生不朽 ♪\N♪ Let us die young Or let us live forever ♪
+Dialogue: 0,0:04:12.54,0:04:16.13,Lyrics,,0,0,0,,{\an7}♪ 虽无权柄 但永不言败 ♪\N♪ We don't have the power But we never say never ♪
+Dialogue: 0,0:04:16.13,0:04:19.76,Lyrics,,0,0,0,,{\an7}♪ 困守沙坑 人生苦短 ♪\N♪ Sitting in a sandpit Life is a short trip ♪
+Dialogue: 0,0:04:19.76,0:04:22.01,Lyrics,,0,0,0,,{\an7}♪ 乐章只为伤心人奏响 ♪\N♪ The music's for the sad men ♪
+Dialogue: 0,0:04:23.18,0:04:26.10,Lyrics,,0,0,0,,{\an7}♪ 能否想象 胜局已定之时? ♪\N♪ Can you imagine when this race is won? ♪
+Dialogue: 0,0:04:26.73,0:04:30.14,Lyrics,,0,0,0,,{\an7}♪ 迎着烈日 绽放金色的容颜 ♪\N♪ Turn our golden faces into the sun ♪
+Dialogue: 0,0:04:30.17,0:04:33.14,Lyrics,,0,0,0,,{\an7}♪ 赞颂领袖 歌声嘹亮 ♪\N♪ Praising our leaders We're getting in tune ♪
+Dialogue: 0,0:04:33.15,0:04:36.36,Lyrics,,0,0,0,,{\an7}♪ 伴奏之人... 乃是疯子 ♪\N♪ The music's played by the... The madmen ♪
+Dialogue: 0,0:04:36.99,0:04:38.90,Lyrics,,0,0,0,,{\an7}♪ 青春永驻 ♪\N♪ Forever young ♪
+Dialogue: 0,0:04:38.90,0:04:42.49,Lyrics,,0,0,0,,{\an7}♪ 我愿青春永驻 ♪\N♪ I want to be forever young ♪
+Dialogue: 0,0:04:43.91,0:04:46.91,Lyrics,,0,0,0,,{\an7}♪ 你真想长生不老吗? ♪\N♪ Do you really want to live forever? ♪
+Dialogue: 0,0:04:46.91,0:04:50.87,Lyrics,,0,0,0,,{\an7}♪ 天长地久 ♪\N♪ Forever and ever ♪
+Dialogue: 0,0:04:50.87,0:04:53.04,Lyrics,,0,0,0,,{\an7}♪ 青春永驻 ♪\N♪ Forever young ♪
+Dialogue: 0,0:04:53.04,0:04:56.38,Lyrics,,0,0,0,,{\an7}♪ 我愿青春永驻 ♪\N♪ I want to be forever young ♪
+Dialogue: 0,0:04:57.92,0:05:01.38,Lyrics,,0,0,0,,{\an7}♪ 你真想长生不老吗? ♪\N♪ Do you really want to live forever? ♪
 Dialogue: 0,0:05:01.39,0:05:04.72,Default,,0,0,0,,反手 反手 反手\NBackhand. Backhand. Backhand.
 Dialogue: 0,0:05:04.72,0:05:07.18,Default,,0,0,0,,正手 正手 正手\NForehand. Forehand. Forehand.
 Dialogue: 0,0:05:07.81,0:05:10.64,Default,,0,0,0,,反手 反手 反手\NBackhand. Backhand. Backhand.
