@@ -11,6 +11,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,Microsoft YaHei,80,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
 Style: Lyrics,Microsoft YaHei,60,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,-1,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
 Style: Screen,Microsoft YaHei,60,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,0,0,2,5,5,0,1
+Style: Note,Microsoft YaHei,60,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1.0,2,5,5,0,1
 Style: Eng,Arial,60,&H00F5F5F5,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,1,2,5,5,15,1
 
 [Events]
@@ -60,7 +61,7 @@ Dialogue: 0,0:01:49.63,0:01:51.71,Default,,0,0,0,,我干嘛非得蹲着啊?\NWhy
 Dialogue: 0,0:01:53.06,0:01:55.62,Default,,0,0,0,,- 舅 一切还好吧 - 马蒂 瞧瞧我给你准备的\N- How you doing? - Marty, look what I got for ya.
 Dialogue: 0,0:01:55.63,0:01:56.87,Default,,0,0,0,,什么东西？\NWhat is this?
 Dialogue: 0,0:01:57.16,0:01:58.16,Default,,0,0,0,,仔细瞧瞧\NCheck it out.
-Dialogue: 0,0:01:58.21,0:01:59.75,Screen,,0,0,0,,{\an8}（诺金鞋行 家族老字号 经久耐穿）
+Dialogue: 0,0:01:58.21,0:01:59.75,Screen,,0,0,0,,{\an8}（诺金鞋行 家用鞋履 经久耐穿）
 Dialogue: 0,0:01:59.24,0:02:00.76,Default,,0,0,0,,有啥特别的？\NWhat am I looking at?
 Dialogue: 0,0:02:00.77,0:02:02.07,Default,,0,0,0,,看看背面\NTurn it over.
 Dialogue: 0,0:02:02.51,0:02:04.59,Screen,,0,0,0,,{\an8}（马蒂·毛瑟 管事）
@@ -99,7 +100,7 @@ Dialogue: 0,0:04:22.45,0:04:25.06,Screen,,0,0,0,,{\an9\pos(1745,400)\fad(280,280
 Dialogue: 0,0:04:27.82,0:04:30.34,Screen,,0,0,0,,{\an7\pos(180,400)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N凯文·奥利里
 Dialogue: 0,0:04:33.38,0:04:35.81,Screen,,0,0,0,,{\an9\pos(1745,400)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}主演{\fs80}\N泰勒·奥康马
 Dialogue: 0,0:04:38.10,0:04:41.36,Screen,,0,0,0,,{\an7\pos(180,470)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,3340,\c&H477CD1&)\bord1\3c&H7E98CE&}原创译制{\fs80}\N蒙太奇字幕组
-Dialogue: 0,0:04:48.19,0:04:54.29,Screen,,0,0,0,,{\an8}（至尊马蒂\N美国制造）
+Dialogue: 0,0:04:48.19,0:04:54.29,Screen,,0,0,0,,{\an8}（至尊马蒂 美国制造）
 Dialogue: 0,0:03:55.19,0:03:58.81,Lyrics,,0,0,0,,{\an7}♪ 趁还有机会 跳起来吧 ♪\N♪ Let's dance in style, let's dance for a while ♪
 Dialogue: 0,0:03:58.82,0:04:02.27,Lyrics,,0,0,0,,{\an7}♪ 别靠天命 活在当下吧 ♪\N♪ Heaven can wait, we're only watching the skies ♪
 Dialogue: 0,0:04:02.28,0:04:05.33,Lyrics,,0,0,0,,{\an7}♪ 盼着好事 也做好最坏打算 ♪\N♪ Hoping for the best but expecting the worst ♪
@@ -109,7 +110,7 @@ Dialogue: 0,0:04:12.55,0:04:16.12,Lyrics,,0,0,0,,{\an7}♪ 命靠天定 但我�
 Dialogue: 0,0:04:16.13,0:04:19.76,Lyrics,,0,0,0,,{\an7}♪ 潮来潮去 人生苦短啊 ♪\N♪ Sitting in a sandpit, life is a short trip ♪
 Dialogue: 0,0:04:19.77,0:04:22.39,Lyrics,,0,0,0,,{\an7}♪ 能懂这歌的人 也懂我的伤 ♪\N♪ The music's for the sad men ♪
 Dialogue: 0,0:04:23.18,0:04:26.10,Lyrics,,0,0,0,,{\an7}♪ 这场竞赛会怎么收场？ ♪\N♪ Can you imagine when this race is won? ♪
-Dialogue: 0,0:04:26.73,0:04:30.14,Lyrics,,0,0,0,,{\an7}♪ 是胜利的曙光 还是湮灭的火光？ ♪\N♪ Turn our golden faces into the sun ♪
+Dialogue: 0,0:04:26.73,0:04:30.14,Lyrics,,0,0,0,,{\an7}♪ 是胜利还是灭亡？ ♪\N♪ Turn our golden faces into the sun ♪
 Dialogue: 0,0:04:30.17,0:04:33.14,Lyrics,,0,0,0,,{\an7}♪ 我们唱着赞歌 别无选择 ♪\N♪ Praising our leaders, we're getting in tune ♪
 Dialogue: 0,0:04:33.15,0:04:36.36,Lyrics,,0,0,0,,{\an7}♪ 魔鬼弹着舞曲 逼我们起舞 ♪\N♪ The music's played by the, the mad man ♪
 Dialogue: 0,0:04:36.61,0:04:38.09,Lyrics,,0,0,0,,{\an7}♪ 永远年轻 ♪\N♪ Forever young ♪
@@ -140,113 +141,117 @@ Dialogue: 0,0:09:16.50,0:09:18.96,Screen,,0,0,0,,{\an7\pos(180,285)\fad(280,280)
 Dialogue: 0,0:09:31.15,0:09:33.37,Screen,,0,0,0,,{\an7\pos(180,425)\fad(280,280)\fs60\c&H477CD1&\t(0,280,\c&HDEF8FE&)\t(2060,2340,\c&H477CD1&)\bord1\3c&H7E98CE&}导演{\fs80}\N乔什·萨弗迪
 Dialogue: 0,0:05:07.81,0:05:10.64,Default,,0,0,0,,反手 反手 反手\NBackhand. Backhand. Backhand.
 Dialogue: 0,0:05:11.55,0:05:13.93,Default,,0,0,0,,正手 正手\NForehand. Forehand.
-Dialogue: 0,0:05:15.02,0:05:17.02,Default,,0,0,0,,反手 反手\NBackhand. Backhand.
+Dialogue: 0,0:05:14.99,0:05:16.99,Default,,0,0,0,,反手 反手\NBackhand. Backhand.
 Dialogue: 0,0:05:17.11,0:05:18.36,Default,,0,0,0,,放高球\NAnd lob.
 Dialogue: 0,0:05:19.70,0:05:20.86,Default,,0,0,0,,正手\NForehand.
-Dialogue: 0,0:05:21.49,0:05:22.88,Default,,0,0,0,,- 马蒂! - 怎么!\N- Marty! - What!
-Dialogue: 0,0:05:22.89,0:05:24.87,Default,,0,0,0,,- 电话! - 跟他说我二十分钟前就走了!\N- Phone! - Tell him I left 20 minutes ago!
-Dialogue: 0,0:05:24.87,0:05:27.80,Default,,0,0,0,,我才不当你妈的传声筒! 赶紧接你妈的电话!\NI'm not your goddamn messenger! Pick up the goddamn phone!
-Dialogue: 0,0:05:27.81,0:05:29.79,Default,,0,0,0,,我不行 沃利 把那件白衬衫脱了\NI can't. Wally, take the white shirt off.
-Dialogue: 0,0:05:29.81,0:05:31.87,Default,,0,0,0,,背景是白衬衫 我没法盯着白球\NI can't follow the white ball against the white shirt.
-Dialogue: 0,0:05:31.87,0:05:34.72,Default,,0,0,0,,得了吧 你真是个操蛋的见光死\NStop it. You're a fucking sun dodger.
-Dialogue: 0,0:05:34.75,0:05:36.71,Default,,0,0,0,,噢 是吗? 我爱你 我爱你\NOh, yeah? I love you. I love you.
-Dialogue: 0,0:05:37.59,0:05:38.67,Default,,0,0,0,,喂?\NHello?
-Dialogue: 0,0:05:38.67,0:05:39.88,Default,,0,0,0,,我是朱莉\NIt's Judy.
-Dialogue: 0,0:05:40.72,0:05:42.05,Default,,0,0,0,,嗨 朱莉\NHi, Judy.
-Dialogue: 0,0:05:42.07,0:05:43.63,Default,,0,0,0,,你妈病得很厉害\NYour mother, she's very sick.
-Dialogue: 0,0:05:43.64,0:05:44.72,Default,,0,0,0,,行吧 真的吗?\NOkay, really?
-Dialogue: 0,0:05:44.72,0:05:47.42,Default,,0,0,0,,对 她脸色发灰 满嘴胡话\NYes. She's gray in the face. She's speaking nonsense.
-Dialogue: 0,0:05:47.43,0:05:49.29,Default,,0,0,0,,她在找你 你该回家一趟\NShe's asking for you. You should come home.
-Dialogue: 0,0:05:49.30,0:05:52.39,Default,,0,0,0,,听着挺糟 你也许该叫辆救护车\NSounds really bad. You should probably call an ambulance.
-Dialogue: 0,0:05:53.35,0:05:54.67,Default,,0,0,0,,谁陪她去?\NWho's gonna go with her?
-Dialogue: 0,0:05:54.68,0:05:56.93,Default,,0,0,0,,呃 我哪知道 既然你这么操心 那你去呗\NUh, I don't know. You should probably go since you're so invested.
-Dialogue: 0,0:05:57.94,0:05:59.40,Default,,0,0,0,,稍等一下\NHold on a minute.
-Dialogue: 0,0:05:59.40,0:06:00.48,Default,,0,0,0,,他不吃这一套\NHe's not buying it.
-Dialogue: 0,0:06:00.49,0:06:02.20,Default,,0,0,0,,就跟他说我没气了!\NJust tell him I stopped breathing!
-Dialogue: 0,0:06:02.20,0:06:04.99,Default,,0,0,0,,绝对不行 太荒唐了 我才不这么说\NAbsolutely not. That's ridiculous. I'm not saying that.
-Dialogue: 0,0:06:04.99,0:06:06.99,Default,,0,0,0,,告诉他你要带我去医院\NTell him you're taking me to the hospital.
-Dialogue: 0,0:06:06.99,0:06:09.20,Default,,0,0,0,,行吧 我带她去急诊室\NOkay, fine. I'll take her to the emergency room
-Dialogue: 0,0:06:09.20,0:06:11.29,Default,,0,0,0,,在那坐着 天知道要等多久\Nand sit there and wait for God knows how long.
-Dialogue: 0,0:06:11.29,0:06:14.08,Default,,0,0,0,,然后你过来给我丈夫喂药\NAnd you can come here and give my husband his medicine
-Dialogue: 0,0:06:14.08,0:06:16.25,Default,,0,0,0,,整晚帮他按摩双脚\Nand massage his feet all night long.
-Dialogue: 0,0:06:16.75,0:06:18.29,Default,,0,0,0,,说我昏过去了\NTell him I passed out.
-Dialogue: 0,0:06:18.30,0:06:21.01,Default,,0,0,0,,天呐! 你妈 她刚失去知觉了\NOh, my God! Your mother, she just lost consciousness.
-Dialogue: 0,0:06:21.01,0:06:22.84,Default,,0,0,0,,你现在必须得回家\NYou've gotta come home now.
-Dialogue: 0,0:06:24.41,0:06:25.51,Default,,0,0,0,,喂?\NHello?
-Dialogue: 0,0:06:25.51,0:06:27.89,Default,,0,0,0,,嗨 稍等我一秒\NHi. Just give me a second.
-Dialogue: 0,0:06:30.02,0:06:31.81,Default,,0,0,0,,朱莉 我不知道你想让我说什么\NI don't know what you want me to say, Judy.
-Dialogue: 0,0:06:31.81,0:06:33.27,Default,,0,0,0,,我很忙 正午休呢\NI'm busy. I'm on my lunch break.
-Dialogue: 0,0:06:33.27,0:06:36.23,Default,,0,0,0,,我能听到她在嘀咕 她就站在你旁边\NI can hear her whispering. She's right there standing next to you.
-Dialogue: 0,0:06:36.23,0:06:38.65,Default,,0,0,0,,- 我都说她昏过去了- 真烦死我了\N- I told you she passed out.- It's annoying me now.
-Dialogue: 0,0:06:38.65,0:06:39.65,Default,,0,0,0,,你在跟谁说话?\NWho are you talking to?
-Dialogue: 0,0:06:40.28,0:06:42.78,Default,,0,0,0,,噢 我没跟谁说话\NOh. I'm not talking to anybody.
-Dialogue: 0,0:06:42.78,0:06:45.32,Default,,0,0,0,,朱莉占着电话快一小时了\NJudy's just been tying up the line for an hour.
-Dialogue: 0,0:06:45.32,0:06:47.03,Default,,0,0,0,,我给你带了些肉汤\NI got you some broth.
-Dialogue: 0,0:06:49.99,0:06:51.58,Default,,0,0,0,,凉透了\NIt's ice cold.
-Dialogue: 0,0:06:51.58,0:06:53.70,Default,,0,0,0,,是啊 因为店里排队的人特多\NYeah, 'cause the line was really long at the shop.
-Dialogue: 0,0:06:53.71,0:06:56.08,Default,,0,0,0,,噢 是吗? 我打电话过去问也是这说法?\NOh, yeah? So that's what they'll say if I call down and ask?
-Dialogue: 0,0:06:56.08,0:06:57.83,Default,,0,0,0,,你不信我? 说我是骗子?\NYou don't believe me? You calling me a liar?
-Dialogue: 0,0:06:57.84,0:06:59.13,Default,,0,0,0,,拿起电话打过去啊\NPick up the phone and call them.
-Dialogue: 0,0:06:59.13,0:07:00.67,Default,,0,0,0,,你得先让朱莉挂了电话才行\NYou're gonna have to get Judy off the phone first.
-Dialogue: 0,0:07:00.67,0:07:02.13,Default,,0,0,0,,行 没问题\NOh, okay.
-Dialogue: 0,0:07:02.13,0:07:04.01,Default,,0,0,0,,嘿 朱莉 挂了电话\NHey, Judy, get off the phone.
-Dialogue: 0,0:07:15.27,0:07:18.02,Default,,0,0,0,,听着 这是颗乒联认证的标准球\NOkay, this is a normal IATT approved ball.
-Dialogue: 0,0:07:18.02,0:07:19.90,Default,,0,0,0,,试着在白色背景下盯着这白球\NTry to follow the white ball against the white.
-Dialogue: 0,0:07:21.53,0:07:22.53,Default,,0,0,0,,几乎不可能 吧?\NAlmost impossible, right?
-Dialogue: 0,0:07:23.07,0:07:24.57,Default,,0,0,0,,我都没见你眼珠子转过\NI don't even see your eyes moving.
-Dialogue: 0,0:07:24.57,0:07:26.78,Default,,0,0,0,,如果我穿白衬衫 你就看不清球\NIf I'm wearing a white shirt, you can't see the ball.
-Dialogue: 0,0:07:26.78,0:07:29.49,Default,,0,0,0,,现在 想象一下用橙色球 还没人想过这招呢\NNow, imagine it with an orange ball, which no one's ever thought of.
-Dialogue: 0,0:07:29.49,0:07:31.58,Default,,0,0,0,,看吧? 你现在盯球顺多了 瞧他的眼神\NSee? You're already following it way better. Look at his eyes.
-Dialogue: 0,0:07:31.58,0:07:33.29,Default,,0,0,0,,- 瞧他眼神? - 嗯 看见了\N- See how his eyes are looking? - Yeah, I see it.
-Dialogue: 0,0:07:33.29,0:07:34.66,Default,,0,0,0,,你现在看着专注多了\NYou're looking more engaged now.
-Dialogue: 0,0:07:34.66,0:07:36.54,Default,,0,0,0,,这就是我们要干的事 现在的乒乓球界\NSo that's what we wanna do. Right now in the world of table tennis,
-Dialogue: 0,0:07:36.54,0:07:39.08,Default,,0,0,0,,你非得穿黑色 才能看清那颗白球\Nyou're obliged to wear black, just so you can follow the white ball.
-Dialogue: 0,0:07:39.08,0:07:40.92,Default,,0,0,0,,看看这个 那是泰德·贝利\NLook at this. That's Ted Bailey.
-Dialogue: 0,0:07:40.92,0:07:42.00,Default,,0,0,0,,谁啊?\NWho's that?
-Dialogue: 0,0:07:42.00,0:07:44.05,Default,,0,0,0,,那是现在的世界排名第一\NThat's the number one ranked player in the world right now.
-Dialogue: 0,0:07:44.05,0:07:45.97,Default,,0,0,0,,英国冠军 顺便说下 我已经赢过他了\NHe's the British champion. I've already beat him, by the way.
-Dialogue: 0,0:07:45.97,0:07:47.09,Default,,0,0,0,,再看这个\NNow look at this.
-Dialogue: 0,0:07:47.09,0:07:49.22,Default,,0,0,0,,网球头号选手 杰克·克莱默\NThat's Jack Kramer, number one tennis player.
-Dialogue: 0,0:07:49.22,0:07:51.18,Default,,0,0,0,,- 有啥区别? - 他穿的是全白\N- What's the difference there? - He's wearing all white.
-Dialogue: 0,0:07:51.18,0:07:53.06,Default,,0,0,0,,一身白 漂亮极了\NHe's in all white. It's beautiful.
-Dialogue: 0,0:07:53.06,0:07:55.56,Default,,0,0,0,,这叫奢华 这叫格调 这有卖头\NTo me, that's luxury. To me, that's class. You could sell that.
-Dialogue: 0,0:07:55.56,0:07:59.06,Default,,0,0,0,,马蒂 定制那种球得花不少钱\NMarty, a custom ball like that is gonna cost a lot of money.
-Dialogue: 0,0:07:59.06,0:08:01.40,Default,,0,0,0,,当然得定制 奇人配奇球\NOf course it's custom. It's an original ball for an original guy.
-Dialogue: 0,0:08:01.40,0:08:03.32,Default,,0,0,0,,这叫"至尊马蒂"球 不是"平庸马蒂"球\NIt's the Marty Supreme ball, not the Marty Normal ball.
-Dialogue: 0,0:08:03.32,0:08:04.48,Default,,0,0,0,,但成本得多少?\NBut what's it gonna cost?
-Dialogue: 0,0:08:04.48,0:08:06.78,Default,,0,0,0,,钱不重要 咱们不能在这上面省\NIt doesn't matter the cost. We can't cheap out on this.
-Dialogue: 0,0:08:06.78,0:08:08.07,Default,,0,0,0,,花不了多少钱 加拉尼斯先生\NIt's gonna be nominal, Mr. Galanis.
-Dialogue: 0,0:08:08.07,0:08:10.42,Default,,0,0,0,,您老说想赚钱就得先砸钱 对吧?\NYou always said we gotta spend money to make money, right?
-Dialogue: 0,0:08:10.44,0:08:11.70,Default,,0,0,0,,给我弄杯咖啡\NGet me a cup of coffee.
-Dialogue: 0,0:08:11.70,0:08:14.04,Default,,0,0,0,,没门 让您秘书去弄\NNo. Get your secretary to get ya a cup of coffee.
-Dialogue: 0,0:08:14.04,0:08:15.62,Default,,0,0,0,,南希忙着呢 赶紧去弄杯咖啡\NNancy's busy. Just get me a coffee.
-Dialogue: 0,0:08:15.62,0:08:17.50,Default,,0,0,0,,爸 我们爷俩在正儿八经谈生意呢\NDad, we're talking like men about business here.
-Dialogue: 0,0:08:17.50,0:08:20.13,Default,,0,0,0,,- 我不给你弄咖啡 - 赶紧去给老子弄杯咖啡!\N- I'm not getting ya a cup of coffee. - Get me the damn coffee!
-Dialogue: 0,0:08:26.60,0:08:27.68,Default,,0,0,0,,马蒂 要咖啡吗?\NMarty, you want a coffee?
-Dialogue: 0,0:08:27.69,0:08:29.44,Default,,0,0,0,,不了 谢了 我不碰咖啡因\NNo, I'm all right. I'm not drinking caffeine.
-Dialogue: 0,0:08:33.01,0:08:34.01,Default,,0,0,0,,听着\NListen.
-Dialogue: 0,0:08:34.89,0:08:38.48,Default,,0,0,0,,我很感激你能跟我儿子交朋友\NI appreciate you're friends with my son.
-Dialogue: 0,0:08:38.48,0:08:40.69,Default,,0,0,0,,他资质有限\NHe's limited.
-Dialogue: 0,0:08:40.69,0:08:42.52,Default,,0,0,0,,三十岁的人了 还赖在家里\NHe's 30 years old. He's still living at home.
-Dialogue: 0,0:08:42.52,0:08:44.19,Default,,0,0,0,,也没混出个名堂\NHe hasn't done much.
-Dialogue: 0,0:08:44.19,0:08:47.36,Default,,0,0,0,,他不识货 也不懂成本\NAnd he doesn't know business. He doesn't know the costs.
-Dialogue: 0,0:08:47.36,0:08:49.65,Default,,0,0,0,,恕我直言 我不觉得他平庸 加拉尼斯先生\NI don't think he's limited, Mr. Galanis, respectfully.
-Dialogue: 0,0:08:49.66,0:08:51.57,Default,,0,0,0,,我是说 看看您生意上的成就\NI mean, look at your business success.
-Dialogue: 0,0:08:51.57,0:08:53.62,Default,,0,0,0,,这都写在您的DNA里了 而且遗传给了迪昂\NThat's in your DNA, and you passed that through to Dion.
-Dialogue: 0,0:08:53.62,0:08:55.74,Default,,0,0,0,,- 只是还没觉醒罢了 - 谁知道呢\N- It just hasn't been awoken yet. - I don't know.
-Dialogue: 0,0:08:55.74,0:08:58.08,Default,,0,0,0,,要不是打心底里深信不疑\NI wouldn't be here trying to involve you in something that I
-Dialogue: 0,0:08:58.08,0:09:00.45,Default,,0,0,0,,我也不会拉您入伙\Ndidn't fully in my bones believe in.
-Dialogue: 0,0:09:00.46,0:09:03.17,Default,,0,0,0,,我非常尊重您的每一分钱 我知道这很难相信\NI have tremendous respect for your money. I know it's hard to believe,
-Dialogue: 0,0:09:03.17,0:09:05.96,Default,,0,0,0,,但我告诉你 这项运动在国外能让体育场座无虚席\Nbut I'm telling you, this game, it fills stadiums overseas.
-Dialogue: 0,0:09:05.96,0:09:09.01,Default,,0,0,0,,在美国爆火也是迟早的事\NAnd it's only a matter of time before it fills stadiums in the United States too,
-Dialogue: 0,0:09:09.01,0:09:11.59,Default,,0,0,0,,直到哪天我也上了维他麦包装盒\Nbefore I'm staring at you from the cover of a Wheaties box.
-Dialogue: 0,0:09:12.30,0:09:14.30,Default,,0,0,0,,我对这行一窍不通\NI don't know nothing about this business.
-Dialogue: 0,0:09:14.30,0:09:16.26,Default,,0,0,0,,确实不通 所以您才得信任我\NNo, you don't. That's why you gotta trust me.
-Dialogue: 0,0:09:16.27,0:09:19.35,Default,,0,0,0,,下周这个时候 我就是首个夺得全英赛冠军的美国人\NThis time next week, I'll be the first American to ever win the British Open.
-Dialogue: 0,0:09:19.35,0:09:22.23,Default,,0,0,0,,这样我就能顺势成为世锦赛的头号种子\NThat'll slide me into the number one ranking for the World Championship.
-Dialogue: 0,0:09:22.23,0:09:24.56,Default,,0,0,0,,《生活》杂志会争着报道《看》杂志也会报道\NLife magazine's gonna cover it.Look magazine's gonna cover it.
-Dialogue: 0,0:09:24.57,0:09:28.69,Default,,0,0,0,,他们必须报道 《看》杂志的主编迷死我了 他们都迷我\NThey have to. The editor ofLook magazine, he loves me. They all love me.
-Dialogue: 0,0:09:28.69,0:09:33.78,Default,,0,0,0,,没人比我更适合做全美这项运动的代言人\NI'm uniquely positioned to be the face of the entire sport in the United States.
+Dialogue: 0,0:05:21.49,0:05:22.88,Default,,0,0,0,,- 马蒂 - 干嘛\N- Marty! - What!
+Dialogue: 0,0:05:22.89,0:05:24.86,Default,,0,0,0,,- 有电话 - 跟他说我二十分钟前就走了\N- Phone! - Tell him I left 20 minutes ago!
+Dialogue: 0,0:05:24.87,0:05:27.80,Default,,0,0,0,,我才不当你的传声筒 自己去接那该死的电话\NI'm not your goddamn messenger! Pick up the goddamn phone!
+Dialogue: 0,0:05:27.81,0:05:29.79,Default,,0,0,0,,我跟不上 沃利 把白衬衫脱了\NI can't. Wally, take the white shirt off.
+Dialogue: 0,0:05:29.81,0:05:31.86,Default,,0,0,0,,白球配白衬衫 看不清\NI can't follow the white ball against the white shirt.
+Dialogue: 0,0:05:31.87,0:05:34.72,Default,,0,0,0,,别找借口 孬种才这样找借口\NStop it. You're a fucking sun dodger.
+Dialogue: 0,0:05:34.75,0:05:36.79,Default,,0,0,0,,我孬种？怎么怕了 怕了？\NOh, yeah? I love you. I love you.
+Dialogue: 0,0:05:37.78,0:05:38.86,Default,,0,0,0,,喂\NHello?
+Dialogue: 0,0:05:38.87,0:05:40.34,Default,,0,0,0,,我是朱迪\NIt's Judy.
+Dialogue: 0,0:05:40.73,0:05:42.06,Default,,0,0,0,,怎么了 朱迪\NHi, Judy.
+Dialogue: 0,0:05:42.07,0:05:43.63,Default,,0,0,0,,你妈病得很重\NYour mother, she's very sick.
+Dialogue: 0,0:05:43.64,0:05:45.27,Default,,0,0,0,,- 真的假的？ - 真的\N- Okay, really? - Yes.
+Dialogue: 0,0:05:45.29,0:05:47.42,Default,,0,0,0,,她脸色苍白 满嘴胡话\NShe's gray in the face. She's speaking nonsense.
+Dialogue: 0,0:05:47.43,0:05:49.29,Default,,0,0,0,,她一直喊你 你得赶快回家一趟\NShe's asking for you. You should come home.
+Dialogue: 0,0:05:49.31,0:05:52.53,Default,,0,0,0,,听上去不行了 你们赶紧叫救护车吧\NSounds really bad. You should probably call an ambulance.
+Dialogue: 0,0:05:53.35,0:05:54.67,Default,,0,0,0,,谁陪她去啊\NWho's gonna go with her?
+Dialogue: 0,0:05:54.68,0:05:57.20,Default,,0,0,0,,我不知道 你这么上心 你陪她去呗\NUh, I don't know. You should probably go since you're so invested.
+Dialogue: 0,0:05:57.94,0:05:59.39,Default,,0,0,0,,等一下 别挂\NHold on a minute.
+Dialogue: 0,0:05:59.40,0:06:00.48,Default,,0,0,0,,他不吃这套\NHe's not buying it.
+Dialogue: 0,0:06:00.49,0:06:02.20,Default,,0,0,0,,跟他说我断气了\NJust tell him I stopped breathing!
+Dialogue: 0,0:06:01.24,0:06:04.99,Screen,,0,0,0,,{\an8}（至尊马蒂 美国制造）
+Dialogue: 0,0:06:02.22,0:06:04.98,Default,,0,0,0,,绝对不行 太严重了 我不能这么说\NAbsolutely not. That's ridiculous. I'm not saying that.
+Dialogue: 0,0:06:04.99,0:06:07.18,Default,,0,0,0,,跟他说你正急着送我去医院\NTell him you're taking me to the hospital.
+Dialogue: 0,0:06:07.20,0:06:09.45,Default,,0,0,0,,好吧 我得赶紧把她送去急诊\NOkay, fine. I'll take her to the emergency room
+Dialogue: 0,0:06:09.47,0:06:11.57,Default,,0,0,0,,然后在那儿陪着 天知道要陪多久\Nand sit there and wait for God knows how long.
+Dialogue: 0,0:06:11.58,0:06:14.25,Default,,0,0,0,,“你来负责伺候我丈夫 给他喂药”\NAnd you can come here and give my husband his medicine
+Dialogue: 0,0:06:14.26,0:06:16.74,Default,,0,0,0,,“晚上给他翻身做按摩”\Nand massage his feet all night long.
+Dialogue: 0,0:06:16.75,0:06:18.29,Default,,0,0,0,,“跟他说我晕倒了”\NTell him I passed out.
+Dialogue: 0,0:06:18.30,0:06:21.01,Default,,0,0,0,,- “天呐 你妈刚刚昏过去了” - 你好啊 小姑娘\N- Oh, my God! Your mother, she just lost consciousness. - Hi, sweetheart.
+Dialogue: 0,0:06:21.03,0:06:22.99,Default,,0,0,0,,“你现在赶紧回家”\NYou've gotta come home now.
+Dialogue: 0,0:06:24.50,0:06:25.60,Default,,0,0,0,,谁啊\NHello?
+Dialogue: 0,0:06:25.62,0:06:28.00,Default,,0,0,0,,是我 饭马上好\NHi. Just give me a second.
+Dialogue: 0,0:06:30.01,0:06:31.80,Default,,0,0,0,,“朱迪 别闹了行吗”\NI don't know what you want me to say, Judy.
+Dialogue: 0,0:06:31.81,0:06:33.27,Default,,0,0,0,,“我正忙着 连午饭都还没吃呢”\NI'm busy. I'm on my lunch break.
+Dialogue: 0,0:06:33.29,0:06:36.23,Default,,0,0,0,,“我妈就在你旁边指挥 我都听得见”\NI can hear her whispering. She's right there standing next to you.
+Dialogue: 0,0:06:36.25,0:06:38.85,Default,,0,0,0,,- “我都说她昏过去了”- “别来烦我了”\N- I told you she passed out.- It's annoying me now.
+Dialogue: 0,0:06:38.87,0:06:40.27,Default,,0,0,0,,跟谁通话呢？\NWho are you talking to?
+Dialogue: 0,0:06:40.28,0:06:42.77,Default,,0,0,0,,哦 没人\NOh. I'm not talking to anybody.
+Dialogue: 0,0:06:42.78,0:06:45.42,Default,,0,0,0,,朱迪一直占着电话好久了\NJudy's just been tying up the line for an hour.
+Dialogue: 0,0:06:45.44,0:06:47.33,Default,,0,0,0,,我给你买了点热饭\NI got you some broth.
+Dialogue: 0,0:06:50.39,0:06:51.51,Default,,0,0,0,,都凉透了\NIt's ice cold.
+Dialogue: 0,0:06:51.53,0:06:54.21,Default,,0,0,0,,- 买饭排了好久 买回来都凉了 - 你都不打草稿？\N- Yeah, 'cause the line was really long at the shop. - Oh, yeah?
+Dialogue: 0,0:06:54.23,0:06:56.07,Default,,0,0,0,,信不信我现在打电话去核实？\NSo that's what they'll say if I call down and ask?
+Dialogue: 0,0:06:56.08,0:06:57.83,Default,,0,0,0,,你要是觉得我骗你\NYou don't believe me? You calling me a liar?
+Dialogue: 0,0:06:57.85,0:06:59.13,Default,,0,0,0,,你就打电话核实去\NPick up the phone and call them.
+Dialogue: 0,0:06:59.15,0:07:02.20,Default,,0,0,0,,- 不过看你怎么打 朱迪在占着电话 - 喔 行\N- You're gonna have to get Judy off the phone first. - Oh, okay.
+Dialogue: 0,0:07:02.22,0:07:04.10,Default,,0,0,0,,喂 朱迪 把电话给我挂掉\NHey, Judy, get off the phone.
+Dialogue: 0,0:07:15.35,0:07:18.10,Default,,0,0,0,,看 这颗是国际乒联标准球\NOkay, this is a normal IATT approved ball.
+Dialogue: 0,0:07:15.35,0:07:20.15,Note,,0,0,0,,{\an8}【国际乒乓球联合会：1926年成立 主管国际乒乓球赛事和规则】
+Dialogue: 0,0:07:18.12,0:07:20.17,Default,,0,0,0,,盯紧这颗白球\NTry to follow the white ball against the white.
+Dialogue: 0,0:07:21.73,0:07:23.09,Default,,0,0,0,,在白背景下挺难的吧\NAlmost impossible, right?
+Dialogue: 0,0:07:23.11,0:07:24.71,Default,,0,0,0,,你眼珠根本没跟上\NI don't even see your eyes moving.
+Dialogue: 0,0:07:24.73,0:07:26.85,Default,,0,0,0,,要是我穿白衬衫 你连球都看不到\NIf I'm wearing a white shirt, you can't see the ball.
+Dialogue: 0,0:07:26.87,0:07:29.59,Default,,0,0,0,,换颗橙球试试 这是我自个儿想出来的\NNow, imagine it with an orange ball, which no one's ever thought of.
+Dialogue: 0,0:07:29.60,0:07:31.58,Default,,0,0,0,,看吧 你盯得多牢 瞧他那眼神\NSee? You're already following it way better. Look at his eyes.
+Dialogue: 0,0:07:31.60,0:07:33.28,Default,,0,0,0,,- 看见没？ - 嗯 看见了\N- See how his eyes are looking? - Yeah, I see it.
+Dialogue: 0,0:07:33.30,0:07:34.66,Default,,0,0,0,,你现在盯得更紧了\NYou're looking more engaged now.
+Dialogue: 0,0:07:34.68,0:07:36.54,Default,,0,0,0,,这就是机遇所在 目前桌上网球界\NSo that's what we wanna do. Right now in the world of table tennis,
+Dialogue: 0,0:07:34.68,0:07:39.08,Note,,0,0,0,,{\an8}【桌球：乒乓球早期在上流场合叫做"桌上网球" 简称"桌球"】
+Dialogue: 0,0:07:36.56,0:07:39.08,Default,,0,0,0,,为了盯住白球都得穿黑衣\Nyou're obliged to wear black, just so you can follow the white ball.
+Dialogue: 0,0:07:39.10,0:07:41.68,Default,,0,0,0,,- 看看这个 这是泰德·贝利 - 他是谁？\N- Look at this. That's Ted Bailey. - Who's that?
+Dialogue: 0,0:07:41.70,0:07:43.78,Default,,0,0,0,,他曾是英国冠军 世界第一\NThat's ex-number one ranked player in the world right now.
+Dialogue: 0,0:07:43.80,0:07:45.96,Default,,0,0,0,,已经被我打败了\NHe's the British champion. I've already beat him, by the way.
+Dialogue: 0,0:07:45.97,0:07:47.08,Default,,0,0,0,,再看这个\NNow look at this.
+Dialogue: 0,0:07:47.09,0:07:49.21,Default,,0,0,0,,网球界第一杰克·克雷默\NThat's Jack Kramer, number one tennis player.
+Dialogue: 0,0:07:47.09,0:07:51.42,Note,,0,0,0,,{\an8}【杰克·克雷默：40-50年代著名网球手 推动网球精英化】
+Dialogue: 0,0:07:49.22,0:07:51.40,Default,,0,0,0,,- 有啥区别？ - 他穿的是全白\N- What's the difference there? - He's wearing all white.
+Dialogue: 0,0:07:51.42,0:07:53.05,Default,,0,0,0,,对 一身白 很绅士\NHe's in all white. It's beautiful.
+Dialogue: 0,0:07:51.42,0:07:55.56,Note,,0,0,0,,{\an8}【50年代网球为绅士运动 桌上网球(乒乓球)尚非主流】
+Dialogue: 0,0:07:53.06,0:07:55.55,Default,,0,0,0,,这叫品味 这叫格调 这是卖点\NTo me, that's luxury. To me, that's class. You could sell that.
+Dialogue: 0,0:07:55.56,0:07:59.05,Default,,0,0,0,,马蒂 这种定制球得花不少钱\NMarty, a custom ball like that is gonna cost a lot of money.
+Dialogue: 0,0:07:59.06,0:08:01.39,Default,,0,0,0,,当然得定制 奇人配奇球\NOf course it's custom. It's an original ball for an original guy.
+Dialogue: 0,0:08:01.40,0:08:03.32,Default,,0,0,0,,这是至尊马蒂牌 不是平庸马蒂牌\NIt's the Marty Supreme ball, not the Marty Normal ball.
+Dialogue: 0,0:08:03.34,0:08:04.48,Default,,0,0,0,,你算过成本吗？\NBut what's it gonna cost?
+Dialogue: 0,0:08:04.51,0:08:06.45,Default,,0,0,0,,钱不重要 咱别抠门\NIt doesn't matter the cost. We can't cheap out on this.
+Dialogue: 0,0:08:06.46,0:08:08.07,Default,,0,0,0,,花不了多少钱的 加拉尼斯先生\NIt's gonna be nominal, Mr. Galanis.
+Dialogue: 0,0:08:08.09,0:08:10.43,Default,,0,0,0,,你不是老说先花钱才能赚钱吗\NYou always said we gotta spend money to make money, right?
+Dialogue: 0,0:08:10.44,0:08:11.70,Default,,0,0,0,,给我端杯咖啡来\NGet me a cup of coffee.
+Dialogue: 0,0:08:11.72,0:08:13.75,Default,,0,0,0,,没门 让你秘书去弄\NNo. Get your secretary to get ya a cup of coffee.
+Dialogue: 0,0:08:13.77,0:08:15.61,Default,,0,0,0,,南希忙着呢 你去弄吧\NNancy's busy. Just get me a coffee.
+Dialogue: 0,0:08:15.62,0:08:17.50,Default,,0,0,0,,才不 我正像大人那样谈生意\NDad, we're talking like men about business here.
+Dialogue: 0,0:08:17.52,0:08:20.91,Default,,0,0,0,,- 我才不给你端咖啡 - 赶紧去给老子端咖啡去\N- I'm not getting ya a cup of coffee. - Get me the damn coffee!
+Dialogue: 0,0:08:26.60,0:08:27.68,Default,,0,0,0,,马蒂 也给你来一杯？\NMarty, you want a coffee?
+Dialogue: 0,0:08:27.70,0:08:29.89,Default,,0,0,0,,谢谢 不用了 我不碰咖啡因\NNo, I'm all right. I'm not drinking caffeine.
+Dialogue: 0,0:08:33.00,0:08:34.00,Default,,0,0,0,,听着\NListen.
+Dialogue: 0,0:08:34.79,0:08:38.45,Default,,0,0,0,,我感谢你和我儿子的这份交情\NI appreciate you're friends with my son.
+Dialogue: 0,0:08:38.47,0:08:40.68,Default,,0,0,0,,但他不成器\NHe's limited.
+Dialogue: 0,0:08:40.69,0:08:42.52,Default,,0,0,0,,三十岁还靠爹吃饭\NHe's 30 years old. He's still living at home.
+Dialogue: 0,0:08:42.54,0:08:44.19,Default,,0,0,0,,没啥名堂\NHe hasn't done much.
+Dialogue: 0,0:08:44.21,0:08:47.27,Default,,0,0,0,,他也不懂做生意 算不清账\NAnd he doesn't know business. He doesn't know the costs.
+Dialogue: 0,0:08:47.29,0:08:49.65,Default,,0,0,0,,恕我直言 盖拉尼斯先生 我不觉得他不成器\NI don't think he's limited, Mr. Galanis, respectfully.
+Dialogue: 0,0:08:49.66,0:08:51.57,Default,,0,0,0,,看看您做生意的本事\NI mean, look at your business success.
+Dialogue: 0,0:08:51.59,0:08:53.62,Default,,0,0,0,,那是刻在骨子里的 迪翁也有\NThat's in your DNA, and you passed that through to Dion.
+Dialogue: 0,0:08:53.64,0:08:55.73,Default,,0,0,0,,- 只是还没显露出来 - 谁知道呢\N- It just hasn't been awoken yet. - I don't know.
+Dialogue: 0,0:08:55.74,0:08:58.08,Default,,0,0,0,,我要是没把握\NI wouldn't be here trying to involve you in something that I
+Dialogue: 0,0:08:58.10,0:09:00.35,Default,,0,0,0,,我也不会拉您入伙的\Ndidn't fully in my bones believe in.
+Dialogue: 0,0:09:00.36,0:09:03.16,Default,,0,0,0,,我很尊重您的钱 说来您可能不信\NAnd I have tremendous respect for your money. I know it's hard to believe,
+Dialogue: 0,0:09:03.17,0:09:05.96,Default,,0,0,0,,但这门运动在国外是火得不得了\Nbut I'm telling you, this game, it fills stadiums overseas.
+Dialogue: 0,0:09:05.98,0:09:09.00,Default,,0,0,0,,在美国火起来也只是时间问题\NAnd it's only a matter of time before it fills stadiums in the United States too,
+Dialogue: 0,0:09:09.01,0:09:12.04,Default,,0,0,0,,到时候我的广告会铺天盖地\Nbefore I'm staring at you from the cover of a Wheaties box.
+Dialogue: 0,0:09:12.29,0:09:14.29,Default,,0,0,0,,我 我对这行一窍不通\NI- I don't know nothing about this business.
+Dialogue: 0,0:09:14.30,0:09:16.26,Default,,0,0,0,,确实不通 所以更该信我\NNo, you don't. That's why you gotta trust me.
+Dialogue: 0,0:09:16.27,0:09:19.34,Default,,0,0,0,,下周这个时候 我就是首位赢下英国公开赛的美国人\NThis time next week, I'll be the first American to ever win the British Open.
+Dialogue: 0,0:09:19.35,0:09:22.13,Default,,0,0,0,,到时候我就能一路杀到世锦赛 然后拿下世界第一\NThat'll slide me into the number one ranking for the World Championship.
+Dialogue: 0,0:09:22.14,0:09:24.47,Default,,0,0,0,,到时候《生活》和《展望》都会报道\NLife magazine's gonna cover it. Look magazine's gonna cover it.
+Dialogue: 0,0:09:24.49,0:09:28.68,Default,,0,0,0,,这是板上钉钉的事 《展望》就在捧我 他们都会捧我\NThey have to. The editor of Look magazine, he loves me. They all love me.
+Dialogue: 0,0:09:28.69,0:09:33.90,Default,,0,0,0,,到时候我就是这项运动在美国的唯一代言人\NI'm uniquely positioned to be the face of the entire sport in the United States.
+Dialogue: 0,0:09:32.61,0:09:34.87,Screen,,0,0,0,,{\an8}（家庭鞋履）
 Dialogue: 0,0:09:40.83,0:09:42.04,Default,,0,0,0,,劳埃德!\NLloyd!
 Dialogue: 0,0:09:51.18,0:09:52.30,Default,,0,0,0,,我要关门了\NI'm closing up.
 Dialogue: 0,0:09:52.30,0:09:54.34,Default,,0,0,0,,看得出来 我来找我叔\NYeah, I can see that. Just here to see my uncle.
