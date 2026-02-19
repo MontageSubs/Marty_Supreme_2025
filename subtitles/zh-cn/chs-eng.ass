@@ -468,7 +468,7 @@ Dialogue: 0,0:06:02.22,0:06:04.98,Default,,0,0,0,,绝对不行 太严重了 我�
 Dialogue: 0,0:06:04.99,0:06:07.18,Default,,0,0,0,,跟他说你正急着送我去医院\NTell him you're taking me to the hospital.
 Dialogue: 0,0:06:07.20,0:06:09.45,Default,,0,0,0,,好吧 我得赶紧把她送去急诊\NOkay, fine. I'll take her to the emergency room
 Dialogue: 0,0:06:09.47,0:06:11.57,Default,,0,0,0,,然后在那儿陪着 天知道要陪多久\Nand sit there and wait for God knows how long.
-Dialogue: 0,0:06:11.58,0:06:14.25,Default,,0,0,0,,“你来负责伺候我丈夫 给他喂药”\NAnd you can come here and give my husband his medicine
+Dialogue: 0,0:06:11.58,0:06:14.25,Default,,0,0,0,,你来负责伺候我丈夫 给他喂药\NAnd you can come here and give my husband his medicine
 Dialogue: 0,0:06:14.26,0:06:16.74,Default,,0,0,0,,“晚上给他翻身做按摩”\Nand massage his feet all night long.
 Dialogue: 0,0:06:16.75,0:06:18.29,Default,,0,0,0,,“跟他说我晕倒了”\NTell him I passed out.
 Dialogue: 0,0:06:18.30,0:06:21.01,Default,,0,0,0,,- “天呐 你妈刚刚昏过去了” - 你好啊 小姑娘\N- Oh, my God! Your mother, she just lost consciousness. - Hi, sweetheart.
@@ -766,31 +766,31 @@ Dialogue: 2,0:09:34.72,0:09:34.76,Screen,,0,0,0,,{=17}{\c&HB7B0A2&\fscx114.28\fs
 Dialogue: 2,0:09:34.76,0:09:34.80,Screen,,0,0,0,,{=17}{\c&HB7B0A2&\fscx114.28\fscy107.86\frz-1.3\frx11.2278\fry6.0052\org(815.65,247.08)\pos(814.18,254.1)\blur0.6\bord0\1a&H44&}家庭鞋履
 Dialogue: 2,0:09:34.80,0:09:34.84,Screen,,0,0,0,,{=17}{\c&HB7B0A2&\fscx114.28\fscy107.86\frz-1.26\frx11.2278\fry6.0052\org(819.67,248.02)\pos(818.2,255.04)\blur0.6\bord0\1a&H44&}家庭鞋履
 Dialogue: 2,0:09:34.84,0:09:34.88,Screen,,0,0,0,,{=17}{\c&HB7B0A2&\fscx114.28\fscy107.86\frz-1.24\frx11.2278\fry6.0052\org(822.31,248.63)\pos(820.84,255.66)\blur0.6\bord0\1a&H44&}家庭鞋履
-Dialogue: 0,0:09:40.83,0:09:42.04,Default,,0,0,0,,劳埃德!\NLloyd!
-Dialogue: 0,0:09:51.18,0:09:52.30,Default,,0,0,0,,我要关门了\NI'm closing up.
-Dialogue: 0,0:09:52.30,0:09:54.34,Default,,0,0,0,,看得出来 我来找我叔\NYeah, I can see that. Just here to see my uncle.
-Dialogue: 0,0:09:54.34,0:09:55.43,Default,,0,0,0,,他走了\NHe left.
-Dialogue: 0,0:09:55.43,0:09:58.14,Default,,0,0,0,,走了? 什么叫走了? 今天不回来了?\NHe left? What do you mean he left? For the day?
-Dialogue: 0,0:09:59.89,0:10:01.48,Default,,0,0,0,,他得送你妈去医院\NHe had to take your mother to the hospital.
-Dialogue: 0,0:10:01.48,0:10:03.60,Default,,0,0,0,,真是够了 她没病\NFor crying out loud. She's not sick.
-Dialogue: 0,0:10:03.60,0:10:05.90,Default,,0,0,0,,嘿 劳埃德 他欠我钱 咱们本来今天结账的\NHey, Lloyd, he owes me money. We were supposed to settle up today.
-Dialogue: 0,0:10:05.90,0:10:08.23,Default,,0,0,0,,要是你没去吃那五小时的午饭\NWell, maybe if you didn't take that five-hour lunch,
-Dialogue: 0,0:10:08.23,0:10:09.82,Default,,0,0,0,,- 兴许就能见着他了 - 闭嘴吧你\N- you would have spoke with him. - Oh, shut up.
-Dialogue: 0,0:10:29.17,0:10:31.21,Default,,0,0,0,,听着精神不少啊? 好得挺快嘛\NYou're sounding a lot better, huh? That happened quick.
-Dialogue: 0,0:10:31.22,0:10:33.13,Default,,0,0,0,,我死不了 托你的福!\NI'll live, no thanks to you!
-Dialogue: 0,0:10:33.13,0:10:35.80,Default,,0,0,0,,行了 妈 你跟默里在一起吗? 实话实说\NEnough, Mom. Are you with Murray? Be honest.
-Dialogue: 0,0:10:36.72,0:10:39.64,Default,,0,0,0,,没 我看他出发去旅行了 行吧?\NNo. I think he left for his trip. Okay?
-Dialogue: 0,0:10:39.64,0:10:41.27,Default,,0,0,0,,旅行? 什么旅行?\NHis trip? What trip?
-Dialogue: 0,0:10:41.27,0:10:44.64,Default,,0,0,0,,他带埃丝特去库彻度假村过周末了\NHe's taking Esther to Kutchers for the weekend.
-Dialogue: 0,0:10:44.65,0:10:46.81,Default,,0,0,0,,但只要我开口 他肯定会留下\NBut he would have stayed if I asked him to.
-Dialogue: 0,0:10:46.81,0:10:50.40,Default,,0,0,0,,你根本没病 妈 他本该给我路费买机票的\NYou're not sick, Mom. He was supposed to give me my money for my flight.
-Dialogue: 0,0:10:50.40,0:10:52.82,Default,,0,0,0,,喔 宝贝 我对此一无所知\NWell, I don't know anything about that, sweetie.
-Dialogue: 0,0:10:52.82,0:10:54.90,Default,,0,0,0,,你少来! 你以为我为什么要在这儿打工?\NYes, you do! Why do you think I'm working here?
-Dialogue: 0,0:10:54.91,0:10:57.20,Default,,0,0,0,,我接这活儿纯粹就是为了这个\NI literally only accepted this job for that.
-Dialogue: 0,0:10:57.20,0:11:00.12,Default,,0,0,0,,我完全听不懂你在暗示什么\NI have no idea what you are implying.
-Dialogue: 0,0:11:00.12,0:11:01.83,Default,,0,0,0,,- 你知道这是什么吗? - 什么 这是什么?\N- You know what this is? - What, what is this?
-Dialogue: 0,0:11:01.83,0:11:04.12,Default,,0,0,0,,这是蓄意破坏 你在整我\NThis is sabotage. You're sabotaging me.
-Dialogue: 0,0:11:04.12,0:11:06.83,Default,,0,0,0,,得了吧 是你在毁掉你自己的人生\NOh, please. You're sabotaging your own life.
+Dialogue: 0,0:09:41.15,0:09:42.46,Default,,0,0,0,,洛伊\NLloyd!
+Dialogue: 0,0:09:51.18,0:09:52.30,Default,,0,0,0,,我要打样\NI'm closing up.
+Dialogue: 0,0:09:52.32,0:09:54.33,Default,,0,0,0,,我知道 我来找我舅\NYeah, I can see that. Just here to see my uncle.
+Dialogue: 0,0:09:54.34,0:09:55.42,Default,,0,0,0,,他走了\NHe left.
+Dialogue: 0,0:09:55.44,0:09:58.21,Default,,0,0,0,,走了？你什么意思？不回来了？\NHe left? What do you mean he left? For the day?
+Dialogue: 0,0:09:59.88,0:10:01.47,Default,,0,0,0,,他得带你妈去医院\NHe had to take your mother to the hospital.
+Dialogue: 0,0:10:01.48,0:10:03.59,Default,,0,0,0,,别闹了 她根本没病\NFor crying out loud. She's not sick.
+Dialogue: 0,0:10:03.60,0:10:05.89,Default,,0,0,0,,洛伊 他还欠我工钱 说好了今天结清\NHey, Lloyd, he owes me money. We were supposed to settle up today.
+Dialogue: 0,0:10:05.90,0:10:08.23,Default,,0,0,0,,要不是你午休了五个钟头\NWell, maybe if you didn't take that five-hour lunch,
+Dialogue: 0,0:10:08.25,0:10:10.16,Default,,0,0,0,,- 兴许就能见着他 - 闭嘴吧你\N- you would have spoke with him. - Oh, shut up.
+Dialogue: 0,0:10:28.58,0:10:31.23,Default,,0,0,0,,- 谁呀 - 吃了什么狗皮膏药 好得挺快的啊\N- Hello. - You're sounding a lot better, huh? That happened quick.
+Dialogue: 0,0:10:31.24,0:10:33.14,Default,,0,0,0,,我会挺过去的 别指望我靠你\NI'll live, no thanks to you!
+Dialogue: 0,0:10:33.15,0:10:36.11,Default,,0,0,0,,妈 别扯了 默里在你那儿吗？别骗我\NEnough, Mom. Are you with Murray? Be honest.
+Dialogue: 0,0:10:36.72,0:10:39.63,Default,,0,0,0,,没有 但他好像准备出趟远门\NNo. I think he left for his trip. Okay?
+Dialogue: 0,0:10:39.64,0:10:41.26,Default,,0,0,0,,出哪门子的远门？\NHis trip? What trip?
+Dialogue: 0,0:10:41.27,0:10:44.12,Default,,0,0,0,,他带着埃丝特要去库彻家过周末\NHe's taking Esther to Kutchers for the weekend.
+Dialogue: 0,0:10:44.13,0:10:46.80,Default,,0,0,0,,- 这算什么啊 - 只要我一句话 他就会留下\N- When this... - But he would have stayed if I asked him to.
+Dialogue: 0,0:10:46.81,0:10:50.50,Default,,0,0,0,,你根本没病 妈 他答应给我机票钱的\NYou're not sick, Mom. He was supposed to give me my money for my flight.
+Dialogue: 0,0:10:50.51,0:10:52.89,Default,,0,0,0,,孩子 那事我可不知道\NWell, I don't know anything about that, sweetie.
+Dialogue: 0,0:10:52.90,0:10:54.90,Default,,0,0,0,,别装蒜 否则我干嘛干这活？\NYes, you do! Why do you think I'm working here?
+Dialogue: 0,0:10:54.91,0:10:57.19,Default,,0,0,0,,我就是为了挣那笔钱\NI literally only accepted this job for that.
+Dialogue: 0,0:10:57.20,0:11:00.11,Default,,0,0,0,,我可比窦娥还冤\NI have no idea what you are implying.
+Dialogue: 0,0:11:00.12,0:11:01.82,Default,,0,0,0,,- 你知道你在干嘛吗？ - 我在干嘛？\N- You know what this is? - What, what is this?
+Dialogue: 0,0:11:01.83,0:11:04.11,Default,,0,0,0,,你在毁我 你在毁我前程\NThis is sabotage. You're sabotaging me.
+Dialogue: 0,0:11:04.12,0:11:06.87,Default,,0,0,0,,别扯了 你是在自毁前程\NOh, please. You're sabotaging your own life.
 Dialogue: 0,0:11:14.09,0:11:15.55,Default,,0,0,0,,- 那是什么? - 什么?\N- What is that? - What?
 Dialogue: 0,0:11:16.51,0:11:18.59,Default,,0,0,0,,你认真的? 觉得我要抢你?\NAre you seriously thinking I'm gonna rob you?
 Dialogue: 0,0:11:18.60,0:11:19.68,Default,,0,0,0,,职业反应\NJust a reflex.
@@ -804,12 +804,12 @@ Dialogue: 0,0:11:42.45,0:11:43.54,Default,,0,0,0,,你确定?\NYou sure about tha
 Dialogue: 0,0:11:43.54,0:11:45.87,Default,,0,0,0,,你往我腿上开枪 下半辈子就在牢里过吧\NYou shoot me in the leg, you'll be spending the next few years in jail.
 Dialogue: 0,0:11:45.87,0:11:47.33,Default,,0,0,0,,那我就往你头上开枪\NI'll shoot you in the head instead.
 Dialogue: 0,0:11:47.33,0:11:48.54,Default,,0,0,0,,你也没那胆子\NYou're not gonna do that either.
-Dialogue: 0,0:11:48.54,0:11:51.25,Default,,0,0,0,,听着 劳埃德 我只要说好的那份 一分都不多要\NLook, Lloyd, I just want what was promised to me, not a penny more.
+Dialogue: 0,0:11:48.54,0:11:51.25,Default,,0,0,0,,听着 洛伊 我只要说好的那份 一分都不多要\NLook, Lloyd, I just want what was promised to me, not a penny more.
 Dialogue: 0,0:11:51.25,0:11:53.55,Default,,0,0,0,,等我回来 带的奖金会是这个数的十倍\NI'm gonna be coming home with ten times that amount in prize money.
 Dialogue: 0,0:11:53.55,0:11:55.63,Default,,0,0,0,,所以睁一只眼闭一只眼 让我拿走应得的\NSo just turn the other cheek, let me take what I'm owed,
 Dialogue: 0,0:11:55.63,0:11:57.43,Default,,0,0,0,,等我回来 匀给你整整100美元\Nand I'll give you an even $100 dollars when I get back.
 Dialogue: 0,0:11:57.43,0:11:59.05,Default,,0,0,0,,没兴趣\NNot interested.
-Dialogue: 0,0:11:59.05,0:12:01.35,Default,,0,0,0,,劳埃德 拜托了 看着我\NLloyd, come on. Look at me, please.
+Dialogue: 0,0:11:59.05,0:12:01.35,Default,,0,0,0,,洛伊 拜托了 看着我\NLloyd, come on. Look at me, please.
 Dialogue: 0,0:12:01.35,0:12:04.77,Default,,0,0,0,,咱俩都清楚 你巴不得看我卷铺盖走人\NWe both know you'd love nothing more than to see my ass get canned.
 Dialogue: 0,0:12:04.77,0:12:07.10,Default,,0,0,0,,你干这活儿比我有干劲一千倍\NYou're a thousand times more motivated than me to do this job,
 Dialogue: 0,0:12:07.10,0:12:08.69,Default,,0,0,0,,但你瞧瞧这个 行吗?\Nand yet look at this, okay?
@@ -819,7 +819,7 @@ Dialogue: 0,0:12:13.28,0:12:16.19,Default,,0,0,0,,经理 我要当你上司了!\
 Dialogue: 0,0:12:16.20,0:12:18.86,Default,,0,0,0,,够不公平吧? 我想开除你就开除你\NHow unfair is that? I could fire you whenever I want.
 Dialogue: 0,0:12:18.86,0:12:21.66,Default,,0,0,0,,我还能让你跪地上扫地\NI could tell you to sweep the floor on your hands and knees.
 Dialogue: 0,0:12:21.66,0:12:23.12,Default,,0,0,0,,怎么样 爽吗?\NHow about that, okay?
-Dialogue: 0,0:12:24.20,0:12:27.41,Default,,0,0,0,,劳埃德 我现在真拿枪指着你呢\NLloyd, I'm actually pointing a gun at you right now.
+Dialogue: 0,0:12:24.20,0:12:27.41,Default,,0,0,0,,洛伊 我现在真拿枪指着你呢\NLloyd, I'm actually pointing a gun at you right now.
 Dialogue: 0,0:12:27.41,0:12:29.21,Default,,0,0,0,,我是真的威胁要开火\NI'm actually threatening to use it.
 Dialogue: 0,0:12:29.21,0:12:32.08,Default,,0,0,0,,这可是场如假包换的抢劫 指纹到处都是\NThis is a legit robbery like any other. My fingerprints are all over this thing.
 Dialogue: 0,0:12:32.09,0:12:33.38,Default,,0,0,0,,这就是事实\NThese are facts.
@@ -1385,7 +1385,7 @@ Dialogue: 0,0:47:45.53,0:47:49.04,Default,,0,0,0,,因为说实话 你是个了�
 Dialogue: 0,0:47:49.04,0:47:50.83,Default,,0,0,0,,我能把鞋卖给残疾人\NI could sell shoes to an amputee.
 Dialogue: 0,0:47:50.83,0:47:52.75,Default,,0,0,0,,那又怎样? 另一个选择呢?\NSo what? What's the other option?
 Dialogue: 0,0:47:52.75,0:47:54.21,Default,,0,0,0,,我控告你\NI press charges.
-Dialogue: 0,0:47:54.21,0:47:56.33,Default,,0,0,0,,- 劳埃德是证人... - 你不会那么干的\N- Lloyd is a witness... - You're not doing that.
+Dialogue: 0,0:47:54.21,0:47:56.33,Default,,0,0,0,,- 洛伊是证人... - 你不会那么干的\N- Lloyd is a witness... - You're not doing that.
 Dialogue: 0,0:47:56.34,0:47:57.42,Default,,0,0,0,,...你得去蹲大牢!\N...and you go to jail!
 Dialogue: 0,0:47:57.42,0:47:59.75,Default,,0,0,0,,真的? 对你亲外甥这么狠? 你疯了吗?\NReally? You'd do that to your own kin? Are you out of your mind?
 Dialogue: 0,0:47:59.76,0:48:02.80,Default,,0,0,0,,- 走着瞧... 这是自作自受 - 嘿 萨尔! 萨尔!\N- We'll see... You took it upon yourself. - Hey, Sal! Sal!
