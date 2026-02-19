@@ -781,7 +781,7 @@ Dialogue: 0,0:10:31.24,0:10:33.14,Default,,0,0,0,,我会挺过去的 别指望�
 Dialogue: 0,0:10:33.15,0:10:36.11,Default,,0,0,0,,妈 别扯了 默里在你那儿吗？别骗我\NEnough, Mom. Are you with Murray? Be honest.
 Dialogue: 0,0:10:36.72,0:10:39.63,Default,,0,0,0,,没有 但他好像准备出趟远门\NNo. I think he left for his trip. Okay?
 Dialogue: 0,0:10:39.64,0:10:41.26,Default,,0,0,0,,出哪门子的远门？\NHis trip? What trip?
-Dialogue: 0,0:10:41.27,0:10:44.12,Default,,0,0,0,,他带着埃丝特要去库彻家过周末\NHe's taking Esther to Kutchers for the weekend.
+Dialogue: 0,0:10:41.27,0:10:44.12,Default,,0,0,0,,他带着埃丝特要去库彻度假村过周末\NHe's taking Esther to Kutchers for the weekend.
 Dialogue: 0,0:10:44.13,0:10:46.80,Default,,0,0,0,,- 这算什么啊 - 只要我一句话 他就会留下\N- When this... - But he would have stayed if I asked him to.
 Dialogue: 0,0:10:46.81,0:10:50.50,Default,,0,0,0,,你根本没病 妈 他答应给我机票钱的\NYou're not sick, Mom. He was supposed to give me my money for my flight.
 Dialogue: 0,0:10:50.51,0:10:52.89,Default,,0,0,0,,孩子 那事我可不知道\NWell, I don't know anything about that, sweetie.
@@ -791,12 +791,13 @@ Dialogue: 0,0:10:57.20,0:11:00.11,Default,,0,0,0,,我可比窦娥还冤\NI have 
 Dialogue: 0,0:11:00.12,0:11:01.82,Default,,0,0,0,,- 你知道你在干嘛吗？ - 我在干嘛？\N- You know what this is? - What, what is this?
 Dialogue: 0,0:11:01.83,0:11:04.11,Default,,0,0,0,,你在毁我 你在毁我前程\NThis is sabotage. You're sabotaging me.
 Dialogue: 0,0:11:04.12,0:11:06.87,Default,,0,0,0,,别扯了 你是在自毁前程\NOh, please. You're sabotaging your own life.
-Dialogue: 0,0:11:14.09,0:11:15.55,Default,,0,0,0,,- 那是什么? - 什么?\N- What is that? - What?
-Dialogue: 0,0:11:16.51,0:11:18.59,Default,,0,0,0,,你认真的? 觉得我要抢你?\NAre you seriously thinking I'm gonna rob you?
-Dialogue: 0,0:11:18.60,0:11:19.68,Default,,0,0,0,,职业反应\NJust a reflex.
-Dialogue: 0,0:11:19.68,0:11:22.22,Default,,0,0,0,,我要是想抢你 你早死在血泊里了\NIf I wanted to rob you, you'd be dead. You'd be in a pool of blood.
-Dialogue: 0,0:11:22.22,0:11:25.27,Default,,0,0,0,,我是来拿西装的 你知道我为了这趟旅行专门买的吗?\NI came to grab my suit. You know I bought this specifically for my trip?
-Dialogue: 0,0:11:25.27,0:11:27.40,Default,,0,0,0,,还没听说打乒乓球得穿西装\NDidn't know you need a suit to play ping pong.
+Dialogue: 0,0:11:14.33,0:11:16.31,Default,,0,0,0,,- 那是什么？ - 什么？\N- What is that? - What?
+Dialogue: 0,0:11:16.51,0:11:18.59,Default,,0,0,0,,你竟然觉得我要抢你？\NAre you seriously thinking I'm gonna rob you?
+Dialogue: 0,0:11:18.60,0:11:19.67,Default,,0,0,0,,职业反应\NJust a reflex.
+Dialogue: 0,0:11:19.68,0:11:22.22,Default,,0,0,0,,我要真想抢你 你早死在血泊里了\NIf I wanted to rob you, you'd be dead. You'd be in a pool of blood.
+Dialogue: 0,0:11:22.24,0:11:25.12,Default,,0,0,0,,我是来拿西装的 这是我特地为这趟比赛买的\NI came to grab my suit. You know I bought this specifically for my trip?
+Dialogue: 0,0:11:25.14,0:11:27.95,Default,,0,0,0,,打小乒乓还要穿西装 真长见识了\NDidn't know you need a suit to play ping pong.
+Dialogue: 0,0:11:25.14,0:11:29.61,Note,,0,0,0,,{\an8}【乒乓：1950年代“乒乓”在部分场合带有嘲讽意味】
 Dialogue: 0,0:11:36.91,0:11:39.45,Default,,0,0,0,,我只想拿回默里欠我的700美元\NI just want the $700 that Murray owes me.
 Dialogue: 0,0:11:39.45,0:11:40.53,Default,,0,0,0,,呵 不给呢?\NYeah, or what?
 Dialogue: 0,0:11:40.53,0:11:42.45,Default,,0,0,0,,- 不然我就往你腿上来一枪 - 你不敢\N- Or I'm gonna shoot you in the leg. - No you're not.
