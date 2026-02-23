@@ -1024,27 +1024,32 @@ Dialogue: 0,0:12:33.38,0:12:35.67,Default,,0,0,0,,把钱柜打开 让我把该�
 Dialogue: 0,0:12:35.69,0:12:37.82,Default,,0,0,0,,回头你照实跟老默说\Nand you can call Murray, tell him exactly what happened,
 Dialogue: 0,0:12:37.83,0:12:40.90,Default,,0,0,0,,想把我轰走还是告我都随你 行吗？\Nget me fired, press charges. Whatever you want, okay?
 Dialogue: 0,0:12:43.34,0:12:44.72,Default,,0,0,0,,行\NFine.
-Dialogue: 0,0:12:52.36,0:12:54.48,Default,,0,0,0,,- 给您 先生 - 谢了\N- Here you go, sir. - Thank you.
-Dialogue: 0,0:12:54.48,0:12:56.82,Lyrics,,0,0,0,,♪ 我偏爱那高峰时分 ♪\N♪ The time I like is the rush hour ♪
-Dialogue: 0,0:12:57.40,0:12:58.74,Lyrics,,0,0,0,,♪ 只因我沉醉那喧嚣 ♪\N♪ 'Cause I like the rush ♪
-Dialogue: 0,0:12:59.82,0:13:01.91,Lyrics,,0,0,0,,♪ 人潮推搡挤动 ♪\N♪ The pushing of the people ♪
-Dialogue: 0,0:13:02.82,0:13:04.37,Lyrics,,0,0,0,,♪ 一切深得我心 ♪\N♪ I like it all so much ♪
-Dialogue: 0,0:13:05.24,0:13:07.29,Lyrics,,0,0,0,,♪ 万物熙攘忙碌 ♪\N♪ Such a mass of motion ♪
-Dialogue: 0,0:13:07.83,0:13:09.83,Lyrics,,0,0,0,,♪ 莫问去向何方 ♪\N♪ Do not know where it goes ♪
-Dialogue: 0,0:13:11.63,0:13:13.00,Default,,0,0,0,,咱们没有单间吗?\NWe don't get our own rooms?
-Dialogue: 0,0:13:15.42,0:13:16.63,Default,,0,0,0,,这儿冷得要死\NIt's freezing in here.
-Dialogue: 0,0:13:17.42,0:13:21.80,Default,,0,0,0,,现在给我严肃点 盯着我\NI really need you to be serious now. Eyes on me.
-Dialogue: 0,0:13:21.80,0:13:23.34,Default,,0,0,0,,巴基斯坦 看着我\NPakistan, I need you to look at me.
-Dialogue: 0,0:13:23.35,0:13:25.56,Default,,0,0,0,,等等 日本今年派队来了? 瞧见没?\NWait, Japan brought a team this year? You see that?
-Dialogue: 0,0:13:25.56,0:13:28.31,Default,,0,0,0,,是啊 日本人派了一队\NYeah. The Japs sent a team.
-Dialogue: 0,0:13:28.31,0:13:29.73,Default,,0,0,0,,禁令解除了?\NWhat about the travel ban?
-Dialogue: 0,0:13:29.73,0:13:32.02,Default,,0,0,0,,- 肯定解禁了 - 不再禁了?\N- They must have lifted it. - No more travel ban?
-Dialogue: 0,0:13:32.02,0:13:35.61,Default,,0,0,0,,好了 先生们 亮下球拍吧\NOkay, gentlemen, I want you to flip your paddles for me now.
+Dialogue: 0,0:12:52.35,0:12:54.47,Default,,0,0,0,,- 给您 先生 - 谢谢\N- Here you go, sir. - Thank you.
+Dialogue: 0,0:12:54.48,0:12:56.82,Lyrics,,0,0,0,,{\an7}♪ 我爱高光时刻 ♪\N♪ The time I like is the rush hour ♪
+Dialogue: 0,0:12:57.40,0:12:58.93,Lyrics,,0,0,0,,{\an7}♪ 我爱人群喧嚣 ♪\N♪ 'Cause I like the rush ♪
+Dialogue: 0,0:12:59.82,0:13:01.91,Lyrics,,0,0,0,,{\an7}♪ 人群拥挤又吵闹 ♪\N♪ The pushing of the people ♪
+Dialogue: 0,0:13:00.42,0:13:01.99,Default,,0,0,0,,垃圾\NYou son of...
+Dialogue: 0,0:13:02.82,0:13:04.37,Lyrics,,0,0,0,,{\an7}♪ 我就沉浸其中 ♪\N♪ I like it all so much ♪
+Dialogue: 0,0:13:05.24,0:13:07.29,Lyrics,,0,0,0,,{\an7}♪ 人潮蜂拥涌过来 ♪\N♪ Such a mass of motion ♪
+Dialogue: 0,0:13:07.83,0:13:09.83,Lyrics,,0,0,0,,{\an7}♪ 谁晓得要去哪儿 ♪\N♪ Do not know where it goes ♪
+Dialogue: 0,0:13:10.70,0:13:13.21,Lyrics,,0,0,0,,{\an7}♪ 我随人群往前走 ♪\N♪ I move with the movement ♪
+Dialogue: 0,0:13:11.63,0:13:13.08,Default,,0,0,0,,还没有单间吗？\NWe don't get our own rooms?
+Dialogue: 0,0:13:13.14,0:13:15.79,Screen,,0,0,0,,{\an8}（伦敦）
+Dialogue: 0,0:13:14.88,0:13:16.80,Lyrics,,0,0,0,,{\an7}♪ 尽情享受这感觉 ♪\N♪ And I have the touch ♪
+Dialogue: 0,0:13:15.42,0:13:16.75,Default,,0,0,0,,这里还冷得要死\NIt's freezing in here.
+Dialogue: 0,0:13:17.42,0:13:21.76,Default,,0,0,0,,现在给我正经点儿 眼睛看这里\NI really need you to be serious now. Eyes on me.
+Dialogue: 0,0:13:21.78,0:13:23.34,Default,,0,0,0,,巴基斯坦 看这里\NPakistan, I need you to look at me.
+Dialogue: 0,0:13:23.35,0:13:25.56,Default,,0,0,0,,日本今年也派队来了？瞧见没？\NWait, Japan brought a team this year? You see that?
+Dialogue: 0,0:13:25.58,0:13:28.23,Default,,0,0,0,,是啊 小日本也来了\NYeah. The Japs sent a team.
+Dialogue: 0,0:13:28.24,0:13:29.73,Default,,0,0,0,,出国禁令呢？\NWhat about the travel ban?
+Dialogue: 0,0:13:28.24,0:13:32.04,Note,,0,0,0,,{\an8}【1952年随盟军移交日本主权 出入境管制开始放宽】
+Dialogue: 0,0:13:29.75,0:13:32.02,Default,,0,0,0,,- 肯定解禁了 - 出国禁令解除了？\N- They must have lifted it. - No more travel ban?
+Dialogue: 0,0:13:32.04,0:13:35.61,Default,,0,0,0,,好了 先生们 亮下球拍吧\NOkay, gentlemen, I want you to flip your paddles for me now.
 Dialogue: 0,0:13:35.61,0:13:36.61,Default,,0,0,0,,非常感谢\NThank you very much.
-Dialogue: 0,0:13:37.23,0:13:40.45,Default,,0,0,0,,来了 一 二 三\NHere we go. One. Two. Three.
+Dialogue: 0,0:13:37.22,0:13:40.44,Default,,0,0,0,,来了 一 二 三\NHere we go. One. Two. Three.
+Dialogue: 0,0:13:38.74,0:13:40.70,Lyrics,,0,0,0,,{\an7}♪ 握个手吧 ♪\N♪ Shake those hands ♪
 Dialogue: 0,0:13:40.99,0:13:42.20,Default,,0,0,0,,别动\NHold it still.
-Dialogue: 0,0:13:44.62,0:13:45.66,Lyrics,,0,0,0,,♪ 握个手吧 ♪\N♪ Shake hands ♪
-Dialogue: 0,0:13:46.95,0:13:48.24,Lyrics,,0,0,0,,♪ 握个手吧 ♪\N♪ Shake hands ♪
+Dialogue: 0,0:13:41.51,0:13:43.00,Lyrics,,0,0,0,,{\an7}♪ 握个手吧 ♪\N♪ Shake those hands ♪
 Dialogue: 0,0:13:55.79,0:13:57.55,Default,,0,0,0,,赛点 毛瑟\NMatch point, Mauser.
 Dialogue: 0,0:14:19.19,0:14:20.82,Default,,0,0,0,,获胜 毛瑟\NMatch, Mauser.
 Dialogue: 0,0:14:24.70,0:14:28.41,Default,,0,0,0,,你让我打太多正手了 应该逼我打反手的\NYou let me get to my forehand too much. Should've tried to put me in my backhand.
