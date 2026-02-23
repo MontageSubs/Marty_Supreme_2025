@@ -1028,7 +1028,7 @@ Dialogue: 0,0:12:52.35,0:12:54.47,Default,,0,0,0,,- 给您 先生 - 谢谢\N- He
 Dialogue: 0,0:12:54.48,0:12:56.82,Lyrics,,0,0,0,,{\an7}♪ 我爱高光时刻 ♪\N♪ The time I like is the rush hour ♪
 Dialogue: 0,0:12:57.40,0:12:58.93,Lyrics,,0,0,0,,{\an7}♪ 我爱人群喧嚣 ♪\N♪ 'Cause I like the rush ♪
 Dialogue: 0,0:12:59.82,0:13:01.91,Lyrics,,0,0,0,,{\an7}♪ 人群拥挤又吵闹 ♪\N♪ The pushing of the people ♪
-Dialogue: 0,0:13:00.42,0:13:01.99,Default,,0,0,0,,垃圾\NYou son of...
+Dialogue: 0,0:13:00.77,0:13:01.99,Default,,0,0,0,,垃圾\NYou son of...
 Dialogue: 0,0:13:02.82,0:13:04.37,Lyrics,,0,0,0,,{\an7}♪ 我就沉浸其中 ♪\N♪ I like it all so much ♪
 Dialogue: 0,0:13:05.24,0:13:07.29,Lyrics,,0,0,0,,{\an7}♪ 人潮蜂拥涌过来 ♪\N♪ Such a mass of motion ♪
 Dialogue: 0,0:13:07.83,0:13:09.83,Lyrics,,0,0,0,,{\an7}♪ 谁晓得要去哪儿 ♪\N♪ Do not know where it goes ♪
@@ -1044,74 +1044,83 @@ Dialogue: 0,0:13:25.58,0:13:28.23,Default,,0,0,0,,是啊 小日本也来了\NYea
 Dialogue: 0,0:13:28.24,0:13:29.73,Default,,0,0,0,,出国禁令呢？\NWhat about the travel ban?
 Dialogue: 0,0:13:28.24,0:13:32.04,Note,,0,0,0,,{\an8}【1952年随盟军移交日本主权 出入境管制开始放宽】
 Dialogue: 0,0:13:29.75,0:13:32.02,Default,,0,0,0,,- 肯定解禁了 - 出国禁令解除了？\N- They must have lifted it. - No more travel ban?
-Dialogue: 0,0:13:32.04,0:13:35.61,Default,,0,0,0,,好了 先生们 亮下球拍吧\NOkay, gentlemen, I want you to flip your paddles for me now.
-Dialogue: 0,0:13:35.61,0:13:36.61,Default,,0,0,0,,非常感谢\NThank you very much.
-Dialogue: 0,0:13:37.22,0:13:40.44,Default,,0,0,0,,来了 一 二 三\NHere we go. One. Two. Three.
+Dialogue: 0,0:13:32.04,0:13:35.61,Default,,0,0,0,,各位 现在把球拍翻过来 露出国旗\NOkay, gentlemen, I want you to flip your paddles for me now.
+Dialogue: 0,0:13:35.63,0:13:36.85,Default,,0,0,0,,谢谢配合\NThank you very much.
+Dialogue: 0,0:13:37.22,0:13:40.44,Default,,0,0,0,,准备 一 二 三\NHere we go. One. Two. Three.
 Dialogue: 0,0:13:38.74,0:13:40.70,Lyrics,,0,0,0,,{\an7}♪ 握个手吧 ♪\N♪ Shake those hands ♪
 Dialogue: 0,0:13:40.99,0:13:42.20,Default,,0,0,0,,别动\NHold it still.
 Dialogue: 0,0:13:41.51,0:13:43.00,Lyrics,,0,0,0,,{\an7}♪ 握个手吧 ♪\N♪ Shake those hands ♪
-Dialogue: 0,0:13:55.79,0:13:57.55,Default,,0,0,0,,赛点 毛瑟\NMatch point, Mauser.
-Dialogue: 0,0:14:19.19,0:14:20.82,Default,,0,0,0,,获胜 毛瑟\NMatch, Mauser.
-Dialogue: 0,0:14:24.70,0:14:28.41,Default,,0,0,0,,你让我打太多正手了 应该逼我打反手的\NYou let me get to my forehand too much. Should've tried to put me in my backhand.
-Dialogue: 0,0:14:28.41,0:14:29.91,Default,,0,0,0,,得分 远藤\NPoint, Endo.
-Dialogue: 0,0:14:50.18,0:14:52.10,Default,,0,0,0,,得分 远藤\NPoint, Endo.
-Dialogue: 0,0:14:57.94,0:15:00.48,Default,,0,0,0,,- 几比几了? - 19比4\N- What's the score here? - Nineteen-four.
-Dialogue: 0,0:15:00.48,0:15:02.69,Default,,0,0,0,,- 那个日本人? - 日本人把贝利虐惨了\N- The Japanese guy? - Japanese guy's trashing Bailey.
-Dialogue: 0,0:15:03.95,0:15:05.91,Default,,0,0,0,,他在用什么? 那是什么球拍?\NWhat's he using? What's that paddle?
-Dialogue: 0,0:15:05.91,0:15:08.16,Default,,0,0,0,,不知道 伙计 谁都没见过\NI don't know, mate. No one knows.
+Dialogue: 0,0:13:44.44,0:13:45.79,Lyrics,,0,0,0,,{\an7}♪ 握手 ♪\N♪ Shake hands ♪
+Dialogue: 0,0:13:44.67,0:13:45.98,Screen,,0,0,0,,{\an8}（第一轮）
+Dialogue: 0,0:13:47.02,0:13:48.38,Lyrics,,0,0,0,,{\an7}♪ 握手 ♪\N♪ Shake hands ♪
+Dialogue: 0,0:13:55.79,0:13:57.55,Default,,0,0,0,,毛瑟 赛点\NMatch point, Mauser.
+Dialogue: 0,0:13:57.57,0:14:02.63,Note,,0,0,0,,{\an8}【赛点：率先达到者只需再得一分即可赢下整场比赛】
+Dialogue: 0,0:14:02.65,0:14:10.23,Note,,0,0,0,,{\an8}【1950年代乒乓球普遍采用每局21分制 比赛多为五局三胜】
+Dialogue: 0,0:14:19.27,0:14:21.63,Default,,0,0,0,,马蒂·毛瑟 胜出\NMatch, Mauser.
+Dialogue: 0,0:14:24.70,0:14:28.40,Default,,0,0,0,,你给我太多正手机会了 应该逼我打反手\NYou let me get to my forehand too much. Should've tried to put me in my backhand.
+Dialogue: 0,0:14:24.70,0:14:28.43,Note,,0,0,0,,{\an8}【译注：在乒乓球中正手利于进攻 反手偏防守】
+Dialogue: 0,0:14:28.43,0:14:30.07,Default,,0,0,0,,远藤康斗 得分\NPoint, Endo.
+Dialogue: 0,0:14:50.24,0:14:52.16,Default,,0,0,0,,远藤康斗 得分\NPoint, Endo.
+Dialogue: 0,0:14:57.93,0:15:00.47,Default,,0,0,0,,- 几比几了？ - 19比4\N- What's the score here? - Nineteen-four.
+Dialogue: 0,0:15:00.48,0:15:03.39,Default,,0,0,0,,- 日本人领先？ - 那日本小子在揍烂贝利\N- The Japanese guy? - Japanese guy's trashing Bailey.
+Dialogue: 0,0:15:03.95,0:15:05.91,Default,,0,0,0,,他手里是什么？那是什么球拍？\NWhat's he using? What's that paddle?
+Dialogue: 0,0:15:05.93,0:15:08.18,Default,,0,0,0,,不知道 没人见过\NI don't know, mate. No one knows.
 Dialogue: 0,0:15:10.62,0:15:11.99,Default,,0,0,0,,没声音\NIt's silent.
-Dialogue: 0,0:15:12.00,0:15:14.12,Default,,0,0,0,,- 跟幽灵一样! - 哇\N- Like a ghost! - Wow.
-Dialogue: 0,0:15:16.25,0:15:18.21,Default,,0,0,0,,得分 远藤\NPoint, Endo.
-Dialogue: 0,0:15:19.21,0:15:20.92,Default,,0,0,0,,赛点\NMatch point.
-Dialogue: 0,0:15:56.16,0:15:58.33,Default,,0,0,0,,- 打得好 马蒂 - 打得好\N- Great game, Marty. - Great game.
-Dialogue: 0,0:15:58.33,0:15:59.75,Default,,0,0,0,,比赛结束 毛瑟胜\NMatch, Mauser.
-Dialogue: 0,0:16:16.77,0:16:19.81,Default,,0,0,0,,斯德哥尔摩锦标赛的冠军...\NThe winners of the tournament at Stockholm...
-Dialogue: 0,0:16:19.81,0:16:22.86,Default,,0,0,0,,嘿 你就是拉姆·塞西 对吧?\NHey. You're Ram Sethi, right?
-Dialogue: 0,0:16:22.86,0:16:24.28,Default,,0,0,0,,抱歉 能请你稍等一下吗?\NSorry, could you hold for a moment?
-Dialogue: 0,0:16:24.28,0:16:26.57,Default,,0,0,0,,- 你不介意吧? - 没事 找我有事吗?\N- You don't mind? - No. Can I help you with something?
-Dialogue: 0,0:16:26.57,0:16:28.82,Default,,0,0,0,,我只是好奇 你们在城里住哪儿?\NI was just curious, where are you staying while you're in town?
-Dialogue: 0,0:16:28.82,0:16:30.78,Default,,0,0,0,,跟你有什么关系?\NWhat business is it of yours?
-Dialogue: 0,0:16:30.78,0:16:32.45,Default,,0,0,0,,我只是问问 你们住哪家酒店?\NI'm just saying, what hotel are you staying at?
-Dialogue: 0,0:16:32.45,0:16:34.87,Default,,0,0,0,,国际乒联的所有代表都住在丽兹酒店\NAll the IATT representatives are stationed at the Ritz.
-Dialogue: 0,0:16:34.87,0:16:37.25,Default,,0,0,0,,- 丽兹酒店? 嗯 我也听说了 - 是的\N- At the Ritz? Yeah, that's what I heard. - Yes.
-Dialogue: 0,0:16:37.25,0:16:39.12,Default,,0,0,0,,- 你觉得这合适吗? - 我不懂你在暗示什么\N- Do you think that's okay? - I don't know what you're implying.
-Dialogue: 0,0:16:39.12,0:16:41.92,Default,,0,0,0,,- 你见过他们给我安排的地儿吗? - 有问题吗?\N- Have you seen where they put me? - Is it a problem?
-Dialogue: 0,0:16:41.92,0:16:45.09,Default,,0,0,0,,恕我直言 先生 那地方就是个垃圾场\NWell, with all due respect, sir, it's a dump.
-Dialogue: 0,0:16:45.09,0:16:47.67,Default,,0,0,0,,真抱歉 那儿没达到您的高标准\NI'm so sorry it doesn't meet your high standards.
-Dialogue: 0,0:16:47.67,0:16:50.72,Default,,0,0,0,,我们为所有球员提供免费住宿 毛瑟先生\NWe offer complimentary housing to all our players, Mr. Mauser.
-Dialogue: 0,0:16:50.72,0:16:52.72,Default,,0,0,0,,据我所知 只有你在抱怨\NSo far as I know, you're the only one to complain.
-Dialogue: 0,0:16:52.72,0:16:54.89,Default,,0,0,0,,你跟我说话的口气 就像我是街边随处可见的球员一样?\NYou're talking to me like I'm any player off the street, okay?
-Dialogue: 0,0:16:54.89,0:16:57.14,Default,,0,0,0,,我得休息好 才能赢下锦标赛\NI need good rest so I can win the tournament.
-Dialogue: 0,0:16:57.14,0:16:59.85,Default,,0,0,0,,你很清楚 美国人夺冠对这项运动意味着什么\NYou know perfectly well what an American win will do for the future of the sport.
-Dialogue: 0,0:16:59.85,0:17:03.02,Default,,0,0,0,,- 我对乒乓球有好处 塞西先生 - 那就向美乒协反映吧\N- I'm good for table tennis, Mr. Sethi. - Appeal to the USTTA.
-Dialogue: 0,0:17:03.02,0:17:05.73,Default,,0,0,0,,美乒协根本不存在 就在哪弄了张桌子坐了俩人\NThere is no USTTA. The USTTA is two guys and a desk. It doesn't exist.
-Dialogue: 0,0:17:05.73,0:17:07.28,Default,,0,0,0,,- 那不是我的问题 - 这就是你的问题\N- Well, that's not my problem. - It is your problem.
-Dialogue: 0,0:17:07.28,0:17:09.49,Default,,0,0,0,,我要住你住的那儿! 那才是我需要的!\NI wanna stay where you're staying! That's what I need!
-Dialogue: 0,0:17:09.49,0:17:12.41,Default,,0,0,0,,我觉得这次谈话非常无礼\NI am finding this whole exchange really offensive.
-Dialogue: 0,0:17:12.41,0:17:13.87,Default,,0,0,0,,- 你感到冒犯了? - 我感到被冒犯了\N- You're offended? - I am offended.
-Dialogue: 0,0:17:13.87,0:17:17.41,Default,,0,0,0,,我还被冒犯了呢! 你让你们的明星球员蜷在耗子洞里!\NI'm offended! You're making your star player huddle in a rat's ass!
-Dialogue: 0,0:17:18.12,0:17:19.66,Default,,0,0,0,,真抱歉 刚才被打断了\NI'm so sorry for that interruption.
-Dialogue: 0,0:17:19.67,0:17:22.54,Default,,0,0,0,,嗯 回到锡兰和墨西哥的话题...\NUm, back to Ceylon and Mexico...
-Dialogue: 0,0:17:22.54,0:17:26.21,Default,,0,0,0,,- 这酒店真不赖 肯定得花不少钱 - 是啊 特别棒\N- This is a nice hotel. Must cost a mint. - Yeah, very nice.
-Dialogue: 0,0:17:26.21,0:17:28.71,Default,,0,0,0,,住宿费是国际乒联报销吗?\NThe IATT covers accommodations?
-Dialogue: 0,0:17:28.72,0:17:32.01,Default,,0,0,0,,- 只给明星球员报销 - 真的吗? 这种球员有几个?\N- Only for their star players. - Is that right? How many are there?
-Dialogue: 0,0:17:32.01,0:17:35.60,Default,,0,0,0,,明星球员? 我不知道 反正我也没见着别人 所以就我一个\NStar players? I don't know. I haven't seen any others, so one.
-Dialogue: 0,0:17:35.60,0:17:36.89,Default,,0,0,0,,进半决赛了 紧张吗?\NAny nerves, going into the semis?
-Dialogue: 0,0:17:36.89,0:17:39.81,Default,,0,0,0,,紧张? 对阵克莱茨基? 开什么玩笑?\NNerves? Against Kletzki? No. You kidding me?
-Dialogue: 0,0:17:39.81,0:17:42.14,Default,,0,0,0,,他可是过去三年的锦标赛冠军\NWell, he's won the tournament for the last three years.
-Dialogue: 0,0:17:42.15,0:17:44.94,Default,,0,0,0,,- 他名气可不小 - 我的名气也不小\N- He's got quite the reputation. - I have quite the reputation.
-Dialogue: 0,0:17:44.94,0:17:48.53,Default,,0,0,0,,听着 奥斯威辛没办成的事 我要替它办了\NLook, I'm gonna do to Kletzki what Auschwitz couldn't.
-Dialogue: 0,0:17:48.53,0:17:50.28,Default,,0,0,0,,行了 我要把这活儿彻底收个尾\NOkay. I'm gonna finish the job.
-Dialogue: 0,0:17:52.87,0:17:55.74,Default,,0,0,0,,- 我的天呐 - 哥们 话说重了点\N- Jesus Christ. - A little strong, mate.
-Dialogue: 0,0:17:55.74,0:17:57.33,Default,,0,0,0,,没事 我是犹太人 我能这么说\NIt's all right. I'm Jewish. I can say that.
-Dialogue: 0,0:17:57.33,0:17:59.91,Default,,0,0,0,,事实上 仔细想想 我就是希特勒最深的梦魇\NIn fact, if you think about it, I'm like Hitler's worst nightmare.
-Dialogue: 0,0:17:59.91,0:18:01.12,Default,,0,0,0,,为什么这么说?\NAnd why's that?
-Dialogue: 0,0:18:01.12,0:18:02.92,Default,,0,0,0,,看看我 我还在这儿呢\NLook at me. I'm here.
-Dialogue: 0,0:18:02.92,0:18:06.09,Default,,0,0,0,,我办到了 我站在巅峰 我是希特勒战败后的终极产物\NI did it, I'm on top. I'm the ultimate product of Hitler's defeat.
-Dialogue: 0,0:18:07.05,0:18:09.59,Default,,0,0,0,,行 记下来 这段不错 记下来\NYeah, write that down. That was good. Write that down.
-Dialogue: 0,0:18:09.59,0:18:11.34,Default,,0,0,0,,- 写得好 - "希特勒战败后的终极产物"\N- Nice one. - "Ultimate product of Hitler's defeat."
-Dialogue: 0,0:18:11.34,0:18:13.63,Default,,0,0,0,,- 我就喜欢这种自信 - 把它印在我的照片下面\N- I do like that confidence. - Put that under a picture of me.
-Dialogue: 0,0:18:13.64,0:18:15.97,Default,,0,0,0,,谈谈你的成长背景吧\N- Tell us a bit about your background. - My background?
+Dialogue: 0,0:15:12.01,0:15:14.34,Default,,0,0,0,,- 神出鬼没的 - 哇\N- Like a ghost! - Wow.
+Dialogue: 0,0:15:14.88,0:15:16.24,Default,,0,0,0,,贝利 好好打\NFuck, Bailey.
+Dialogue: 0,0:15:16.26,0:15:18.22,Default,,0,0,0,,远藤康斗 得分\NPoint, Endo.
+Dialogue: 0,0:15:19.17,0:15:20.88,Default,,0,0,0,,赛点\NMatch point.
+Dialogue: 0,0:15:30.36,0:15:32.58,Screen,,0,0,0,,{\an8}（第三轮）
+Dialogue: 0,0:15:56.21,0:15:58.38,Default,,0,0,0,,- 打得好 马蒂 - 打得好\N- Great game, Marty. - Great game.
+Dialogue: 0,0:15:58.40,0:16:00.07,Default,,0,0,0,,马蒂·毛瑟 胜出\NMatch, Mauser.
+Dialogue: 0,0:16:16.76,0:16:19.80,Default,,0,0,0,,那些在斯德哥尔胜出的人...\NThe winners of the tournament at Stockholm...
+Dialogue: 0,0:16:19.81,0:16:22.85,Default,,0,0,0,,嘿 你是拉姆·塞西吧\NHey. You're Ram Sethi, right?
+Dialogue: 0,0:16:22.86,0:16:24.27,Default,,0,0,0,,抱歉 您先等一会儿\NSorry, could you hold for a moment?
+Dialogue: 0,0:16:24.28,0:16:26.56,Default,,0,0,0,,- 你不介意吧？ - 请说 您有啥事儿？\N- You don't mind? - No. Can I help you with something?
+Dialogue: 0,0:16:26.57,0:16:28.81,Default,,0,0,0,,打听个事 你们住在哪家酒店？\NI was just curious, where are you staying while you're in town?
+Dialogue: 0,0:16:28.82,0:16:30.77,Default,,0,0,0,,- 这关您什么事儿？ - 没事\N- What business is it of yours? - No.
+Dialogue: 0,0:16:30.78,0:16:32.44,Default,,0,0,0,,就是随便打听下\NI'm just saying, what hotel are you staying at?
+Dialogue: 0,0:16:32.46,0:16:34.86,Default,,0,0,0,,国际乒联儿的官员儿都住丽兹酒店\NAll the IATT representatives are stationed at the Ritz.
+Dialogue: 0,0:16:34.87,0:16:37.24,Default,,0,0,0,,- 丽兹酒店？别人也这么说 - 对\N- At the Ritz? Yeah, that's what I heard. - Yes.
+Dialogue: 0,0:16:37.25,0:16:39.41,Default,,0,0,0,,- 就这么定了 你没意见吧？ - 什么就这么定了？\N- Do you think that's okay? - I don't know what you're implying.
+Dialogue: 0,0:16:39.43,0:16:41.81,Default,,0,0,0,,- 你见过我住的那地方吗？ - 有啥问题吗？\N- Have you seen where they put me? - Is it a problem?
+Dialogue: 0,0:16:41.82,0:16:44.99,Default,,0,0,0,,客气说 那地方就是个狗窝\NWell, with all due respect, sir, it's a dump.
+Dialogue: 0,0:16:45.01,0:16:47.66,Default,,0,0,0,,哎呀 真不好意思啊 没伺候好您这位\NI'm so sorry it doesn't meet your high standards.
+Dialogue: 0,0:16:47.67,0:16:50.49,Default,,0,0,0,,咱这儿可是免费包住的 毛瑟先生啊\NWe offer complimentary housing to all our players, Mr. Mauser.
+Dialogue: 0,0:16:50.50,0:16:52.82,Default,,0,0,0,,我就纳闷 怎么就您在这儿挑三拣四？\NSo far as I know, you're the only one to complain.
+Dialogue: 0,0:16:52.84,0:16:54.89,Default,,0,0,0,,你这口气 别把我当普通选手 好吗？\NYou're talking to me like I'm any player off the street, okay?
+Dialogue: 0,0:16:54.91,0:16:57.13,Default,,0,0,0,,我得休息好 才能赢下锦标赛\NI need good rest so I can win the tournament.
+Dialogue: 0,0:16:57.14,0:16:59.84,Default,,0,0,0,,你很清楚美国人赢对这项运动的好处\NYou know perfectly well what an American win will do for the future of the sport.
+Dialogue: 0,0:16:59.85,0:17:03.02,Default,,0,0,0,,- 我未来就是桌球的代言人 - 那您就向美乒协反映呗\N- I'm good for table tennis, Mr. Sethi. - Appeal to the USTTA.
+Dialogue: 0,0:17:03.04,0:17:05.72,Default,,0,0,0,,美乒协有用吗？他们整个比赛就派两个人\NThere is no USTTA. The USTTA is two guys and a desk. It doesn't exist.
+Dialogue: 0,0:17:05.73,0:17:07.31,Default,,0,0,0,,- 那就不归我管了 - 就归你管\N- Well, that's not my problem. - It is your problem.
+Dialogue: 0,0:17:07.33,0:17:09.60,Default,,0,0,0,,我要住你住的那家酒店 就这么简单\NI wanna stay where you're staying! That's what I need!
+Dialogue: 0,0:17:09.61,0:17:12.44,Default,,0,0,0,,您这番言论实在是太失礼了\NI am finding this whole exchange really offensive.
+Dialogue: 0,0:17:12.45,0:17:13.90,Default,,0,0,0,,- 我失礼？ - 对 您失礼\N- You're offended? - I am offended.
+Dialogue: 0,0:17:13.92,0:17:17.76,Default,,0,0,0,,你们才失礼呢 让明星选手住狗窝\NI'm offended! You're making your star player huddle in a rat's ass!
+Dialogue: 0,0:17:18.12,0:17:19.66,Default,,0,0,0,,抱歉刚才被打断了\NI'm so sorry for that interruption.
+Dialogue: 0,0:17:19.68,0:17:22.53,Default,,0,0,0,,那咱们接着说锡兰和墨西哥的事儿...\NUm, back to Ceylon and Mexico...
+Dialogue: 0,0:17:22.54,0:17:26.32,Default,,0,0,0,,- 这酒店真不赖 肯定很贵 - 是啊 确实不错\N- This is a nice hotel. Must cost a mint. - Yeah, very nice.
+Dialogue: 0,0:17:26.33,0:17:28.59,Default,,0,0,0,,是国际乒联报销的吗？\NThe IATT covers accommodations?
+Dialogue: 0,0:17:28.61,0:17:31.94,Default,,0,0,0,,- 明星选手才有这种待遇 - 是吗？那有多少名啊\N- Only for their star players. - Is that right? How many are there?
+Dialogue: 0,0:17:31.95,0:17:35.24,Default,,0,0,0,,明星选手？不知道 听说就一个\NStar players? I don't know. I haven't seen any others, so one.
+Dialogue: 0,0:17:35.25,0:17:36.79,Default,,0,0,0,,进半决赛了 紧张吗？\NAny nerves, going into the semis?
+Dialogue: 0,0:17:36.81,0:17:39.86,Default,,0,0,0,,紧张？对阵克莱茨基？别闹了\NNerves? Against Kletzki? No. You kidding me?
+Dialogue: 0,0:17:40.01,0:17:42.14,Default,,0,0,0,,他已连续三年夺冠了\NWell, he's won the tournament for the last three years.
+Dialogue: 0,0:17:42.16,0:17:44.94,Default,,0,0,0,,- 他名气可不小 - 我名气也不小\N- He's got quite the reputation. - I have quite the reputation.
+Dialogue: 0,0:17:44.96,0:17:48.85,Default,,0,0,0,,奥斯维辛集中营都办不到的事 我要办成\NLook, I'm gonna do to Kletzki what Auschwitz couldn't.
+Dialogue: 0,0:17:48.86,0:17:51.03,Default,,0,0,0,,看我怎么把他灭了\NOkay. I'm gonna finish the job.
+Dialogue: 0,0:17:48.86,0:17:53.07,Note,,0,0,0,,{\an8}【奥斯维辛：纳粹设立的集中营 实施种族灭绝】
+Dialogue: 0,0:17:53.09,0:17:55.58,Default,,0,0,0,,- 天呐 - 这话有点过了\N- Jesus Christ. - A little strong, mate.
+Dialogue: 0,0:17:55.60,0:17:57.38,Default,,0,0,0,,没事的 我能说 我也是犹太人\NIt's all right. I'm Jewish. I can say that.
+Dialogue: 0,0:17:57.40,0:17:59.90,Default,,0,0,0,,事实上你想想 我更像是希特勒的大噩梦\NIn fact, if you think about it, I'm like Hitler's worst nightmare.
+Dialogue: 0,0:17:59.91,0:18:01.02,Default,,0,0,0,,此话怎讲？\NAnd why's that?
+Dialogue: 0,0:18:01.04,0:18:02.91,Default,,0,0,0,,看看我 我活得好好的在这里\NLook at me. I'm here.
+Dialogue: 0,0:18:02.92,0:18:06.90,Default,,0,0,0,,我还混到了上层 我就是希特勒失败的最终证明\NI did it, I'm on top. I'm the ultimate product of Hitler's defeat.
+Dialogue: 0,0:18:07.10,0:18:09.58,Default,,0,0,0,,对 把这句话记下来 都记下来\NYeah, write that down. That was good. Write that down.
+Dialogue: 0,0:18:09.59,0:18:11.34,Default,,0,0,0,,- 不错 - “希特勒失败的最终证明”\N- Nice one. - "Ultimate product of Hitler's defeat."
+Dialogue: 0,0:18:11.36,0:18:13.51,Default,,0,0,0,,- 你总是那么自信吗？ - 把那句话放在我的照片下面\N- Do you like that confidence? - Put that under a picture of me.
+Dialogue: 0,0:18:13.53,0:18:15.95,Default,,0,0,0,,谈谈你的成长背景吧\N- Tell us a bit about your background. - My background?
 Dialogue: 0,0:18:20.10,0:18:22.98,Default,,0,0,0,,不说笑了... 我妈死于难产\NNo, but seriously... My mother died in childbirth.
 Dialogue: 0,0:18:22.98,0:18:25.77,Default,,0,0,0,,我爸是个赌棍输家 我两岁时他就抛弃了我\NMy father was a compulsive loser who abandoned me when I was two years old.
 Dialogue: 0,0:18:25.77,0:18:27.52,Default,,0,0,0,,我被困在纽约的孤儿院系统里\NI got stuck in the New York City orphanage system,
