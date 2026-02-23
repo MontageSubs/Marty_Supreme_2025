@@ -1087,11 +1087,11 @@ Dialogue: 0,0:16:39.43,0:16:41.81,Default,,0,0,0,,- 你见过我住的那地方�
 Dialogue: 0,0:16:41.82,0:16:44.99,Default,,0,0,0,,客气说 那地方就是个狗窝\NWell, with all due respect, sir, it's a dump.
 Dialogue: 0,0:16:45.01,0:16:47.66,Default,,0,0,0,,哎呀 真不好意思啊 没伺候好您这位\NI'm so sorry it doesn't meet your high standards.
 Dialogue: 0,0:16:47.67,0:16:50.49,Default,,0,0,0,,咱这儿可是免费包住的 毛瑟先生啊\NWe offer complimentary housing to all our players, Mr. Mauser.
-Dialogue: 0,0:16:50.50,0:16:52.82,Default,,0,0,0,,我就纳闷 怎么就您在这儿挑三拣四？\NSo far as I know, you're the only one to complain.
+Dialogue: 0,0:16:50.51,0:16:52.82,Default,,0,0,0,,我就纳闷 怎么就您在这儿挑三拣四？\NSo far as I know, you're the only one to complain.
 Dialogue: 0,0:16:52.84,0:16:54.89,Default,,0,0,0,,你这口气 别把我当普通选手 好吗？\NYou're talking to me like I'm any player off the street, okay?
-Dialogue: 0,0:16:54.91,0:16:57.13,Default,,0,0,0,,我得休息好 才能赢下锦标赛\NI need good rest so I can win the tournament.
+Dialogue: 0,0:16:54.91,0:16:57.13,Default,,0,0,0,,我得休息好 才能赢下比赛\NI need good rest so I can win the tournament.
 Dialogue: 0,0:16:57.14,0:16:59.84,Default,,0,0,0,,你很清楚美国人赢对这项运动的好处\NYou know perfectly well what an American win will do for the future of the sport.
-Dialogue: 0,0:16:59.85,0:17:03.02,Default,,0,0,0,,- 我未来就是桌球的代言人 - 那您就向美乒协反映呗\N- I'm good for table tennis, Mr. Sethi. - Appeal to the USTTA.
+Dialogue: 0,0:16:59.86,0:17:03.03,Default,,0,0,0,,- 我就是未来桌球的代言人 - 那您就向美乒协反映呗\N- I'm good for table tennis, Mr. Sethi. - Appeal to the USTTA.
 Dialogue: 0,0:17:03.04,0:17:05.72,Default,,0,0,0,,美乒协有用吗？他们整个比赛就派两个人\NThere is no USTTA. The USTTA is two guys and a desk. It doesn't exist.
 Dialogue: 0,0:17:05.73,0:17:07.31,Default,,0,0,0,,- 那就不归我管了 - 就归你管\N- Well, that's not my problem. - It is your problem.
 Dialogue: 0,0:17:07.33,0:17:09.60,Default,,0,0,0,,我要住你住的那家酒店 就这么简单\NI wanna stay where you're staying! That's what I need!
@@ -1115,130 +1115,136 @@ Dialogue: 0,0:17:53.09,0:17:55.58,Default,,0,0,0,,- 天呐 - 这话有点过了\
 Dialogue: 0,0:17:55.60,0:17:57.38,Default,,0,0,0,,没事的 我能说 我也是犹太人\NIt's all right. I'm Jewish. I can say that.
 Dialogue: 0,0:17:57.40,0:17:59.90,Default,,0,0,0,,事实上你想想 我更像是希特勒的大噩梦\NIn fact, if you think about it, I'm like Hitler's worst nightmare.
 Dialogue: 0,0:17:59.91,0:18:01.02,Default,,0,0,0,,此话怎讲？\NAnd why's that?
-Dialogue: 0,0:18:01.04,0:18:02.91,Default,,0,0,0,,看看我 我活得好好的在这里\NLook at me. I'm here.
-Dialogue: 0,0:18:02.92,0:18:06.90,Default,,0,0,0,,我还混到了上层 我就是希特勒失败的最终证明\NI did it, I'm on top. I'm the ultimate product of Hitler's defeat.
+Dialogue: 0,0:18:01.04,0:18:02.91,Default,,0,0,0,,看看我 我活得好好的\NLook at me. I'm here.
+Dialogue: 0,0:18:02.92,0:18:06.90,Default,,0,0,0,,还混到了上层 我就是希特勒失败的最终证明\NI did it, I'm on top. I'm the ultimate product of Hitler's defeat.
 Dialogue: 0,0:18:07.10,0:18:09.58,Default,,0,0,0,,对 把这句话记下来 都记下来\NYeah, write that down. That was good. Write that down.
 Dialogue: 0,0:18:09.59,0:18:11.34,Default,,0,0,0,,- 不错 - “希特勒失败的最终证明”\N- Nice one. - "Ultimate product of Hitler's defeat."
-Dialogue: 0,0:18:11.36,0:18:13.51,Default,,0,0,0,,- 你总是那么自信吗？ - 把那句话放在我的照片下面\N- Do you like that confidence? - Put that under a picture of me.
-Dialogue: 0,0:18:13.53,0:18:15.95,Default,,0,0,0,,谈谈你的成长背景吧\N- Tell us a bit about your background. - My background?
-Dialogue: 0,0:18:20.10,0:18:22.98,Default,,0,0,0,,不说笑了... 我妈死于难产\NNo, but seriously... My mother died in childbirth.
-Dialogue: 0,0:18:22.98,0:18:25.77,Default,,0,0,0,,我爸是个赌棍输家 我两岁时他就抛弃了我\NMy father was a compulsive loser who abandoned me when I was two years old.
-Dialogue: 0,0:18:25.77,0:18:27.52,Default,,0,0,0,,我被困在纽约的孤儿院系统里\NI got stuck in the New York City orphanage system,
-Dialogue: 0,0:18:27.52,0:18:29.48,Default,,0,0,0,,在一个又一个鬼地方之间被踢来踢去\Ngot shuttled from one hellhole to the next.
-Dialogue: 0,0:18:29.48,0:18:31.28,Default,,0,0,0,,- 自然也留了案底 - 那不是凯·斯通吗?\N- Naturally, got in trouble with the law. - Isn't that Kay Stone?
-Dialogue: 0,0:18:31.28,0:18:32.45,Default,,0,0,0,,我不想让那些破事定义我\NI don't want any of that to define me.
-Dialogue: 0,0:18:32.45,0:18:34.70,Default,,0,0,0,,抱歉 借过 啥?\NExcuse me. Excuse me. What?
-Dialogue: 0,0:18:34.70,0:18:36.70,Default,,0,0,0,,- 凯·斯通在那儿 - 就是她\N- It's Kay Stone over there. - That's her.
-Dialogue: 0,0:18:36.70,0:18:37.91,Default,,0,0,0,,谁啊?\NWho's that?
-Dialogue: 0,0:18:37.91,0:18:40.49,Default,,0,0,0,,就那个电影女星 30年代那会儿的\NWell, you know, the movie actress. Like, from the 1930s.
-Dialogue: 0,0:18:40.50,0:18:42.21,Default,,0,0,0,,- 机缘巧合- 机缘巧合?\N- Opportunities. - Opportunities?
-Dialogue: 0,0:18:42.21,0:18:43.71,Default,,0,0,0,,- 挺好看的 - 是啊 经典电影\N- That was good. - Yeah, yeah. Great movie.
-Dialogue: 0,0:18:43.71,0:18:44.79,Default,,0,0,0,,- 黑匣子- 我爸当年迷死她了\N- Black Box. - My dad loved her.
-Dialogue: 0,0:18:44.79,0:18:46.04,Default,,0,0,0,,- 是啊 - 没错\N- Yeah. - Yeah.
-Dialogue: 0,0:18:46.04,0:18:47.67,Default,,0,0,0,,- 她红过? - 红透半边天\N- She was big? - She was huge.
-Dialogue: 0,0:18:47.67,0:18:49.55,Default,,0,0,0,,昙花一现 真是她\NCame and went. That's her.
-Dialogue: 0,0:18:49.55,0:18:52.72,Default,,0,0,0,,- 这就是好莱坞 伙计 - 没错 是她\N- That's Hollywood, mate. - Yeah. It's her.
-Dialogue: 0,0:18:53.55,0:18:54.63,Default,,0,0,0,,确实是\NIt is indeed.
-Dialogue: 0,0:18:54.64,0:18:56.26,Default,,0,0,0,,是有个带湖的名字?\NSomething about a lake?
-Dialogue: 0,0:18:56.26,0:18:58.43,Default,,0,0,0,,- 暗影湖- 嗯 那部也不错\N- Shadow Lake. - Yeah, that was good.
-Dialogue: 0,0:19:02.56,0:19:03.77,Default,,0,0,0,,伙计们 你们觉得我有机会吗?\NThink I have a chance, lads?
-Dialogue: 0,0:19:05.06,0:19:06.06,Default,,0,0,0,,下个问题\NNext question.
-Dialogue: 0,0:19:15.70,0:19:16.91,Default,,0,0,0,,喂?\NHello?
-Dialogue: 0,0:19:16.91,0:19:18.57,Default,,0,0,0,,- 凯? - 我是\N- Kay? - Speaking.
-Dialogue: 0,0:19:18.58,0:19:21.08,Default,,0,0,0,,嘿 我是马蒂·毛瑟 我在皇家套房\NHey, it's Marty Mauser. I'm in the Royal Suite.
-Dialogue: 0,0:19:21.08,0:19:22.95,Default,,0,0,0,,我昨天在大厅见到你了\NI saw you in the lobby yesterday.
-Dialogue: 0,0:19:22.96,0:19:24.04,Default,,0,0,0,,行\NOkay.
-Dialogue: 0,0:19:24.04,0:19:26.29,Default,,0,0,0,,对 我们对上眼了 那会儿我正接受采访呢\NYeah, we made eye contact. I was being interviewed.
-Dialogue: 0,0:19:27.42,0:19:28.75,Default,,0,0,0,,我没印象\NI don't recall.
-Dialogue: 0,0:19:28.75,0:19:31.50,Default,,0,0,0,,我特别崇拜你\NWell, I'm a huge admirer.
-Dialogue: 0,0:19:31.51,0:19:33.30,Default,,0,0,0,,好的 找我有事吗?\NOkay. Can I help you with something?
-Dialogue: 0,0:19:33.30,0:19:36.22,Default,,0,0,0,,也许吧 我刚才把客房服务菜单全都点了一遍\NMaybe. I just ordered one of everything off the room service menu.
-Dialogue: 0,0:19:36.22,0:19:38.51,Default,,0,0,0,,我一个人肯定吃不完\NThere's no way I'll be able to eat it all alone.
-Dialogue: 0,0:19:38.51,0:19:39.72,Default,,0,0,0,,啊\NAh.
-Dialogue: 0,0:19:39.72,0:19:41.47,Default,,0,0,0,,所以你想让我去你房间?\NSo you'd like me to come up to your room?
-Dialogue: 0,0:19:41.47,0:19:44.31,Default,,0,0,0,,- 嗯 没错 - 或许我该让我丈夫替我去\N- Mm-hmm. Yeah. - Perhaps I should send my husband instead.
-Dialogue: 0,0:19:44.31,0:19:46.19,Default,,0,0,0,,没问题 让他上来 我下去找你\NSure. He can come up here, and I'll come down to you.
-Dialogue: 0,0:19:46.19,0:19:48.90,Default,,0,0,0,,- 妙极 谢谢 再见- 等等 我还想再聊聊\N- Wonderful. Thank you. Goodbye.- Wait. I wanna keep talking.
-Dialogue: 0,0:19:48.90,0:19:50.48,Default,,0,0,0,,为什么?\NWhy is that?
-Dialogue: 0,0:19:50.48,0:19:52.32,Default,,0,0,0,,因为我还没跟真正的电影明星聊过天\NBecause I've never talked to an actual movie star.
-Dialogue: 0,0:19:52.32,0:19:55.40,Default,,0,0,0,,那你现在聊过了 希望这段经历如你所愿\NWell, now you have. I hope the experience was all you thought it would be.
-Dialogue: 0,0:19:55.40,0:19:57.11,Default,,0,0,0,,你知道吗 其实我也算个表演者\NYou know, I'm something of a performer too.
-Dialogue: 0,0:19:57.11,0:19:59.12,Default,,0,0,0,,- 是吗?- 对 你不信?\N- Are you?- Yeah. You don't believe me?
-Dialogue: 0,0:19:59.66,0:20:01.08,Default,,0,0,0,,我...\NI...
-Dialogue: 0,0:20:01.08,0:20:02.70,Default,,0,0,0,,你... 怎么? 说话啊?\NYou... What? What?
-Dialogue: 0,0:20:03.58,0:20:04.66,Default,,0,0,0,,你是表演者?\NYou're a performer?
-Dialogue: 0,0:20:04.66,0:20:07.25,Default,,0,0,0,,没错 我就是 你跟前有每日邮报吗?\NYeah, I am a performer. You got the Daily Mailin front of you?
-Dialogue: 0,0:20:07.25,0:20:09.38,Default,,0,0,0,,呃 有 确实有\NUh, I do have it, yes.
-Dialogue: 0,0:20:09.38,0:20:11.04,Default,,0,0,0,,行 翻到第12页\NOkay. Well, turn to page 12.
-Dialogue: 0,0:20:13.96,0:20:14.97,Default,,0,0,0,,呃...\NUh...
+Dialogue: 0,0:18:11.36,0:18:13.51,Default,,0,0,0,,- 你总是那么自信吗？ -一定把那这句放在我照片下面\N- Do you like that confidence? - Put that under a picture of me.
+Dialogue: 0,0:18:13.53,0:18:15.95,Default,,0,0,0,,- 来谈谈你的出身吧 - 我的出身？\N- Tell us a bit about your background. - My background?
+Dialogue: 0,0:18:20.09,0:18:22.97,Default,,0,0,0,,不过说真的 我...我妈死于难产\NNo, but seriously... My mother died in childbirth.
+Dialogue: 0,0:18:22.98,0:18:25.76,Default,,0,0,0,,我爸就是个没出息的人 我两岁时他就丢下我走了\NMy father was a compulsive loser who abandoned me when I was two years old.
+Dialogue: 0,0:18:25.77,0:18:27.52,Default,,0,0,0,,我被纽约孤儿院来回折腾\NI got stuck in the New York City orphanage system,
+Dialogue: 0,0:18:27.54,0:18:29.47,Default,,0,0,0,,到处被赶来赶去\Ngot shuttled from one hellhole to the next.
+Dialogue: 0,0:18:29.48,0:18:31.22,Default,,0,0,0,,- 难免有了案底 - 那不是凯·斯通吗？\N- Naturally, got in trouble with the law. - Isn't that Kay Stone?
+Dialogue: 0,0:18:31.24,0:18:32.72,Default,,0,0,0,,那破事可不能定义我\NI don't want any of that to define me.
+Dialogue: 0,0:18:32.73,0:18:34.70,Default,,0,0,0,,采访呢 采访呢 看什么呢？\NExcuse me. Excuse me. What?
+Dialogue: 0,0:18:34.72,0:18:36.69,Default,,0,0,0,,- 看凯·斯通 - 就是她\N- It's Kay Stone over there. - That's her.
+Dialogue: 0,0:18:36.70,0:18:37.57,Default,,0,0,0,,谁？\NWho's that?
+Dialogue: 0,0:18:37.58,0:18:40.16,Default,,0,0,0,,三十年代那阵儿的老牌女星\NWell, you know, the movie actress. Like, from the 1930s.
+Dialogue: 0,0:18:40.50,0:18:42.20,Default,,0,0,0,,- 演《机缘巧合》的那个 - 《机缘巧合》?\N- Opportunities. - Opportunities?
+Dialogue: 0,0:18:42.21,0:18:43.70,Default,,0,0,0,,- 演得很好 - 是啊 佳片一个\N- That was good. - Yeah, yeah. Great movie.
+Dialogue: 0,0:18:43.71,0:18:44.99,Default,,0,0,0,,- 还有《黑匣子》 - 我爸特喜欢她\N- Black Box. - My dad loved her.
+Dialogue: 0,0:18:45.01,0:18:46.04,Default,,0,0,0,,- 是啊 - 没错\N- Yeah. - Yeah.
+Dialogue: 0,0:18:46.06,0:18:47.94,Default,,0,0,0,,- 她当年很红吗？ - 红透半边天\N- She was big? - She was huge.
+Dialogue: 0,0:18:47.95,0:18:49.59,Default,,0,0,0,,后来销声匿迹了\NCame and went. That's her.
+Dialogue: 0,0:18:49.60,0:18:52.77,Default,,0,0,0,,- 好莱坞就是这样 - 真是她\N- That's Hollywood, mate. - Yeah. It's her.
+Dialogue: 0,0:18:53.55,0:18:54.63,Default,,0,0,0,,确实是她\NIt is indeed.
+Dialogue: 0,0:18:54.64,0:18:56.42,Default,,0,0,0,,还有个什么湖的电影\NSomething about a lake?
+Dialogue: 0,0:18:56.43,0:18:58.93,Default,,0,0,0,,- 《影湖》 - 嗯 那片也不错\N- Shadow Lake. - Yeah, that was good.
+Dialogue: 0,0:19:02.32,0:19:04.46,Default,,0,0,0,,- 你们觉得我能采访到她吗？ - 没戏\N- Think I have a chance, lads? - No.
+Dialogue: 0,0:19:04.98,0:19:06.06,Default,,0,0,0,,好了 下个问题\NNext question.
+Dialogue: 0,0:19:15.88,0:19:17.02,Default,,0,0,0,,喂\NHello?
+Dialogue: 0,0:19:17.04,0:19:18.70,Default,,0,0,0,,- 凯吗？ - 有事吗？\N- Kay? - Speaking.
+Dialogue: 0,0:19:18.71,0:19:21.28,Default,,0,0,0,,嘿 我是马蒂·毛瑟 我住在皇家套房\NHey, it's Marty Mauser. I'm in the Royal Suite.
+Dialogue: 0,0:19:21.29,0:19:23.15,Default,,0,0,0,,我昨天在大堂见过你\NI saw you in the lobby yesterday.
+Dialogue: 0,0:19:23.16,0:19:23.86,Default,,0,0,0,,怎么了？\NOkay.
+Dialogue: 0,0:19:23.88,0:19:26.57,Default,,0,0,0,,我们互相看了一眼 当时我在接受采访\NYeah, we made eye contact. I was being interviewed.
+Dialogue: 0,0:19:27.52,0:19:29.70,Default,,0,0,0,,- 我不记得了 - 这么说吧\N- I don't recall. - Well...
+Dialogue: 0,0:19:30.45,0:19:31.69,Default,,0,0,0,,我非常仰慕您\NI'm a huge admirer.
+Dialogue: 0,0:19:31.70,0:19:33.30,Default,,0,0,0,,那好吧 要是没事我就挂了\NOkay. Can I help you with something?
+Dialogue: 0,0:19:33.32,0:19:36.22,Default,,0,0,0,,有点事 我刚把客房餐单上每样都点了一份\NMaybe. I just ordered one of everything off the room service menu.
+Dialogue: 0,0:19:36.24,0:19:38.51,Default,,0,0,0,,我一个人肯定吃不完\NThere's no way I'll be able to eat it all alone.
+Dialogue: 0,0:19:38.53,0:19:39.71,Default,,0,0,0,,我懂了\NAh.
+Dialogue: 0,0:19:39.87,0:19:41.47,Default,,0,0,0,,所以你想让我去你房间？\NSo you'd like me to come up to your room?
+Dialogue: 0,0:19:41.49,0:19:44.35,Default,,0,0,0,,- 嗯 没错 - 要不我派我丈夫去吧\N- Mm-hmm. Yeah. - Perhaps I should send my husband instead.
+Dialogue: 0,0:19:44.36,0:19:46.18,Default,,0,0,0,,好啊 他来这里 我去你那里\NSure. He can come up here, and I'll come down to you.
+Dialogue: 0,0:19:46.19,0:19:49.10,Default,,0,0,0,,- 真一套套的 行了 再见 - 等等 我还想再说会儿\N- Okay, wonderful. Thank you. Goodbye.- Wait. I wanna keep talking.
+Dialogue: 0,0:19:49.12,0:19:50.48,Default,,0,0,0,,说什么？\NWhy is that?
+Dialogue: 0,0:19:50.50,0:19:52.31,Default,,0,0,0,,我从没跟真正的电影明星说过话\NBecause I've never talked to an actual movie star.
+Dialogue: 0,0:19:52.32,0:19:55.40,Default,,0,0,0,,现在你说过了 希望你如愿以偿了\NWell, now you have. I hope the experience was all you thought it would be.
+Dialogue: 0,0:19:55.42,0:19:57.14,Default,,0,0,0,,我其实也会演点戏\NYou know, I'm something of a performer too.
+Dialogue: 0,0:19:57.16,0:19:59.39,Default,,0,0,0,,- 是吗？ - 是啊 你不信吗？\N- Are you? - Yeah. You don't believe me?
+Dialogue: 0,0:19:59.74,0:20:01.08,Default,,0,0,0,,我...\NI...
+Dialogue: 0,0:20:01.20,0:20:02.96,Default,,0,0,0,,你什么？怎么结巴了？\NYou... What? What?
+Dialogue: 0,0:20:03.68,0:20:04.65,Default,,0,0,0,,你会演戏？\NYou're a performer?
+Dialogue: 0,0:20:04.66,0:20:07.25,Default,,0,0,0,,对 会演 你手边有《每日邮报》吗？\NYeah, I am a performer. You got the Daily Mailin front of you?
+Dialogue: 0,0:20:07.27,0:20:09.41,Default,,0,0,0,,还真有 怎么了？\NUh, I do have it. Yes?
+Dialogue: 0,0:20:09.43,0:20:11.29,Default,,0,0,0,,好的 那你翻到第12页\NOkay. Well, turn to page 12.
+Dialogue: 0,0:20:14.00,0:20:15.15,Default,,0,0,0,,等下\NUh...
 Dialogue: 0,0:20:15.63,0:20:16.76,Default,,0,0,0,,第12页\NPage 12.
-Dialogue: 0,0:20:16.76,0:20:18.72,Default,,0,0,0,,行 我这看的是什么?\NOkay. What am I looking at here?
-Dialogue: 0,0:20:18.72,0:20:20.43,Default,,0,0,0,,- 就在中间 正中间- 呃\N- Down the middle, in the center.- Uh.
-Dialogue: 0,0:20:21.39,0:20:22.47,Default,,0,0,0,,这是你?\NThis is you?
-Dialogue: 0,0:20:22.47,0:20:25.02,Default,,0,0,0,,对 "天选之子" 拍得不错吧?\NYeah, "the chosen one." It's a nice picture, right?
-Dialogue: 0,0:20:25.02,0:20:26.10,Default,,0,0,0,,乒乓球?\NPing pong?
-Dialogue: 0,0:20:26.10,0:20:28.31,Default,,0,0,0,,我打乒乓球 来参加全英赛的\NI play table tennis. I'm here competing in the British Open.
-Dialogue: 0,0:20:28.31,0:20:30.27,Default,,0,0,0,,- 你多大? - 我23\N- How old are you? - I'm 23.
-Dialogue: 0,0:20:30.27,0:20:31.69,Default,,0,0,0,,23岁\NTwenty-three.
-Dialogue: 0,0:20:31.69,0:20:32.90,Default,,0,0,0,,嗯\NYeah.
-Dialogue: 0,0:20:32.90,0:20:35.65,Default,,0,0,0,,我敢说你一部我演的片子都叫不上来\NI bet you can't name one film I've done.
-Dialogue: 0,0:20:35.65,0:20:36.82,Default,,0,0,0,,怎么这么说?\NWhat makes you say that?
-Dialogue: 0,0:20:36.82,0:20:38.86,Default,,0,0,0,,因为在你出生前我早已息影了\NBecause I stopped acting before you were born.
-Dialogue: 0,0:20:38.86,0:20:40.49,Default,,0,0,0,,- 真的吗? 真有意思- 嗯\N- Really? That's really interesting.- Mm-hmm.
-Dialogue: 0,0:20:40.49,0:20:43.20,Default,,0,0,0,,凯 你拿我的刮胡刀刮腿毛了?\NKay, did you use my razor to shave your legs?
-Dialogue: 0,0:20:43.20,0:20:44.37,Default,,0,0,0,,刀片钝了 我都割伤了\NIt's dull. I've cut myself.
-Dialogue: 0,0:20:44.37,0:20:46.29,Default,,0,0,0,,- 没拿 - 谁在说话? 你丈夫?\N- No. - Who's that? Your husband?
-Dialogue: 0,0:20:46.29,0:20:48.33,Default,,0,0,0,,估计是有人偷溜进来拿它劈柴了\NI guess someone must've snuck in and chopped wood with it.
-Dialogue: 0,0:20:48.33,0:20:49.87,Default,,0,0,0,,- 我正打电话呢 - 操\N- I'm on the phone. - Holy shit.
-Dialogue: 0,0:20:49.88,0:20:51.63,Default,,0,0,0,,- 跟谁打? - 黛比\N- With whom? - Debbie.
-Dialogue: 0,0:20:51.63,0:20:53.00,Default,,0,0,0,,- 黛比 - 黛比?\N- Debbie. - Debbie?
-Dialogue: 0,0:20:53.00,0:20:54.21,Default,,0,0,0,,叫她干点正事\NTell her to get a life.
-Dialogue: 0,0:20:54.21,0:20:55.67,Default,,0,0,0,,- 他走了吗?- 嗯\N- Is he gone?- Mm-hmm.
-Dialogue: 0,0:20:55.67,0:20:57.01,Default,,0,0,0,,行\NOkay.
-Dialogue: 0,0:20:57.01,0:20:58.76,Default,,0,0,0,,所以 为什么不演戏了? 聊聊这个\NSo, why'd you stop acting? Let's talk about that.
-Dialogue: 0,0:20:58.76,0:21:00.05,Default,,0,0,0,,听着 我真得走了\NYou know, I really have to go.
-Dialogue: 0,0:21:00.05,0:21:02.64,Default,,0,0,0,,你肯定怀念片场 吧? 明天来温布利看我比赛\NYou must miss it, don't you? Come watch me play at Wembley tomorrow.
-Dialogue: 0,0:21:02.64,0:21:03.72,Default,,0,0,0,,我... 我去不了\NI... I can't.
-Dialogue: 0,0:21:03.72,0:21:06.47,Default,,0,0,0,,别啊 来亲眼看我把世界第一拉下马\NCome on. You can watch me dethrone the number one ranked player in the world.
-Dialogue: 0,0:21:06.48,0:21:07.56,Default,,0,0,0,,我没空\NI'm not available.
-Dialogue: 0,0:21:07.56,0:21:08.81,Default,,0,0,0,,噢 是吗? 忙什么呢?\NOh, yeah? What you got going on?
-Dialogue: 0,0:21:08.81,0:21:12.23,Default,,0,0,0,,实际上 我得陪我丈夫去参加一个大型推广活动\NActually, I have a big promotional event to attend to for my husband.
-Dialogue: 0,0:21:12.23,0:21:13.77,Default,,0,0,0,,噢 这样\NOh, okay.
-Dialogue: 0,0:21:13.77,0:21:15.32,Default,,0,0,0,,他推广什么?\NWhat's he promoting?
-Dialogue: 0,0:21:15.32,0:21:16.40,Default,,0,0,0,,钢笔\NPens.
-Dialogue: 0,0:21:16.90,0:21:18.57,Default,,0,0,0,,- 钢笔? 你认真的?- 钢笔\N- Pens? Are you serious?- Pens.
-Dialogue: 0,0:21:18.57,0:21:20.36,Default,,0,0,0,,- 写字用的钢笔?- 对\N- Like, writing pens?- Yes.
-Dialogue: 0,0:21:20.36,0:21:22.20,Default,,0,0,0,,啥? 他是个卖笔的?\NWhat, like, he's a pen salesman?
-Dialogue: 0,0:21:22.78,0:21:24.49,Default,,0,0,0,,那你们怎么住得起这种套房?\NHow can you afford the suite you're in?
-Dialogue: 0,0:21:24.49,0:21:26.54,Default,,0,0,0,,他是洛克威尔墨水公司的老板\NHe owns Rockwell Ink.
-Dialogue: 0,0:21:26.54,0:21:27.75,Default,,0,0,0,,噢 行吧...\NOh. Okay. Well...
-Dialogue: 0,0:21:27.75,0:21:28.91,Default,,0,0,0,,是的\NYes.
-Dialogue: 0,0:21:28.91,0:21:31.17,Default,,0,0,0,,- 我知道洛克威尔墨水- 我想也是\N- I know Rockwell Ink.- I'm sure you do.
-Dialogue: 0,0:21:31.17,0:21:32.21,Default,,0,0,0,,行\NOkay.
-Dialogue: 0,0:21:32.71,0:21:34.38,Default,,0,0,0,,那是什么活动?\NWell, what's the event?
-Dialogue: 0,0:21:34.38,0:21:38.76,Default,,0,0,0,,他请了阿加莎·克里斯蒂在哈查兹书店签售\NHe's hired Agatha Christie to sign books at Hatchards.
-Dialogue: 0,0:21:38.76,0:21:39.76,Default,,0,0,0,,噢\NOoh.
-Dialogue: 0,0:21:40.68,0:21:41.97,Default,,0,0,0,,听着真无聊\NThat sounds really boring.
-Dialogue: 0,0:21:41.97,0:21:43.01,Default,,0,0,0,,行\NOkay.
-Dialogue: 0,0:21:51.44,0:21:54.06,Default,,0,0,0,,噢 真是够了\NOh, for God's sake.
-Dialogue: 0,0:21:55.82,0:21:58.32,Default,,0,0,0,,- 怎么了? - 先别挂 问你个事\N- What is it? - Don't hang up. Just one question.
-Dialogue: 0,0:21:58.32,0:21:59.99,Default,,0,0,0,,你房间对着马路还是院子?\NDoes your room face the street or the courtyard?
-Dialogue: 0,0:21:59.99,0:22:01.07,Default,,0,0,0,,不知道\NI don't know.
-Dialogue: 0,0:22:01.07,0:22:03.16,Default,,0,0,0,,回答我就行 对着马路还是院子?\NJust answer the question. Is it facing the street or the courtyard?
-Dialogue: 0,0:22:03.16,0:22:04.49,Default,,0,0,0,,- 院子 - 好\N- The courtyard. - Okay.
-Dialogue: 0,0:22:04.49,0:22:07.41,Default,,0,0,0,,去窗户那儿 你住几层?\NI need you to go to the window. What floor are you on?
-Dialogue: 0,0:22:07.41,0:22:09.04,Default,,0,0,0,,应该是三层\NI'm on the third floor, I believe.
-Dialogue: 0,0:22:09.04,0:22:10.71,Default,,0,0,0,,三层 好 完美\NThird floor. Okay, perfect.
-Dialogue: 0,0:22:10.71,0:22:11.79,Default,,0,0,0,,往街对面看\NLook across the street.
-Dialogue: 0,0:22:11.79,0:22:14.59,Default,,0,0,0,,看见那扇开着的窗了吗? 桌上还有盘水果\NYou see the open window with a bowl of fruit on the table?
-Dialogue: 0,0:22:16.34,0:22:17.63,Default,,0,0,0,,看见了\NI do.
-Dialogue: 0,0:22:17.63,0:22:21.01,Default,,0,0,0,,看好了 我会让那盘子里凭空多出一个苹果\NHere's what's gonna happen. I'm gonna make an apple appear in that bowl.
-Dialogue: 0,0:22:21.01,0:22:24.76,Default,,0,0,0,,如果我办到了 你就推掉你那小约会 来看我比赛\NAnd if I do, you're gonna blow off your little rendezvous and come watch me play.
-Dialogue: 0,0:22:24.76,0:22:26.85,Default,,0,0,0,,不不不 我可没答应你什么 不行\NNo, no, no. I'm not agreeing to anything, no.
-Dialogue: 0,0:22:26.85,0:22:29.85,Default,,0,0,0,,你不用答应 反正我也要做 好了吗? 一...\NYou don't have to agree to anything. I'm gonna do it anyway. Okay? One...
-Dialogue: 0,0:22:30.43,0:22:31.44,Default,,0,0,0,,二...\Ntwo...
-Dialogue: 0,0:22:32.23,0:22:33.23,Default,,0,0,0,,三\Nthree.
-Dialogue: 0,0:22:36.86,0:22:39.28,Default,,0,0,0,,我会把票留在售票处\NI'll leave a ticket for you at the box office.
+Dialogue: 0,0:20:16.78,0:20:18.83,Default,,0,0,0,,好了 看什么？\NOkay. What am I looking at here?
+Dialogue: 0,0:20:18.84,0:20:20.59,Default,,0,0,0,,看中间 正中间\NDown the middle, in the center.
+Dialogue: 0,0:20:21.53,0:20:22.62,Default,,0,0,0,,那人是你？\NThis is you?
+Dialogue: 0,0:20:22.63,0:20:25.01,Default,,0,0,0,,对“天选之子” 拍得不错吧？\NYeah, "the chosen one." It's a nice picture, right?
+Dialogue: 0,0:20:25.02,0:20:26.10,Default,,0,0,0,,打小乒乓的？\NPing pong?
+Dialogue: 0,0:20:25.15,0:20:28.33,Screen,,0,0,0,,{\an8}（真是天选之子？）
+Dialogue: 0,0:20:26.12,0:20:28.31,Default,,0,0,0,,我打的是桌球 来这儿参加英国公开赛\NI play table tennis. I'm here competing in the British Open.
+Dialogue: 0,0:20:28.33,0:20:30.26,Default,,0,0,0,,- 你多大了？ - 我23\N- How old are you? - I'm 23.
+Dialogue: 0,0:20:30.27,0:20:31.68,Default,,0,0,0,,才23岁\NTwenty-three.
+Dialogue: 0,0:20:31.69,0:20:32.89,Default,,0,0,0,,嗯\NYeah.
+Dialogue: 0,0:20:33.04,0:20:35.65,Default,,0,0,0,,你都说不上来我演过什么吧\NI bet you can't name one film I've done.
+Dialogue: 0,0:20:35.67,0:20:36.82,Default,,0,0,0,,凭啥这么肯定？\NWhat makes you say that?
+Dialogue: 0,0:20:36.84,0:20:38.66,Default,,0,0,0,,因为我在你出生前就不演了\NBecause I stopped acting before you were born.
+Dialogue: 0,0:20:38.68,0:20:40.48,Default,,0,0,0,,- 是吗？有点意思 - 嗯\N- Really? That's really interesting. - Mm-hmm.
+Dialogue: 0,0:20:40.49,0:20:43.47,Default,,0,0,0,,凯 你拿我的刮胡刀刮腿毛了吗？\NKay, did you use my razor to shave your legs?
+Dialogue: 0,0:20:43.48,0:20:45.06,Default,,0,0,0,,- 刀钝了 我都划伤了 - 没拿\N- It's dull. I've cut myself. - No.
+Dialogue: 0,0:20:45.07,0:20:46.49,Default,,0,0,0,,- 谁在说话？你丈夫？ - 嗯\N- Who's that? Your husband? - Mm-hmm.
+Dialogue: 0,0:20:46.50,0:20:48.58,Default,,0,0,0,,难不成还有人偷偷溜进来用过它？\NI guess someone must've snuck in and chopped wood with it.
+Dialogue: 0,0:20:48.59,0:20:49.87,Default,,0,0,0,,- 我正打电话呢 - 操\N- I'm on the phone. - Holy shit.
+Dialogue: 0,0:20:49.89,0:20:51.63,Default,,0,0,0,,- 跟谁打？ - 黛比\N- With whom? - Debbie.
+Dialogue: 0,0:20:51.65,0:20:53.00,Default,,0,0,0,,- 黛比 - 黛比？\N- Debbie. - Debbie?
+Dialogue: 0,0:20:53.02,0:20:54.20,Default,,0,0,0,,叫她少管闲事\NTell her to get a life.
+Dialogue: 0,0:20:54.21,0:20:55.67,Default,,0,0,0,,- 他走了吗？ - 嗯\N- Is he gone? - Mm-hmm.
+Dialogue: 0,0:20:55.69,0:20:57.01,Default,,0,0,0,,行\NOkay.
+Dialogue: 0,0:20:57.03,0:20:59.02,Default,,0,0,0,,那你为啥不演了 说说吧\NSo, why'd you stop acting? Let's talk about that.
+Dialogue: 0,0:20:59.04,0:21:00.41,Default,,0,0,0,,我还有事 我得挂了\NYou know, I really have to go.
+Dialogue: 0,0:21:00.43,0:21:02.76,Default,,0,0,0,,明天来温布利看我打球吧 你肯定会喜欢的\NYou must miss it, don't you? Come watch me play at Wembley tomorrow.
+Dialogue: 0,0:21:02.77,0:21:03.78,Default,,0,0,0,,我...我去不了\NI... I can't.
+Dialogue: 0,0:21:03.80,0:21:06.47,Default,,0,0,0,,来吧 看看我怎么战胜世界第一\NCome on. You can watch me dethrone the number one ranked player in the world.
+Dialogue: 0,0:21:06.48,0:21:07.55,Default,,0,0,0,,我没空\NI'm not available.
+Dialogue: 0,0:21:07.56,0:21:08.89,Default,,0,0,0,,哦哟？你能有什么事？\NOh, yeah? What you got going on?
+Dialogue: 0,0:21:08.91,0:21:12.27,Default,,0,0,0,,有个大宣传会 我得陪我丈夫撑场子\NActually, I have a big promotional event to attend to for my husband.
+Dialogue: 0,0:21:12.29,0:21:13.89,Default,,0,0,0,,哦 好吧\NOh, okay.
+Dialogue: 0,0:21:13.91,0:21:15.41,Default,,0,0,0,,宣传什么？\NWhat's he promoting?
+Dialogue: 0,0:21:15.43,0:21:16.56,Default,,0,0,0,,钢笔\NPens.
+Dialogue: 0,0:21:16.89,0:21:18.68,Default,,0,0,0,,- 卖笔？开什么玩笑  - 就是笔\N- Pens? Are you serious? - Pens.
+Dialogue: 0,0:21:18.70,0:21:20.49,Default,,0,0,0,,- 写字用的钢笔？ - 对\N- Like, writing pens? - Yes.
+Dialogue: 0,0:21:20.50,0:21:22.34,Default,,0,0,0,,他就是个卖笔的？\NWhat, like, he's a pen salesman?
+Dialogue: 0,0:21:22.90,0:21:24.50,Default,,0,0,0,,你们怎么住得起这种套房？\NHow can you afford the suite you're in?
+Dialogue: 0,0:21:24.52,0:21:26.57,Default,,0,0,0,,他是洛克威尔墨水的老板\NHe owns Rockwell Ink.
+Dialogue: 0,0:21:26.58,0:21:27.82,Default,,0,0,0,,哦 那好吧...\NOh. Okay. Well...
+Dialogue: 0,0:21:27.83,0:21:28.83,Default,,0,0,0,,是的\NYes.
+Dialogue: 0,0:21:29.06,0:21:31.28,Default,,0,0,0,,- 我听说过洛克威尔墨水 - 你肯定知道\N- I know Rockwell Ink. - I'm sure you do.
+Dialogue: 0,0:21:31.29,0:21:32.33,Default,,0,0,0,,好吧\NOkay.
+Dialogue: 0,0:21:32.86,0:21:34.53,Default,,0,0,0,,那活动内容是什么？\NWell, what's the event?
+Dialogue: 0,0:21:34.55,0:21:38.75,Default,,0,0,0,,他请了阿加莎·克里斯蒂去哈查兹书店签名售书\NHe's hired Agatha Christie to sign books at Hatchards.
+Dialogue: 0,0:21:34.55,0:21:39.78,Note,,0,0,0,,{\an8}【阿加莎·克里斯蒂为英国知名小说家 哈查兹为伦敦老牌书店】
+Dialogue: 0,0:21:38.76,0:21:39.83,Default,,0,0,0,,哦 哦\NOoh.
+Dialogue: 0,0:21:40.75,0:21:42.04,Default,,0,0,0,,听着就无聊\NThat sounds really boring.
+Dialogue: 0,0:21:42.06,0:21:43.16,Default,,0,0,0,,行了\NOkay.
+Dialogue: 0,0:21:51.58,0:21:54.20,Default,,0,0,0,,哦 没完没了了\NOh, for God's sake.
+Dialogue: 0,0:21:56.20,0:21:58.31,Default,,0,0,0,,- 有完没完？ - 别挂 别挂 问你个事\N- What is it? - Don't hang up, don't hang up. Just one question.
+Dialogue: 0,0:21:58.32,0:22:00.07,Default,,0,0,0,,你房间是朝马路还是朝院子？\NDoes your room face the street or the courtyard?
+Dialogue: 0,0:22:00.08,0:22:01.07,Default,,0,0,0,,不知道\NI don't know.
+Dialogue: 0,0:22:01.09,0:22:03.16,Default,,0,0,0,,直说 马路还是院子？\NJust answer the question. Is it facing the street or the courtyard?
+Dialogue: 0,0:22:03.18,0:22:04.57,Default,,0,0,0,,- 朝院子 - 好\N- The courtyard. - Okay.
+Dialogue: 0,0:22:04.58,0:22:06.12,Default,,0,0,0,,去窗边看看\NI need you to go to the window.
+Dialogue: 0,0:22:06.13,0:22:07.46,Default,,0,0,0,,你住几楼？\NWhat floor are you on?
+Dialogue: 0,0:22:07.47,0:22:09.04,Default,,0,0,0,,三楼吧\NI'm on the third floor, I believe.
+Dialogue: 0,0:22:09.06,0:22:10.70,Default,,0,0,0,,三楼 好 正好\NThird floor. Okay, perfect.
+Dialogue: 0,0:22:10.71,0:22:11.67,Default,,0,0,0,,朝对面看看\NLook across the street.
+Dialogue: 0,0:22:11.68,0:22:14.47,Default,,0,0,0,,看见对面那开窗 桌上有果盘的屋了吗？\NYou see the open window with a bowl of fruit on the table?
+Dialogue: 0,0:22:15.75,0:22:17.73,Default,,0,0,0,,- 看到了吗？ - 看到了\N- You see it? - I do.
+Dialogue: 0,0:22:17.75,0:22:21.00,Default,,0,0,0,,看好了 我会让那果盘里凭空多出一个苹果\NHere's what's gonna happen. I'm gonna make an apple appear in that bowl.
+Dialogue: 0,0:22:21.01,0:22:23.65,Default,,0,0,0,,要是我办到了 你就推掉你那场会\NAnd if I do, you're gonna blow off your little rendezvous
+Dialogue: 0,0:22:23.67,0:22:25.24,Default,,0,0,0,,- 不 不 不 - 来看我比赛\N- No, no, no. - and come watch me play.
+Dialogue: 0,0:22:25.25,0:22:26.84,Default,,0,0,0,,我不答应任何事 不行\NI'm not agreeing to anything, no.
+Dialogue: 0,0:22:26.85,0:22:28.70,Default,,0,0,0,,你不用答应 但看好了\NYou don't have to agree to anything. I'm gonna do it anyway.
+Dialogue: 0,0:22:28.71,0:22:29.82,Default,,0,0,0,,看到了 一\NOkay? One...
+Dialogue: 0,0:22:30.69,0:22:31.70,Default,,0,0,0,,二\Ntwo...
+Dialogue: 0,0:22:32.34,0:22:33.48,Default,,0,0,0,,三\Nthree.
+Dialogue: 0,0:22:37.09,0:22:39.51,Default,,0,0,0,,我会把票留售票处给你取\NI'll leave a ticket for you at the box office.
+Dialogue: 0,0:23:03.98,0:23:07.56,Screen,,0,0,0,,{\an8}（半决赛）
 Dialogue: 0,0:23:29.12,0:23:30.95,Default,,0,0,0,,得分 毛瑟\NPoint, Mauser.
 Dialogue: 0,0:23:30.95,0:23:33.20,Default,,0,0,0,,二十比五\NTwenty to five.
 Dialogue: 0,0:23:33.21,0:23:36.63,Default,,0,0,0,,克莱茨基大比分零比二落后毛瑟\NKletzki trails Mauser two games to nil.
