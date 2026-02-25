@@ -794,6 +794,7 @@ Dialogue: 2,2:29:39.03,2:29:39.07,A24,,0,0,0,,{\an5\pos(960,653)\fs160\fsp12\1c&
 Comment: 0,2:29:33.19,2:29:39.07,A24,,0,0,0,,A24影业
 Dialogue: 0,2:29:25.77,2:29:29.23,Central,,0,0,0,,{\c&HB2B8CC&\bord0\blur0.8\move(960,840,960,530)\fscx130\fsp-4\fs40}纽约中央影业
 Dialogue: 0,2:29:29.23,2:29:32.11,Central,,0,0,0,,{\fad(0,160)\c&HB2B8CC&\t(1680,2880,\c&H415785&)\bord0\blur0.8\pos(960,530)\fscx130\fsp-4\fs40}纽约中央影业
+
 Dialogue: 0,0:00:29.91,0:00:31.88,Default,,0,0,0,,- 玛丽安太太 - 是九码半的吗？\N- Mrs. Mariann. - You have the nine and a half?
 Dialogue: 0,0:00:31.89,0:00:33.95,Default,,0,0,0,,- 是的 可给你找到了 - 太好了\N- Yeah, you're a lucky lady. - Oh, I'm excited.
 Dialogue: 0,0:00:33.96,0:00:36.25,Default,,0,0,0,,最后一双了 来 露个玉足吧\NLast pair. Let me see those beautiful feet.
@@ -1031,7 +1032,7 @@ Dialogue: 0,0:11:22.24,0:11:25.12,Default,,0,0,0,,我是来拿西装的 这是�
 Dialogue: 0,0:11:25.14,0:11:27.95,Default,,0,0,0,,打小乒乓还要穿西装 真长见识了\NDidn't know you need a suit to play ping pong.
 Dialogue: 0,0:11:25.14,0:11:29.61,Note,,0,0,0,,{\an8}【乒乓：1950年代“乒乓”在部分场合带有嘲讽意味】
 Dialogue: 0,0:11:36.91,0:11:39.45,Default,,0,0,0,,我就要老默欠我的那七百块\NI just want the $700 that Murray owes me.
-Dialogue: 0,0:11:36.91,0:11:39.45,Note,,0,0,0,,{\an8}【1952年700美元约合2026年约8,600美元 6万人民币 26万新台币】
+Dialogue: 0,0:11:36.91,0:11:40.53,Note,,0,0,0,,{\an8}【1952年700美元约合2026年约8,600美元 6万人民币 26万新台币】
 Dialogue: 0,0:11:39.47,0:11:40.53,Default,,0,0,0,,不然呢？\NYeah, or what?
 Dialogue: 0,0:11:40.55,0:11:42.45,Default,,0,0,0,,- 不然我就往你腿上来一枪 - 你不敢\N- Or I'm gonna shoot you in the leg. - No you're not.
 Dialogue: 0,0:11:42.47,0:11:43.53,Default,,0,0,0,,你敢赌吗？\NYou sure about that?
@@ -1097,8 +1098,8 @@ Dialogue: 0,0:14:02.65,0:14:10.23,Note,,0,0,0,,{\an8}【1950年代乒乓球普�
 Dialogue: 0,0:14:19.27,0:14:21.63,Default,,0,0,0,,马蒂·毛瑟 胜出\NMatch, Mauser.
 Dialogue: 0,0:14:24.70,0:14:28.40,Default,,0,0,0,,你给我太多正手机会了 应该逼我打反手\NYou let me get to my forehand too much. Should've tried to put me in my backhand.
 Dialogue: 0,0:14:24.70,0:14:28.43,Note,,0,0,0,,{\an8}【译注：在乒乓球中正手利于进攻 反手偏防守】
-Dialogue: 0,0:14:28.43,0:14:30.07,Default,,0,0,0,,远藤康斗 得分\NPoint, Endo.
-Dialogue: 0,0:14:50.24,0:14:52.16,Default,,0,0,0,,远藤康斗 得分\NPoint, Endo.
+Dialogue: 0,0:14:28.43,0:14:30.07,Default,,0,0,0,,远藤功人 得分\NPoint, Endo.
+Dialogue: 0,0:14:50.24,0:14:52.16,Default,,0,0,0,,远藤功人 得分\NPoint, Endo.
 Dialogue: 0,0:14:57.93,0:15:00.47,Default,,0,0,0,,- 几比几了？ - 19比4\N- What's the score here? - Nineteen-four.
 Dialogue: 0,0:15:00.48,0:15:03.39,Default,,0,0,0,,- 日本人领先？ - 那日本小子在揍烂贝利\N- The Japanese guy? - Japanese guy's trashing Bailey.
 Dialogue: 0,0:15:03.95,0:15:05.91,Default,,0,0,0,,他手里是什么？那是什么球拍？\NWhat's he using? What's that paddle?
@@ -1106,7 +1107,7 @@ Dialogue: 0,0:15:05.93,0:15:08.18,Default,,0,0,0,,不知道 没人见过\NI don'
 Dialogue: 0,0:15:10.62,0:15:11.99,Default,,0,0,0,,没声音\NIt's silent.
 Dialogue: 0,0:15:12.01,0:15:14.34,Default,,0,0,0,,- 神出鬼没的 - 哇\N- Like a ghost! - Wow.
 Dialogue: 0,0:15:14.88,0:15:16.24,Default,,0,0,0,,贝利 好好打\NFuck, Bailey.
-Dialogue: 0,0:15:16.26,0:15:18.22,Default,,0,0,0,,远藤康斗 得分\NPoint, Endo.
+Dialogue: 0,0:15:16.26,0:15:18.22,Default,,0,0,0,,远藤功人 得分\NPoint, Endo.
 Dialogue: 0,0:15:19.17,0:15:20.88,Default,,0,0,0,,赛点\NMatch point.
 Dialogue: 0,0:15:30.36,0:15:32.58,Screen,,0,0,0,,{\an8}（第三轮）
 Dialogue: 0,0:15:56.21,0:15:58.38,Default,,0,0,0,,- 打得好 马蒂 - 打得好\N- Great game, Marty. - Great game.
@@ -1179,8 +1180,11 @@ Dialogue: 0,0:18:49.60,0:18:52.77,Default,,0,0,0,,- 好莱坞就是这样 - 真�
 Dialogue: 0,0:18:53.55,0:18:54.63,Default,,0,0,0,,确实是她\NIt is indeed.
 Dialogue: 0,0:18:54.64,0:18:56.42,Default,,0,0,0,,还有个什么湖的电影\NSomething about a lake?
 Dialogue: 0,0:18:56.43,0:18:58.93,Default,,0,0,0,,- 《影湖》 - 嗯 那片也不错\N- Shadow Lake. - Yeah, that was good.
-Dialogue: 0,0:19:02.32,0:19:04.46,Default,,0,0,0,,- 你们觉得我能采访到她吗？ - 没戏\N- Think I have a chance, lads? - No.
-Dialogue: 0,0:19:04.98,0:19:06.06,Default,,0,0,0,,好了 下个问题\NNext question.
+Dialogue: 0,0:18:59.25,0:19:00.32,Default,,0,0,0,,- 身材真好 - 腿不错\N- Pretty. - Great legs.
+Dialogue: 0,0:19:00.34,0:19:02.14,Default,,0,0,0,,漂亮 真漂亮\NGorgeous, mate. Gorgeous.
+Dialogue: 0,0:19:02.31,0:19:04.00,Default,,0,0,0,,- 她是在看我吗？ - 不是\N- Think I have a chance, lads? - No.
+Dialogue: 0,0:19:04.02,0:19:05.13,Default,,0,0,0,,她肯定在看毛瑟\NI think she's looking Mauser.
+Dialogue: 0,0:19:05.15,0:19:06.23,Default,,0,0,0,,好了 下个问题\NNext question.
 Dialogue: 0,0:19:15.88,0:19:17.02,Default,,0,0,0,,喂\NHello?
 Dialogue: 0,0:19:17.04,0:19:18.70,Default,,0,0,0,,- 凯吗？ - 有事吗？\N- Kay? - Speaking.
 Dialogue: 0,0:19:18.71,0:19:21.28,Default,,0,0,0,,嘿 我是马蒂·毛瑟 我住在皇家套房\NHey, it's Marty Mauser. I'm in the Royal Suite.
@@ -1283,157 +1287,161 @@ Dialogue: 0,0:22:30.69,0:22:31.70,Default,,0,0,0,,二\Ntwo...
 Dialogue: 0,0:22:32.34,0:22:33.48,Default,,0,0,0,,三\Nthree.
 Dialogue: 0,0:22:37.09,0:22:39.51,Default,,0,0,0,,我会把票留售票处给你取\NI'll leave a ticket for you at the box office.
 Dialogue: 0,0:23:03.98,0:23:07.56,Screen,,0,0,0,,{\an8}（半决赛）
-Dialogue: 0,0:23:29.12,0:23:30.95,Default,,0,0,0,,得分 毛瑟\NPoint, Mauser.
-Dialogue: 0,0:23:30.95,0:23:33.20,Default,,0,0,0,,二十比五\NTwenty to five.
-Dialogue: 0,0:23:33.21,0:23:36.63,Default,,0,0,0,,克莱茨基大比分零比二落后毛瑟\NKletzki trails Mauser two games to nil.
-Dialogue: 0,0:23:37.25,0:23:40.42,Default,,0,0,0,,局点兼赛点 毛瑟\NGame and match point, Mauser.
-Dialogue: 0,0:23:40.42,0:23:42.13,Default,,0,0,0,,- 这球咱们玩点花活儿 - 好啊\N- Let's have a little fun with this one. - Okay.
-Dialogue: 0,0:23:42.13,0:23:43.63,Default,,0,0,0,,- 玩点花的 明白? - 收到\N- Have a little fun, all right? - Gotcha.
-Dialogue: 0,0:23:44.13,0:23:45.80,Default,,0,0,0,,换克莱茨基发球\NService switches to Kletzki.
-Dialogue: 0,0:24:16.79,0:24:18.46,Default,,0,0,0,,得分 克莱茨基\NPoint, Kletzki.
-Dialogue: 0,0:24:24.01,0:24:25.97,Default,,0,0,0,,打得漂亮 先生们 精彩 谢谢\NVery well, gentlemen. Thank you for that. Thank you.
-Dialogue: 0,0:24:30.80,0:24:33.14,Default,,0,0,0,,克莱茨基发球 六比二十\NKletzki serves 6-20.
-Dialogue: 0,0:24:33.14,0:24:36.73,Default,,0,0,0,,毛瑟大比分二比零领先\NMauser leads two games to zero.
-Dialogue: 0,0:24:36.73,0:24:38.69,Default,,0,0,0,,再次来到毛瑟先生的赛点\NMatch point again for Mr. Mauser.
-Dialogue: 0,0:24:38.69,0:24:40.65,Default,,0,0,0,,还是你发球 克莱茨基\NYour service again, Kletzki.
-Dialogue: 0,0:24:45.07,0:24:46.57,Default,,0,0,0,,得分 毛瑟!\NPoint, Mauser!
-Dialogue: 0,0:24:48.32,0:24:52.62,Default,,0,0,0,,毛瑟以二十一比六赢下比赛 总比分三比零\NMauser wins the game and match by 21-6. Three games to nil.
-Dialogue: 0,0:24:52.62,0:24:57.41,Default,,0,0,0,,毛瑟晋级决赛 对手是日本的远藤古都\NMauser's on to the finals where he will face Koto Endo of Japan.
-Dialogue: 0,0:25:01.67,0:25:03.79,Default,,0,0,0,,想吃什么随便点 别看价格 行吗?\NGet whatever you want. Don't even look at the prices, okay?
-Dialogue: 0,0:25:04.01,0:25:04.88,Default,,0,0,0,,你点什么?\NWhat are you getting?
-Dialogue: 0,0:25:04.88,0:25:07.47,Default,,0,0,0,,我要惠灵顿牛排和鱼子酱拼盘\NI'm gonna get the Beef Wellington and the caviar tasting plate
-Dialogue: 0,0:25:07.47,0:25:09.34,Default,,0,0,0,,因为这是菜单上最贵的\Nbecause they're the most expensive items on the menu.
-Dialogue: 0,0:25:09.34,0:25:12.35,Default,,0,0,0,,听着 咱们再说回那个哈林篮球队的事\NListen, I would like to keep going back a little bit about the Globetrotters.
-Dialogue: 0,0:25:12.35,0:25:13.93,Default,,0,0,0,,- 又提哈林篮球队? - 对\N- About the Harlem Globetrotters, again? - Yes.
-Dialogue: 0,0:25:13.93,0:25:15.47,Default,,0,0,0,,- 我说了没兴趣 - 为什么不?\N- I told you, I'm not interested. - Why not?
-Dialogue: 0,0:25:15.47,0:25:16.68,Default,,0,0,0,,因为我不想去\N'Cause I don't wanna do it.
-Dialogue: 0,0:25:16.68,0:25:18.27,Default,,0,0,0,,报酬非常高\NIt's great money.
-Dialogue: 0,0:25:18.27,0:25:20.85,Default,,0,0,0,,咱们还能环游世界 你见过威尼斯吗?\NAnd we will travel all over the world. Have you seen Venice?
-Dialogue: 0,0:25:20.85,0:25:22.81,Default,,0,0,0,,我不想在人家中场休息去厕所的时候\NI don't wanna be doing trick shots for a halftime show
-Dialogue: 0,0:25:22.81,0:25:24.44,Default,,0,0,0,,在场上表演杂耍球\Nwhile people are going to the bathroom.
-Dialogue: 0,0:25:24.44,0:25:25.53,Default,,0,0,0,,那太跌份了 行吗?\NThat's beneath me, okay?
-Dialogue: 0,0:25:25.53,0:25:28.36,Default,,0,0,0,,- 那待遇可是皇室级别的 - 服务员在哪儿呢?\N- They're treated like royalty. - Where's the waiter?
-Dialogue: 0,0:25:28.36,0:25:31.11,Default,,0,0,0,,- 听着 我认识干过这行的人 - 打扰下\N- Listen, I know people who have done this. - Excuse me.
-Dialogue: 0,0:25:31.11,0:25:32.28,Default,,0,0,0,,借过\NExcuse me.
-Dialogue: 0,0:25:32.28,0:25:35.20,Default,,0,0,0,,这是个绝佳的机会 我们不该错过\NIt's a great opportunity. We should not miss it.
-Dialogue: 0,0:25:38.12,0:25:39.37,Default,,0,0,0,,马蒂\NMarty.
-Dialogue: 0,0:25:41.46,0:25:42.96,Default,,0,0,0,,是的 先生 有什么能帮您的?\NYes, sir. May I help you, sir?
-Dialogue: 0,0:25:42.96,0:25:44.04,Default,,0,0,0,,嘿 我们可以点菜了吗?\NHi. Can we order?
-Dialogue: 0,0:25:44.04,0:25:45.71,Default,,0,0,0,,当然 先生 我这就叫服务员过来\NOf course, sir. Let me fetch your waiter.
-Dialogue: 0,0:25:45.71,0:25:46.71,Default,,0,0,0,,- 等会 - 请说\N- Hang on. - Yes.
-Dialogue: 0,0:25:47.26,0:25:49.34,Default,,0,0,0,,呃 今晚洛克威尔先生那桌我买单\NUh, I'll be taking care of the Rockwell tab tonight.
-Dialogue: 0,0:25:49.34,0:25:51.97,Default,,0,0,0,,记我账上 皇家套房 马蒂·毛瑟\NPut it on my room. The Royal Suite. Marty Mauser.
-Dialogue: 0,0:25:51.97,0:25:54.47,Default,,0,0,0,,- 记清楚 告诉他们是我买的单 - 明白 交给我吧 先生\N- And make sure they know it's me, too. - I will. Leave it to me, sir.
-Dialogue: 0,0:25:54.47,0:25:55.93,Default,,0,0,0,,- 别让他们拒绝 - 没问题\N- Don't take no for an answer. - I won't.
-Dialogue: 0,0:25:55.93,0:25:58.93,Default,,0,0,0,,- 马蒂·毛瑟 皇家套房 去告诉他们 - 好的 先生\N- Marty Mauser. Royal Suite. Go tell 'em. - Will do, sir.
-Dialogue: 0,0:26:01.06,0:26:03.19,Default,,0,0,0,,行了 看着我 别往那儿瞅 看着我\NOkay. Look at me. Don't look there. Look at me.
-Dialogue: 0,0:26:03.19,0:26:04.44,Default,,0,0,0,,- 洛克威尔是谁? - 一个蠢货\N- Who's Rockwell? - Some bozo.
-Dialogue: 0,0:26:04.44,0:26:06.44,Default,,0,0,0,,现在看过去 自然点 他在干嘛?\NLook over now. Be subtle about it. What's he doing?
-Dialogue: 0,0:26:08.15,0:26:10.03,Default,,0,0,0,,先生 他以前没来过这儿\NHe hasn't been here before, sir.
-Dialogue: 0,0:26:10.03,0:26:11.20,Default,,0,0,0,,他在看咱们\NHe's looking at us.
-Dialogue: 0,0:26:11.20,0:26:12.28,Default,,0,0,0,,- 真的? - 真的\N- Really? - Yeah.
-Dialogue: 0,0:26:12.28,0:26:13.61,Default,,0,0,0,,行 继续跟我聊 自然点\NOkay, keep talking to me. Be normal.
-Dialogue: 0,0:26:13.62,0:26:15.12,Default,,0,0,0,,我希望你再考虑考虑\NI want you to reconsider.
-Dialogue: 0,0:26:15.66,0:26:17.45,Default,,0,0,0,,咱们会是绝佳搭档 我想跟你一块儿干\NWe would be a great team. I wanna do this with you.
-Dialogue: 0,0:26:17.45,0:26:19.12,Default,,0,0,0,,你干嘛非盯着哈林篮球队不放?\NWhy are you so fixed on the Harlem Globetrotters?
-Dialogue: 0,0:26:19.12,0:26:21.25,Default,,0,0,0,,他们干的事挺可悲的 明白吗?\NIt's very sad what they do, okay?
-Dialogue: 0,0:26:21.25,0:26:24.42,Default,,0,0,0,,地球上顶尖的运动员 沦落到去演马戏小丑\NSome of the premier athletes on the planet reduced to acting like circus clowns.
-Dialogue: 0,0:26:24.42,0:26:25.71,Default,,0,0,0,,他现在干嘛呢?\NWhat's he doing now?
-Dialogue: 0,0:26:25.71,0:26:27.30,Default,,0,0,0,,其实 他正朝咱们走过来\NActually, he's coming towards us.
-Dialogue: 0,0:26:27.30,0:26:29.51,Default,,0,0,0,,- 自然点 随意些 - 行 好的 明白\N- Just be normal. Act casual. - Okay, fine. Okay.
-Dialogue: 0,0:26:34.39,0:26:36.30,Default,,0,0,0,,抱歉 我认得你吗?\NExcuse me. Do I know you?
-Dialogue: 0,0:26:36.31,0:26:37.39,Default,,0,0,0,,没\NMm-mmm.
-Dialogue: 0,0:26:37.39,0:26:38.60,Default,,0,0,0,,我看并不认得\NI don't think so.
-Dialogue: 0,0:26:38.60,0:26:40.89,Default,,0,0,0,,那你想帮我们整桌买单?\NAnd you wanna buy dinner for my entire table tonight?
-Dialogue: 0,0:26:40.89,0:26:43.14,Default,,0,0,0,,- 是的 没意见吧? - 为什么?\N- Yeah. Is it okay? - Why?
-Dialogue: 0,0:26:43.39,0:26:44.75,Default,,0,0,0,,什么叫为什么? 我还需要理由?\NWhat do you mean, why? Do I need a reason?
-Dialogue: 0,0:26:44.82,0:26:47.32,Default,,0,0,0,,我换个问法 你想要什么?\NLet me rephrase that. What do you want?
-Dialogue: 0,0:26:47.32,0:26:50.19,Default,,0,0,0,,不 我什么都不要 这只是我表达谢意的一点小法子\NNo, I don't want anything. It's just my small way of saying thank you.
-Dialogue: 0,0:26:50.19,0:26:51.65,Default,,0,0,0,,- 谢我? - 对\N- Thank you? - Yeah.
-Dialogue: 0,0:26:51.65,0:26:53.28,Default,,0,0,0,,具体谢我什么呢?\NThank me for what, specifically?
-Dialogue: 0,0:26:53.28,0:26:54.28,Default,,0,0,0,,谢您的那些产品\NFor all your products.
-Dialogue: 0,0:26:54.82,0:26:57.12,Default,,0,0,0,,我是说 要是没有钢笔 我们该怎么办?\NI mean, where would we be without pens?
-Dialogue: 0,0:26:59.45,0:27:01.87,Default,,0,0,0,,听着 我才艺不少 但我最自豪的一点\NYou know, I have many talents, but the one I'm most proud of
-Dialogue: 0,0:27:01.87,0:27:04.33,Default,,0,0,0,,就是能闻出几里外的屁话--\Nis the ability to smell bullshit from a mile away--
-Dialogue: 0,0:27:04.33,0:27:06.92,Default,,0,0,0,,我可是十足真诚的\NI'm being completely sincere.
-Dialogue: 0,0:27:09.55,0:27:12.09,Default,,0,0,0,,- 你哪儿人? - 纽约的 你呢?\N- Where are you from? - New York. What about you?
-Dialogue: 0,0:27:12.09,0:27:13.76,Default,,0,0,0,,也是纽约 你干哪行的?\NNew York too. What do you do?
-Dialogue: 0,0:27:13.76,0:27:15.34,Default,,0,0,0,,我是个职业运动员\NI'm a professional athlete.
-Dialogue: 0,0:27:15.34,0:27:17.60,Default,,0,0,0,,- 真的? 什么项目? - 乒乓球\N- Really? What sport? - Table tennis.
-Dialogue: 0,0:27:17.60,0:27:18.93,Default,,0,0,0,,乒乓球? 那也算运动?\NTable tennis? That's a sport?
-Dialogue: 0,0:27:18.93,0:27:20.97,Default,,0,0,0,,当然是了 我是来参加全英赛的\NOf course it is. I'm here competing in the British Open.
-Dialogue: 0,0:27:20.97,0:27:22.14,Default,,0,0,0,,我明天要在温布利打决赛\NI'm playing at Wembley tomorrow
-Dialogue: 0,0:27:22.14,0:27:23.94,Default,,0,0,0,,观众满座 对手是日本\Nin front of a sold-out crowd in the finals against Japan.
-Dialogue: 0,0:27:23.94,0:27:25.48,Default,,0,0,0,,我代表美国出战\NI'm here representing the United States.
-Dialogue: 0,0:27:25.48,0:27:27.94,Default,,0,0,0,,等等 慢着 日本? 日本也派队来了?\NWait, wait, wait. Japan? Japan has a team here?
-Dialogue: 0,0:27:27.94,0:27:30.19,Default,,0,0,0,,- 我刚就这么说的 - 他们是怎么避开旅行禁令的?\N- That's what I just said. - How'd they get around the travel ban?
-Dialogue: 0,0:27:30.19,0:27:32.49,Default,,0,0,0,,因为乒乓球是亚洲增长最快的运动\NBecause table tennis is the fastest growing sport in Asia.
-Dialogue: 0,0:27:32.49,0:27:34.11,Default,,0,0,0,,在那边火得不行\NIt's huge over there.
-Dialogue: 0,0:27:34.11,0:27:35.20,Default,,0,0,0,,噢 这个你肯定感兴趣\NOh, you're gonna like this.
-Dialogue: 0,0:27:35.20,0:27:37.62,Default,,0,0,0,,你知道他们管那种握法叫什么吗? 就拿球拍的姿势?\NDo you know what they call their grip? The way they hold their rackets?
-Dialogue: 0,0:27:37.62,0:27:39.37,Default,,0,0,0,,- 不知道 - 他们管那叫直拍\N- No. - They call it penholder.
-Dialogue: 0,0:27:40.62,0:27:41.70,Default,,0,0,0,,那又怎样?\NSo what?
-Dialogue: 0,0:27:41.70,0:27:43.08,Default,,0,0,0,,你可以用这招啊\NYou can use that.
-Dialogue: 0,0:27:43.08,0:27:44.16,Default,,0,0,0,,拿来干嘛?\NUse it for what?
-Dialogue: 0,0:27:44.16,0:27:47.08,Default,,0,0,0,,搞广告之类的 我哪知道 你才是生意人\NFor an advertisement or something. I don't know, you're the business guy.
-Dialogue: 0,0:27:47.08,0:27:49.50,Default,,0,0,0,,我失礼了 这位是我的搭档 克莱茨基\NI'm being rude. This is my associate, Béla Kletzki.
-Dialogue: 0,0:27:49.50,0:27:50.59,Default,,0,0,0,,幸会 先生\NNice to meet you, sir.
-Dialogue: 0,0:27:50.59,0:27:52.88,Default,,0,0,0,,我猜你也是乒乓球手?\NI assume you're a table tennis player also?
-Dialogue: 0,0:27:52.88,0:27:56.26,Default,,0,0,0,,没错 没错 其实我是35到39年的世界冠军\NI am. I am. Actually, I was the World Champion from '35 to '39.
-Dialogue: 0,0:27:56.26,0:27:58.05,Default,,0,0,0,,他曾是世界冠军 我今天赢了他\NHe was the World Champion. I beat him today.
-Dialogue: 0,0:27:58.05,0:27:59.89,Default,,0,0,0,,他赢了我 但他比我年轻得多\NHe beat me. But he's much younger than me.
-Dialogue: 0,0:27:59.89,0:28:01.64,Default,,0,0,0,,我比他强得多 更有天赋\NI'm much better than him, much more talented.
-Dialogue: 0,0:28:01.64,0:28:05.69,Default,,0,0,0,,我不禁注意到这个纹身 你进过集中营 没错吧?\NI can't help but notice this tattoo. You were in one of the camps, weren't you?
-Dialogue: 0,0:28:05.69,0:28:08.48,Default,,0,0,0,,奥斯威辛-比克瑙 没错 怎么问这个?\NAuschwitz-Birkenau. Yeah. Why do you ask?
-Dialogue: 0,0:28:08.48,0:28:10.90,Default,,0,0,0,,我儿子为了解放你们丢了命\NMy son lost his life liberating you.
-Dialogue: 0,0:28:12.90,0:28:14.82,Default,,0,0,0,,节哀顺变\NI'm sorry for your loss.
-Dialogue: 0,0:28:15.40,0:28:17.24,Default,,0,0,0,,我还以为你们是被苏联人解放的\NI thought you were liberated by the Soviets.
-Dialogue: 0,0:28:17.24,0:28:18.70,Default,,0,0,0,,- 确实是 - 并不是美国人\N- We were. - It wasn't the Americans.
-Dialogue: 0,0:28:18.70,0:28:21.53,Default,,0,0,0,,我不是按字面意思说的 他在南太平洋服役\NI didn't mean it literally. He was serving in the South Pacific.
-Dialogue: 0,0:28:21.54,0:28:23.74,Default,,0,0,0,,那他怎么了?\NWell, what happened to him?
-Dialogue: 0,0:28:23.75,0:28:25.58,Default,,0,0,0,,什么意思? 他牺牲了\NWhat do you mean? He was killed.
-Dialogue: 0,0:28:26.79,0:28:27.87,Default,,0,0,0,,你觉得这很好笑?\NYou find that funny?
-Dialogue: 0,0:28:27.88,0:28:31.92,Default,,0,0,0,,噢 天呐 不是 我有时一紧张就会发笑\NOh, God. No, I just get nervous laughter sometimes.
-Dialogue: 0,0:28:31.92,0:28:33.13,Default,,0,0,0,,如果这算慰藉的话\NIf it's any consolation,
-Dialogue: 0,0:28:33.13,0:28:35.72,Default,,0,0,0,,我明天会往他们头上投第三颗原子弹\NI'll be dropping a third atom bomb on their heads tomorrow.
-Dialogue: 0,0:28:35.72,0:28:37.76,Default,,0,0,0,,是啊 我敢说他老妈肯定深感慰藉\NYeah, I'm sure his mother's gonna get a lot of comfort
-Dialogue: 0,0:28:37.76,0:28:39.47,Default,,0,0,0,,因为你打乒乓球纪念他呢\Nthat you're playing ping pong in his honor.
-Dialogue: 0,0:28:39.47,0:28:41.72,Default,,0,0,0,,没多大事 但我心领了\NIt's not that big of a deal, but I appreciate it.
-Dialogue: 0,0:28:41.72,0:28:44.43,Default,,0,0,0,,告诉他-- 他以前替纳粹拆炸弹\NTell him-- He used to diffuse bombs for the Nazis.
-Dialogue: 0,0:28:44.43,0:28:46.18,Default,,0,0,0,,告诉他你跟我讲过的那个故事--\NTell him the story you told me about--
-Dialogue: 0,0:28:46.19,0:28:47.60,Default,,0,0,0,,我还有一桌子客人在等呢\NI've got a whole table of people waiting.
-Dialogue: 0,0:28:47.60,0:28:49.44,Default,,0,0,0,,等等 慢着 你肯定会喜欢这故事 告诉他\NWait, wait. You're gonna love this story. Tell him.
-Dialogue: 0,0:28:50.56,0:28:52.65,Default,,0,0,0,,- 你想听吗? - 并不想 但说吧\N- You wanna hear it? - Not really, but go ahead.
-Dialogue: 0,0:28:52.65,0:28:54.19,Default,,0,0,0,,不 告诉他 特别精彩\NNo, tell him. It's beautiful.
-Dialogue: 0,0:28:54.19,0:28:55.90,Default,,0,0,0,,行 我长话短说 那就是...\NOkay, I'll make it quick. So...
-Dialogue: 0,0:28:55.90,0:28:59.61,Default,,0,0,0,,我刚进集中营的时候 被分到了住处\Nwhen I first got to the camp, I was put into housing.
-Dialogue: 0,0:28:59.72,0:29:02.62,Default,,0,0,0,,走运的是 有个军官认出了我\NLucky for me, there was an officer who recognized me.
-Dialogue: 0,0:29:02.62,0:29:07.33,Default,,0,0,0,,他在1935年布拉格世锦赛上见过我\NHe had seen me in 1935 at the World Championships in Prague.
-Dialogue: 0,0:29:07.33,0:29:11.04,Default,,0,0,0,,那家伙是个真球迷 懂吗? 铁杆粉\NThis guy was a real fan. I mean, a real fan, okay?
-Dialogue: 0,0:29:11.04,0:29:13.63,Default,,0,0,0,,你是说他让你活命是因为你会打乒乓?\NYou're telling me he let you live because you played ping pong?
-Dialogue: 0,0:29:13.63,0:29:15.92,Default,,0,0,0,,他们尊重我的球技 没错\NThey respected my skills, yeah.
-Dialogue: 0,0:29:17.22,0:29:21.64,Default,,0,0,0,,后来 他们教我如何拆解SC炸弹\NSo then, they taught me how to dismantle SC bombs.
-Dialogue: 0,0:29:22.14,0:29:23.22,Default,,0,0,0,,行吗?\NOkay?
-Dialogue: 0,0:29:23.22,0:29:26.81,Default,,0,0,0,,每天早上 他们都派我带着炸弹进树林\NEach morning, they would send me into the woods with the bombs
-Dialogue: 0,0:29:26.81,0:29:30.23,Default,,0,0,0,,就在集中营外围 在那儿就算炸了也只能伤到我自己\Non the outskirts of the camp where I could only do damage to myself.
-Dialogue: 0,0:29:33.48,0:29:35.73,Default,,0,0,0,,有一回\NSo one time,
-Dialogue: 0,0:29:35.73,0:29:37.40,Default,,0,0,0,,我跟着一只蜜蜂\NI followed a honeybee.
-Dialogue: 0,0:29:37.40,0:29:38.65,Default,,0,0,0,,蜜蜂?\NA bee?
-Dialogue: 0,0:29:38.65,0:29:40.24,Default,,0,0,0,,一只蜜蜂\NA honeybee,
-Dialogue: 0,0:29:40.24,0:29:42.16,Default,,0,0,0,,一直跟到它的蜂巢\Nall the way to its hive.
-Dialogue: 0,0:29:44.79,0:29:46.66,Default,,0,0,0,,我用烟把蜜蜂全都熏走了\NAnd I smoked all the bees out.
-Dialogue: 0,0:29:47.87,0:29:50.29,Default,,0,0,0,,然后把巢砸开\NAnd then broke it open,
-Dialogue: 0,0:29:50.29,0:29:54.46,Default,,0,0,0,,我把蜂蜜抹在胸口 胳膊 全身上下都是\Nand I smeared the honey all over my chest, my arms, everywhere.
-Dialogue: 0,0:29:55.00,0:29:56.09,Default,,0,0,0,,为什么?\NWhy?
-Dialogue: 0,0:29:56.09,0:29:57.80,Default,,0,0,0,,因为在那天深夜\N'Cause later that night,
-Dialogue: 0,0:29:57.80,0:30:02.47,Default,,0,0,0,,我让铺友们把蜂蜜从我身上舔掉 补充营养\NI let all my bunk mates to lick the honey off of me for nourishment.
+Dialogue: 0,0:23:29.32,0:23:30.95,Default,,0,0,0,,马蒂·毛瑟 得分\NPoint, Mauser.
+Dialogue: 0,0:23:30.97,0:23:33.20,Default,,0,0,0,,20比5\NTwenty to five.
+Dialogue: 0,0:23:33.22,0:23:36.83,Default,,0,0,0,,克莱茨基整场落后两局 比分0局比2\NKletzki trails Mauser two games to nil.
+Dialogue: 0,0:23:37.25,0:23:40.41,Default,,0,0,0,,马蒂·毛瑟 局点兼赛点\NGame and match point, Mauser.
+Dialogue: 0,0:23:37.25,0:23:40.42,Note,,0,0,0,,{\an8}【译注：表示马蒂再得一分即可赢下整场比赛】
+Dialogue: 0,0:23:40.43,0:23:42.16,Default,,0,0,0,,- 咱们玩点绝活 - 好吧\N- Let's have a little fun with this one. - Okay.
+Dialogue: 0,0:23:42.17,0:23:43.71,Default,,0,0,0,,- 玩出花样来 - 收到\N- Have a little fun, all right? - Gotcha.
+Dialogue: 0,0:23:44.29,0:23:46.19,Default,,0,0,0,,换克莱茨基发球\NService switches to Kletzki.
+Dialogue: 0,0:24:16.79,0:24:18.46,Default,,0,0,0,,克莱茨基 得分\NPoint, Kletzki.
+Dialogue: 0,0:24:24.01,0:24:26.36,Default,,0,0,0,,好的 诸位 谢谢大家 谢谢大家\NVery well, gentlemen. Thank you for that. Thank you.
+Dialogue: 0,0:24:30.80,0:24:33.14,Default,,0,0,0,,克莱茨基发球 当前局分6比20\NKletzki serves 6-20.
+Dialogue: 0,0:24:33.16,0:24:36.85,Default,,0,0,0,,马蒂·毛瑟整场领先两局 2局比0\NMauser leads two games to zero.
+Dialogue: 0,0:24:36.86,0:24:38.69,Default,,0,0,0,,又是马蒂·毛瑟的赛点\NMatch point again for Mr. Mauser.
+Dialogue: 0,0:24:38.71,0:24:40.67,Default,,0,0,0,,再次由你发球 克莱茨基\NYour service again, Kletzki.
+Dialogue: 0,0:24:45.07,0:24:46.72,Default,,0,0,0,,马蒂·毛瑟 得分\NPoint, Mauser!
+Dialogue: 0,0:24:48.39,0:24:52.68,Default,,0,0,0,,马蒂·毛瑟以21比6赢下此局 以总比分3比0赢下整场比赛\NMauser wins the game and match by 21-6. Three games to nil.
+Dialogue: 0,0:24:52.69,0:24:57.64,Default,,0,0,0,,马蒂·毛瑟进入决赛 将对阵日本选手远藤功人\NMauser's on to the finals where he will face Koto Endo of Japan.
+Dialogue: 0,0:25:00.56,0:25:03.74,Screen,,0,0,0,,{\an8}（菜单）
+Dialogue: 0,0:25:01.67,0:25:03.79,Default,,0,0,0,,别去看价钱 想吃什么随便点\NGet whatever you want. Don't even look at the prices, okay?
+Dialogue: 0,0:25:04.01,0:25:04.88,Default,,0,0,0,,你点什么？\NWhat are you getting?
+Dialogue: 0,0:25:04.90,0:25:07.47,Default,,0,0,0,,我就来个威灵顿牛排和鱼子酱拼盘\NI'm gonna get the Beef Wellington and the caviar tasting plate
+Dialogue: 0,0:25:07.49,0:25:09.34,Default,,0,0,0,,要点就点最贵的\Nbecause they're the most expensive items on the menu.
+Dialogue: 0,0:25:09.36,0:25:12.34,Default,,0,0,0,,我想再唠叨两句关于巡回表演队的事\NListen, I would like to keep going back a little bit about the Globetrotters.
+Dialogue: 0,0:25:12.35,0:25:13.93,Default,,0,0,0,,- 哈林篮球队那事儿？ - 对\N- About the Harlem Globetrotters, again? - Yes.
+Dialogue: 0,0:25:12.35,0:25:16.70,Note,,0,0,0,,{\an8}【哈林篮球队：美国巡回表演篮球队 擅长花式竞技与表演】
+Dialogue: 0,0:25:13.95,0:25:15.47,Default,,0,0,0,,- 我跟你说过了 我不干 - 为什么？\N- I told you, I'm not interested. - Why not?
+Dialogue: 0,0:25:15.49,0:25:16.68,Default,,0,0,0,,就是不想干\N'Cause I don't wanna do it.
+Dialogue: 0,0:25:16.70,0:25:18.39,Default,,0,0,0,,报酬很高\NIt's great money.
+Dialogue: 0,0:25:18.40,0:25:20.79,Default,,0,0,0,,咱们还能环游世界 你不想去威尼斯吗？\NAnd we will travel all over the world. Have you seen Venice?
+Dialogue: 0,0:25:20.81,0:25:22.81,Default,,0,0,0,,- 我才不会去当马戏团的中场把戏 - 悉尼呢？\N- I don't wanna be doing trick shots for a halftime show - Sydney?
+Dialogue: 0,0:25:22.83,0:25:24.44,Default,,0,0,0,,- 观众上厕所时上场 - 巴塞罗那？\N- while people are going to the bathroom. - Barcelona?
+Dialogue: 0,0:25:24.46,0:25:25.53,Default,,0,0,0,,真丢人 明白吗？\NThat's beneath me, okay?
+Dialogue: 0,0:25:25.55,0:25:28.57,Default,,0,0,0,,- 观众相当捧他们的 - 服务员在哪儿呢？\N- They're treated like royalty. - Where's the waiter?
+Dialogue: 0,0:25:28.59,0:25:31.10,Default,,0,0,0,,- 我有个熟人干过这行 - 服务员\N- Listen, I know people who have done this. - Excuse me.
+Dialogue: 0,0:25:31.11,0:25:32.39,Default,,0,0,0,,服务员\NExcuse me.
+Dialogue: 0,0:25:32.41,0:25:35.60,Default,,0,0,0,,机会难得 咱们得把握住\NIt's a great opportunity. We should not miss it.
+Dialogue: 0,0:25:38.27,0:25:39.52,Default,,0,0,0,,马蒂\NMarty.
+Dialogue: 0,0:25:41.68,0:25:43.18,Default,,0,0,0,,先生 请问要点什么？\NYes, sir. May I help you, sir?
+Dialogue: 0,0:25:43.19,0:25:44.26,Default,,0,0,0,,可以点菜了吗？\NHi. Can we order?
+Dialogue: 0,0:25:44.27,0:25:45.71,Default,,0,0,0,,没问题 我马上去叫这桌的服务员来\NOf course, sir. Let me fetch your waiter.
+Dialogue: 0,0:25:45.73,0:25:47.03,Default,,0,0,0,,- 别走 - 请说\N- Hang on. - Yes.
+Dialogue: 0,0:25:47.26,0:25:49.33,Default,,0,0,0,,今晚洛克威尔的账由我来结\NUh, I'll be taking care of the Rockwell tab tonight.
+Dialogue: 0,0:25:49.34,0:25:52.14,Default,,0,0,0,,把账记我房间上 皇家套房 马蒂·毛瑟\NPut it on my room. The Royal Suite. Marty Mauser.
+Dialogue: 0,0:25:52.16,0:25:54.40,Default,,0,0,0,,- 跟他们交代清楚 是我付的账 - 明白 先生\N- And make sure they know it's me, too. - I will. Leave it to me, sir.
+Dialogue: 0,0:25:54.41,0:25:55.93,Default,,0,0,0,,- 不许被回绝 - 没问题\N- Don't take no for an answer. - I won't.
+Dialogue: 0,0:25:55.95,0:25:58.93,Default,,0,0,0,,- 马蒂·毛瑟 皇家套房 去告诉他们 - 好的 先生\N- Marty Mauser. Royal Suite. Go tell 'em. - Will do, sir.
+Dialogue: 0,0:26:01.27,0:26:03.39,Default,,0,0,0,,行了 看着我 别往那儿瞅 看着我\NOkay. Look at me. Don't look there. Look at me.
+Dialogue: 0,0:26:03.40,0:26:04.89,Default,,0,0,0,,- 洛克威尔是谁啊 - 就个傻瓜\N- Who's Rockwell? - Some bozo.
+Dialogue: 0,0:26:04.90,0:26:06.99,Default,,0,0,0,,现在看过去 别太明显 告诉我他在干啥？\NLook over now. Be subtle about it. What's he doing?
+Dialogue: 0,0:26:08.15,0:26:10.02,Default,,0,0,0,,抱歉先生 他之前没来过我们酒店\NHe hasn't been here before, sir.
+Dialogue: 0,0:26:10.03,0:26:11.02,Default,,0,0,0,,他在看这边\NHe's looking at us.
+Dialogue: 0,0:26:11.04,0:26:12.10,Default,,0,0,0,,- 是吗？ - 嗯\N- Really? - Yeah.
+Dialogue: 0,0:26:12.12,0:26:13.61,Default,,0,0,0,,好 继续跟我说话 别露馅\NOkay, keep talking to me. Be normal.
+Dialogue: 0,0:26:13.62,0:26:15.12,Default,,0,0,0,,好吧 听我说 再考虑一下\NOkay, fine. I want you to reconsider.
+Dialogue: 0,0:26:15.66,0:26:17.44,Default,,0,0,0,,我们会是绝佳组合 我想跟你搭档\NWe would be a great team. I wanna do this with you.
+Dialogue: 0,0:26:17.45,0:26:19.36,Default,,0,0,0,,干嘛老想着哈林篮球队？\NWhy are you so fixed on the Harlem Globetrotters?
+Dialogue: 0,0:26:19.37,0:26:21.41,Default,,0,0,0,,那群人干的真丢人\NIt's very sad what they do, okay?
+Dialogue: 0,0:26:21.43,0:26:24.60,Default,,0,0,0,,本该是顶尖的运动员却成了杂耍的小丑\NSome of the premier athletes on the planet reduced to acting like circus clowns.
+Dialogue: 0,0:26:24.61,0:26:25.98,Default,,0,0,0,,再看看什么情况\NWhat's he doing now?
+Dialogue: 0,0:26:26.00,0:26:27.34,Default,,0,0,0,,- 他正朝这桌走来 - 他来了？\N- He's coming towards us. - He's coming?
+Dialogue: 0,0:26:27.36,0:26:30.30,Default,,0,0,0,,- 别紧张 表现得自然点 - 行 好的 明白\N- Just be normal. Act casual. - Okay, fine. Okay.
+Dialogue: 0,0:26:34.39,0:26:36.58,Default,,0,0,0,,劳驾 我认识你吗？\NExcuse me. Do I know you?
+Dialogue: 0,0:26:37.41,0:26:38.60,Default,,0,0,0,,应该不认识\NI don't think so.
+Dialogue: 0,0:26:38.62,0:26:40.89,Default,,0,0,0,,你居然想请客？\NAnd you wanna buy dinner for my entire table tonight?
+Dialogue: 0,0:26:40.91,0:26:43.14,Default,,0,0,0,,- 对 可以吗？ - 为什么？\N- Yeah. Is it okay? - Why?
+Dialogue: 0,0:26:43.39,0:26:44.81,Default,,0,0,0,,什么叫为什么？我还需要理由？\NWhat do you mean, why? Do I need a reason?
+Dialogue: 0,0:26:44.82,0:26:47.23,Default,,0,0,0,,我换个说法 你图什么？\NLet me rephrase that. What do you want?
+Dialogue: 0,0:26:47.24,0:26:50.18,Default,,0,0,0,,不 我什么都不图 只是想表示点谢意\NNo, I don't want anything. It's just my small way of saying thank you.
+Dialogue: 0,0:26:50.19,0:26:51.95,Default,,0,0,0,,- 谢我？ - 对\N- Thank you? - Yeah.
+Dialogue: 0,0:26:51.97,0:26:53.38,Default,,0,0,0,,具体谢我什么？\NThank me for what, specifically?
+Dialogue: 0,0:26:53.39,0:26:54.96,Default,,0,0,0,,谢谢您那些产品\NFor all your products.
+Dialogue: 0,0:26:54.97,0:26:57.30,Default,,0,0,0,,没了你们的钢笔 世界该怎么办？\NI mean, where would we be without pens?
+Dialogue: 0,0:26:59.45,0:27:01.86,Default,,0,0,0,,你看 我有不少本事 但最得意的就是\NYou know, I have many talents, but the one I'm most proud of
+Dialogue: 0,0:27:01.87,0:27:04.84,Default,,0,0,0,,- 能大老远闻出屁话 - 不\N- is the ability to smell bullshit from a mile away. - No,
+Dialogue: 0,0:27:04.85,0:27:07.15,Default,,0,0,0,,我说的都是真心话\NI'm being completely sincere.
+Dialogue: 0,0:27:09.76,0:27:12.22,Default,,0,0,0,,- 你是哪儿人？ - 纽约人 你呢？\N- Where are you from? - New York. What about you?
+Dialogue: 0,0:27:12.23,0:27:14.01,Default,,0,0,0,,也是纽约 你是做什么的？\NNew York too. What do you do?
+Dialogue: 0,0:27:14.02,0:27:15.50,Default,,0,0,0,,我是个职业运动员\NI'm a professional athlete.
+Dialogue: 0,0:27:15.51,0:27:17.60,Default,,0,0,0,,- 真的吗 哪项运动？ - 桌上网球\N- Really? What sport? - Table tennis.
+Dialogue: 0,0:27:17.62,0:27:19.06,Default,,0,0,0,,桌上网球？这也算运动？\NTable tennis? That's a sport?
+Dialogue: 0,0:27:19.07,0:27:20.97,Default,,0,0,0,,当然算 我来参加英国公开赛的\NOf course it is. I'm here competing in the British Open.
+Dialogue: 0,0:27:20.99,0:27:22.30,Default,,0,0,0,,我明天要在温布利打决赛\NI'm playing at Wembley tomorrow
+Dialogue: 0,0:27:22.31,0:27:24.19,Default,,0,0,0,,对阵日本 明天赛场座无虚席\Nin front of a sold-out crowd in the finals against Japan.
+Dialogue: 0,0:27:24.20,0:27:25.48,Default,,0,0,0,,- 我代表美国出赛 - 等一下\N- I'm here representing the United States. - Wait, wait, wait.
+Dialogue: 0,0:27:25.50,0:27:28.09,Default,,0,0,0,,日本？日本也来了？\NJapan? Japan has a team here?
+Dialogue: 0,0:27:28.10,0:27:30.19,Default,,0,0,0,,- 我刚才不是说了吗 - 那出国禁令呢？\N- That's what I just said. - How'd they get around the travel ban?
+Dialogue: 0,0:27:30.21,0:27:32.50,Default,,0,0,0,,因为桌球在亚洲增长最快\NBecause table tennis is the fastest growing sport in Asia.
+Dialogue: 0,0:27:32.51,0:27:34.18,Default,,0,0,0,,在那边火得不行\NIt's huge over there.
+Dialogue: 0,0:27:34.19,0:27:35.20,Default,,0,0,0,,说个有意思的事\NOh, you're gonna like this.
+Dialogue: 0,0:27:35.22,0:27:37.62,Default,,0,0,0,,你知道他们的握拍法叫什么吗？\NDo you know what they call their grip? The way they hold their rackets?
+Dialogue: 0,0:27:37.64,0:27:39.58,Default,,0,0,0,,- 不知道 - 他们管那叫直笔握拍\N- No. - They call it penholder.
+Dialogue: 0,0:27:37.64,0:27:40.89,Note,,0,0,0,,{\an8}【直拍：起源日本 英文含“握笔”之意】
+Dialogue: 0,0:27:40.91,0:27:41.70,Default,,0,0,0,,那又怎样？\NSo what?
+Dialogue: 0,0:27:41.72,0:27:43.07,Default,,0,0,0,,你可以拿去用\NYou can use that.
+Dialogue: 0,0:27:43.08,0:27:44.04,Default,,0,0,0,,用来干嘛？\NUse it for what?
+Dialogue: 0,0:27:44.05,0:27:47.28,Default,,0,0,0,,拿去当宣传素材 我哪知道 你才是生意人\NFor an advertisement or something. I don't know, you're the business guy.
+Dialogue: 0,0:27:47.29,0:27:49.49,Default,,0,0,0,,刚才有点失礼 这位是我搭档贝拉·克莱茨基\NI'm being rude. This is my associate, Béla Kletzki.
+Dialogue: 0,0:27:49.50,0:27:50.67,Default,,0,0,0,,幸会 先生\NNice to meet you, sir.
+Dialogue: 0,0:27:50.69,0:27:52.88,Default,,0,0,0,,你也是打桌球的？\NI assume you're a table tennis player also?
+Dialogue: 0,0:27:52.90,0:27:56.52,Default,,0,0,0,,是的 没错 我是三五到三九年的世界冠军\NI am. I am. Actually, I was the World Champion from '35 to '39.
+Dialogue: 0,0:27:56.53,0:27:58.17,Default,,0,0,0,,前世界冠军 我今天把他打败了\NHe was the World Champion. I beat him today.
+Dialogue: 0,0:27:58.19,0:27:59.89,Default,,0,0,0,,他赢了我 他比我年轻得多\NHe beat me. But he's much younger than me.
+Dialogue: 0,0:27:59.91,0:28:01.63,Default,,0,0,0,,也强得多 更有天赋\NI'm much better than him, much more talented.
+Dialogue: 0,0:28:01.64,0:28:05.86,Default,,0,0,0,,我看到这个纹身 你是不是进过集中营？\NI can't help but notice this tattoo. You were in one of the camps, weren't you?
+Dialogue: 0,0:28:05.88,0:28:08.40,Default,,0,0,0,,奥斯威辛二号营区 没错 怎么问这个？\NAuschwitz-Birkenau. Yeah. Why do you ask?
+Dialogue: 0,0:28:08.41,0:28:10.92,Default,,0,0,0,,我儿子为了解放你们付出了生命\NMy son lost his life liberating you.
+Dialogue: 0,0:28:13.07,0:28:14.99,Default,,0,0,0,,抱歉\NI'm sorry for your loss.
+Dialogue: 0,0:28:15.40,0:28:17.23,Default,,0,0,0,,我还以为是苏联人解放你们的\NI thought you were liberated by the Soviets.
+Dialogue: 0,0:28:17.24,0:28:18.79,Default,,0,0,0,,- 确实是 是苏联 - 并不是美国人\N- We were. It's Soviets.  - It wasn't the Americans.
+Dialogue: 0,0:28:18.81,0:28:21.68,Default,,0,0,0,,不是字面意思 我儿子在太平洋战场\NI didn't mean it literally. He was serving in the South Pacific.
+Dialogue: 0,0:28:21.70,0:28:23.92,Default,,0,0,0,,那他后来怎么了？\NWell, what happened to him?
+Dialogue: 0,0:28:23.93,0:28:25.87,Default,,0,0,0,,还能怎么了 他被杀了\NWhat do you mean? He was killed.
+Dialogue: 0,0:28:26.79,0:28:27.94,Default,,0,0,0,,你觉得这好笑吗？\NYou find that funny?
+Dialogue: 0,0:28:27.96,0:28:31.91,Default,,0,0,0,,天呐 不是 我有时一紧张就会笑\NOh, God. No, I just get nervous laughter sometimes.
+Dialogue: 0,0:28:31.92,0:28:33.13,Default,,0,0,0,,说句安慰话\NIf it's any consolation,
+Dialogue: 0,0:28:33.15,0:28:35.72,Default,,0,0,0,,我明天会送给他们第三颗原子弹\NI'll be dropping a third atom bomb on their heads tomorrow.
+Dialogue: 0,0:28:35.74,0:28:37.75,Default,,0,0,0,,你这套安慰话 顶多忽悠你妈\NYeah, I'm sure his mother's gonna get a lot of comfort
+Dialogue: 0,0:28:37.76,0:28:39.62,Default,,0,0,0,,让她不反对你去打小乒乓\Nthat you're playing ping pong in his honor.
+Dialogue: 0,0:28:39.64,0:28:41.80,Default,,0,0,0,,感谢您操心我家事\NIt's not that big of a deal, but I appreciate it.
+Dialogue: 0,0:28:41.81,0:28:44.43,Default,,0,0,0,,跟他讲讲...他以前给纳粹拆弹\NTell him-- He used to diffuse bombs for the Nazis.
+Dialogue: 0,0:28:44.45,0:28:46.18,Default,,0,0,0,,跟他讲讲那故事\NTell him the story you told me about--
+Dialogue: 0,0:28:46.19,0:28:47.91,Default,,0,0,0,,- 我那桌还有人等我 我得走了 - 别走 别走\N- I've got a whole table of people waiting. - No, no, no, wait, wait.
+Dialogue: 0,0:28:47.93,0:28:49.77,Default,,0,0,0,,他会喜欢的 讲给他听\NYou're gonna love this story. Tell him.
+Dialogue: 0,0:28:50.56,0:28:52.65,Default,,0,0,0,,- 你想听吗？ - 不太想 但快说吧\N- You wanna hear it? - Not really, but go ahead.
+Dialogue: 0,0:28:52.67,0:28:54.11,Default,,0,0,0,,别停 快说 是好故事\NNo, tell him. It's beautiful.
+Dialogue: 0,0:28:54.12,0:28:56.01,Default,,0,0,0,,行 那我长话短说\NOkay, I'll make it quick. So...
+Dialogue: 0,0:28:56.02,0:28:59.71,Default,,0,0,0,,我进集中营被分配住处的时候\Nwhen I first got to the camp, I was put into housing.
+Dialogue: 0,0:28:59.72,0:29:02.62,Default,,0,0,0,,幸好有个军官认出我\NLucky for me, there was an officer who recognized me.
+Dialogue: 0,0:29:02.64,0:29:07.32,Default,,0,0,0,,他在1935年布拉格世锦赛上见过我\NHe had seen me in 1935 at the World Championships in Prague.
+Dialogue: 0,0:29:07.33,0:29:10.91,Default,,0,0,0,,那人是真心崇拜我 真心的\NThis guy was a real fan. I mean, a real fan, okay?
+Dialogue: 0,0:29:10.92,0:29:13.81,Default,,0,0,0,,他居然因为你会打小乒乓就让你活着？\NYou're telling me he let you live because you played ping pong?
+Dialogue: 0,0:29:13.82,0:29:15.87,Default,,0,0,0,,他们很佩服我的本事 没错\NThey respected my skills, yeah.
+Dialogue: 0,0:29:17.37,0:29:21.79,Default,,0,0,0,,于是他们教我拆圆柱高爆炸弹\NSo then, they taught me how to dismantle SC bombs.
+Dialogue: 0,0:29:22.14,0:29:23.22,Default,,0,0,0,,明白吗？\NOkay?
+Dialogue: 0,0:29:23.24,0:29:26.81,Default,,0,0,0,,每天早上他们把我和炸弹送到营外的树林里\NEach morning, they would send me into the woods with the bombs
+Dialogue: 0,0:29:26.83,0:29:30.46,Default,,0,0,0,,就算炸了也伤不到别人\Non the outskirts of the camp where I could only do damage to myself.
+Dialogue: 0,0:29:33.61,0:29:35.19,Default,,0,0,0,,有一回\NSo one time,
+Dialogue: 0,0:29:35.88,0:29:37.57,Default,,0,0,0,,我尾随一只蜜蜂\NI followed a honeybee.
+Dialogue: 0,0:29:37.59,0:29:38.73,Default,,0,0,0,,什么蜂？\NA bee?
+Dialogue: 0,0:29:38.75,0:29:40.35,Default,,0,0,0,,蜜蜂\NA honeybee,
+Dialogue: 0,0:29:40.37,0:29:42.39,Default,,0,0,0,,一路跟它到了蜂巢\Nall the way to its hive.
+Dialogue: 0,0:29:44.90,0:29:46.90,Default,,0,0,0,,然后我用烟把蜜蜂全都熏跑\NAnd I smoked all the bees out.
+Dialogue: 0,0:29:47.99,0:29:50.51,Default,,0,0,0,,接着我把巢掰开\NAnd then broke it open,
+Dialogue: 0,0:29:50.52,0:29:54.69,Default,,0,0,0,,我把蜂蜜抹满全身 胸口 胳膊全抹上了\Nand I smeared the honey all over my chest, my arms, everywhere.
+Dialogue: 0,0:29:55.00,0:29:56.09,Default,,0,0,0,,为什么？\NWhy?
+Dialogue: 0,0:29:56.11,0:29:57.89,Default,,0,0,0,,晚上回去后\N'Cause later that night,
+Dialogue: 0,0:29:57.90,0:30:02.56,Default,,0,0,0,,我就让室友把我身上的蜜舔掉充饥\NI let all my bunk mates to lick the honey off of me for nourishment.
+Dialogue: 0,0:30:20.24,0:30:31.04,Screen,,0,0,0,,{\an8}（皇家套房）
 Dialogue: 0,0:31:44.28,0:31:45.32,Default,,0,0,0,,正面\NHeads.
 Dialogue: 0,0:31:47.41,0:31:48.99,Default,,0,0,0,,- 操 - 远藤 选什么?\N- Fuck. - Endo, choice?
 Dialogue: 0,0:31:48.99,0:31:50.37,Default,,0,0,0,,发球\NServe.
 Dialogue: 0,0:31:50.37,0:31:51.87,Default,,0,0,0,,我去那头\NI'll go to that side.
 Dialogue: 0,0:31:58.88,0:32:00.96,Default,,0,0,0,,- 右手边... - 加油 马蒂! 上啊!\N- On my right... - Come on, Marty! Come on!
 Dialogue: 0,0:32:00.96,0:32:04.63,Default,,0,0,0,,...来自美国的马蒂·毛瑟 世界排名第二\N...Marty Mauser of the United States, ranked second,
-Dialogue: 0,0:32:04.63,0:32:09.10,Default,,0,0,0,,对阵来自日本的远藤古都 无排名\Nversus Koto Endo of Japan, unranked.
+Dialogue: 0,0:32:04.63,0:32:09.10,Default,,0,0,0,,对阵来自日本的远藤功人 无排名\Nversus Koto Endo of Japan, unranked.
 Dialogue: 0,0:32:09.10,0:32:12.35,Default,,0,0,0,,比赛采取五局三胜制\NThe gentlemen will battle to the best of five
 Dialogue: 0,0:32:12.35,0:32:14.64,Default,,0,0,0,,每局21分\Nin games to 21 points.
 Dialogue: 0,0:32:15.39,0:32:18.61,Default,,0,0,0,,每局须赢至少两分\NEach game shall be won by at least two points.
@@ -1486,7 +1494,7 @@ Dialogue: 0,0:37:23.49,0:37:24.45,Default,,0,0,0,,简直荒唐\NUnbelievable.
 Dialogue: 0,0:37:25.00,0:37:26.08,Default,,0,0,0,,简直离谱\NUnbelievable.
 Dialogue: 0,0:37:26.08,0:37:28.41,Default,,0,0,0,,...来自日本的全英赛冠军...\N...British Open champion from Japan...
 Dialogue: 0,0:37:28.42,0:37:29.50,Default,,0,0,0,,去你妈的!\NFuck you!
-Dialogue: 0,0:37:29.50,0:37:30.67,Default,,0,0,0,,...远藤古都!\N...Koto Endo!
+Dialogue: 0,0:37:29.50,0:37:30.67,Default,,0,0,0,,...远藤功人!\N...Koto Endo!
 Dialogue: 0,0:39:15.48,0:39:17.40,Default,,0,0,0,,您这儿有米尔顿 洛克威尔的预约吗?\NDo you have a Milton Rockwell reservation?
 Dialogue: 0,0:39:17.40,0:39:20.69,Default,,0,0,0,,- 打扰下?- 麻烦查下米尔顿 洛克威尔的预约\N- Excusez-moi?- Milton Rockwell reservation, please.
 Dialogue: 0,0:39:20.69,0:39:21.78,Default,,0,0,0,,啊 洛克威尔?\NAh, Rockwell?
@@ -2394,7 +2402,7 @@ Dialogue: 0,1:19:58.55,1:20:01.59,Default,,0,0,0,,这主意棒极了 咱们就�
 Dialogue: 0,1:20:01.59,1:20:04.18,Default,,0,0,0,,你干什么呢? 嘿 嘿 洛克威尔先生\NWhat are you doing? Hey. Hey. Mr. Rockwell.
 Dialogue: 0,1:20:04.18,1:20:06.10,Default,,0,0,0,,拜托 咱们都现实一点好吗\NPlease, let's both be pragmatists about this.
 Dialogue: 0,1:20:06.10,1:20:08.27,Default,,0,0,0,,把你对我的个人成见先放一边\NPut your personal feelings about me aside for a second.
-Dialogue: 0,1:20:08.27,1:20:11.35,Default,,0,0,0,,你我都很清楚 我和远藤古都打能创造多大价值\NYou and I both know how much value I would add with Endo.
+Dialogue: 0,1:20:08.27,1:20:11.35,Default,,0,0,0,,你我都很清楚 我和远藤功人打能创造多大价值\NYou and I both know how much value I would add with Endo.
 Dialogue: 0,1:20:11.35,1:20:13.23,Default,,0,0,0,,在他的主场打表演赛?\NIn an exhibition on his home turf?
 Dialogue: 0,1:20:13.23,1:20:15.15,Default,,0,0,0,,想象一下 我就像根炸药引信\NImagine it. I'd be like a stick of dynamite.
 Dialogue: 0,1:20:15.15,1:20:16.73,Default,,0,0,0,,不管你现在的备选方案是什么\NWhatever you have planned, the alternative,
