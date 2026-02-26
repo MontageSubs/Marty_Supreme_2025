@@ -270,7 +270,7 @@ Dialogue: 0,0:11:22.24,0:11:25.12,Default,,0,0,0,,我是来拿西装的 这是�
 Dialogue: 0,0:11:25.14,0:11:27.95,Default,,0,0,0,,打小乒乓还要穿西装 真长见识了\NDidn't know you need a suit to play ping pong.
 Dialogue: 0,0:11:25.14,0:11:29.61,Note,,0,0,0,,{\an8}【乒乓：1950年代“乒乓”在部分场合带有嘲讽意味】
 Dialogue: 0,0:11:36.91,0:11:39.45,Default,,0,0,0,,我就要老默欠我的那七百块\NI just want the $700 that Murray owes me.
-Dialogue: 0,0:11:36.91,0:11:40.53,Note,,0,0,0,,{\an8}【1952年700美元约合2026年约8,600美元 6万人民币 26万新台币】
+Dialogue: 0,0:11:36.91,0:11:40.53,Note,,0,0,0,,{\an8}【1952年700美元约合2026年8,600美元 6万人民币 26万新台币】
 Dialogue: 0,0:11:39.47,0:11:40.53,Default,,0,0,0,,不然呢？\NYeah, or what?
 Dialogue: 0,0:11:40.55,0:11:42.45,Default,,0,0,0,,- 不然我就往你腿上来一枪 - 你不敢\N- Or I'm gonna shoot you in the leg. - No you're not.
 Dialogue: 0,0:11:42.47,0:11:43.53,Default,,0,0,0,,你敢赌吗？\NYou sure about that?
@@ -527,7 +527,7 @@ Dialogue: 0,0:22:37.09,0:22:39.51,Default,,0,0,0,,我会把票留售票处给你
 Dialogue: 0,0:23:03.98,0:23:07.56,Screen,,0,0,0,,{\an8}（半决赛）
 Dialogue: 0,0:23:29.32,0:23:30.95,Default,,0,0,0,,马蒂·毛瑟 得分\NPoint, Mauser.
 Dialogue: 0,0:23:30.97,0:23:33.20,Default,,0,0,0,,20比5\NTwenty to five.
-Dialogue: 0,0:23:33.22,0:23:36.83,Default,,0,0,0,,克莱茨基整场落后两局 比分0局比2\NKletzki trails Mauser two games to nil.
+Dialogue: 0,0:23:33.22,0:23:36.83,Default,,0,0,0,,克莱茨基整场落后两局 零局比二\NKletzki trails Mauser two games to nil.
 Dialogue: 0,0:23:37.25,0:23:40.41,Default,,0,0,0,,马蒂·毛瑟 局点兼赛点\NGame and match point, Mauser.
 Dialogue: 0,0:23:37.25,0:23:40.42,Note,,0,0,0,,{\an8}【译注：表示马蒂再得一分即可赢下整场比赛】
 Dialogue: 0,0:23:40.43,0:23:42.16,Default,,0,0,0,,- 咱们玩点绝活 - 好吧\N- Let's have a little fun with this one. - Okay.
@@ -536,11 +536,11 @@ Dialogue: 0,0:23:44.29,0:23:46.19,Default,,0,0,0,,换克莱茨基发球\NService
 Dialogue: 0,0:24:16.79,0:24:18.46,Default,,0,0,0,,克莱茨基 得分\NPoint, Kletzki.
 Dialogue: 0,0:24:24.01,0:24:26.36,Default,,0,0,0,,好的 诸位 谢谢大家 谢谢大家\NVery well, gentlemen. Thank you for that. Thank you.
 Dialogue: 0,0:24:30.80,0:24:33.14,Default,,0,0,0,,克莱茨基发球 当前局分6比20\NKletzki serves 6-20.
-Dialogue: 0,0:24:33.16,0:24:36.85,Default,,0,0,0,,马蒂·毛瑟整场领先两局 2局比0\NMauser leads two games to zero.
+Dialogue: 0,0:24:33.16,0:24:36.85,Default,,0,0,0,,马蒂·毛瑟整场领先两局 两局比零\NMauser leads two games to zero.
 Dialogue: 0,0:24:36.86,0:24:38.69,Default,,0,0,0,,又是马蒂·毛瑟的赛点\NMatch point again for Mr. Mauser.
 Dialogue: 0,0:24:38.71,0:24:40.67,Default,,0,0,0,,再次由你发球 克莱茨基\NYour service again, Kletzki.
 Dialogue: 0,0:24:45.07,0:24:46.72,Default,,0,0,0,,马蒂·毛瑟 得分\NPoint, Mauser!
-Dialogue: 0,0:24:48.39,0:24:52.68,Default,,0,0,0,,马蒂·毛瑟以21比6赢下此局 以总比分3比0赢下整场比赛\NMauser wins the game and match by 21-6. Three games to nil.
+Dialogue: 0,0:24:48.39,0:24:52.68,Default,,0,0,0,,马蒂·毛瑟以21比6赢下此局 以三局比零赢下整场比赛\NMauser wins the game and match by 21-6. Three games to nil.
 Dialogue: 0,0:24:52.69,0:24:57.64,Default,,0,0,0,,马蒂·毛瑟进入决赛 将对阵日本选手远藤功人\NMauser's on to the finals where he will face Koto Endo of Japan.
 Dialogue: 0,0:25:00.56,0:25:03.74,Screen,,0,0,0,,{\an8}（菜单）
 Dialogue: 0,0:25:01.67,0:25:03.79,Default,,0,0,0,,别去看价钱 想吃什么随便点\NGet whatever you want. Don't even look at the prices, okay?
@@ -620,7 +620,7 @@ Dialogue: 0,0:27:37.64,0:27:40.89,Note,,0,0,0,,{\an8}【直拍：起源日本 �
 Dialogue: 0,0:27:40.91,0:27:41.70,Default,,0,0,0,,那又怎样？\NSo what?
 Dialogue: 0,0:27:41.72,0:27:43.07,Default,,0,0,0,,你可以拿去用\NYou can use that.
 Dialogue: 0,0:27:43.08,0:27:44.04,Default,,0,0,0,,用来干嘛？\NUse it for what?
-Dialogue: 0,0:27:44.05,0:27:47.28,Default,,0,0,0,,拿去当宣传素材 我哪知道 你才是生意人\NFor an advertisement or something. I don't know, you're the business guy.
+Dialogue: 0,0:27:44.05,0:27:47.28,Default,,0,0,0,,拿去当宣传素材 我哪知道 你又不是生意人\NFor an advertisement or something. I don't know, you're the business guy.
 Dialogue: 0,0:27:47.29,0:27:49.49,Default,,0,0,0,,刚才有点失礼 这位是我搭档贝拉·克莱茨基\NI'm being rude. This is my associate, Béla Kletzki.
 Dialogue: 0,0:27:49.50,0:27:50.67,Default,,0,0,0,,幸会 先生\NNice to meet you, sir.
 Dialogue: 0,0:27:50.69,0:27:52.88,Default,,0,0,0,,你也是打桌球的？\NI assume you're a table tennis player also?
@@ -673,66 +673,97 @@ Dialogue: 0,0:29:55.00,0:29:56.09,Default,,0,0,0,,为什么？\NWhy?
 Dialogue: 0,0:29:56.11,0:29:57.89,Default,,0,0,0,,晚上回去后\N'Cause later that night,
 Dialogue: 0,0:29:57.90,0:30:02.56,Default,,0,0,0,,我就让室友把我身上的蜜舔掉充饥\NI let all my bunk mates to lick the honey off of me for nourishment.
 Dialogue: 0,0:30:20.24,0:30:31.04,Screen,,0,0,0,,{\an8}（皇家套房）
-Dialogue: 0,0:31:44.28,0:31:45.32,Default,,0,0,0,,正面\NHeads.
-Dialogue: 0,0:31:47.41,0:31:48.99,Default,,0,0,0,,- 操 - 远藤 选什么?\N- Fuck. - Endo, choice?
-Dialogue: 0,0:31:48.99,0:31:50.37,Default,,0,0,0,,发球\NServe.
-Dialogue: 0,0:31:50.37,0:31:51.87,Default,,0,0,0,,我去那头\NI'll go to that side.
-Dialogue: 0,0:31:58.88,0:32:00.96,Default,,0,0,0,,- 右手边... - 加油 马蒂! 上啊!\N- On my right... - Come on, Marty! Come on!
-Dialogue: 0,0:32:00.96,0:32:04.63,Default,,0,0,0,,...来自美国的马蒂·毛瑟 世界排名第二\N...Marty Mauser of the United States, ranked second,
-Dialogue: 0,0:32:04.63,0:32:09.10,Default,,0,0,0,,对阵来自日本的远藤功人 无排名\Nversus Koto Endo of Japan, unranked.
-Dialogue: 0,0:32:09.10,0:32:12.35,Default,,0,0,0,,比赛采取五局三胜制\NThe gentlemen will battle to the best of five
-Dialogue: 0,0:32:12.35,0:32:14.64,Default,,0,0,0,,每局21分\Nin games to 21 points.
-Dialogue: 0,0:32:15.39,0:32:18.61,Default,,0,0,0,,每局须赢至少两分\NEach game shall be won by at least two points.
-Dialogue: 0,0:32:19.69,0:32:20.90,Default,,0,0,0,,祝二位好运\NGood luck, gentlemen.
-Dialogue: 0,0:32:21.98,0:32:23.40,Default,,0,0,0,,请安静\NQuiet, please.
-Dialogue: 0,0:32:24.82,0:32:26.36,Default,,0,0,0,,开始!\NAll right!
-Dialogue: 0,0:32:33.79,0:32:37.75,Default,,0,0,0,,得分 远藤 1-0\NPoint, Endo. One-nil.
-Dialogue: 0,0:32:42.38,0:32:44.26,Default,,0,0,0,,加油 美国队!\NCome on, America!
-Dialogue: 0,0:32:47.26,0:32:51.39,Default,,0,0,0,,得分 远藤 2-0\NPoint, Endo. Two-nil.
-Dialogue: 0,0:32:53.77,0:32:55.10,Default,,0,0,0,,好球 马蒂!\NAll right, Marty!
-Dialogue: 0,0:32:56.60,0:32:57.60,Default,,0,0,0,,上啊 马蒂!\NCome on, Marty!
-Dialogue: 0,0:33:00.44,0:33:03.44,Default,,0,0,0,,得分 远藤 3-0\NPoint, Endo. Three-nil.
-Dialogue: 0,0:33:13.16,0:33:17.08,Default,,0,0,0,,得分 远藤 4-0\NPoint, Endo. Four-nil.
-Dialogue: 0,0:33:22.34,0:33:23.92,Default,,0,0,0,,加油 马蒂!\NCome on, Marty!
-Dialogue: 0,0:33:30.09,0:33:33.93,Default,,0,0,0,,得分 远藤 5-0\NPoint, Endo. Five-nil.
-Dialogue: 0,0:33:36.06,0:33:38.35,Default,,0,0,0,,换毛瑟发球\NService switches to Mauser.
-Dialogue: 0,0:33:43.52,0:33:46.11,Default,,0,0,0,,得分 毛瑟\NPoint, Mauser.
-Dialogue: 0,0:33:46.11,0:33:48.78,Default,,0,0,0,,9比19发球\NNine serving 19.
-Dialogue: 0,0:34:05.21,0:34:09.47,Default,,0,0,0,,得分 毛瑟 10-19\NPoint, Mauser. 10-19.
-Dialogue: 0,0:34:09.47,0:34:10.47,Default,,0,0,0,,漂亮 马蒂!\NOkay, Marty!
-Dialogue: 0,0:34:34.99,0:34:38.95,Default,,0,0,0,,得分 远藤 20-10\NPoint, Endo. 20-10.
-Dialogue: 0,0:34:40.08,0:34:41.79,Default,,0,0,0,,局点\NGame point.
-Dialogue: 0,0:34:45.88,0:34:47.17,Default,,0,0,0,,发球\NGo! Serve.
-Dialogue: 0,0:35:07.86,0:35:11.86,Default,,0,0,0,,得分 远藤 21-10\NPoint, Endo. 21-10.
-Dialogue: 0,0:35:11.86,0:35:13.53,Default,,0,0,0,,本局远藤胜\NGame, Endo.
-Dialogue: 0,0:35:14.49,0:35:18.95,Default,,0,0,0,,远藤大比分二比零领先\NEndo leads two games to zero.
-Dialogue: 0,0:35:21.41,0:35:23.46,Default,,0,0,0,,得分 毛瑟\NPoint, Mauser.
-Dialogue: 0,0:35:23.46,0:35:25.79,Default,,0,0,0,,18-16\NEighteen-16.
-Dialogue: 0,0:35:40.10,0:35:44.27,Default,,0,0,0,,得分 毛瑟 17-18\NPoint, Mauser. 17-18.
-Dialogue: 0,0:35:44.27,0:35:45.44,Default,,0,0,0,,上啊 马蒂! 加油!\NGo, Marty! Come on!
-Dialogue: 0,0:35:45.44,0:35:48.11,Default,,0,0,0,,换毛瑟发球\NService switches to Mauser.
-Dialogue: 0,0:36:01.70,0:36:03.54,Default,,0,0,0,,操\NFuck.
-Dialogue: 0,0:36:07.46,0:36:11.17,Default,,0,0,0,,得分 远藤 17-19\NPoint, Endo. 17-19.
-Dialogue: 0,0:36:27.06,0:36:28.06,Default,,0,0,0,,操 妈的\NOh, fuck.
-Dialogue: 0,0:36:30.90,0:36:35.78,Default,,0,0,0,,得分 远藤 17-20\NPoint, Endo. 17-20.
-Dialogue: 0,0:36:35.78,0:36:37.41,Default,,0,0,0,,赛点\NAnd match point.
-Dialogue: 0,0:36:43.95,0:36:45.91,Default,,0,0,0,,请安静\NQuiet, please.
-Dialogue: 0,0:36:46.62,0:36:49.13,Default,,0,0,0,,安静 坐稳了\NQuiet. Settle down.
-Dialogue: 0,0:36:49.84,0:36:51.84,Default,,0,0,0,,毛瑟发球\NYour service, Mauser.
-Dialogue: 0,0:36:51.84,0:36:53.13,Default,,0,0,0,,上啊 马蒂!\NCome on, Marty!
-Dialogue: 0,0:37:02.01,0:37:03.27,Default,,0,0,0,,操\NFuck.
-Dialogue: 0,0:37:04.73,0:37:06.64,Default,,0,0,0,,绝对不行! 狗屁! 不行!\NNo, bullshit! No!
-Dialogue: 0,0:37:06.64,0:37:09.31,Default,,0,0,0,,我要立刻重赛 必须用标准硬板拍!\NI want a rematch right now with a standard-league hard-bat!
-Dialogue: 0,0:37:09.31,0:37:10.52,Default,,0,0,0,,没法接受!\NThat is unacceptable!
-Dialogue: 0,0:37:10.52,0:37:12.19,Default,,0,0,0,,要是我安只机械手呢?\NWhat if I had a mechanical arm?
-Dialogue: 0,0:37:12.19,0:37:14.32,Default,,0,0,0,,在球上抹胶水行不行? 这样合规吗?\NWhat if I put glue on the ball? Would that be kosher?
-Dialogue: 0,0:37:14.32,0:37:17.45,Default,,0,0,0,,他全程都在接受场外指导! 我没法接受!\NWhy, he was getting coached the entire time! That is unacceptable!
-Dialogue: 0,0:37:19.45,0:37:22.49,Default,,0,0,0,,我打的是真刀真枪的乒乓球! 真乒乓球!\NI play real table tennis! Real table tennis!
-Dialogue: 0,0:37:23.49,0:37:24.45,Default,,0,0,0,,简直荒唐\NUnbelievable.
-Dialogue: 0,0:37:25.00,0:37:26.08,Default,,0,0,0,,简直离谱\NUnbelievable.
-Dialogue: 0,0:37:26.08,0:37:28.41,Default,,0,0,0,,...来自日本的全英赛冠军...\N...British Open champion from Japan...
-Dialogue: 0,0:37:28.42,0:37:29.50,Default,,0,0,0,,去你妈的!\NFuck you!
-Dialogue: 0,0:37:29.50,0:37:30.67,Default,,0,0,0,,...远藤功人!\N...Koto Endo!
+Dialogue: 0,0:31:44.40,0:31:45.44,Default,,0,0,0,,押正面\NHeads.
+Dialogue: 0,0:31:44.40,0:31:50.70,Note,,0,0,0,,{\an8}【抛硬币猜中者先选“发球”或“场地” 二选一】
+Dialogue: 0,0:31:47.64,0:31:49.22,Default,,0,0,0,,- 真倒霉 - 远藤 轮到你选了\N- Fuck. - Endo, choice?
+Dialogue: 0,0:31:49.23,0:31:50.69,Default,,0,0,0,,（日语）发球
+Dialogue: 0,0:31:50.71,0:31:52.21,Default,,0,0,0,,我选那边\NI'll go to that side.
+Dialogue: 0,0:31:56.46,0:31:59.68,Screen,,0,0,0,,{\an8}（决赛）
+Dialogue: 0,0:31:58.88,0:32:00.96,Default,,0,0,0,,- 右侧... - 加油 马蒂 加油\N- On my right... - Come on, Marty! Come on!
+Dialogue: 0,0:32:00.98,0:32:04.74,Default,,0,0,0,,是美国选手马蒂·毛瑟 世界排名第二\N...Marty Mauser of the United States, ranked second,
+Dialogue: 0,0:32:04.76,0:32:09.31,Default,,0,0,0,,对阵日本选手远藤功人 未列排名\Nversus Koto Endo of Japan, unranked.
+Dialogue: 0,0:32:09.33,0:32:12.39,Default,,0,0,0,,比赛为五局三胜\NThe gentlemen will battle to the best of five
+Dialogue: 0,0:32:12.40,0:32:14.71,Default,,0,0,0,,单局21分制\Nin games to 21 points.
+Dialogue: 0,0:32:15.41,0:32:18.72,Default,,0,0,0,,每局须至少领先两分才能取胜\NEach game shall be won by at least two points.
+Dialogue: 0,0:32:19.82,0:32:21.03,Default,,0,0,0,,祝二位好运\NGood luck, gentlemen.
+Dialogue: 0,0:32:19.96,0:32:23.43,Screen,,0,0,0,,{\an8}（第一局）
+Dialogue: 0,0:32:22.05,0:32:23.47,Default,,0,0,0,,请保持安静\NQuiet, please.
+Dialogue: 0,0:32:24.89,0:32:26.43,Default,,0,0,0,,比赛开始\NAll right!
+Dialogue: 0,0:32:33.97,0:32:37.96,Default,,0,0,0,,远藤功人 得分 1比0\NPoint, Endo. One-nil.
+Dialogue: 0,0:32:42.54,0:32:44.42,Default,,0,0,0,,加油 美国人\NCome on, America!
+Dialogue: 0,0:32:47.36,0:32:51.49,Default,,0,0,0,,远藤功人 得分 2比0\NPoint, Endo. Two-nil.
+Dialogue: 0,0:32:53.77,0:32:55.10,Default,,0,0,0,,加油 马蒂\NAll right, Marty!
+Dialogue: 0,0:32:56.73,0:32:57.94,Default,,0,0,0,,加油啊 马蒂\NCome on, Marty!
+Dialogue: 0,0:33:00.64,0:33:03.64,Default,,0,0,0,,远藤功人 得分 3比0\NPoint, Endo. Three-nil.
+Dialogue: 0,0:33:13.27,0:33:17.19,Default,,0,0,0,,远藤功人 得分 4比0\NPoint, Endo. Four-nil.
+Dialogue: 0,0:33:22.52,0:33:24.10,Default,,0,0,0,,加油 马蒂\NCome on, Marty!
+Dialogue: 0,0:33:30.09,0:33:33.93,Default,,0,0,0,,远藤功人 得分 5比0\NPoint, Endo. Five-nil.
+Dialogue: 0,0:33:36.06,0:33:38.50,Default,,0,0,0,,换马蒂·毛瑟发球\NService switches to Mauser.
+Dialogue: 0,0:33:42.04,0:33:44.39,Screen,,0,0,0,,{\an8}（局分:美国8比日本19 场分:美国零比一）
+Dialogue: 0,0:33:43.52,0:33:46.11,Default,,0,0,0,,马蒂·毛瑟 得分\NPoint, Mauser.
+Dialogue: 0,0:33:44.39,0:33:46.34,Screen,,0,0,0,,{\an8}（局分:美国9比日本19 场分:美国零比一）
+Dialogue: 0,0:33:46.12,0:33:48.79,Default,,0,0,0,,9比19 美方发球\NNine serving 19.
+Dialogue: 0,0:33:51.01,0:33:53.76,Screen,,0,0,0,,{\an8}（第二局）
+Dialogue: 0,0:34:05.21,0:34:09.47,Default,,0,0,0,,马蒂·毛瑟 得分 10比19\NPoint, Mauser. 10-19.
+Dialogue: 0,0:34:09.49,0:34:10.57,Default,,0,0,0,,好样的 马蒂\NOkay, Marty!
+Dialogue: 0,0:34:34.99,0:34:38.95,Default,,0,0,0,,远藤功人 得分 20比10\NPoint, Endo. 20-10.
+Dialogue: 0,0:34:40.16,0:34:41.87,Default,,0,0,0,,局点\NGame point.
+Dialogue: 0,0:34:45.95,0:34:47.46,Default,,0,0,0,,快发球\NGo! Serve.
+Dialogue: 0,0:35:07.86,0:35:11.86,Default,,0,0,0,,远藤功人 得分 21比10\NPoint, Endo. 21-10.
+Dialogue: 0,0:35:11.88,0:35:13.82,Default,,0,0,0,,本局远藤功人胜\NGame, Endo.
+Dialogue: 0,0:35:14.56,0:35:19.02,Default,,0,0,0,,远藤功人以两局比零领先\NEndo leads two games to zero.
+Dialogue: 0,0:35:20.83,0:35:23.39,Screen,,0,0,0,,{\an8}（局分:美国16比日本18 场分:美国零比二）
+Dialogue: 0,0:35:21.51,0:35:23.83,Default,,0,0,0,,马蒂·毛瑟 得分\NPoint, Mauser.
+Dialogue: 0,0:35:23.85,0:35:26.18,Default,,0,0,0,,18比16\NEighteen-16.
+Dialogue: 0,0:35:26.71,0:35:28.63,Screen,,0,0,0,,{\an8}(第三局)
+Dialogue: 0,0:35:40.10,0:35:44.27,Default,,0,0,0,,马蒂·毛瑟 得分 17比18\NPoint, Mauser. 17-18.
+Dialogue: 0,0:35:44.29,0:35:45.57,Default,,0,0,0,,加油 马蒂 加油\NGo, Marty! Come on!
+Dialogue: 0,0:35:45.58,0:35:48.25,Default,,0,0,0,,换马蒂·毛瑟发球\NService switches to Mauser.
+Dialogue: 0,0:36:01.70,0:36:03.54,Default,,0,0,0,,该死\NFuck.
+Dialogue: 0,0:36:07.46,0:36:11.17,Default,,0,0,0,,远藤功人 得分 17比19\NPoint, Endo. 17-19.
+Dialogue: 0,0:36:26.86,0:36:28.01,Default,,0,0,0,,真见鬼了\NOh, fuck.
+Dialogue: 0,0:36:30.90,0:36:35.64,Default,,0,0,0,,远藤功人 得分 17比20\NPoint, Endo. 17-20.
+Dialogue: 0,0:36:35.66,0:36:37.43,Default,,0,0,0,,赛点\NAnd match point.
+Dialogue: 0,0:36:44.07,0:36:46.03,Default,,0,0,0,,请安静\NQuiet, please.
+Dialogue: 0,0:36:46.62,0:36:49.13,Default,,0,0,0,,请坐好 保持安静\NQuiet. Settle down.
+Dialogue: 0,0:36:50.13,0:36:51.87,Default,,0,0,0,,马蒂·毛瑟发球\NYour service, Mauser.
+Dialogue: 0,0:36:51.88,0:36:54.02,Default,,0,0,0,,加油啊 马蒂\NCome on, Marty!
+Dialogue: 0,0:37:02.01,0:37:03.27,Default,,0,0,0,,完了\NFuck.
+Dialogue: 0,0:37:04.73,0:37:06.64,Default,,0,0,0,,不行 这是胡闹 不行\NNo, bullshit! No!
+Dialogue: 0,0:37:06.66,0:37:09.31,Default,,0,0,0,,现在就给我重赛 用正规硬拍\NI want a rematch right now with a standard-league hard-bat!
+Dialogue: 0,0:37:09.33,0:37:10.51,Default,,0,0,0,,这太不像话了\NThat is unacceptable!
+Dialogue: 0,0:37:10.52,0:37:12.24,Default,,0,0,0,,要是我装了机械臂呢？\NWhat if I had a mechanical arm?
+Dialogue: 0,0:37:12.25,0:37:14.25,Default,,0,0,0,,要是我在球上涂胶水呢？这合规吗？\NWhat if I put glue on the ball? Would that be kosher?
+Dialogue: 0,0:37:14.27,0:37:17.44,Default,,0,0,0,,他全场都被教练指点 这太不像话\NWhy, he was getting coached the entire time! That is unacceptable!
+Dialogue: 0,0:37:19.45,0:37:22.80,Default,,0,0,0,,我打的可是正经桌球 正经桌球 \NI play real table tennis! Real table tennis!
+Dialogue: 0,0:37:23.56,0:37:24.65,Default,,0,0,0,,胡闹啊\NUnbelievable.
+Dialogue: 0,0:37:24.99,0:37:26.07,Default,,0,0,0,,胡闹啊\NUnbelievable.
+Dialogue: 0,0:37:26.08,0:37:28.41,Default,,0,0,0,,本届英国公开赛冠军是...\N...British Open champion from Japan...
+Dialogue: 0,0:37:28.42,0:37:29.50,Default,,0,0,0,,去死吧你\NFuck you!
+Dialogue: 0,0:37:29.52,0:37:31.86,Default,,0,0,0,,...日本选手远藤功人\N...Koto Endo!
+Dialogue: 0,0:37:34.21,0:37:36.67,Screen,,0,0,0,,{\an8}（日本新闻）
+Dialogue: 0,0:37:38.29,0:37:42.64,Screen,,0,0,0,,{\an8}（特别报道）
+Dialogue: 0,0:37:38.29,0:37:42.18,Default,,0,0,0,,（日语）第十九届英国桌球锦标赛上 日本首次问鼎冠军\N第19回全英卓球選手権にて日本が初優勝
+Dialogue: 0,0:37:43.55,0:37:45.88,Default,,0,0,0,,（日语）这是自西方列强终战以来\N大西洋戦争終結以来初めて、
+Dialogue: 0,0:37:45.90,0:37:49.45,Default,,0,0,0,,（日语）首位日本选手在国际赛场上夺得胜利\N日本人選手が国際的な大会で勝利を収めました。
+Dialogue: 0,0:37:52.14,0:37:54.06,Default,,0,0,0,,（日语）获胜者为远藤功人\N選手の名は遠藤こと。
+Dialogue: 0,0:37:55.82,0:37:58.29,Default,,0,0,0,,（日语）这位无名的日本挑战者 他在决赛中\N無名の日本人挑戦者遠藤は、
+Dialogue: 0,0:37:58.31,0:38:02.50,Default,,0,0,0,,（日语）以三比零的压倒性优势击败夺冠热门的美国强手\N優勝候補の米国選手にわく屈辱の三対零で完勝。
+Dialogue: 0,0:38:08.65,0:38:10.87,Default,,0,0,0,,（日语）东京十万民众涌上街头\N東京では十万人が詰めかけ、
+Dialogue: 0,0:38:10.88,0:38:12.85,Default,,0,0,0,,（日语）宛若庆典游行\Nパレードさながらの賑わいの中
+Dialogue: 0,0:38:12.86,0:38:14.64,Default,,0,0,0,,（日语）热烈欢庆他的凯旋\Nこの凱旋を祝いました。
+Dialogue: 0,0:38:16.31,0:38:20.07,Default,,0,0,0,,（日语）远藤却以谦逊自持 愿以一名普通工匠身份回国\Nしかし、遠藤選手自身は英雄としてではなく
+Dialogue: 0,0:38:20.09,0:38:22.92,Default,,0,0,0,,（日语）而非受封为所谓英雄\N謙虚な一職人として帰国したいと述べています。
+Dialogue: 0,0:38:23.02,0:38:27.73,Default,,0,0,0,,（日语）远藤十六岁遭遇东京大空袭 失去听觉\N遠藤選手は十六歳の時、東京大空襲に遭い、聴覚を失いました。
+Dialogue: 0,0:38:27.74,0:38:31.38,Default,,0,0,0,,（日语）他在无声之中磨砺感官 最终以钢铁般意志征服赛场\N雑音のない世界で感覚を研ぎ澄ませ試合を制したのです。
+Dialogue: 0,0:38:32.80,0:38:36.40,Default,,0,0,0,,（日语）如今 世界桌球的目光聚焦于我邦\Nそして、日本に世界の卓球界の注目が集まる中、
+Dialogue: 0,0:38:34.68,0:38:39.89,Screen,,0,0,0,,{\an8}（第23界世界桌球锦标赛）
+Dialogue: 0,0:38:36.42,0:38:40.10,Default,,0,0,0,,（日语）本年度世界锦标赛主办地已定为东京\N本年の世界選手権の東京開催が決定しました。
+Dialogue: 0,0:38:40.11,0:38:44.07,Default,,0,0,0,,（日语）美国选手必将卷土重来 誓要洗刷败绩\N米国選手もまた雪辱を果たすべく対戦に臨むでしょう。
+Dialogue: 0,0:38:44.70,0:38:47.06,Default,,0,0,0,,（日语）但远藤并非孤军奋战\Nしかし、遠藤選手は一人ではありません。
+Dialogue: 0,0:38:47.07,0:38:49.43,Default,,0,0,0,,（日语）他背靠的是与他同承苦难\N八千四百万の国民の
+Dialogue: 0,0:38:49.44,0:38:52.84,Default,,0,0,0,,（日语）共怀不屈精神的八千四百万同胞\N苦境を遂げたワークの不屈の精神とともにあります。
+Dialogue: 0,0:38:52.98,0:38:55.75,Screen,,0,0,0,,{\an8}（完）
 Dialogue: 0,0:39:15.48,0:39:17.40,Default,,0,0,0,,您这儿有米尔顿 洛克威尔的预约吗?\NDo you have a Milton Rockwell reservation?
 Dialogue: 0,0:39:17.40,0:39:20.69,Default,,0,0,0,,- 打扰下?- 麻烦查下米尔顿 洛克威尔的预约\N- Excusez-moi?- Milton Rockwell reservation, please.
 Dialogue: 0,0:39:20.69,0:39:21.78,Default,,0,0,0,,啊 洛克威尔?\NAh, Rockwell?
@@ -2578,4 +2609,3 @@ Data: 16,a-mo,e{"originalText"#3A"{\\fs30\\c&H061216&\\b1\\bord2\\frx356\\fry4\\
 Data: 17,a-mo,e{"originalText"#3A"{\\c&HB7B0A2&\\fscx114.28\\fscy107.86\\frz-1.292\\frx11.2278\\fry6.0052\\org(186.13#2C157.64)\\pos(184.66#2C164.66)\\blur0.6\\bord0\\1a&H44&}#E5#AE#B6#E5#BA#AD#E9#9E#8B#E5#B1#A5"#2C"uuid"#3A"e9633278-01ea-40e9-828a-490e05179470"}
 Data: 18,a-mo,e{"originalText"#3A"{\\c&H958859&\\fscx114.28\\fscy107.86\\frz-1.292\\frx11.2278\\fry6.0052\\org(186.13#2C157.64)\\pos(184.66#2C164.66)\\blur1.2\\bord1.5\\3c&H958859&\\3a&HAA&}#E5#AE#B6#E5#BA#AD#E9#9E#8B#E5#B1#A5"#2C"uuid"#3A"d50495d8-f0fe-44ce-be24-11957fe8728c"}
 Data: 19,a-mo,e{"originalText"#3A"{\\c&H4B463C&\\fscx114.28\\fscy107.86\\frz-1.292\\frx11.2278\\fry6.0052\\org(186.13#2C157.64)\\pos(185.2#2C165.2)\\blur2\\bord0\\1a&H66&}#E5#AE#B6#E5#BA#AD#E9#9E#8B#E5#B1#A5"#2C"uuid"#3A"d11690dc-eb96-4da4-9312-ca7809026093"}
-
