@@ -831,7 +831,7 @@ Dialogue: 0,0:41:29.48,0:41:31.32,Default,,0,0,0,,你这么低三下四去讨好
 Dialogue: 0,0:41:31.34,0:41:33.26,Default,,0,0,0,,而他们杀了你儿子 这才叫可笑\Nand they murdered your son. That's funny to me.
 Dialogue: 0,0:41:41.00,0:41:44.45,Default,,0,0,0,,听着 咱俩互揭伤疤 扯平了 行吗？\NLook, you struck a nerve, I struck a nerve. Okay? Now we're even.
 Dialogue: 0,0:41:45.53,0:41:46.61,Default,,0,0,0,,滚出去\NGet out.
-Dialogue: 0,0:41:48.93,0:41:52.11,Default,,0,0,0,,不行 你还先欠我一顿饭\NNah, I think you owe me a meal first.
+Dialogue: 0,0:41:48.93,0:41:52.11,Default,,0,0,0,,不行 你还欠我一顿饭\NNah, I think you owe me a meal first.
 Dialogue: 0,0:41:55.43,0:41:58.46,Screen,,0,0,0,,{\an8}（有请：哈林篮球队）
 Dialogue: 0,0:41:58.83,0:42:04.27,Default,,0,0,0,,（塞克语）让我们热烈欢迎小乒乓登场
 Dialogue: 0,0:42:05.73,0:42:11.57,Default,,0,0,0,,（塞克语）他们将上演“一闪一闪亮晶晶”
@@ -853,33 +853,33 @@ Dialogue: 0,0:43:11.30,0:43:13.72,Lyrics,,0,0,0,,{\an7}♪ 人人终会领悟 �
 Dialogue: 0,0:43:15.39,0:43:18.68,Note,,0,0,0,,{\an8}【1950年代因种族隔离 黑人球员多从事娱乐表演】
 Dialogue: 0,0:43:17.60,0:43:20.60,Lyrics,,0,0,0,,{\an7}♪ 人人终会领悟 ♪\N♪ Everybody's gotta learn sometime ♪
 Dialogue: 0,0:43:34.03,0:43:37.71,Screen,,0,0,0,,{\an8}（美国 纽约）
-Dialogue: 0,0:43:43.92,0:43:45.00,Default,,0,0,0,,打扰下\NExcuse me.
-Dialogue: 0,0:43:45.83,0:43:46.84,Default,,0,0,0,,喂\NHello.
-Dialogue: 0,0:44:10.86,0:44:13.19,Default,,0,0,0,,别在我房间吃喝 会招虫子\NPlease don't eat or drink in my room. It attracts bugs.
-Dialogue: 0,0:44:13.20,0:44:15.32,Default,,0,0,0,,我进屋只是为了打扫 仅此而已\NI just go in there to clean. That's it.
-Dialogue: 0,0:44:25.42,0:44:27.25,Default,,0,0,0,,看来你并不欢迎我\NWell, you don't seem happy to see me.
-Dialogue: 0,0:44:27.25,0:44:28.96,Default,,0,0,0,,是啊 看来你也不怎么欢迎我\NYeah, and you don't seem happy to see me.
-Dialogue: 0,0:44:28.96,0:44:31.38,Default,,0,0,0,,那么 你现在打算住这儿吗?\NSo, now are you going to be staying here?
-Dialogue: 0,0:44:31.38,0:44:33.01,Default,,0,0,0,,怎么 不行吗? 别担心\NWhat, is that not okay? Don't worry.
-Dialogue: 0,0:44:33.01,0:44:34.76,Default,,0,0,0,,过几周我就挪窝 不招你烦了\NI'll be out of your hair in a few weeks.
-Dialogue: 0,0:44:34.76,0:44:36.22,Default,,0,0,0,,别犯傻\NDon't be stupid.
-Dialogue: 0,0:44:37.89,0:44:40.51,Default,,0,0,0,,- 怎么? 过几周有什么事? - 世锦赛\N- Why? What's in a few weeks? - World Championship.
-Dialogue: 0,0:44:40.51,0:44:42.64,Default,,0,0,0,,- 在哪儿办? - 东京\N- So, where's that gonna be? - Tokyo.
-Dialogue: 0,0:44:43.52,0:44:44.93,Default,,0,0,0,,日本东京?\NTokyo, Japan?
-Dialogue: 0,0:44:44.94,0:44:46.94,Default,,0,0,0,,你是在问我东京是不是在日本吗?\NAre you asking me if Tokyo's in Japan?
-Dialogue: 0,0:44:47.90,0:44:49.69,Default,,0,0,0,,你是认真的吗?\NIs that a serious question?
-Dialogue: 0,0:44:49.69,0:44:51.65,Default,,0,0,0,,我看你累坏了\NYou look very tired to me.
-Dialogue: 0,0:44:51.65,0:44:54.28,Default,,0,0,0,,是啊 我刚跑了大半个地球 能不累吗\NYeah, 'cause I just traveled halfway around the world. I'm tired.
-Dialogue: 0,0:44:54.28,0:44:56.74,Default,,0,0,0,,我很忙 忙着工作 忙着搞钱\NI was busy. I was working. I was making money.
-Dialogue: 0,0:45:06.96,0:45:10.08,Default,,0,0,0,,趁这楼里的人都在上班\NYou know, while everybody is at work in the building,
-Dialogue: 0,0:45:10.09,0:45:14.42,Default,,0,0,0,,正是你舒舒服服洗个热水长澡的好时候\Nit would be a good time for you to take a nice, long, hot shower.
-Dialogue: 0,0:45:14.42,0:45:15.76,Default,,0,0,0,,- 给 - 这是什么?\N- Here. - What's this?
-Dialogue: 0,0:45:15.76,0:45:16.97,Default,,0,0,0,,- 我给你带了东西 - 嗯\N- I got you something. - Mmm.
-Dialogue: 0,0:45:35.44,0:45:37.53,Default,,0,0,0,,这是埃及金字塔上的原件\NIt's from an original Egyptian pyramid.
-Dialogue: 0,0:45:40.45,0:45:41.70,Default,,0,0,0,,那可是我们建的\NWe built that.
-Dialogue: 0,0:45:43.04,0:45:44.04,Default,,0,0,0,,行吧\NOkay.
-Dialogue: 0,0:45:58.43,0:46:00.51,Default,,0,0,0,,嘿 利维 你长高了不少啊\NHey, Levi. You got a lot taller.
-Dialogue: 0,0:46:00.51,0:46:01.93,Default,,0,0,0,,- 我没有 - 怎么没有\N- No, I didn't. - Yeah, you did.
+Dialogue: 0,0:43:44.15,0:43:45.23,Default,,0,0,0,,借过\NExcuse me.
+Dialogue: 0,0:43:46.25,0:43:47.35,Default,,0,0,0,,也不打招呼\NHello.
+Dialogue: 0,0:44:10.86,0:44:13.19,Default,,0,0,0,,别在我房间吃喝 会生虫子\NPlease don't eat or drink in my room. It attracts bugs.
+Dialogue: 0,0:44:13.20,0:44:15.32,Default,,0,0,0,,我只是进去打扫卫生 别多想\NI just go in there to clean. That's it.
+Dialogue: 0,0:44:25.41,0:44:27.29,Default,,0,0,0,,见到我你一点都不高兴啊\NWell, you don't seem happy to see me.
+Dialogue: 0,0:44:27.30,0:44:29.11,Default,,0,0,0,,是啊 你不也不高兴吗\NYeah, and you don't seem happy to see me.
+Dialogue: 0,0:44:29.12,0:44:31.38,Default,,0,0,0,,要留这儿住吗？\NSo, now are you going to be staying here?
+Dialogue: 0,0:44:31.40,0:44:32.80,Default,,0,0,0,,怎么 不行吗？\NWhat, is that not okay?
+Dialogue: 0,0:44:32.82,0:44:34.95,Default,,0,0,0,,别担心 我过几周就走 不烦你\NDon't worry. I'll be out of your hair in a few weeks.
+Dialogue: 0,0:44:34.96,0:44:36.57,Default,,0,0,0,,懂点事吧\NDon't be stupid.
+Dialogue: 0,0:44:37.94,0:44:40.56,Default,,0,0,0,,- 走去哪儿？过几周有什么事？ - 世锦赛\N- Why? What's in a few weeks? - World Championship.
+Dialogue: 0,0:44:40.58,0:44:42.98,Default,,0,0,0,,- 在哪儿办？ - 东京\N- So, where's that gonna be? - Tokyo.
+Dialogue: 0,0:44:43.52,0:44:45.25,Default,,0,0,0,,日本的东京？\NTokyo, Japan?
+Dialogue: 0,0:44:45.26,0:44:47.26,Default,,0,0,0,,还有其他东京吗？\NAre you asking me if Tokyo's in Japan?
+Dialogue: 0,0:44:48.34,0:44:49.87,Default,,0,0,0,,你没正经问题吗？\NIs that a serious question?
+Dialogue: 0,0:44:49.89,0:44:52.25,Default,,0,0,0,,我看你累坏了\NYou look very tired to me.
+Dialogue: 0,0:44:52.26,0:44:54.46,Default,,0,0,0,,是啊 我刚跑了大半个地球 能不累吗\NYeah, 'cause I just traveled halfway around the world. I'm tired.
+Dialogue: 0,0:44:54.47,0:44:56.89,Default,,0,0,0,,我很忙 忙着工作 忙着挣钱\NI was busy. I was working. I was making money.
+Dialogue: 0,0:45:07.27,0:45:10.35,Default,,0,0,0,,趁着这会儿楼里没人用热水\NYou know, while everybody is at work in the building,
+Dialogue: 0,0:45:10.36,0:45:14.41,Default,,0,0,0,,去好好洗个热水澡吧\Nit would be a good time for you to take a nice, long, hot shower.
+Dialogue: 0,0:45:14.42,0:45:15.83,Default,,0,0,0,,- 给你 - 这是什么？\N- Here. - What's this?
+Dialogue: 0,0:45:15.85,0:45:17.37,Default,,0,0,0,,专门带给你的\NI got you something.
+Dialogue: 0,0:45:35.44,0:45:38.19,Default,,0,0,0,,这可是从真金字塔上敲下来的\NIt's from an original Egyptian pyramid.
+Dialogue: 0,0:45:40.46,0:45:41.95,Default,,0,0,0,,还记得小时候吗？\NWe built that.
+Dialogue: 0,0:45:43.04,0:45:44.16,Default,,0,0,0,,嗯\NOkay.
+Dialogue: 0,0:45:58.43,0:46:00.60,Default,,0,0,0,,嘿 利维 又长高了\NHey, Levi. You got a lot taller.
+Dialogue: 0,0:46:00.62,0:46:02.09,Default,,0,0,0,,- 我没有 - 有啊\N- No, I didn't. - Yeah, you did.
 Dialogue: 0,0:46:06.35,0:46:07.93,Default,,0,0,0,,- 抱歉 找我有事? - 对 跟我走\N- Excuse me. Can I help you? - Yeah. Let's go.
 Dialogue: 0,0:46:07.94,0:46:09.52,Default,,0,0,0,,- 走 赶紧的 - 嘿! 你干嘛?\N- Come on, come on. - Hey! What are you doing?
 Dialogue: 0,0:46:09.52,0:46:11.81,Default,,0,0,0,,- 跟我走 快走 - 不! 你他妈到底在干嘛?\N- Let's go, let's go. Let's go. - No! What the fuck are you doing?
