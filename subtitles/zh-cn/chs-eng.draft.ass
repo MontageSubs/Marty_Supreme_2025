@@ -983,7 +983,7 @@ Dialogue: 0,0:49:26.32,0:49:27.99,Default,,0,0,0,,- 噢 烟熏肉 - 你点什么
 Dialogue: 0,0:49:28.00,0:49:28.74,Default,,0,0,0,,英式烤牛肉\NRoast beef.
 Dialogue: 0,0:49:28.00,0:49:31.97,Note,,0,0,0,,{\an8}【英式烧牛肉：传统英式料理】
 Dialogue: 0,0:49:28.75,0:49:30.19,Default,,0,0,0,,- 英式烧牛肉？ - 嗯\N- Roast beef? - Yeah.
-Dialogue: 0,0:49:30.20,0:49:31.97,Default,,0,0,0,,你这吃洋饭的条子\NGoyishecop!
+Dialogue: 0,0:49:30.20,0:49:31.97,Default,,0,0,0,,（意第绪语）你这吃洋饭的条子\NGoyishecop!
 Dialogue: 0,0:49:39.63,0:49:40.64,Default,,0,0,0,,嘿\NHey.
 Dialogue: 0,0:49:42.36,0:49:43.74,Default,,0,0,0,,开门 别磨蹭\NOpen up. Come on.
 Dialogue: 0,0:49:44.75,0:49:46.17,Default,,0,0,0,,- 把门撞开 - 你确定？\N- Break it down. - Break it in?
@@ -1068,356 +1068,372 @@ Dialogue: 0,0:53:29.33,0:53:33.34,Default,,0,0,0,,有没有看到一个戴眼镜
 Dialogue: 0,0:53:34.24,0:53:35.78,Default,,0,0,0,,没人看见？\NNobody saw him?
 Dialogue: 0,0:53:36.26,0:53:37.72,Default,,0,0,0,,听不懂英语？\NNo English, huh?
 Dialogue: 0,0:53:37.84,0:53:40.14,Default,,0,0,0,,如需继续通话 请投币五分\NPlease insert a nickel if you'd like to continue the conversation.
-Dialogue: 0,0:53:40.15,0:53:42.32,Default,,0,0,0,,五分? 电话要断了\NA nickel? They're gonna cut us off.
-Dialogue: 0,0:53:42.34,0:53:43.76,Default,,0,0,0,,- 你有五分吗? - 没\N- Do you have a nickel? - No.
-Dialogue: 0,0:53:43.77,0:53:46.40,Default,,0,0,0,,妈 我没撒谎 我保证这是最后一次\NMom, I'm not lying. I promise you this will be the last time.
-Dialogue: 0,0:53:46.71,0:53:49.46,Default,,0,0,0,,我眼瞎了吗 那是他妈的"小老鼠"?\NAre my eyes broke, or is that motherfucking Mouse?
-Dialogue: 0,0:53:49.46,0:53:50.63,Default,,0,0,0,,- 谢了 - 怎么着 宝贝?\N- Thank you. - What's up, baby?
-Dialogue: 0,0:53:50.63,0:53:52.76,Default,,0,0,0,,太谢谢了 真是帮大忙了 谢谢\NThank you so much. I really appreciate it. Thank you.
-Dialogue: 0,0:53:52.76,0:53:54.05,Default,,0,0,0,,马蒂 你闻着像股鱼腥味\NYou smell like a fish, Marty.
-Dialogue: 0,0:53:54.05,0:53:56.26,Default,,0,0,0,,所以咱们得开个房 我得洗个澡\NThat's why we gotta get a hotel room. I need to get a shower.
-Dialogue: 0,0:53:56.26,0:53:58.05,Default,,0,0,0,,嘿 哥们 弄个房间 行吗?\NHow you doing? Hey, can we get a hotel room, please?
-Dialogue: 0,0:53:58.05,0:53:59.68,Default,,0,0,0,,- 四块钱 - 你刚还说三块呢\N- Four dollars. - You said it was three dollars.
-Dialogue: 0,0:53:59.68,0:54:02.68,Default,,0,0,0,,- 那是上个房间的价格 现在四块 - 怎么现在变四块了?\N- That was for the last room. It's four. - Why is it four dollars now?
-Dialogue: 0,0:54:02.68,0:54:04.35,Default,,0,0,0,,借我四块 我保证还你\NLet me get four bucks. I'll pay you back, I promise.
-Dialogue: 0,0:54:04.35,0:54:06.27,Default,,0,0,0,,我丑话说在前 咱们一共就十块本钱\NI'm telling you right now, we only got ten to play with.
-Dialogue: 0,0:54:06.27,0:54:07.35,Default,,0,0,0,,你就带了十块?\NYou brought ten dollars?
-Dialogue: 0,0:54:07.35,0:54:09.65,Default,,0,0,0,,- 你才提前一小时通知我 - 那咱们怎么赢钱?\N- You gave me a hour notice. - How are we supposed to make money?
-Dialogue: 0,0:54:09.65,0:54:10.94,Default,,0,0,0,,我得养娃呢! 我就是个操蛋的出租车司机\NI got kids! I'm a fucking taxi driver.
-Dialogue: 0,0:54:10.94,0:54:12.78,Default,,0,0,0,,有便宜点的房吗? 差点儿没事\NDo you have a cheaper room? It doesn't have to be nice.
-Dialogue: 0,0:54:12.78,0:54:15.24,Default,,0,0,0,,五楼有一间 但不能洗澡\NThere's a room on the fifth floor, but you can't use the shower.
-Dialogue: 0,0:54:15.24,0:54:16.82,Default,,0,0,0,,- 行 那个多少? - 两块五\N- Okay, how much is that? - Two fifty.
-Dialogue: 0,0:54:16.82,0:54:18.61,Default,,0,0,0,,拿三块给我 谢谢\NLet me get three dollars. Thank you.
-Dialogue: 0,0:54:18.62,0:54:20.41,Default,,0,0,0,,你最好还我 算你走运 我还拿你当哥们\NYou better pay me back. You lucky I love you.
-Dialogue: 0,0:54:20.41,0:54:22.49,Default,,0,0,0,,- 吉米 吉米 - 待会从赢的钱里扣\N- Jimmy. Jimmy. - It's coming out your winnings.
-Dialogue: 0,0:54:22.49,0:54:23.58,Default,,0,0,0,,钥匙给我\NGive me the keys.
-Dialogue: 0,0:54:23.58,0:54:24.91,Default,,0,0,0,,什么味儿?\NWhat's that smell?
-Dialogue: 0,0:54:24.91,0:54:26.91,Default,,0,0,0,,噢 我的天! 操\NOh, my God! Fuck.
-Dialogue: 0,0:54:26.92,0:54:28.75,Default,,0,0,0,,- 哇! 那是什么? - 噢 我的天!\N- Wow! What is that? - Oh, my God!
-Dialogue: 0,0:54:28.75,0:54:30.29,Default,,0,0,0,,他出了点小意外\NHe had a little accident.
-Dialogue: 0,0:54:30.29,0:54:32.13,Default,,0,0,0,,天呐! 他拉了个大的\NGod! He had an enormous accident.
-Dialogue: 0,0:54:32.13,0:54:33.75,Default,,0,0,0,,太恶心了\NThat's horrible.
-Dialogue: 0,0:54:33.76,0:54:35.17,Default,,0,0,0,,- 闻着像坨屎! - 操!\N- Smells like shit! - Fuck!
-Dialogue: 0,0:54:35.17,0:54:36.63,Default,,0,0,0,,吉米 你臭得像坨屎\NJimmy, you smell like shit.
-Dialogue: 0,0:54:36.63,0:54:38.93,Default,,0,0,0,,- 是你口臭还是那狗臭? - 能把钥匙给我了吗?\N- Is that your breath or the dog? - Can I get my key, please?
-Dialogue: 0,0:54:38.93,0:54:41.51,Default,,0,0,0,,别带着那狗进电梯 走楼梯\NDo not go in the elevator with that dog. Take the stairs.
-Dialogue: 0,0:54:41.51,0:54:44.06,Default,,0,0,0,,- 跟我开玩笑呢? - 给那狗洗洗\N- Are you kidding me? - Wash that dog.
-Dialogue: 0,0:54:44.06,0:54:45.27,Default,,0,0,0,,再见 吉米\NGoodbye, Jimmy.
-Dialogue: 0,0:54:46.14,0:54:49.10,Default,,0,0,0,,- 她肚子多大了 马蒂? - 很大 挺大的\N- How big is she, Marty? - Very big. Big.
-Dialogue: 0,0:54:49.10,0:54:50.23,Default,,0,0,0,,明天就生吗?\NIs she popping out tomorrow?
-Dialogue: 0,0:54:50.23,0:54:52.56,Default,,0,0,0,,我哪知道什么时候生 听着 我只知道孩子不是我的\NI don't know when she's popping out. Look, all I know is it's not mine.
-Dialogue: 0,0:54:52.57,0:54:54.15,Default,,0,0,0,,她有阴谋 你不像我这么了解她\NShe has an agenda. You don't know her like I do.
-Dialogue: 0,0:54:54.15,0:54:56.15,Default,,0,0,0,,她困在一段操蛋的婚姻里 生活过得一塌糊涂\NShe's stuck in a miserable marriage. She has a horrible life.
-Dialogue: 0,0:54:56.15,0:54:57.24,Default,,0,0,0,,她就是想赖在我头上\NShe's trying to pin it down on me.
-Dialogue: 0,0:54:57.24,0:54:59.03,Default,,0,0,0,,从咱们八岁起 她就想把我套牢\NSince we were eight years old, she's trying to get me stuck.
-Dialogue: 0,0:54:59.03,0:55:00.61,Default,,0,0,0,,- 就为了套你这穷光蛋? - 没错\N- Your bummy ass? - Yes.
-Dialogue: 0,0:55:00.62,0:55:01.74,Default,,0,0,0,,也是 她确实疯\NYeah, she is crazy.
-Dialogue: 0,0:55:01.74,0:55:05.20,Default,,0,0,0,,那孩子从生物学上讲 绝不可能是我的 行吗?\NIt's a biological impossibility that that kid is mine, okay?
-Dialogue: 0,0:55:05.20,0:55:07.25,Default,,0,0,0,,- 所以 你带"雨衣"了? - 没 我不需要\N- So, you using raincoats? - No, I don't need to.
-Dialogue: 0,0:55:07.25,0:55:09.04,Default,,0,0,0,,那你的子弹肯定是哑的\NSo you must be shooting blanks.
-Dialogue: 0,0:55:09.04,0:55:12.75,Default,,0,0,0,,你知道什么叫憋尿吗 沃利? 不知道?\NDo you know what continence is, Wally? No?
-Dialogue: 0,0:55:12.75,0:55:15.13,Default,,0,0,0,,每次我撒尿的时候 我都会憋住\NEvery time I take a piss, I pull back,
-Dialogue: 0,0:55:15.13,0:55:17.38,Default,,0,0,0,,憋住 默数到十个数\NI hold my urine in, and I count to ten Mississippi.
-Dialogue: 0,0:55:17.38,0:55:18.63,Default,,0,0,0,,锻炼肌肉就得靠这个\NThat's how you build up the muscle.
-Dialogue: 0,0:55:18.63,0:55:20.05,Default,,0,0,0,,你那是他妈的找膀胱炎呢\NThat's how you get a fuckin' bladder infection.
-Dialogue: 0,0:55:20.05,0:55:22.14,Default,,0,0,0,,你干嘛呢? 那是我的信\NWhat are you doing? That's my mail.
-Dialogue: 0,0:55:22.14,0:55:23.39,Default,,0,0,0,,你疯了吗?\NAre you out of your mind?
-Dialogue: 0,0:55:24.18,0:55:25.72,Default,,0,0,0,,你得去买那些该死的尿布\NYou need to grab them goddamn diapers.
-Dialogue: 0,0:55:25.72,0:55:26.81,Default,,0,0,0,,不去\NNo.
-Dialogue: 0,0:55:26.81,0:55:28.14,Default,,0,0,0,,给我清醒点\NAnd get a fucking grip.
-Dialogue: 0,0:55:28.14,0:55:29.69,Default,,0,0,0,,我才不当什么爹\NI'm not a father.
-Dialogue: 0,0:55:47.58,0:55:48.96,Default,,0,0,0,,- 哟 马蒂 - 怎么?\N- Yo, Marty. - What?
-Dialogue: 0,0:55:49.83,0:55:50.91,Default,,0,0,0,,丽兹酒店是哪出?\NWhat's the Ritz?
-Dialogue: 0,0:55:50.92,0:55:52.00,Default,,0,0,0,,干嘛?\NWhy?
-Dialogue: 0,0:55:52.00,0:55:54.46,Default,,0,0,0,,你收到一张1500美元的罚单\NYou got a $1,500 fine
-Dialogue: 0,0:55:54.46,0:55:56.59,Default,,0,0,0,,国际乒联发来的...\Nfrom the International Table Tennis...
-Dialogue: 0,0:55:56.59,0:55:58.21,Default,,0,0,0,,- 啥? - ...说是协会要...\N- What? - ...Association and...
-Dialogue: 0,0:55:58.21,0:56:00.30,Default,,0,0,0,,- 还要... - 拿进来给我!\N- And they... - Bring it in here!
-Dialogue: 0,0:56:00.30,0:56:01.68,Default,,0,0,0,,- 还要把你这弱鸡给禁赛了 - 拿给我\N- And they banned your scrawny ass. - Give me that.
-Dialogue: 0,0:56:04.80,0:56:06.10,Default,,0,0,0,,这他妈怎么回事?\NWhat the fuck?
-Dialogue: 0,0:56:07.56,0:56:09.93,Default,,0,0,0,,- 你没事吧? - 你他妈又是谁?\N- Are you okay? - Who the fuck are you?
-Dialogue: 0,0:56:09.93,0:56:13.90,Default,,0,0,0,,天呐! 救命! 把这鬼玩意儿从我身上挪开!\NGod! Help me! Get this fucking thing off of me!
-Dialogue: 0,0:56:13.90,0:56:16.48,Default,,0,0,0,,我的狗!\NMy dog!
-Dialogue: 0,0:56:16.48,0:56:18.86,Default,,0,0,0,,- 操! - 见鬼! 发生什么了?\N- Holy shit! - Shit! What happened?
-Dialogue: 0,0:56:18.86,0:56:21.65,Default,,0,0,0,,快点! 从那破浴缸里滚出来帮帮我!\NCome on! Get outta that fuckin' tub and help me!
-Dialogue: 0,0:56:21.66,0:56:24.49,Default,,0,0,0,,我的狗快淹死了 伙计 快啊! 帮帮我!\NMy dog's drowning, man. Come on! Help me!
-Dialogue: 0,0:56:24.49,0:56:27.03,Default,,0,0,0,,行 我把它翻过来 把手抽出来\NOkay, I'm flipping it. Take your arm out.
-Dialogue: 0,0:56:27.04,0:56:28.54,Default,,0,0,0,,- 一 二 - 把它抬开!\N- One. Two. - Lift it off!
-Dialogue: 0,0:56:28.54,0:56:30.25,Default,,0,0,0,,三\NThree.
-Dialogue: 0,0:56:33.21,0:56:35.67,Default,,0,0,0,,快把手抽出来! 噢我的天! 我的天!\NTake your arm out! Oh, my God! Oh, my God!
-Dialogue: 0,0:56:36.25,0:56:37.38,Default,,0,0,0,,操! 操!\NFuck! Fuck!
-Dialogue: 0,0:56:37.38,0:56:38.80,Default,,0,0,0,,噢 妈的 你的手\NOh, fuck, your arm.
-Dialogue: 0,0:56:39.34,0:56:41.51,Default,,0,0,0,,往后靠 往后靠 别看伤口\NLean back. Lean back. Don't look at it.
-Dialogue: 0,0:56:41.51,0:56:43.22,Default,,0,0,0,,- 我得弄个止血带 - 噢 操!\N- I need to make a tourniquet. - Oh, fuck!
-Dialogue: 0,0:56:43.22,0:56:44.80,Default,,0,0,0,,- 过来 手给我 - 你要干嘛?\N- Come here. Give me your arm. - What are you doing?
-Dialogue: 0,0:56:44.80,0:56:46.14,Default,,0,0,0,,- 你干什么? - 手给我\N- What are you doing? - Give me your arm.
-Dialogue: 0,0:56:46.14,0:56:47.60,Default,,0,0,0,,- 妈的 - 我的狗呢?\N- Fuck. - Where's my dog?
-Dialogue: 0,0:56:47.60,0:56:49.01,Default,,0,0,0,,别管那狗了! 手给我\NDon't worry about the dog! Give me your arm.
-Dialogue: 0,0:56:49.02,0:56:50.27,Default,,0,0,0,,- 摩西 - 别乱动 别乱动\N- Moses. - Do nothing. Do nothing.
-Dialogue: 0,0:56:50.27,0:56:51.73,Default,,0,0,0,,有我在呢 别担心\NI got you. Don't worry.
-Dialogue: 0,0:56:51.73,0:56:53.56,Default,,0,0,0,,沃利 快叫救护车!\NWally, call an ambulance!
-Dialogue: 0,0:56:56.73,0:56:57.98,Default,,0,0,0,,- 你还好吧? - 不 我一点也不好\N- Are you good? - No, I'm not good.
-Dialogue: 0,0:56:57.98,0:56:59.07,Default,,0,0,0,,我的眼镜呢?\NWhere are my glasses?
-Dialogue: 0,0:56:59.07,0:57:00.94,Default,,0,0,0,,我是问你伤着没? 你刚把地板砸穿了\NI mean, are you hurt? You just fell through the floor.
-Dialogue: 0,0:57:00.94,0:57:03.11,Default,,0,0,0,,真他妈扯淡 我得把钱要回来\NFucking horseshit. I'm getting our money back.
-Dialogue: 0,0:57:03.11,0:57:04.91,Default,,0,0,0,,把钱要回来?\NGetting our money back?
-Dialogue: 0,0:57:04.91,0:57:07.74,Default,,0,0,0,,马蒂 咱们得赶紧溜 这才两块五毛钱 你在说啥呢?\NMarty, we gotta get the fuck out of here. It's $2.50. What are you talking about?
-Dialogue: 0,0:57:07.74,0:57:09.74,Default,,0,0,0,,我要回来的可不止两块五 你没见刚才发生了什么?\NI'm asking for way more than $2.50. You see what just happened?
-Dialogue: 0,0:57:11.96,0:57:13.12,Default,,0,0,0,,在这等着 等着\NWait here. Wait.
-Dialogue: 0,0:57:14.00,0:57:15.87,Default,,0,0,0,,- 等多久? - 十秒钟\N- For how long? - Ten seconds.
+Dialogue: 0,0:53:40.15,0:53:42.32,Default,,0,0,0,,要五分？电话要断了\NA nickel? They're gonna cut us off.
+Dialogue: 0,0:53:42.34,0:53:43.76,Default,,0,0,0,,- 你有五分吗？ - 没\N- Do you have a nickel? - No.
+Dialogue: 0,0:53:43.77,0:53:46.40,Default,,0,0,0,,妈 真没骗你 我保证这次是最后一次了\NMom, I'm not lying. I promise you this will be the last time.
+Dialogue: 0,0:53:46.42,0:53:49.17,Default,,0,0,0,,难道我眼花了 这不是我的小毛毛吗？\NAre my eyes broke, or is that motherfucking Mouse?
+Dialogue: 0,0:53:49.18,0:53:50.35,Default,,0,0,0,,- 谢谢 - 近来怎样？\N- Thank you. - What's up, baby?
+Dialogue: 0,0:53:50.37,0:53:52.50,Default,,0,0,0,,太谢谢了 你要帮大忙了 谢谢\NThank you so much. I really appreciate it. Thank you.
+Dialogue: 0,0:53:52.51,0:53:53.80,Default,,0,0,0,,- 你一身臭味 - 我知道\N- You smell like a fish, Marty. - I know, that's why
+Dialogue: 0,0:53:53.82,0:53:55.72,Default,,0,0,0,,所以咱们得开个房 我得洗个澡\Nwe gotta get a hotel room. I need to get a shower.
+Dialogue: 0,0:53:55.73,0:53:57.73,Default,,0,0,0,,你好 麻烦开一间房\NHow you doing? Hey, can we get a hotel room, please?
+Dialogue: 0,0:53:57.75,0:53:59.38,Default,,0,0,0,,- 四块 - 你刚还说三块呢\N- Four dollars. - You said it was three dollars.
+Dialogue: 0,0:53:59.40,0:54:02.35,Default,,0,0,0,,- 那是刚才那间价格 现在四块 - 怎么现在变四块了？\N- That was for the last room. It's four. - Why is it four dollars now?
+Dialogue: 0,0:54:02.36,0:54:04.03,Default,,0,0,0,,先借我四块 我保证还你\NLet me get four bucks. I'll pay you back, I promise.
+Dialogue: 0,0:54:04.05,0:54:05.97,Default,,0,0,0,,我跟你说 我们只有十块本钱可以赌\NI'm telling you right now, we only got ten to play with.
+Dialogue: 0,0:54:04.05,0:54:07.35,Note,,0,0,0,,{\an8}【约120美元 820人民币 3,750新台币】
+Dialogue: 0,0:54:05.98,0:54:07.34,Default,,0,0,0,,就带了十块？搞什么鬼？\NYou brought ten dollars? What's wrong with you?
+Dialogue: 0,0:54:07.35,0:54:09.22,Default,,0,0,0,,- 你一小时前才通知我 - 那咱们怎么赢钱？\N- You gave me a hour notice. - How are we supposed to make money?
+Dialogue: 0,0:54:09.23,0:54:11.32,Default,,0,0,0,,老兄 我得养娃呢 我就是个开出租的\NNigger, I got kids! I'm a fucking taxi driver.
+Dialogue: 0,0:54:11.34,0:54:12.58,Default,,0,0,0,,有便宜点的房吗？不用讲究\NDo you have a cheaper room? It doesn't have to be nice.
+Dialogue: 0,0:54:12.59,0:54:14.87,Default,,0,0,0,,五楼还有间 但不准洗澡\NThere's a room on the fifth floor, but you can't use the shower.
+Dialogue: 0,0:54:14.89,0:54:16.47,Default,,0,0,0,,- 那好 多少钱？ - 两块五\N- Okay, how much is that? - Two fifty.
+Dialogue: 0,0:54:14.89,0:54:16.47,Note,,0,0,0,,{\an8}【约30美元 210人民币 960新台币】
+Dialogue: 0,0:54:16.48,0:54:18.27,Default,,0,0,0,,- 借我三块 谢谢 - 别赖账\N- Let me get three dollars. Thank you. - You better pay me back.
+Dialogue: 0,0:54:18.29,0:54:20.08,Default,,0,0,0,,- 放心 放心 - 多亏你还有我这个哥们\N- Yeah, I will I will. - You lucky I love you.
+Dialogue: 0,0:54:20.09,0:54:22.17,Default,,0,0,0,,- 吉米 吉米 - 待会从赢的钱里扣\N- Jimmy. Jimmy. - It's coming out your winnings.
+Dialogue: 0,0:54:22.19,0:54:23.30,Default,,0,0,0,,把钥匙递来\NGive me the keys.
+Dialogue: 0,0:54:23.31,0:54:24.36,Default,,0,0,0,,这啥味儿？\NWhat's that smell?
+Dialogue: 0,0:54:24.37,0:54:26.33,Default,,0,0,0,,哎呦 我去\NOh, my God! Fuck.
+Dialogue: 0,0:54:26.65,0:54:28.35,Default,,0,0,0,,- 我去 怎么那么臭 - 天呐\N- Wow! What is that? - Oh, my God!
+Dialogue: 0,0:54:28.36,0:54:29.90,Default,,0,0,0,,出了点小意外\NHe had a little accident.
+Dialogue: 0,0:54:29.92,0:54:31.67,Default,,0,0,0,,这哪是小意外啊\NGod! He had an enormous accident.
+Dialogue: 0,0:54:31.68,0:54:33.30,Default,,0,0,0,,难闻死了\NThat's horrible.
+Dialogue: 0,0:54:33.32,0:54:34.83,Default,,0,0,0,,- 跟掉粪坑里一样 - 我去\N- Smells like shit! - Fuck!
+Dialogue: 0,0:54:34.84,0:54:36.30,Default,,0,0,0,,吉米 想必你是掉过粪坑吧\NJimmy, you smell like shit.
+Dialogue: 0,0:54:36.32,0:54:38.76,Default,,0,0,0,,- 你嘴比你那狗还臭 - 能把钥匙给我了吗？\N- Is that your breath or the dog? - Can I get my key, please?
+Dialogue: 0,0:54:38.77,0:54:41.24,Default,,0,0,0,,不许带那狗上电梯 走楼梯\NDo not go in the elevator with that dog. Take the stairs.
+Dialogue: 0,0:54:41.25,0:54:43.80,Default,,0,0,0,,- 别闹 - 赶紧洗狗\N- Are you kidding me? - Wash that dog.
+Dialogue: 0,0:54:43.82,0:54:45.03,Default,,0,0,0,,晚安 吉米\NGoodbye, Jimmy.
+Dialogue: 0,0:54:45.82,0:54:48.78,Default,,0,0,0,,- 她肚子有多大了 - 非常大 大得吓人\N- How big is she, Marty? - Very big. Big.
+Dialogue: 0,0:54:48.80,0:54:49.93,Default,,0,0,0,,大到明天就生吗？\NIs she popping out tomorrow?
+Dialogue: 0,0:54:49.94,0:54:52.40,Default,,0,0,0,,我哪知道什么时候生 我只知道孩子不是我的\NI don't know when she's popping out. Look, all I know is it's not mine.
+Dialogue: 0,0:54:52.42,0:54:53.95,Default,,0,0,0,,我太了解她了 她有她的小算盘\NShe has an agenda. You don't know her like I do.
+Dialogue: 0,0:54:53.96,0:54:55.96,Default,,0,0,0,,她婚姻不幸 生活惨淡\NShe's stuck in a miserable marriage. She has a horrible life.
+Dialogue: 0,0:54:55.98,0:54:57.07,Default,,0,0,0,,她想借我逃避\NShe's trying to pin it down on me.
+Dialogue: 0,0:54:57.08,0:54:58.60,Default,,0,0,0,,从八岁起 她就想把我套牢\NSince we were eight years old, she's trying to get me stuck.
+Dialogue: 0,0:54:58.62,0:55:00.47,Default,,0,0,0,,- 套你这穷光蛋？ - 没错\N- Your bummy ass? - Yes.
+Dialogue: 0,0:55:00.49,0:55:01.47,Default,,0,0,0,,那她真有毛病\NYeah, she is crazy.
+Dialogue: 0,0:55:01.48,0:55:04.88,Default,,0,0,0,,从生理上讲那孩子绝不可能是我的\NIt's a biological impossibility that that kid is mine, okay?
+Dialogue: 0,0:55:04.90,0:55:06.95,Default,,0,0,0,,- 你戴套了？ - 没 我不需要\N- So, you using raincoats? - No, I don't need to.
+Dialogue: 0,0:55:06.96,0:55:08.95,Default,,0,0,0,,那你多半是废了\NSo you must be shooting blanks.
+Dialogue: 0,0:55:08.96,0:55:12.50,Default,,0,0,0,,你知道“定海锁脉功”吗？\NDo you know what continence is, Wally? No?
+Dialogue: 0,0:55:12.51,0:55:14.84,Default,,0,0,0,,每次尿一半我就憋着\NEvery time I take a piss, I pull back,
+Dialogue: 0,0:55:14.86,0:55:16.96,Default,,0,0,0,,然后默唱首生日歌\NI hold my urine in, and I count to ten Mississippi.
+Dialogue: 0,0:55:16.97,0:55:18.22,Default,,0,0,0,,- 专练那块肌肉 - 我去\N- That's how you build up the muscle. - Oh, my God!
+Dialogue: 0,0:55:18.24,0:55:19.76,Default,,0,0,0,,你这是专练膀胱炎的\NThat's how you get a fuckin' bladder infection.
+Dialogue: 0,0:55:19.77,0:55:21.86,Default,,0,0,0,,你干嘛呢？那是我的信\NWhat are you doing? That's my mail.
+Dialogue: 0,0:55:21.88,0:55:23.13,Default,,0,0,0,,瞎看什么\NAre you out of your mind?
+Dialogue: 0,0:55:23.65,0:55:25.26,Default,,0,0,0,,你得给你买尿布去了\NYou need to grab them goddamn diapers.
+Dialogue: 0,0:55:25.27,0:55:26.47,Default,,0,0,0,,不许走\NNo.
+Dialogue: 0,0:55:26.48,0:55:27.81,Default,,0,0,0,,你得理智点\NAnd get a fucking grip.
+Dialogue: 0,0:55:27.83,0:55:29.38,Default,,0,0,0,,我才不当什么爹\NI'm not a father.
+Dialogue: 0,0:55:31.08,0:55:34.83,Screen,,0,0,0,,{\an8}（国际乒联）
+Dialogue: 0,0:55:47.29,0:55:48.67,Default,,0,0,0,,- 哟 马蒂 - 干嘛？\N- Yo, Marty. - What?
+Dialogue: 0,0:55:49.58,0:55:50.83,Default,,0,0,0,,丽兹酒店是哪出？\NWhat's the Ritz?
+Dialogue: 0,0:55:50.84,0:55:51.79,Default,,0,0,0,,干嘛问这个？\NWhy?
+Dialogue: 0,0:55:51.80,0:55:54.26,Default,,0,0,0,,你被国际乒联\NYou got a $1,500 fine
+Dialogue: 0,0:55:54.28,0:55:56.27,Default,,0,0,0,,罚了一千五百美金\Nfrom the International Table Tennis...
+Dialogue: 0,0:55:54.28,0:55:58.15,Note,,0,0,0,,{\an8}【约1.2万美元 8.5万人民币 37万新台币】
+Dialogue: 0,0:55:56.29,0:55:58.16,Default,,0,0,0,,- 什么？ - ...他们说...\N- What? - ...Association and...
+Dialogue: 0,0:55:58.17,0:55:59.88,Default,,0,0,0,,- 他们还... - 快拿给我\N- And they... - Bring it in here!
+Dialogue: 0,0:55:59.89,0:56:01.73,Default,,0,0,0,,- 他们还把你给禁赛了 - 给我\N- And they banned your scrawny ass. - Give me that.
+Dialogue: 0,0:56:07.27,0:56:09.57,Default,,0,0,0,,- 你没事吧？ - 你他妈从哪冒出来的？\N- Are you okay? - Who the fuck are you?
+Dialogue: 0,0:56:09.58,0:56:13.55,Default,,0,0,0,,快来帮我 快抬起来\NGod! Help me! Get this fucking thing off of me!
+Dialogue: 0,0:56:15.27,0:56:16.45,Default,,0,0,0,,我的狗\NMy dog!
+Dialogue: 0,0:56:16.48,0:56:18.39,Default,,0,0,0,,- 天呐 - 见鬼 出啥事了\N- Holy shit! - Shit! What happened?
+Dialogue: 0,0:56:18.41,0:56:21.20,Default,,0,0,0,,快点 从浴缸滚出来帮我\NCome on! Get outta that fuckin' tub and help me!
+Dialogue: 0,0:56:21.59,0:56:24.42,Default,,0,0,0,,我狗要淹死了 赶紧 帮我\NMy dog's drowning, man. Come on! Help me!
+Dialogue: 0,0:56:24.44,0:56:26.58,Default,,0,0,0,,好 我要抬了 准备抽手\NOkay, I'm flipping it. Take your arm out.
+Dialogue: 0,0:56:26.59,0:56:28.15,Default,,0,0,0,,- 一 二 - 快抬\N- One. Two. - Lift it off!
+Dialogue: 0,0:56:28.18,0:56:29.29,Default,,0,0,0,,三\NThree.
+Dialogue: 0,0:56:32.89,0:56:35.35,Default,,0,0,0,,- 快把手抽出来 - 疼死了 疼死了\N- Take your arm out! - Oh, my God! Oh, my God!
+Dialogue: 0,0:56:36.24,0:56:37.38,Default,,0,0,0,,操 操\NFuck! Fuck!
+Dialogue: 0,0:56:37.40,0:56:38.82,Default,,0,0,0,,哎呦 你的胳膊\NOh, fuck, your arm.
+Dialogue: 0,0:56:38.83,0:56:41.00,Default,,0,0,0,,坐好 坐好 别看伤口\NLean back. Lean back. Don't look at it.
+Dialogue: 0,0:56:41.02,0:56:42.79,Default,,0,0,0,,- 我得弄个止血带 - 噢 操\N- I need to make a tourniquet. - Oh, fuck!
+Dialogue: 0,0:56:43.03,0:56:44.35,Default,,0,0,0,,- 过来 把手给我 - 你要干嘛？\N- Come here. Give me your arm. - What are you doing?
+Dialogue: 0,0:56:44.36,0:56:45.88,Default,,0,0,0,,- 要干嘛？ - 手给我\N- What are you doing? - Give me your arm.
+Dialogue: 0,0:56:45.89,0:56:47.29,Default,,0,0,0,,- 该死 - 我的狗呢？\N- Fuck. - Where's my dog?
+Dialogue: 0,0:56:47.31,0:56:48.72,Default,,0,0,0,,别管那狗了 手给我\NDon't worry about the dog! Give me your arm.
+Dialogue: 0,0:56:48.73,0:56:49.99,Default,,0,0,0,,- 摩西 - 别乱动 别乱动\N- Moses. - Do nothing. Do nothing.
+Dialogue: 0,0:56:50.01,0:56:51.30,Default,,0,0,0,,有我在呢 别担心\NI got you. Don't worry.
+Dialogue: 0,0:56:51.31,0:56:53.14,Default,,0,0,0,,沃利 快叫救护车\NWally, call an ambulance!
+Dialogue: 0,0:56:56.59,0:56:57.84,Default,,0,0,0,,- 你还好吧？ - 不 我一点也不好\N- Are you good? - No, I'm not good.
+Dialogue: 0,0:56:57.85,0:56:58.94,Default,,0,0,0,,我的眼镜呢？\NWhere are my glasses?
+Dialogue: 0,0:56:58.96,0:57:00.60,Default,,0,0,0,,我是说 你受伤没？你刚从楼板掉下去了\NI mean, are you hurt? You just fell through the floor.
+Dialogue: 0,0:57:00.62,0:57:02.79,Default,,0,0,0,,真见鬼 我得把房钱要回来\NFucking horseshit. I'm getting our money back.
+Dialogue: 0,0:57:03.81,0:57:05.90,Default,,0,0,0,,马蒂 咱们闯大祸了 得赶紧溜\NMarty, we gotta get the fuck out of here.
+Dialogue: 0,0:57:05.91,0:57:07.28,Default,,0,0,0,,才两块五 你别傻了\NIt's $2.50.  What are you talking about?
+Dialogue: 0,0:57:07.29,0:57:09.29,Default,,0,0,0,,我要的可不止两块五 你没懂吗？\NI'm asking for way more than $2.50. You see what just happened?
+Dialogue: 0,0:57:11.60,0:57:12.76,Default,,0,0,0,,在这等着 等着\NWait here. Wait.
+Dialogue: 0,0:57:13.71,0:57:15.58,Default,,0,0,0,,- 等多久? - 十秒钟\N- For how long? - Ten seconds.
 Dialogue: 0,0:57:15.88,0:57:17.42,Default,,0,0,0,,我的鞋 我的衣服\NMy shoes, my clothes.
-Dialogue: 0,0:57:17.96,0:57:20.92,Default,,0,0,0,,全湿透了 里面乱成一团\NEverything's soaking wet. It's a mess in there.
-Dialogue: 0,0:57:22.13,0:57:24.72,Default,,0,0,0,,- 你给我闭嘴吧 - 你想练练?\N- Why don't you put a sock in it? - You wanna switch?
-Dialogue: 0,0:57:24.72,0:57:27.68,Default,,0,0,0,,你! 我... 我早说了别用他妈的喷淋\NYou! I... I told you not to use the fucking shower.
-Dialogue: 0,0:57:27.68,0:57:30.26,Default,,0,0,0,,你才没说 是你把房租给我的 懂吗?\NNo, you didn't. You're the one that rented me the room, okay?
-Dialogue: 0,0:57:30.27,0:57:31.60,Default,,0,0,0,,我从天花板掉下来差点摔断脖子\NI could have broken my neck falling out of that ceiling.
-Dialogue: 0,0:57:31.60,0:57:33.23,Default,,0,0,0,,他妈的现在也还没准能摔断呢\NThat can fucking still happen too.
-Dialogue: 0,0:57:33.23,0:57:34.77,Default,,0,0,0,,- 你现在是在威胁我吗? - 对 没错\N- Are you threatening me right now? - Yeah, I am.
-Dialogue: 0,0:57:34.77,0:57:35.94,Default,,0,0,0,,- 居然敢威胁我? - 对\N- You want to threaten me? - Yeah.
-Dialogue: 0,0:57:35.94,0:57:37.77,Default,,0,0,0,,- 地下室锁了! - 谁拿的他妈的钥匙?\N- Basement is locked! - Who's got the fucking key?
-Dialogue: 0,0:57:37.77,0:57:40.61,Default,,0,0,0,,听着 哥们! 听好了! 我要把房钱拿回来...\NListen, man! Listen! I want my money for my room...
-Dialogue: 0,0:57:40.61,0:57:42.15,Default,,0,0,0,,- 救护车来了 - ...我还要赔偿\N- Ambulance. - ...and I want a reimbursement
-Dialogue: 0,0:57:42.15,0:57:43.53,Default,,0,0,0,,- 我那些毁了的破烂儿 - 认真的吗?\N- for my shit that got ruined. - Are you serious?
-Dialogue: 0,0:57:43.53,0:57:44.74,Default,,0,0,0,,你那些破玩意儿一个子儿也拿不回来\NYou're not gonna get your shit back.
-Dialogue: 0,0:57:44.74,0:57:46.24,Default,,0,0,0,,- 七块五! - 你什么也别想拿\N- $7.50! - You'll get nothing.
-Dialogue: 0,0:57:46.78,0:57:48.03,Default,,0,0,0,,- 快点 帮帮我! - 医护人员来了\N- Come on. Help me! - Paramedics.
-Dialogue: 0,0:57:48.03,0:57:49.49,Default,,0,0,0,,- 好了 你们可来了 - 病人在哪儿?\N- Good, you're here. - Where's the patient at?
-Dialogue: 0,0:57:49.49,0:57:52.33,Default,,0,0,0,,在那儿 手臂受伤了 流了好多血\NHe's in here. It's his arm. He's lost a lot of blood.
-Dialogue: 0,0:57:52.33,0:57:53.79,Default,,0,0,0,,怎么回事?\NWhat happened?
-Dialogue: 0,0:57:53.79,0:57:56.67,Default,,0,0,0,,- 浴缸砸他身上了 - 浴缸砸他身上了?\N- Bathtub fell on him. - Bathtub fell on him?
-Dialogue: 0,0:57:56.67,0:57:58.13,Default,,0,0,0,,我手没知觉了\NI can't feel my arm.
-Dialogue: 0,0:57:58.13,0:58:00.25,Default,,0,0,0,,哟 吉米 拜托 帮我把这狗弄走\NYo, Jimmy. Come on, you gotta help me with this dog.
-Dialogue: 0,0:58:00.25,0:58:02.46,Default,,0,0,0,,- 我这儿没人手 - 得送它去兽医那儿\N- I don't got nobody free. - We gotta get him to the vet.
-Dialogue: 0,0:58:02.46,0:58:04.88,Default,,0,0,0,,- 我现在真腾不出人手 - 它是我的家人 哥们\N- I got nobody free right now. - He's my family, man.
-Dialogue: 0,0:58:04.88,0:58:07.97,Default,,0,0,0,,听着 把两块五还我 我就走 七块五不要了\NListen, now. Just give me the $2.50, and I'll get outta here. Forget the $7.50.
-Dialogue: 0,0:58:07.97,0:58:09.30,Default,,0,0,0,,- 把两块五给我就行 - 我帮不了你\N- Just give me $2.50. - I can't help you.
-Dialogue: 0,0:58:09.30,0:58:10.47,Default,,0,0,0,,明天找老板去\NSee the owner tomorrow.
-Dialogue: 0,0:58:10.47,0:58:11.56,Default,,0,0,0,,- 小子 - 都是因为这破旅馆的烂天花板\N- Kid. - It's your shitty ceiling
-Dialogue: 0,0:58:11.56,0:58:13.52,Default,,0,0,0,,- 给闹的 - 小子 噢!\N- in this crummy hotel. - Kid. Oh!
-Dialogue: 0,0:58:13.52,0:58:14.60,Default,,0,0,0,,- 我什么都不会给你 - 什么?\N- I ain't giving you nothing. - What?
-Dialogue: 0,0:58:14.60,0:58:17.10,Default,,0,0,0,,小子 拜托 把狗送去兽医那儿\NKid. Come on. Just bring the dog to the vet.
-Dialogue: 0,0:58:17.10,0:58:18.90,Default,,0,0,0,,不行 我得工作 有活要干\NI can't. I got work. I got a job.
-Dialogue: 0,0:58:18.90,0:58:20.02,Default,,0,0,0,,- 我不能被开除 - 你有工作?\N- I can't get fired. - You got a job?
-Dialogue: 0,0:58:20.02,0:58:22.19,Default,,0,0,0,,- 我出双倍工钱 - 不 行不通 不行\N- I'll give you double what you're getting. - No, I can't. I can't.
-Dialogue: 0,0:58:22.19,0:58:24.40,Default,,0,0,0,,我给三倍 来吧\NI'll give you triple. Come on.
-Dialogue: 0,0:58:24.40,0:58:25.86,Default,,0,0,0,,- 悠着点 冷静下 - 行吧\N- Take it easy. Calm down. - Okay.
-Dialogue: 0,0:58:25.86,0:58:29.03,Default,,0,0,0,,行 翻下那个包 看到椅子上的包了吗?\NOkay, look in that bag. See the bag on the chair?
-Dialogue: 0,0:58:29.03,0:58:31.99,Default,,0,0,0,,对 翻那个包 把它打开\NYeah, go in that bag, okay? Open it up.
-Dialogue: 0,0:58:31.99,0:58:33.58,Default,,0,0,0,,我得给你上个止血带\NI'm gonna apply a tourniquet to you.
-Dialogue: 0,0:58:33.58,0:58:35.41,Default,,0,0,0,,我这就把原来那个撤了\NI'm gonna remove the other tourniquet right now.
-Dialogue: 0,0:58:35.41,0:58:37.54,Default,,0,0,0,,拿五十给你自己 没错\NTake 50 for yourself. Yeah.
-Dialogue: 0,0:58:37.54,0:58:38.75,Default,,0,0,0,,再带五十给兽医 明白吗?\NBring 50 for the vet, okay?
-Dialogue: 0,0:58:38.75,0:58:40.00,Default,,0,0,0,,血都喷出来了\NWe got blood squirting out.
-Dialogue: 0,0:58:40.00,0:58:41.54,Default,,0,0,0,,他在13街和1大道交口\NHe's on 13th and 1st.
-Dialogue: 0,0:58:41.54,0:58:44.21,Default,,0,0,0,,告诉他我一完事就赶过去 懂吗?\NAnd tell him I'll be there as soon as I can get there, okay?
-Dialogue: 0,0:58:44.21,0:58:46.26,Default,,0,0,0,,你居然要给这混蛋钱?\NYou're gonna give this motherfucker money?
-Dialogue: 0,0:58:46.26,0:58:48.09,Default,,0,0,0,,是他他妈让浴缸砸到你身上的\NHe's the one who fuckin' dropped the tub on ya.
-Dialogue: 0,0:58:48.09,0:58:49.80,Default,,0,0,0,,我警告过他别进那个破浴缸的\NI told him not to get in the fuckin' bath.
-Dialogue: 0,0:58:49.80,0:58:51.35,Default,,0,0,0,,真他妈讲究 小子\NFucking mensch, kid.
-Dialogue: 0,0:58:51.35,0:58:53.01,Default,,0,0,0,,担架准备好了吗? 咱们送他去贝尔维尤\NStretcher ready? We'll take him to Bellevue.
-Dialogue: 0,0:58:53.01,0:58:55.10,Default,,0,0,0,,真他妈讲究\NFucking mensch.
-Dialogue: 0,0:58:55.10,0:58:56.43,Default,,0,0,0,,咱们现在掉头还来得及\NWe can still turn around
-Dialogue: 0,0:58:56.43,0:58:58.27,Default,,0,0,0,,- 能送他去兽医那儿 - 不行 不行\N- and take him to the vet. - No. No.
-Dialogue: 0,0:58:58.27,0:59:00.35,Default,,0,0,0,,- 五十块钱绰绰有余了 - 知道什么比五十块更好吗? 一百块\N- Fifty dollars is more than enough. - You know what's better than 50? 100.
-Dialogue: 0,0:59:00.36,0:59:01.81,Default,,0,0,0,,有一百块本钱 咱们能赢个盆满钵满\NWe can clean house with a hundred.
-Dialogue: 0,0:59:01.82,0:59:03.44,Default,,0,0,0,,别贪得无厌了 你这该死的犹太佬\NDon't be greedy, you fucking Jew.
-Dialogue: 0,0:59:03.44,0:59:06.36,Default,,0,0,0,,不 不 是1500美元的罚款 是你拿给我看的\NNo, no. It's a $1,500 fine. You're the one that showed it to me.
-Dialogue: 0,0:59:06.36,0:59:08.53,Default,,0,0,0,,顺便说下 咱们得连续两周每晚都这么干\NBy the way, we gotta do this every night for two weeks,
-Dialogue: 0,0:59:08.53,0:59:10.11,Default,,0,0,0,,- 否则我就去不了日本了 - "咱们"? 噢 不不不\N- or else I can't go to Japan. - "We"? Oh, no, no, no.
-Dialogue: 0,0:59:10.12,0:59:12.41,Default,,0,0,0,,我可不想因为你捅了娄子就两周不去上班\NI'm not taking two weeks off work 'cause you fucked up.
-Dialogue: 0,0:59:12.41,0:59:13.49,Default,,0,0,0,,嘿 拿着这个 伙计\NHey. Take this, boy.
-Dialogue: 0,0:59:13.49,0:59:16.12,Default,,0,0,0,,拿着 没错 好孩子\NTake this. There you go. Good boy.
-Dialogue: 0,0:59:16.12,0:59:18.79,Default,,0,0,0,,把这混蛋的项圈松一松 伙计\NLoosen up the collar on this motherfucker, man.
-Dialogue: 0,0:59:18.79,0:59:20.62,Default,,0,0,0,,- 行了 - 他听着像个破暖气片\N- All right. - He sound like a radiator.
-Dialogue: 0,0:59:20.63,0:59:21.71,Default,,0,0,0,,咱们先去打球\NWe're gonna go play,
-Dialogue: 0,0:59:21.71,0:59:23.21,Default,,0,0,0,,回来的路上再送他去兽医那儿\Nwe'll drop him off at the vet on the way back.
-Dialogue: 0,0:59:23.21,0:59:26.38,Default,,0,0,0,,- 耽搁两小时对他算得了什么? - 马蒂 我都约好车了 伙计\N- What's a couple of hours to this guy? - Marty, I got rides set up, man.
-Dialogue: 0,0:59:26.38,0:59:28.22,Default,,0,0,0,,唉 摩西\NHuh. Moses.
-Dialogue: 0,0:59:46.23,0:59:48.07,Default,,0,0,0,,三号球道 归你了\NLane three. That's you.
-Dialogue: 0,0:59:55.20,0:59:56.99,Default,,0,0,0,,- 嘿 怎么样? - 有什么能帮您的?\N- Hi, how you doing? - Could I help?
-Dialogue: 0,0:59:57.00,0:59:58.25,Default,,0,0,0,,能给我开个球道吗?\NCan I get a lane?
-Dialogue: 0,0:59:59.96,1:00:01.96,Default,,0,0,0,,大概得等半小时 四十分钟\NProbably gonna be a half hour, 40 minutes.
-Dialogue: 0,1:00:01.96,1:00:03.13,Default,,0,0,0,,- 没问题 - 你确定能等?\N- That's okay. - You all right with that?
-Dialogue: 0,1:00:03.13,1:00:05.17,Default,,0,0,0,,- 要租鞋吗? - 我待会儿再拿\N- You want shoes? - I'll just grab 'em later.
-Dialogue: 0,1:00:15.81,1:00:17.02,Default,,0,0,0,,搞定 结束\NDone. Over.
-Dialogue: 0,1:00:17.81,1:00:19.68,Default,,0,0,0,,弱得可怜 给钱\NFucking pathetic. Pay up.
-Dialogue: 0,1:00:19.68,1:00:20.89,Default,,0,0,0,,谁想打下一局?\NWho wants next?
-Dialogue: 0,1:00:20.89,1:00:22.90,Default,,0,0,0,,我能打吗? 嘿! 我能来一局吗?\NCan I play? Hey! Can I play?
-Dialogue: 0,1:00:22.90,1:00:24.69,Default,,0,0,0,,- 一块钱一局 - 行吧\N- It's a dollar a game. - Okay.
-Dialogue: 0,1:00:24.69,1:00:26.40,Default,,0,0,0,,- 你叫什么? - 塞思\N- What's your name? - Seth.
-Dialogue: 0,1:00:26.40,1:00:28.11,Default,,0,0,0,,来几个对攻热热身吧\NLet's get a warm-up rally going.
-Dialogue: 0,1:00:28.11,1:00:29.86,Default,,0,0,0,,不 要打就掏钱 否则闭嘴 我不打白工\NNah. Put up or shut up. I don't play for free.
-Dialogue: 0,1:00:30.61,1:00:32.03,Default,,0,0,0,,行吧 没听过这规矩\NAll right. Never heard of that.
-Dialogue: 0,1:00:32.03,1:00:33.32,Default,,0,0,0,,- 我押钱 - 他管账\N- I'm holding. - He's holding.
-Dialogue: 0,1:00:33.32,1:00:34.49,Default,,0,0,0,,你管账? 凭什么是他管?\NYou're holding? Why is he holding?
-Dialogue: 0,1:00:34.49,1:00:36.53,Default,,0,0,0,,- 你带钱了吗? - 我能信任你吗?\N- Have you got yours? - Can I trust you?
-Dialogue: 0,1:00:36.53,1:00:37.91,Default,,0,0,0,,信任我 绝对没问题\NTrust me, you can.
-Dialogue: 0,1:00:39.20,1:00:41.41,Default,,0,0,0,,- 战况如何? - 好了 塞思对阵罗杰\N- Where are we at? - All right, Seth vs. Roger.
-Dialogue: 0,1:00:41.41,1:00:42.42,Default,,0,0,0,,一块钱一局\NDollar game.
-Dialogue: 0,1:00:43.08,1:00:44.38,Default,,0,0,0,,我发球\NI serve.
-Dialogue: 0,1:00:44.38,1:00:45.96,Default,,0,0,0,,你干嘛呢? 我看都没看\NWhat are you doing? I'm not even looking.
-Dialogue: 0,1:00:45.96,1:00:48.21,Default,,0,0,0,,- 1比0 - 我刚才看都没看\N- One-zip. - I wasn't even looking.
-Dialogue: 0,1:00:53.84,1:00:55.34,Default,,0,0,0,,- 嘿 你不能那么干 - 啥?\N- No, you can't do that. - What?
-Dialogue: 0,1:00:55.35,1:00:56.89,Default,,0,0,0,,你得让球落到对面\NYou gotta let the ball hit the other side.
-Dialogue: 0,1:00:56.89,1:00:58.18,Default,,0,0,0,,你不能用球拍接球 我得分\NYou can't catch it with your paddle. My point.
-Dialogue: 0,1:00:58.18,1:00:59.64,Default,,0,0,0,,- 你说什么呢? - 你不能那么干\N- What are you talking about? - You can't do that.
-Dialogue: 0,1:00:59.64,1:01:01.18,Default,,0,0,0,,你得让球掉下桌子才行\NYou gotta let the ball fall off the table.
-Dialogue: 0,1:01:01.18,1:01:02.73,Default,,0,0,0,,- 荒谬至极 - 你在耍赖\N- That's ridiculous. - You're cheating.
-Dialogue: 0,1:01:02.73,1:01:04.52,Default,,0,0,0,,- 我耍赖? - 对 这就叫耍赖\N- I'm cheating? - Yeah, that's called cheating.
-Dialogue: 0,1:01:04.52,1:01:06.81,Default,,0,0,0,,- 你没守规矩 - 行吧 分给你\N- You're not following the rules. - Fine. Take the point.
-Dialogue: 0,1:01:06.82,1:01:08.36,Default,,0,0,0,,谢谢 把球给我 1比1\N- Thank you. Give me the ball. - One-one.
-Dialogue: 0,1:01:08.36,1:01:09.36,Default,,0,0,0,,操\NFuck!
-Dialogue: 0,1:01:10.65,1:01:13.07,Default,,0,0,0,,好险 打得好 打得好\N- That was close. - That was good. That was good.
-Dialogue: 0,1:01:13.07,1:01:14.78,Default,,0,0,0,,噢 不不不不不\NOh. No, no, no, no, no.
-Dialogue: 0,1:01:14.78,1:01:15.95,Default,,0,0,0,,不不 拿走吧\NNo, no. Take it.
-Dialogue: 0,1:01:15.95,1:01:18.16,Default,,0,0,0,,我本该让你五分的 伙计\NI should have spotted you, like, five points, man.
-Dialogue: 0,1:01:18.16,1:01:20.58,Default,,0,0,0,,你今天够倒霉了 留着吧\NYou've had a rough enough day already. Keep it.
-Dialogue: 0,1:01:20.58,1:01:21.91,Default,,0,0,0,,谢谢 兄弟 谢谢\NThank you, brother. Thank you.
-Dialogue: 0,1:01:21.91,1:01:23.29,Default,,0,0,0,,没事儿\NIt's all good.
-Dialogue: 0,1:01:23.29,1:01:24.54,Default,,0,0,0,,打得不错\NGood game.
-Dialogue: 0,1:01:24.54,1:01:26.50,Default,,0,0,0,,好了 亚当 亚当 走着\NAll right, Adam. Adam, let's go.
-Dialogue: 0,1:01:28.80,1:01:31.13,Default,,0,0,0,,你想押多少? 我能出五毛\N- What do you want to put on? - I can go 50 cents.
-Dialogue: 0,1:01:31.13,1:01:32.26,Default,,0,0,0,,你有球吗?\NYou got a ball?
-Dialogue: 0,1:01:32.26,1:01:33.59,Default,,0,0,0,,你的鼻子怎么了?\NWhat happened to your nose?
-Dialogue: 0,1:01:33.59,1:01:34.97,Default,,0,0,0,,我有球 我有球\NI got one, I got one.
-Dialogue: 0,1:01:34.97,1:01:36.84,Default,,0,0,0,,有个乘客赖账跑了\NFare ran out on me.
-Dialogue: 0,1:01:36.85,1:01:39.05,Default,,0,0,0,,赖什么账? 发生什么了?\NFare from what? What happened?
-Dialogue: 0,1:01:39.06,1:01:41.64,Default,,0,0,0,,我是个计程车司机 曼哈顿来的\NI'm a taxi driver. From Manhattan.
-Dialogue: 0,1:01:42.35,1:01:43.64,Default,,0,0,0,,曼哈顿? 昂\N- Manhattan? - Yeah.
-Dialogue: 0,1:01:43.64,1:01:45.19,Default,,0,0,0,,那路费可不便宜 伙计\NThat's an expensive trip, man.
-Dialogue: 0,1:01:45.19,1:01:47.06,Default,,0,0,0,,噢 可不是 二十 二十五块钱呢\NOh, yeah. $20, $25.
-Dialogue: 0,1:01:47.06,1:01:49.11,Default,,0,0,0,,碰上有钱的主儿能给五块小费\NWell, the high rollers tip five,
-Dialogue: 0,1:01:49.11,1:01:51.44,Default,,0,0,0,,那就是五块小费 而且...\Nso that's five in tips. And...
-Dialogue: 0,1:01:51.44,1:01:54.53,Default,,0,0,0,,我他妈刚送到地方 那家伙就勒住我\NI fucking get to the spot, the guy chokes me out,
-Dialogue: 0,1:01:54.53,1:01:56.28,Default,,0,0,0,,对着我后脑勺一顿猛拳 - 不会吧\N- punching me in the back of the head. - No.
-Dialogue: 0,1:01:56.28,1:01:58.78,Default,,0,0,0,,抢了我的钱拔腿就跑\NTakes my money and run the fuck off.
-Dialogue: 0,1:01:58.78,1:02:01.24,Default,,0,0,0,,后来我追上那混蛋 嘿 结果...\NCaught up to the motherfucker, and, boy...
-Dialogue: 0,1:02:01.24,1:02:04.79,Default,,0,0,0,,我把他揍得眼冒金星 伙计\NI beat the brights off that motherfucker, man.
-Dialogue: 0,1:02:05.62,1:02:07.17,Default,,0,0,0,,然后我搜了他全身\NAnd I took what he had.
-Dialogue: 0,1:02:07.17,1:02:08.42,Default,,0,0,0,,你把他搜刮了?\NYou took what he had?
-Dialogue: 0,1:02:08.42,1:02:09.84,Default,,0,0,0,,那当然! 你他妈说对了\NHell, yeah! You fucking damn right.
-Dialogue: 0,1:02:09.84,1:02:11.30,Default,,0,0,0,,你把那钱加进你的那叠钞票里了? 当然了\N- You added that to your roll? - Sure did.
-Dialogue: 0,1:02:11.30,1:02:12.59,Default,,0,0,0,,就在我刚才看你掏出的那厚厚一叠里\NTo that fat roll I've seen you pulling out.
-Dialogue: 0,1:02:12.59,1:02:14.09,Default,,0,0,0,,这是原则 问题在于他妈的原则\NIt's principle. It's fucking principle!
-Dialogue: 0,1:02:14.09,1:02:15.76,Default,,0,0,0,,我懂 我要是你就把它藏好\NI understand that. I would keep it hidden.
-Dialogue: 0,1:02:15.76,1:02:18.72,Default,,0,0,0,,在这儿这种地方 最好别露白\NI would keep that down, if I were you, in this place.
-Dialogue: 0,1:02:18.72,1:02:21.51,Default,,0,0,0,,我告诉你 可不是谁都像克里斯蒂安这么面善\NNot everybody's as nice as Christian is, I'm telling you.
-Dialogue: 0,1:02:21.51,1:02:22.89,Default,,0,0,0,,这就是我想说的\NThat's my point.
-Dialogue: 0,1:02:22.89,1:02:24.77,Default,,0,0,0,,那在那儿坐着的混蛋又是谁?\NWhat about that asshole right there?
-Dialogue: 0,1:02:24.77,1:02:26.60,Default,,0,0,0,,我哪他妈知道那是谁\NI don't know who the fuck that guy is.
-Dialogue: 0,1:02:26.60,1:02:28.52,Default,,0,0,0,,你不能那样发球 怎么不能?\N- You can't serve like that. - What do you mean?
-Dialogue: 0,1:02:28.52,1:02:29.73,Default,,0,0,0,,我这么发球都好几年了\NI've been serving like that for years.
-Dialogue: 0,1:02:29.73,1:02:32.40,Default,,0,0,0,,嘿 罗杰 罗杰 嘿 太荒谬了\N- Hey, Roger. Roger. Hello. - That's ridiculous.
-Dialogue: 0,1:02:32.40,1:02:34.07,Default,,0,0,0,,再给我一分钟 我们的球道空出来了\N- Give me one more minute. - Our lane is open.
-Dialogue: 0,1:02:34.07,1:02:36.28,Default,,0,0,0,,球道能等 没事儿 不行 咱们得马上走\N- The lane can wait. It's fine. - No, we gotta go now.
-Dialogue: 0,1:02:36.28,1:02:38.11,Default,,0,0,0,,人家要让给别人了 我正打球呢\N- They're gonna give it away. - I'm playing now.
-Dialogue: 0,1:02:38.11,1:02:41.33,Default,,0,0,0,,我为了打保龄球等了一晚上 赶紧的 走啊\NI have been waiting all night to bowl. Let's go. Come on.
-Dialogue: 0,1:02:41.33,1:02:42.45,Default,,0,0,0,,罗杰 我得分\N- Roger. - My point.
-Dialogue: 0,1:02:42.45,1:02:43.83,Default,,0,0,0,,瞧瞧你干的好事\NLook what you made me do.
-Dialogue: 0,1:02:43.83,1:02:44.91,Default,,0,0,0,,我得走了\NI gotta go.
-Dialogue: 0,1:02:44.91,1:02:47.21,Default,,0,0,0,,- 你说你要走是什么意思? - 把那一块钱还我\N- What do you mean you gotta go? - Give me my dollar back.
-Dialogue: 0,1:02:47.21,1:02:48.42,Default,,0,0,0,,球还没打完呢\NWe're in the middle of a game.
-Dialogue: 0,1:02:48.42,1:02:50.25,Default,,0,0,0,,那就算你弃权 把钱给我\NYou forfeit the game, then. Give me my dollar.
-Dialogue: 0,1:02:50.25,1:02:52.17,Default,,0,0,0,,- 把钱还给我! - 别激动 退后点\N- Give me my dollar back! - Relax. Back up, back up.
-Dialogue: 0,1:02:52.17,1:02:53.46,Default,,0,0,0,,- 他要走人? - 你还没打完这局\N- He's gonna leave the game? - You didn't finish the game.
-Dialogue: 0,1:02:53.46,1:02:55.01,Default,,0,0,0,,行啊 那你来打 你来打\NAll right, then you play. Then you play.
-Dialogue: 0,1:02:55.01,1:02:56.59,Default,,0,0,0,,我没钱了 伙计 最后十块都给他了\NI'm broke, man. I gave him my last ten.
-Dialogue: 0,1:02:56.59,1:02:57.68,Default,,0,0,0,,我跟你打\NI'll play you.
-Dialogue: 0,1:02:57.68,1:02:58.68,Default,,0,0,0,,喔 喔 喔\NWhoa, whoa, whoa.
-Dialogue: 0,1:02:59.26,1:03:02.14,Default,,0,0,0,,哟 没想到你们也打乒乓球\NOh, wow. I didn't know you guys played table tennis.
-Dialogue: 0,1:03:02.14,1:03:03.97,Default,,0,0,0,,出一块钱 你有一块钱吗?\NPut up a dollar. Do you have a dollar?
-Dialogue: 0,1:03:03.97,1:03:06.48,Default,,0,0,0,,- 操你 出五块 - 你哪来的五块钱\N- Fuck you. Put up five. - You don't have five dollars.
-Dialogue: 0,1:03:08.06,1:03:09.85,Default,,0,0,0,,噢 哇 你肯定是抢了谁吧\NOh, wow. You must have robbed someone.
-Dialogue: 0,1:03:09.85,1:03:11.11,Default,,0,0,0,,少废话 拿钱说话\NPut your money where your mouth is.
-Dialogue: 0,1:03:11.11,1:03:12.57,Default,,0,0,0,,干脆我拿老二塞住你的嘴?\NWhy don't I put my penis where your mouth is?
-Dialogue: 0,1:03:13.53,1:03:16.36,Default,,0,0,0,,红衣服的 沃利 还有他妈的随便谁\NRed shirt, Wally and whatever the fuck his name is.
-Dialogue: 0,1:03:25.95,1:03:27.87,Default,,0,0,0,,先记账 宝贝 我马上回来\NMark it blank, baby. I'll be right back.
-Dialogue: 0,1:03:27.87,1:03:29.37,Default,,0,0,0,,你去哪?\NWhere are you going?
-Dialogue: 0,1:03:30.58,1:03:32.13,Default,,0,0,0,,我会记账的!\NI will mark it blank!
-Dialogue: 0,1:03:37.42,1:03:38.59,Default,,0,0,0,,这儿干嘛呢?\NWhat's going on here?
-Dialogue: 0,1:03:38.59,1:03:40.38,Default,,0,0,0,,这黑小子要把钱输光了\NThe colored boy is about to lose all his money.
-Dialogue: 0,1:03:40.39,1:03:42.01,Default,,0,0,0,,是啊 输给这混蛋了\NYeah, to this asshole right here.
-Dialogue: 0,1:03:43.31,1:03:44.60,Default,,0,0,0,,- 操! - 赛点\N- Fuck! - Match point.
-Dialogue: 0,1:03:44.60,1:03:46.64,Default,,0,0,0,,- 赛点 来了 - 沃利! 加油!\N- Match point. Here we go. - Wally! Come on!
-Dialogue: 0,1:03:46.64,1:03:48.85,Default,,0,0,0,,别输不起啊 沃利 开始吧\NDon't get upset though, Wally. Let's go.
-Dialogue: 0,1:03:55.61,1:03:56.73,Default,,0,0,0,,好球!\NYeah!
-Dialogue: 0,1:03:56.74,1:03:58.32,Default,,0,0,0,,擦边了 你他妈看到了\NIt grazed the edge. You fucking saw that.
-Dialogue: 0,1:03:58.32,1:03:59.61,Default,,0,0,0,,没擦边\NIt didn't graze the edge.
-Dialogue: 0,1:03:59.61,1:04:01.20,Default,,0,0,0,,- 球路变了 你看到了 - 没擦边\N- It changed. You saw that. - It didn't graze the edge.
-Dialogue: 0,1:04:01.20,1:04:02.28,Default,,0,0,0,,- 少废话 给钱 - 搞什么鬼?\N- No, give me my money. - What the fuck?
-Dialogue: 0,1:04:02.28,1:04:04.24,Default,,0,0,0,,- 把钱给我 - 这简直是...\N- Give me my money. - This is b--
-Dialogue: 0,1:04:04.24,1:04:05.79,Default,,0,0,0,,把钱给我 钱给我\NGive me the money. Give me the money.
-Dialogue: 0,1:04:06.75,1:04:07.83,Default,,0,0,0,,- 付钱 - 拜托了\N- Pay me. - Come on.
-Dialogue: 0,1:04:07.83,1:04:08.95,Default,,0,0,0,,留五块给我当油钱吧\NLet me hold five for gas money.
-Dialogue: 0,1:04:08.96,1:04:10.12,Default,,0,0,0,,不行 没钱就别瞎赌\NNo. You shouldn't bet with money you don't have.
-Dialogue: 0,1:04:10.12,1:04:12.13,Default,,0,0,0,,- 我他妈怎么回家? - 走回去\N- How the fuck am I gonna get home? - Walk.
-Dialogue: 0,1:04:12.88,1:04:14.29,Default,,0,0,0,,就让他留五块吧\NJust let him keep five.
-Dialogue: 0,1:04:14.29,1:04:15.46,Default,,0,0,0,,- 不行 - 你整晚都像个烂人\N- No. - You've been a dick all night.
-Dialogue: 0,1:04:15.46,1:04:16.59,Default,,0,0,0,,- 给钱 - 别那么贪得无厌\N- Give me my money. - Just stop being greedy.
-Dialogue: 0,1:04:16.59,1:04:18.46,Default,,0,0,0,,- 给他五块回家吧! - 真是放屁!\N- Just give him five to get home! - This is bullshit!
-Dialogue: 0,1:04:18.47,1:04:20.47,Default,,0,0,0,,- 你他妈居然还笑 - 操你的!\N- And you're fucking smiling. - Fuck you!
-Dialogue: 0,1:04:20.47,1:04:22.22,Default,,0,0,0,,把钱给我 钱给我\NGive me the money. Give me the money.
-Dialogue: 0,1:04:22.22,1:04:23.34,Default,,0,0,0,,去你的\NFuck you.
-Dialogue: 0,1:04:23.35,1:04:25.10,Default,,0,0,0,,- 喂 把那五块还他 - 我不想\N- Yo, give him his five. - I don't want to.
-Dialogue: 0,1:04:25.10,1:04:26.64,Default,,0,0,0,,我他妈到底怎么回家?\NHow the fuck am I gonna get home?
-Dialogue: 0,1:04:26.64,1:04:28.02,Default,,0,0,0,,这就是满嘴喷粪的下场\NThat's what happens when you talk shit.
-Dialogue: 0,1:04:28.02,1:04:29.77,Default,,0,0,0,,- 滋味不好受吧? - 操!\N- It stinks, doesn't it? - Fuck!
-Dialogue: 0,1:04:29.77,1:04:31.19,Default,,0,0,0,,- 罗杰呢? 罗杰在哪? - 该死\N- Where's-- Where's Roger? - Shit.
-Dialogue: 0,1:04:31.19,1:04:33.02,Default,,0,0,0,,- 是的 我在 - 来了 罗杰!\N- Yeah, I got it. - Yeah, Rog!
-Dialogue: 0,1:04:33.02,1:04:34.56,Default,,0,0,0,,跟这蠢货打一局 把他油钱赢回来\NPlay this numbnuts for his gas money.
-Dialogue: 0,1:04:34.56,1:04:36.52,Default,,0,0,0,,现在你跟罗杰打 听到了吗?\NYou're gonna play Roger now, okay?
-Dialogue: 0,1:04:36.52,1:04:37.90,Default,,0,0,0,,- 上吧 罗杰 - 上\N- Let's go, Roger. - Let's go.
-Dialogue: 0,1:04:37.90,1:04:38.98,Default,,0,0,0,,- 马上开始 - 你?\N- Let's go right now. - You?
-Dialogue: 0,1:04:38.99,1:04:40.44,Default,,0,0,0,,我不跟你打 你太厉害了\NI won't play you. You're too good.
-Dialogue: 0,1:04:40.45,1:04:41.91,Default,,0,0,0,,我让你四分\NI'll spot you four points.
-Dialogue: 0,1:04:43.37,1:04:44.45,Default,,0,0,0,,行赌四十块\NFine. Forty dollars.
-Dialogue: 0,1:04:44.99,1:04:47.03,Default,,0,0,0,,四十块? 我没这么多钱\NForty dollars? I don't have forty dollars.
-Dialogue: 0,1:04:48.70,1:04:50.62,Default,,0,0,0,,想打就打 不打拉倒 我得走了\NYou want it? Take it or leave it. I gotta go.
-Dialogue: 0,1:04:50.62,1:04:52.79,Default,,0,0,0,,- 四十块 - 一 二 三...\N- Forty dollars. - One, two, three...
-Dialogue: 0,1:04:52.79,1:04:54.92,Default,,0,0,0,,快点 谁有现金? 谁有现钱?\NCome on, who's got cash? Who's got cash?
-Dialogue: 0,1:04:54.92,1:04:56.79,Default,,0,0,0,,- 我帮你 - 这是沃利队 加油\N- I got you. - It's Team Wally. Come on.
-Dialogue: 0,1:04:56.80,1:04:59.17,Default,,0,0,0,,凑一凑 凑一凑 让他有钱回家 快点\NPitch in, pitch in. Let's get him home. Come on, come on.
-Dialogue: 0,1:04:59.17,1:05:00.63,Default,,0,0,0,,谢谢大家 谢谢\NThank you, everybody. Thank you.
-Dialogue: 0,1:05:00.63,1:05:02.88,Default,,0,0,0,,我们会让你回家的 肯定让你回家\NWe're gonna get you home. We're gonna get you home.
-Dialogue: 0,1:05:02.88,1:05:05.59,Default,,0,0,0,,太好了 这一排都没钱?\NGreat. Great. Nothing? This whole row?
-Dialogue: 0,1:05:05.60,1:05:06.97,Default,,0,0,0,,嘿 我加个外注\NYo, I'll put a side bet.
-Dialogue: 0,1:05:06.97,1:05:08.06,Default,,0,0,0,,多少?\NHow much?
-Dialogue: 0,1:05:08.06,1:05:09.97,Default,,0,0,0,,- 五块 - 你就这点钱?\N- Five dollars. - You don't got more than that?
-Dialogue: 0,1:05:12.73,1:05:14.77,Default,,0,0,0,,十块 哟 还有点小钱嘛\NTen. Ooh, you got a little bit of money.
-Dialogue: 0,1:05:14.77,1:05:17.02,Default,,0,0,0,,谢了 非常感谢\NThank you. Thanks so much.
-Dialogue: 0,1:05:23.03,1:05:24.70,Default,,0,0,0,,174 175 176\NOne seventy-four, 175, 176,
-Dialogue: 0,1:05:24.70,1:05:27.95,Default,,0,0,0,,177 178 179 180 181...\N177, 178, 179, 180, 181...
-Dialogue: 0,1:05:27.95,1:05:31.08,Lyrics,,0,0,0,,♪ 因为我走了两百英里 ♪\N♪ 'Cause I went 200 miles ♪
-Dialogue: 0,1:05:31.08,1:05:32.37,Default,,0,0,0,,181 182 183...\N181, 182, 183...
-Dialogue: 0,1:05:32.37,1:05:34.25,Default,,0,0,0,,- 毛瑟回来了 宝贝 - ...184 185...\N- The Mouse is back, baby. - ...184, 185...
-Dialogue: 0,1:05:34.25,1:05:35.71,Default,,0,0,0,,- 噢耶! - ...186\N- Yeah! - ...186
-Dialogue: 0,1:05:35.71,1:05:37.92,Default,,0,0,0,,- 毛瑟回来了 宝贝! - ...187 192...\N- The Mouse is back, baby! - ...187, 192...
-Dialogue: 0,1:05:37.92,1:05:40.38,Default,,0,0,0,,- 噢 我最爱这段 - ...197 202 207...\N- Oh, this is my part. - ...197, 202, 207...
-Dialogue: 0,1:05:40.38,1:05:42.01,Default,,0,0,0,,你他妈在干什么?\NWhat the fuck are you doing?
-Dialogue: 0,1:05:42.01,1:05:43.09,Default,,0,0,0,,你疯了吗?\NAre you out of your mind?
-Dialogue: 0,1:05:43.09,1:05:49.60,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 哇 哇 哇 ♪\N♪ Wah wah wah, wah wah wah ♪
-Dialogue: 0,1:05:50.43,1:05:51.77,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 ♪\N♪ Wah wah wah ♪
-Dialogue: 0,1:05:54.89,1:05:57.94,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 ♪\N♪ Wah wah wah ♪
-Dialogue: 0,1:05:58.48,1:06:01.78,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 哇 哇 哇 ♪\N♪ Wah wah wah, wah wah wah ♪
-Dialogue: 0,1:06:02.44,1:06:04.61,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 哇 哇 哇 ♪\N♪ Wah wah wah, wah wah wah ♪
-Dialogue: 0,1:06:05.61,1:06:06.78,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 ♪\N♪ Wah, wah, wah ♪
-Dialogue: 0,1:06:06.78,1:06:09.41,Default,,0,0,0,,操 关门了\NFuck. It's closed.
-Dialogue: 0,1:06:09.41,1:06:13.08,Default,,0,0,0,,- 去下个镇子吧 - 下个镇子? 那破地方开车要20分钟\N- Let's just go to the next town. - Next town? That shit is 20 minutes away.
-Dialogue: 0,1:06:16.12,1:06:18.75,Default,,0,0,0,,瞧瞧咱们干的 谁是乖孩子? 谁是乖孩子?\NYou see what we do? Who's a good boy? Who's a good boy?
-Dialogue: 0,1:06:18.75,1:06:19.92,Default,,0,0,0,,- 400... - 过来 宝贝\N- 400... - Come over here, baby.
+Dialogue: 0,0:57:17.65,0:57:20.61,Default,,0,0,0,,全湿透了 你们怎么搞的\NEverything's soaking wet. It's a mess in there.
+Dialogue: 0,0:57:21.81,0:57:24.40,Default,,0,0,0,,- 闭嘴吧 - 你得感谢没砸到你屋\N- Why don't you put a sock in it? - You wanna switch?
+Dialogue: 0,0:57:24.41,0:57:26.93,Default,,0,0,0,,- 嘿 - 是你 我跟你说过不能洗澡\N- Hey. - You! I... I told you not to use the fucking shower.
+Dialogue: 0,0:57:26.95,0:57:29.71,Default,,0,0,0,,你才没说 是你把房租给我的 懂吗？\NNo, you didn't. You're the one that rented me the room, okay?
+Dialogue: 0,0:57:30.01,0:57:31.33,Default,,0,0,0,,我差点摔死\NI could have broken my neck falling out of that ceiling.
+Dialogue: 0,0:57:31.35,0:57:32.90,Default,,0,0,0,,再闹你现在也能死\NThat can fucking still happen too.
+Dialogue: 0,0:57:32.92,0:57:34.31,Default,,0,0,0,,- 你在威胁我吗？ - 对 对\N- Are you threatening me right now? - Yeah. Yeah.
+Dialogue: 0,0:57:34.33,0:57:35.27,Default,,0,0,0,,- 居然敢威胁我？ - 对\N- Rellay? You want to threaten me? - Yeah.
+Dialogue: 0,0:57:35.28,0:57:37.24,Default,,0,0,0,,- 地下室锁了 - 谁拿了钥匙？\N- Basement is locked! - Who's got the fucking key?
+Dialogue: 0,0:57:37.26,0:57:40.10,Default,,0,0,0,,给我听好了 听好了 把房钱还给我\NListen, man! Listen! I want my money for my room...
+Dialogue: 0,0:57:40.11,0:57:41.65,Default,,0,0,0,,- 救护车来了 - ...我还要赔偿\N- Ambulance. - ...and I want a reimbursement
+Dialogue: 0,0:57:41.67,0:57:42.90,Default,,0,0,0,,- 我的东西都毁了 - 你当真？\N- for my shit that got ruined. - Are you serious?
+Dialogue: 0,0:57:42.92,0:57:44.38,Default,,0,0,0,,- 废话 - 一分都不会给你\N- Yes! - You're not gonna get your shit back.
+Dialogue: 0,0:57:44.39,0:57:45.94,Default,,0,0,0,,- 一共七块五 - 一分钱也不给\N- $7.50! - You'll get nothing.
+Dialogue: 0,0:57:44.39,0:57:46.46,Note,,0,0,0,,{\an8}【约90美元 630人民币 2,900新台币】
+Dialogue: 0,0:57:46.48,0:57:47.69,Default,,0,0,0,,- 快点帮我 - 医护来了\N- Come on. Help me! - Paramedics.
+Dialogue: 0,0:57:47.71,0:57:49.48,Default,,0,0,0,,- 你们可来了 - 病人在哪儿？\N- Good, you're here. - Where's the patient at?
+Dialogue: 0,0:57:49.49,0:57:51.95,Default,,0,0,0,,就在那儿 手臂受伤了 流了好多血\NHe's in here. It's his arm. He's lost a lot of blood.
+Dialogue: 0,0:57:51.97,0:57:53.43,Default,,0,0,0,,怎么回事?\NWhat happened?
+Dialogue: 0,0:57:53.44,0:57:55.46,Default,,0,0,0,,- 浴缸砸他身上了 - 浴缸砸他身上了？\N- Bathtub fell on him. - Bathtub fell on him?
+Dialogue: 0,0:57:55.47,0:57:56.93,Default,,0,0,0,,我胳膊没知觉了\NI can't feel my arm.
+Dialogue: 0,0:57:57.71,0:57:59.94,Default,,0,0,0,,吉米 你得替我照看好摩西\NYo, Jimmy. Come on, you gotta help me with this dog.
+Dialogue: 0,0:57:59.96,0:58:01.92,Default,,0,0,0,,- 我这儿没人手 - 那就送他去兽医那儿\N- I don't got nobody free. - We gotta get him to the vet.
+Dialogue: 0,0:58:01.94,0:58:04.36,Default,,0,0,0,,- 真腾不出人手 - 他是我的家人\N- I got nobody free right now. - He's my family, man.
+Dialogue: 0,0:58:04.50,0:58:07.59,Default,,0,0,0,,听着 把两块五还我 我就走 七块五不要了\NListen, now. Just give me the $2.50, and I'll get outta here. Forget the $7.50.
+Dialogue: 0,0:58:07.60,0:58:09.05,Default,,0,0,0,,- 把两块五给我就行 - 我做不了主\N- Just give me $2.50. - I can't help you.
+Dialogue: 0,0:58:09.06,0:58:10.23,Default,,0,0,0,,明天找老板要\NSee the owner tomorrow.
+Dialogue: 0,0:58:10.25,0:58:11.34,Default,,0,0,0,,- 小子 - 都怪你的\N- Kid. - It's your shitty ceiling
+Dialogue: 0,0:58:11.36,0:58:13.04,Default,,0,0,0,,- 烂地板 - 小子 小子\N- in this crummy hotel. - Kid. Oh!
+Dialogue: 0,0:58:13.06,0:58:14.25,Default,,0,0,0,,- 什么都不给 - 什么？\N- I ain't giving you nothing. - What?
+Dialogue: 0,0:58:14.26,0:58:16.76,Default,,0,0,0,,小子 帮我把狗送到兽医那儿\NKid. Come on. Just bring the dog to the vet.
+Dialogue: 0,0:58:16.78,0:58:18.58,Default,,0,0,0,,不行 我得工作 有活要干\NI can't. I got work. I got a job.
+Dialogue: 0,0:58:18.59,0:58:19.65,Default,,0,0,0,,- 我不能被开除 - 你有工作？\N- I can't get fired. - You got a job?
+Dialogue: 0,0:58:19.66,0:58:21.90,Default,,0,0,0,,- 我出双倍工钱 - 不 行不通 不行\N- I'll give you double what you're getting. - No, I can't. I can't.
+Dialogue: 0,0:58:21.92,0:58:24.13,Default,,0,0,0,,那就三倍 来吧\NI'll give you triple. Come on.
+Dialogue: 0,0:58:24.14,0:58:25.85,Default,,0,0,0,,- 别乱动 别乱动 - 行吧\N- Take it easy. Calm down. - Okay.
+Dialogue: 0,0:58:25.86,0:58:29.03,Default,,0,0,0,,好 打开那个包 椅子上的包\NOkay, look in that bag. See the bag on the chair?
+Dialogue: 0,0:58:29.05,0:58:31.55,Default,,0,0,0,,对 把包打开\NYeah, go in that bag, okay? Open it up.
+Dialogue: 0,0:58:31.57,0:58:33.29,Default,,0,0,0,,我得给你上个止血带\NI'm gonna apply a tourniquet to you.
+Dialogue: 0,0:58:33.31,0:58:35.27,Default,,0,0,0,,换掉原来的\NI'm gonna remove the other tourniquet right now.
+Dialogue: 0,0:58:35.28,0:58:37.17,Default,,0,0,0,,拿五十给你自己\NTake 50 for yourself. Yeah.
+Dialogue: 0,0:58:35.28,0:58:38.41,Note,,0,0,0,,{\an8}【约600美元 4,100人民币 1.8万新台币】
+Dialogue: 0,0:58:37.19,0:58:38.40,Default,,0,0,0,,再拿五十给兽医 明白吗？\NBring 50 for the vet, okay?
+Dialogue: 0,0:58:38.41,0:58:39.66,Default,,0,0,0,,有血喷出来\NWe got blood squirting out.
+Dialogue: 0,0:58:39.68,0:58:41.22,Default,,0,0,0,,兽医在13街和1大道交口\NHe's on 13th and 1st.
+Dialogue: 0,0:58:41.23,0:58:43.85,Default,,0,0,0,,告诉他我一完事就赶过去 懂吗？\NAnd tell him I'll be there as soon as I can get there, okay?
+Dialogue: 0,0:58:43.86,0:58:45.91,Default,,0,0,0,,你居然要给他钱？\NYou're gonna give this motherfucker money?
+Dialogue: 0,0:58:45.93,0:58:47.76,Default,,0,0,0,,是这混蛋砸的你\NHe's the one who fuckin' dropped the tub on ya.
+Dialogue: 0,0:58:47.77,0:58:49.52,Default,,0,0,0,,我警告过他别洗澡了\NI told him not to get in the fuckin' bath.
+Dialogue: 0,0:58:49.54,0:58:51.09,Default,,0,0,0,,真靠得住 小子\NFucking mensch, kid.
+Dialogue: 0,0:58:51.10,0:58:52.83,Default,,0,0,0,,准备抬 送他去贝尔维尤医院\NStretcher ready? We'll take him to Bellevue.
+Dialogue: 0,0:58:52.85,0:58:54.73,Default,,0,0,0,,真他妈好人\NFucking mensch.
+Dialogue: 0,0:58:54.74,0:58:56.81,Default,,0,0,0,,现在掉头送他去兽医还来得及\NWe can still turn around and take him to the vet.
+Dialogue: 0,0:58:56.82,0:58:57.88,Default,,0,0,0,,不用 不用\NNo. No.
+Dialogue: 0,0:58:57.89,0:59:00.20,Default,,0,0,0,,- 五十块绰绰有余了 - 什么比五十大？是一百块\N- Fifty dollars is more than enough. - You know what's better than 50? 100.
+Dialogue: 0,0:59:00.21,0:59:01.59,Default,,0,0,0,,一百本钱能让咱大赚一笔\NWe can clean house with a hundred.
+Dialogue: 0,0:59:01.60,0:59:03.22,Default,,0,0,0,,你个贪心的犹太鬼\NDon't be greedy, you fucking Jew.
+Dialogue: 0,0:59:03.24,0:59:06.07,Default,,0,0,0,,- 有1500美元罚款 你亲自拿给我的 别忘了 - 别叫了\N- No, no. It's a $1,500 fine. You're the one that showed it to me. - Shut your mouth!
+Dialogue: 0,0:59:06.08,0:59:08.51,Default,,0,0,0,,- 而且我们还得连赌两周夜场 - 我们？\N- By the way, we gotta do this every night for two weeks, - "We"?
+Dialogue: 0,0:59:08.53,0:59:09.91,Default,,0,0,0,,- 否则我就去不了日本了 - 不 不 不\N- or else I can't go to Japan. - Oh, no, no, no.
+Dialogue: 0,0:59:09.93,0:59:12.09,Default,,0,0,0,,我才不会因为你的错 为你耽误两周工作\NI'm not taking two weeks off work 'cause you fucked up.
+Dialogue: 0,0:59:12.11,0:59:14.10,Default,,0,0,0,,来 吃点这个 吃点这个\NHey. Take this, boy. Take this.
+Dialogue: 0,0:59:14.11,0:59:16.12,Default,,0,0,0,,吃吧 好孩子\NThere you go. Good boy.
+Dialogue: 0,0:59:16.14,0:59:18.29,Default,,0,0,0,,把这狗的项圈松松\NLoosen up the collar on this motherfucker, man.
+Dialogue: 0,0:59:18.30,0:59:20.29,Default,,0,0,0,,- 好 - 他都喘不过气了\N- All right. - He sound like a radiator.
+Dialogue: 0,0:59:20.39,0:59:21.43,Default,,0,0,0,,咱们先去赌\NWe're gonna go play,
+Dialogue: 0,0:59:21.45,0:59:22.95,Default,,0,0,0,,回来顺路再送他去兽医\Nwe'll drop him off at the vet on the way back.
+Dialogue: 0,0:59:22.96,0:59:25.95,Default,,0,0,0,,- 这也就几个小时 - 马蒂 我有接送安排 别忘了\N- What's a couple of hours to this guy? - Marty, I got rides set up, man.
+Dialogue: 0,0:59:25.96,0:59:27.80,Default,,0,0,0,,叫摩西\NHuh. Moses.
+Dialogue: 0,0:59:45.96,0:59:47.80,Default,,0,0,0,,到你了 三号球道\NLane three. That's you.
+Dialogue: 0,0:59:54.81,0:59:56.60,Default,,0,0,0,,- 你好 - 要点什么？\N- Hi, how you doing? - Could I help?
+Dialogue: 0,0:59:56.61,0:59:57.86,Default,,0,0,0,,还有球道吗？\NCan I get a lane?
+Dialogue: 0,0:59:59.49,1:00:01.61,Default,,0,0,0,,大概得等三四十分钟样子\NProbably gonna be a half hour, 40 minutes.
+Dialogue: 0,1:00:01.63,1:00:02.80,Default,,0,0,0,,- 没问题 - 你确定能等？\N- That's okay. - You all right with that?
+Dialogue: 0,1:00:02.81,1:00:04.85,Default,,0,0,0,,- 现在拿鞋吗？ - 我待会儿再拿\N- You want shoes? - I'll just grab 'em later.
+Dialogue: 0,1:00:15.49,1:00:16.70,Default,,0,0,0,,结束 输了\NDone. Over.
+Dialogue: 0,1:00:17.55,1:00:19.43,Default,,0,0,0,,弱得可怜 给钱\NFucking pathetic. Pay up.
+Dialogue: 0,1:00:19.44,1:00:20.65,Default,,0,0,0,,谁来下一局？\NWho wants next?
+Dialogue: 0,1:00:20.67,1:00:22.68,Default,,0,0,0,,我来一局 嘿 怎么玩？\NCan I play? Hey! Can I play?
+Dialogue: 0,1:00:22.69,1:00:24.37,Default,,0,0,0,,- 一块钱一局 - 行吧\N- It's a dollar a game. - Okay.
+Dialogue: 0,1:00:24.38,1:00:26.17,Default,,0,0,0,,- 你叫什么？ - 塞思\N- What's your name? - Seth.
+Dialogue: 0,1:00:26.18,1:00:27.44,Default,,0,0,0,,先来几回热热身吧\NLet's get a warm-up rally going.
+Dialogue: 0,1:00:27.46,1:00:29.60,Default,,0,0,0,,不行 要打就押钱 否则滚蛋 我不白陪打\NNah. Put up or shut up. I don't play for free.
+Dialogue: 0,1:00:30.60,1:00:31.85,Default,,0,0,0,,行吧 没听过这规矩\NAll right. Never heard of that.
+Dialogue: 0,1:00:31.86,1:00:33.15,Default,,0,0,0,,- 我管账 - 钱给他\N- I'm holding. - He's holding.
+Dialogue: 0,1:00:33.17,1:00:34.15,Default,,0,0,0,,你管账？凭什么让他管？\NYou're holding? Why is he holding?
+Dialogue: 0,1:00:34.17,1:00:36.34,Default,,0,0,0,,- 你带钱了吗？ - 不许耍赖\N- Have you got yours? - Can I trust you?
+Dialogue: 0,1:00:36.35,1:00:37.73,Default,,0,0,0,,相信我 没问题\NTrust me, you can.
+Dialogue: 0,1:00:38.83,1:00:41.04,Default,,0,0,0,,- 这句谁对谁？ - 塞思对阵罗杰\N- Where are we at? - All right, Seth vs. Roger.
+Dialogue: 0,1:00:41.05,1:00:42.15,Default,,0,0,0,,一块钱一局\NDollar game.
+Dialogue: 0,1:00:41.05,1:00:42.68,Note,,0,0,0,,{\an8}【约12美元 85人民币 375新台币】
+Dialogue: 0,1:00:42.69,1:00:43.99,Default,,0,0,0,,我发球\NI serve.
+Dialogue: 0,1:00:44.37,1:00:45.61,Default,,0,0,0,,你干嘛呢？我还没准备好\NWhat are you doing? I'm not even looking.
+Dialogue: 0,1:00:45.63,1:00:47.88,Default,,0,0,0,,- 1比0 - 我刚才都没看\N- One-zip. - I wasn't even looking.
+Dialogue: 0,1:00:53.45,1:00:54.95,Default,,0,0,0,,- 不行 不能用手接球 - 什么？\N- No, you can't do that. - What?
+Dialogue: 0,1:00:55.08,1:00:56.56,Default,,0,0,0,,你要是接不到球\NYou gotta let the ball hit the other side.
+Dialogue: 0,1:00:56.57,1:00:58.05,Default,,0,0,0,,就得让球自己落地 我得分\NYou can't catch it with your paddle. My point.
+Dialogue: 0,1:00:58.07,1:00:59.48,Default,,0,0,0,,- 你在扯什么？ - 手接球不算\N- What are you talking about? - You can't do that.
+Dialogue: 0,1:00:59.50,1:01:01.17,Default,,0,0,0,,拍子接不住就得让球落地\NYou gotta let the ball fall off the table.
+Dialogue: 0,1:01:01.18,1:01:02.53,Default,,0,0,0,,- 胡说八道 - 你犯规了\N- That's ridiculous. - You're cheating.
+Dialogue: 0,1:01:02.54,1:01:04.33,Default,,0,0,0,,- 我犯规了？ - 对 这就叫犯规\N- I'm cheating? - Yeah, that's called cheating.
+Dialogue: 0,1:01:04.35,1:01:07.01,Default,,0,0,0,,- 你没按规矩来 - 行吧 分给你\N- You're not following the rules. - Fine. Take the point.
+Dialogue: 0,1:01:07.02,1:01:08.10,Default,,0,0,0,,- 谢谢 把球给我 - 1比1\N- Thank you. Give me the ball. - One-one.
+Dialogue: 0,1:01:08.12,1:01:09.12,Default,,0,0,0,,操\NFuck!
+Dialogue: 0,1:01:10.20,1:01:12.62,Default,,0,0,0,,- 好险 - 打得好 打得好\N- That was close. - That was good. That was good.
+Dialogue: 0,1:01:12.64,1:01:14.38,Default,,0,0,0,,噢 不 不 不\NOh. No, no, no, no, no.
+Dialogue: 0,1:01:14.39,1:01:15.51,Default,,0,0,0,,收着吧 收着吧\NNo, no. Take it.
+Dialogue: 0,1:01:15.53,1:01:17.74,Default,,0,0,0,,我本该让你五分的 伙计\NI should have spotted you, like, five points, man.
+Dialogue: 0,1:01:17.91,1:01:20.33,Default,,0,0,0,,你今天够倒霉了 留着吧\NYou've had a rough enough day already. Keep it.
+Dialogue: 0,1:01:20.35,1:01:21.68,Default,,0,0,0,,谢谢 伙计 谢谢\NThank you, brother. Thank you.
+Dialogue: 0,1:01:21.69,1:01:23.14,Default,,0,0,0,,没事儿\NIt's all good.
+Dialogue: 0,1:01:23.15,1:01:24.17,Default,,0,0,0,,打得不错\NGood game.
+Dialogue: 0,1:01:24.18,1:01:26.14,Default,,0,0,0,,好了 亚当 亚当 该你了\NAll right, Adam. Adam, let's go.
+Dialogue: 0,1:01:28.49,1:01:30.82,Default,,0,0,0,,- 你想押多少？ - 五毛\N- What do you want to put on? - I can go 50 cents.
+Dialogue: 0,1:01:30.83,1:01:31.96,Default,,0,0,0,,你手里有球吗？\NYou got a ball?
+Dialogue: 0,1:01:31.98,1:01:33.31,Default,,0,0,0,,你鼻子怎么回事？\NWhat happened to your nose?
+Dialogue: 0,1:01:33.41,1:01:34.79,Default,,0,0,0,,我有球 我有球\NI got one, I got one.
+Dialogue: 0,1:01:34.81,1:01:36.26,Default,,0,0,0,,有人赖账跑了\NFare ran out on me.
+Dialogue: 0,1:01:36.28,1:01:38.70,Default,,0,0,0,,赖什么账？怎么回事？\NFare from what? What happened?
+Dialogue: 0,1:01:38.71,1:01:41.29,Default,,0,0,0,,我开出租的 曼哈顿来的\NI'm a taxi driver. From Manhattan.
+Dialogue: 0,1:01:41.79,1:01:43.08,Default,,0,0,0,,- 曼哈顿？ - 对\N- Manhattan? - Yeah.
+Dialogue: 0,1:01:43.10,1:01:44.68,Default,,0,0,0,,那路费可不便宜 伙计\NThat's an expensive trip, man.
+Dialogue: 0,1:01:44.70,1:01:46.87,Default,,0,0,0,,可不是 大概二十块到二十五块呢\NOh, yeah. $20, $25.
+Dialogue: 0,1:01:46.89,1:01:48.81,Default,,0,0,0,,碰上有钱的主儿\NWell, the high rollers tip five,
+Dialogue: 0,1:01:48.82,1:01:51.03,Default,,0,0,0,,还能再给五块小费\Nso that's five in tips. And...
+Dialogue: 0,1:01:51.04,1:01:54.13,Default,,0,0,0,,我刚把他送到 那人从后面掐住我脖子\NI fucking get to the spot, the guy chokes me out,
+Dialogue: 0,1:01:54.15,1:01:56.06,Default,,0,0,0,,- 朝我后脑勺猛揍 - 不会吧\N- punching me in the back of the head. - No.
+Dialogue: 0,1:01:56.07,1:01:58.52,Default,,0,0,0,,然后抢了钱就跑\NTakes my money and run the fuck off.
+Dialogue: 0,1:01:58.54,1:02:01.00,Default,,0,0,0,,后来我追上那混蛋 你猜怎么着\NCaught up to the motherfucker, and, boy...
+Dialogue: 0,1:02:01.69,1:02:05.31,Default,,0,0,0,,我把他揍得眼冒金星\NI beat the brights off that motherfucker, man.
+Dialogue: 0,1:02:05.33,1:02:06.88,Default,,0,0,0,,我把他搜刮了个遍\NAnd I took what he had.
+Dialogue: 0,1:02:07.08,1:02:08.10,Default,,0,0,0,,你把他搜刮了？\NYou took what he had?
+Dialogue: 0,1:02:08.11,1:02:09.53,Default,,0,0,0,,那当然 谁他妈的会放过\NHell, yeah! You fucking damn right.
+Dialogue: 0,1:02:09.55,1:02:11.01,Default,,0,0,0,,- 你把钱踹你兜里？  - 当然了\N- You added that to your roll? - Sure did.
+Dialogue: 0,1:02:11.02,1:02:12.48,Default,,0,0,0,,就是那厚厚一大摞钞票\NTo that fat roll I've seen you pulling out.
+Dialogue: 0,1:02:12.49,1:02:13.86,Default,,0,0,0,,这是原则问题 他妈的原则\NIt's principle. It's fucking principle!
+Dialogue: 0,1:02:13.87,1:02:15.54,Default,,0,0,0,,我懂 但是建议你把钱藏好\NI understand that. I would keep it hidden.
+Dialogue: 0,1:02:15.56,1:02:18.44,Default,,0,0,0,,在这儿这种地方 最好别显摆\NI would keep that down, if I were you, in this place.
+Dialogue: 0,1:02:18.45,1:02:20.77,Default,,0,0,0,,可不是谁都像他那么面善\NNot everybody's as nice as Christian is, I'm telling you.
+Dialogue: 0,1:02:20.79,1:02:22.17,Default,,0,0,0,,这分是我的\NThat's my point.
+Dialogue: 0,1:02:22.49,1:02:24.45,Default,,0,0,0,,那打球的臭小子是谁？\NWhat about that asshole right there?
+Dialogue: 0,1:02:24.46,1:02:26.29,Default,,0,0,0,,我哪知道那是谁\NI don't know who the fuck that guy is.
+Dialogue: 0,1:02:26.36,1:02:28.28,Default,,0,0,0,,- 你不能这么发球 - 为什么不能？\N- You can't serve like that. - What do you mean?
+Dialogue: 0,1:02:28.30,1:02:29.51,Default,,0,0,0,,我这么发球都好几年了\NI've been serving like that for years.
+Dialogue: 0,1:02:29.52,1:02:32.19,Default,,0,0,0,,- 嘿 罗杰 罗杰 给你说话呢 - 你们的规则真荒唐\N- Hey, Roger. Roger. Hello. - That's ridiculous.
+Dialogue: 0,1:02:32.36,1:02:33.88,Default,,0,0,0,,- 再打一分钟 - 球道轮到我们了\N- Give me one more minute. - Our lane is open.
+Dialogue: 0,1:02:33.89,1:02:35.96,Default,,0,0,0,,- 回来再打保龄球 - 不行 现在就得去\N- The lane can wait. It's fine. - No, we gotta go now.
+Dialogue: 0,1:02:35.98,1:02:37.72,Default,,0,0,0,,- 要不然就让给别人了 - 我正打乒乓呢\N- They're gonna give it away. - I'm playing now.
+Dialogue: 0,1:02:37.74,1:02:41.00,Default,,0,0,0,,为了打保龄球我都等一晚上了 赶紧的 快走\NI have been waiting all night to bowl. Let's go. Come on.
+Dialogue: 0,1:02:41.14,1:02:41.84,Default,,0,0,0,,罗杰\NRoger.
+Dialogue: 0,1:02:41.85,1:02:43.27,Default,,0,0,0,, - 我得分 - 瞎喊什么的\N- My point. - Look what you made me do.
+Dialogue: 0,1:02:43.83,1:02:44.78,Default,,0,0,0,,我不玩了\NI gotta go.
+Dialogue: 0,1:02:44.79,1:02:47.09,Default,,0,0,0,,- 什么意思？ - 把那一块钱还我\N- What do you mean you gotta go? - Give me my dollar back.
+Dialogue: 0,1:02:47.11,1:02:48.32,Default,,0,0,0,,比赛还没打完呢\NWe're in the middle of a game.
+Dialogue: 0,1:02:48.33,1:02:50.16,Default,,0,0,0,,你走就算弃权 把我的钱也给我\NYou forfeit the game, then. Give me my dollar.
+Dialogue: 0,1:02:50.18,1:02:52.10,Default,,0,0,0,,- 把我的钱也给我 - 别激动 退后点\N- Give me my dollar back! - Relax. Back up, back up.
+Dialogue: 0,1:02:52.11,1:02:53.40,Default,,0,0,0,,- 他弃权了 - 打完再给\N- He's gonna leave the game? - You didn't finish the game.
+Dialogue: 0,1:02:53.42,1:02:54.65,Default,,0,0,0,,行啊 那你接着打 你来打\NAll right, then you play. Then you play.
+Dialogue: 0,1:02:54.67,1:02:56.40,Default,,0,0,0,,我没钱了 最后十块都给他了\NI'm broke, man. I gave him my last ten.
+Dialogue: 0,1:02:56.41,1:02:57.50,Default,,0,0,0,,我跟你打\NI'll play you.
+Dialogue: 0,1:02:57.52,1:02:58.52,Default,,0,0,0,,喔 喔 喔\NWhoa, whoa, whoa.
+Dialogue: 0,1:02:59.11,1:03:01.87,Default,,0,0,0,,哇塞 你们这种人也会玩桌球了\NOh, wow. I didn't know you guys played table tennis.
+Dialogue: 0,1:03:01.88,1:03:03.73,Default,,0,0,0,,一块一局 你玩得起吗？\NPut up a dollar. Do you have a dollar?
+Dialogue: 0,1:03:03.74,1:03:06.25,Default,,0,0,0,,- 去你的 我押五块 - 你哪来的五块钱\N- Fuck you. Put up five. - You don't have five dollars.
+Dialogue: 0,1:03:03.74,1:03:07.66,Note,,0,0,0,,{\an8}【约60美元 400人民币 1,900新台币】
+Dialogue: 0,1:03:07.70,1:03:09.49,Default,,0,0,0,,哇塞 你肯定是抢来的吧\NOh, wow. You must have robbed someone.
+Dialogue: 0,1:03:09.74,1:03:11.00,Default,,0,0,0,,有种你也把钱亮出来\NPut your money where your mouth is.
+Dialogue: 0,1:03:11.01,1:03:12.47,Default,,0,0,0,,不如我亮出家伙 教你做人\NWhy don't I put my penis where your mouth is?
+Dialogue: 0,1:03:13.29,1:03:16.12,Default,,0,0,0,,计分的 沃利对阵这个混蛋\NRed shirt, Wally and whatever the fuck his name is.
+Dialogue: 0,1:03:25.61,1:03:27.53,Default,,0,0,0,,先别计分 回来再打\NMark it blank, baby. I'll be right back.
+Dialogue: 0,1:03:27.54,1:03:29.04,Default,,0,0,0,,你去哪？\NWhere are you going?
+Dialogue: 0,1:03:30.49,1:03:32.04,Default,,0,0,0,,那我先不计分\NI will mark it blank!
+Dialogue: 0,1:03:37.13,1:03:38.30,Default,,0,0,0,,看什么热闹呢？\NWhat's going on here?
+Dialogue: 0,1:03:38.31,1:03:40.10,Default,,0,0,0,,这黑小子要把钱输光了\NThe colored boy is about to lose all his money.
+Dialogue: 0,1:03:40.12,1:03:41.74,Default,,0,0,0,,是啊 都输给这混蛋了\NYeah, to this asshole right here.
+Dialogue: 0,1:03:42.98,1:03:44.27,Default,,0,0,0,,- 该死 - 赛点\N- Fuck! - Match point.
+Dialogue: 0,1:03:44.48,1:03:46.52,Default,,0,0,0,,- 赛点 来了 - 沃利 加油\N- Match point. Here we go. - Wally! Come on!
+Dialogue: 0,1:03:46.53,1:03:48.74,Default,,0,0,0,,沃利 加油别泄气\NDon't get upset though, Wally. Let's go.
+Dialogue: 0,1:03:55.24,1:03:56.36,Default,,0,0,0,,赢了\NYeah!
+Dialogue: 0,1:03:56.48,1:03:57.92,Default,,0,0,0,,球擦边了 都他妈看见了吧\NIt grazed the edge. You fucking saw that.
+Dialogue: 0,1:03:57.94,1:03:59.28,Default,,0,0,0,,没擦边\NIt didn't graze the edge.
+Dialogue: 0,1:03:59.30,1:04:00.89,Default,,0,0,0,,- 球变向了 这看见了吧 - 没擦边\N- It changed. You saw that. - It didn't graze the edge.
+Dialogue: 0,1:04:00.90,1:04:02.08,Default,,0,0,0,,- 把钱给我 - 搞什么鬼?\N- No, give me my money. - What the fuck?
+Dialogue: 0,1:04:02.09,1:04:03.94,Default,,0,0,0,,- 把钱给我 - 这简直...\N- Give me my money. - This is b--
+Dialogue: 0,1:04:03.95,1:04:05.50,Default,,0,0,0,,把钱给我 钱给我\NGive me the money. Give me the money.
+Dialogue: 0,1:04:06.62,1:04:07.70,Default,,0,0,0,,- 钱给我 - 求你了\N- Pay me. - Come on.
+Dialogue: 0,1:04:07.71,1:04:08.68,Default,,0,0,0,,留我五块油钱行吗？\NLet me hold five for gas money.
+Dialogue: 0,1:04:08.70,1:04:09.86,Default,,0,0,0,,不行 你没钱还赌\NNo. You shouldn't bet with money you don't have.
+Dialogue: 0,1:04:09.87,1:04:11.88,Default,,0,0,0,,- 车没油了 我怎么回家？ - 用脚\N- How the fuck am I gonna get home? - Walk.
+Dialogue: 0,1:04:12.57,1:04:13.84,Default,,0,0,0,,就给他留五块吧\NJust let him keep five.
+Dialogue: 0,1:04:13.85,1:04:15.02,Default,,0,0,0,,- 不行 - 你今晚够混蛋了\N- No. - You've been a dick all night.
+Dialogue: 0,1:04:15.04,1:04:16.17,Default,,0,0,0,,- 给钱 - 别再贪这点钱了\N- Give me my money. - Just stop being greedy.
+Dialogue: 0,1:04:16.18,1:04:18.05,Default,,0,0,0,,- 留他五块回家钱吧 - 太坑人了\N- Just give him five to get home! - This is bullshit!
+Dialogue: 0,1:04:18.39,1:04:20.39,Default,,0,0,0,,- 真是厚颜无耻 - 去死吧你\N- And you're fucking smiling. - Fuck you!
+Dialogue: 0,1:04:20.40,1:04:22.15,Default,,0,0,0,,把钱给我 把钱给我\NGive me the money. Give me the money.
+Dialogue: 0,1:04:22.17,1:04:22.97,Default,,0,0,0,,去死吧\NFuck you.
+Dialogue: 0,1:04:22.99,1:04:24.78,Default,,0,0,0,,- 喂 给他留五块吧 - 不给\N- Yo, give him his five. - I don't want to.
+Dialogue: 0,1:04:24.79,1:04:26.33,Default,,0,0,0,,我怎么回家啊\NHow the fuck am I gonna get home?
+Dialogue: 0,1:04:26.35,1:04:27.73,Default,,0,0,0,,这就是你吹牛的下场\NThat's what happens when you talk shit.
+Dialogue: 0,1:04:27.74,1:04:29.02,Default,,0,0,0,,- 滋味不好受吧？ - 混蛋\N- It stinks, doesn't it? - Fuck!
+Dialogue: 0,1:04:29.04,1:04:30.46,Default,,0,0,0,,- 罗杰在哪儿 快出来？ - 该死\N- Where's-- Where's Roger? - Shit.
+Dialogue: 0,1:04:30.79,1:04:32.48,Default,,0,0,0,,- 我来了 - 快来 罗杰\N- Yeah, I got it. - Yeah, Rog!
+Dialogue: 0,1:04:32.49,1:04:34.33,Default,,0,0,0,,跟这混蛋打一局 把他油钱赢回来\NPlay this numbnuts for his gas money.
+Dialogue: 0,1:04:34.35,1:04:36.27,Default,,0,0,0,,现在你得跟罗杰打 明白吗？\NYou're gonna play Roger now, okay?
+Dialogue: 0,1:04:36.29,1:04:37.67,Default,,0,0,0,,- 加油 罗杰 - 加油\N- Let's go, Roger. - Let's go.
+Dialogue: 0,1:04:37.68,1:04:38.76,Default,,0,0,0,,- 快点 别磨蹭 - 你？\N- Let's go right now. - You?
+Dialogue: 0,1:04:38.78,1:04:40.25,Default,,0,0,0,,我不跟你打 你太厉害了\NI won't play you. You're too good.
+Dialogue: 0,1:04:40.26,1:04:41.72,Default,,0,0,0,,我让你4分\NI'll spot you four points.
+Dialogue: 0,1:04:43.02,1:04:44.10,Default,,0,0,0,,行 赌四十块\NFine. Forty dollars.
+Dialogue: 0,1:04:43.02,1:04:46.63,Note,,0,0,0,,{\an8}【约490美元 3,300人民币 1.5万新台币】
+Dialogue: 0,1:04:44.60,1:04:46.64,Default,,0,0,0,,四十块？我没这么多钱\NForty dollars? I don't have forty dollars.
+Dialogue: 0,1:04:48.45,1:04:50.37,Default,,0,0,0,,爱打就打 不打拉倒 我得走了\NYou want it? Take it or leave it. I gotta go.
+Dialogue: 0,1:04:50.65,1:04:52.66,Default,,0,0,0,,- 四十块 - 一 二 三...\N- Forty dollars. - One, two, three...
+Dialogue: 0,1:04:52.67,1:04:54.80,Default,,0,0,0,,谁还有钱 谁还有钱？\NCome on, who's got cash? Who's got cash?
+Dialogue: 0,1:04:54.82,1:04:56.57,Default,,0,0,0,,- 我帮你 - 都帮沃利出点\N- I got you. - It's Team Wally. Come on.
+Dialogue: 0,1:04:56.59,1:04:58.63,Default,,0,0,0,,来 来 来 都凑一凑 凑一凑 送他回家\NPitch in, pitch in. Let's get him home. Come on, come on.
+Dialogue: 0,1:04:58.64,1:05:00.16,Default,,0,0,0,,谢谢大家 真谢谢大家\NThank you, everybody. Thank you.
+Dialogue: 0,1:05:00.18,1:05:02.40,Default,,0,0,0,,一定给你赚出回家钱 一定\NWe're gonna get you home. We're gonna get you home.
+Dialogue: 0,1:05:02.41,1:05:05.12,Default,,0,0,0,,谢谢 谢谢 你们不出钱吗？\NAll right. Great. Great. Nothing? This whole row?
+Dialogue: 0,1:05:05.35,1:05:06.72,Default,,0,0,0,,嘿 我跟你单下一注\NYo, I'll put a side bet.
+Dialogue: 0,1:05:06.73,1:05:07.82,Default,,0,0,0,,赌多少？\NHow much?
+Dialogue: 0,1:05:07.84,1:05:09.75,Default,,0,0,0,,- 五块 - 你就这点钱？\N- Five dollars. - You don't got more than that?
+Dialogue: 0,1:05:12.42,1:05:14.46,Default,,0,0,0,,十块 哟 还有点钱嘛\NTen. Ooh, you got a little bit of money.
+Dialogue: 0,1:05:14.51,1:05:16.34,Default,,0,0,0,,谢了 非常感谢\NThank you. Thanks so much.
+Dialogue: 0,1:05:14.99,1:05:17.82,Lyrics,,0,0,0,,{\an7}♪ 你是我此生唯一的爱 ♪\N♪ You're the only one ♪
+Dialogue: 0,1:05:17.90,1:05:22.49,Lyrics,,0,0,0,,{\an7}♪ 你是我此生唯一的爱 ♪\N♪ You're the only one ♪
+Dialogue: 0,1:05:22.73,1:05:24.69,Default,,0,0,0,,174 175 176\NOne seventy-four, 175, 176,
+Dialogue: 0,1:05:22.86,1:05:27.47,Lyrics,,0,0,0,,{\an7}♪ 他们老叫我胖子 ♪\N♪ They call, they call me the fat man ♪
+Dialogue: 0,1:05:24.70,1:05:27.82,Default,,0,0,0,,177 178 179 180 181...\N177, 178, 179, 180, 181...
+Dialogue: 0,1:05:27.95,1:05:30.88,Lyrics,,0,0,0,,{\an7}♪ 因为我体重两百斤 ♪\N♪ 'Cause I weight two hundred pounds ♪
+Dialogue: 0,1:05:30.90,1:05:32.19,Default,,0,0,0,,181 182 183...\N181, 182, 183...
+Dialogue: 0,1:05:31.23,1:05:33.93,Lyrics,,0,0,0,,{\an7}♪ 所有姑娘都爱我 ♪\N♪ All the girls, they love me ♪
+Dialogue: 0,1:05:32.37,1:05:33.99,Default,,0,0,0,,- 小毛毛回来了 宝贝 - ...184 185...\N- The Mouse is back, baby. - ...184, 185...
+Dialogue: 0,1:05:34.01,1:05:35.47,Default,,0,0,0,,- 太好了 - ...186\N- Yeah! - ...186
+Dialogue: 0,1:05:34.19,1:05:36.64,Lyrics,,0,0,0,,{\an7}♪ 因为我懂逗她们开心 ♪\N♪ 'Cause I know my way around ♪
+Dialogue: 0,1:05:35.71,1:05:37.85,Default,,0,0,0,,- 小毛毛回来了 宝贝 - ...187 192...\N- The Mouse is back, baby! - ...187, 192...
+Dialogue: 0,1:05:37.87,1:05:40.33,Default,,0,0,0,,- 噢 我最爱这段 - ...197 202 207...\N- Oh, this is my part. - ...197, 202, 207...
+Dialogue: 0,1:05:39.03,1:05:40.33,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 ♪\N♪ Wah wah wah ♪
+Dialogue: 0,1:05:40.34,1:05:41.71,Default,,0,0,0,,你要干什么？\NWhat the fuck are you doing?
+Dialogue: 0,1:05:41.00,1:05:41.71,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 ♪\N♪ Wah wah ♪
+Dialogue: 0,1:05:41.72,1:05:42.80,Default,,0,0,0,,你疯了吗？\NAre you out of your mind?
+Dialogue: 0,1:05:42.52,1:05:49.43,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 哇 哇 哇 ♪\N♪ Wah wah wah, wah wah wah ♪
+Dialogue: 0,1:05:50.20,1:05:51.54,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 ♪\N♪ Wah wah wah ♪
+Dialogue: 0,1:05:54.54,1:05:57.59,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 ♪\N♪ Wah wah wah ♪
+Dialogue: 0,1:05:58.09,1:06:01.39,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 哇 哇 哇 ♪\N♪ Wah wah wah, wah wah wah ♪
+Dialogue: 0,1:06:01.96,1:06:04.13,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 哇 哇 哇 ♪\N♪ Wah wah wah, wah wah wah ♪
+Dialogue: 0,1:06:04.98,1:06:06.15,Lyrics,,0,0,0,,{\an7}♪ 哇 哇 哇 ♪\N♪ Wah, wah, wah ♪
+Dialogue: 0,1:06:06.60,1:06:09.23,Default,,0,0,0,,白跑了 关门了\NFuck. It's closed.
+Dialogue: 0,1:06:09.25,1:06:12.92,Default,,0,0,0,,- 去下个镇子吧 - 下个镇子？马上就没油了\N- Let's just go to the next town. - Next town? That shit is 20 minutes away.
+Dialogue: 0,1:06:15.94,1:06:18.32,Default,,0,0,0,,瞧瞧咱们干的 谁是乖孩子？谁是乖孩子？\NYou see what we do? Who's a good boy? Who's a good boy?
+Dialogue: 0,1:06:18.34,1:06:19.51,Default,,0,0,0,,- 400... - 过来 宝贝\N- 400... - Come over here, baby.
 Dialogue: 0,1:06:21.00,1:06:22.88,Default,,0,0,0,,...401 402 403...\N...401, 402, 403...
 Dialogue: 0,1:06:22.88,1:06:24.13,Default,,0,0,0,,他呼吸顺畅多了\NHis breathing's a lot better.
 Dialogue: 0,1:06:24.13,1:06:25.92,Default,,0,0,0,,咱们也许不用给兽医送钱了\NWe might not have to give the vet any money.
 Dialogue: 0,1:06:25.93,1:06:27.64,Default,,0,0,0,,...407 408\N...407, 408.
 Dialogue: 0,1:06:27.64,1:06:29.80,Default,,0,0,0,,408块 每人204块 咱俩平分\N408. That's 204 each. That's 50-50.
+Dialogue: 0,1:06:27.70,1:06:29.50,Note,,0,0,0,,{\an8}【约5,000美元 3.4万人民币 15.7万新台币】
 Dialogue: 0,1:06:29.80,1:06:32.26,Default,,0,0,0,,给 拿着\NHere, here. Okay.
 Dialogue: 0,1:06:32.27,1:06:34.22,Default,,0,0,0,,沃利 我在想 如果你现在把钱全给我\NWally, I was thinking. If you give me the full amount now,
 Dialogue: 0,1:06:34.23,1:06:36.52,Default,,0,0,0,,等我从日本回来能还你十倍\NI can give you ten times that when I get back from Japan.
-Dialogue: 0,1:06:36.52,1:06:38.85,Default,,0,0,0,,- 停 停下 毛瑟 - 别啊 什么意思?\N- Stop, stop. Stop, Mouse. - No, no, what do you mean?
+Dialogue: 0,1:06:36.52,1:06:38.85,Default,,0,0,0,,- 停 停下 小毛毛 - 别啊 什么意思?\N- Stop, stop. Stop, Mouse. - No, no, what do you mean?
 Dialogue: 0,1:06:38.86,1:06:41.44,Default,,0,0,0,,别想拿坑别人的那套来坑我\NYou're not gonna fuck me like you do everybody else.
-Dialogue: 0,1:06:41.44,1:06:43.94,Default,,0,0,0,,- 你看到罚单了 你看到了 - 毛瑟\N- You saw the fine. You saw it. - Mouse.
+Dialogue: 0,1:06:41.44,1:06:43.94,Default,,0,0,0,,- 你看到罚单了 你看到了 - 小毛毛\N- You saw the fine. You saw it. - Mouse.
 Dialogue: 0,1:06:43.94,1:06:45.44,Default,,0,0,0,,我回来的时候能带回十倍的钱\NI'm gonna be coming home with ten times that.
-Dialogue: 0,1:06:45.45,1:06:47.86,Default,,0,0,0,,- 我给你买个出租车牌照 - 我不他妈要什么牌照 毛瑟\N- I'll buy you a medallion. - I don't want no fucking medallion, Mouse.
+Dialogue: 0,1:06:45.45,1:06:47.86,Default,,0,0,0,,- 我给你买个出租车牌照 - 我不他妈要什么牌照 小毛毛\N- I'll buy you a medallion. - I don't want no fucking medallion, Mouse.
 Dialogue: 0,1:06:47.86,1:06:50.24,Default,,0,0,0,,我给你买辆新出租 别在这事上跟我较劲\NI'll buy you a new cab. Don't give me a hard time about this.
 Dialogue: 0,1:06:50.24,1:06:52.03,Default,,0,0,0,,他在那儿!\NThere he is!
 Dialogue: 0,1:06:52.04,1:06:54.04,Default,,0,0,0,,噢 操\NOh, fuck.
@@ -2373,7 +2389,7 @@ Dialogue: 0,1:57:33.54,1:57:35.49,Default,,0,0,0,,- 你要去哪? - 我去哪?\N
 Dialogue: 0,1:57:35.50,1:57:38.71,Default,,0,0,0,,我这就下楼拿榔头砸你那小妞的肚子\NI'm gonna be downstairs taking a hammer to your girl's stomach.
 Dialogue: 0,1:57:38.71,1:57:39.83,Default,,0,0,0,,这就是我要干的事\NThat's where I'm gonna be.
 Dialogue: 0,1:57:41.42,1:57:43.88,Default,,0,0,0,,行了 知道了 知道了\NOkay. All right. All right.
-Dialogue: 0,1:57:43.88,1:57:45.26,Default,,0,0,0,,喂 毛瑟!\NYo, Mouse!
+Dialogue: 0,1:57:43.88,1:57:45.26,Default,,0,0,0,,喂 小毛毛!\NYo, Mouse!
 Dialogue: 0,1:57:47.05,1:57:49.13,Default,,0,0,0,,- 搞快点 走 - 好吧\N- Come on. Let's go. - Okay.
 Dialogue: 0,1:57:51.22,1:57:54.35,Default,,0,0,0,,父母留给咱们的钱 他的那份大半都被我拿了\NWell, I took most of his share of the money that our parents left us.
 Dialogue: 0,1:57:54.35,1:57:56.85,Default,,0,0,0,,- 你花了你弟的钱? - 是的\N- You spent your brother's money? - Yes, I did.
