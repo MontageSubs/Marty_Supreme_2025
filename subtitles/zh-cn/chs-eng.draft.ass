@@ -1202,8 +1202,8 @@ Dialogue: 0,0:58:13.06,0:58:14.25,Default,,0,0,0,,- 什么都不给 - 什么？\
 Dialogue: 0,0:58:14.26,0:58:16.76,Default,,0,0,0,,小子 帮我把狗送到兽医那儿\NKid. Come on. Just bring the dog to the vet.
 Dialogue: 0,0:58:16.78,0:58:18.58,Default,,0,0,0,,不行 我得工作 有活要干\NI can't. I got work. I got a job.
 Dialogue: 0,0:58:18.59,0:58:19.65,Default,,0,0,0,,- 我不能被开除 - 你有工作？\N- I can't get fired. - You got a job?
-Dialogue: 0,0:58:19.66,0:58:21.90,Default,,0,0,0,,- 我出双倍工钱 - 不 行不通 不行\N- I'll give you double what you're getting. - No, I can't. I can't.
-Dialogue: 0,0:58:21.92,0:58:24.13,Default,,0,0,0,,那就三倍 来吧\NI'll give you triple. Come on.
+Dialogue: 0,0:58:19.66,0:58:22.57,Default,,0,0,0,,- 我出双倍工钱 - 不 行不通 不行\N- I'll give you double what you're getting. - No, I can't. I can't.
+Dialogue: 0,0:58:22.59,0:58:24.13,Default,,0,0,0,,那就三倍 来吧\NI'll give you triple. Come on.
 Dialogue: 0,0:58:24.14,0:58:25.85,Default,,0,0,0,,- 别乱动 别乱动 - 行吧\N- Take it easy. Calm down. - Okay.
 Dialogue: 0,0:58:25.86,0:58:29.03,Default,,0,0,0,,好 打开那个包 椅子上的包\NOkay, look in that bag. See the bag on the chair?
 Dialogue: 0,0:58:29.05,0:58:31.55,Default,,0,0,0,,对 把包打开\NYeah, go in that bag, okay? Open it up.
@@ -1238,6 +1238,7 @@ Dialogue: 0,0:59:20.39,0:59:21.43,Default,,0,0,0,,咱们先去赌\NWe're gonna g
 Dialogue: 0,0:59:21.45,0:59:22.95,Default,,0,0,0,,回来顺路再送他去兽医\Nwe'll drop him off at the vet on the way back.
 Dialogue: 0,0:59:22.96,0:59:25.95,Default,,0,0,0,,- 这也就几个小时 - 马蒂 我有接送安排 别忘了\N- What's a couple of hours to this guy? - Marty, I got rides set up, man.
 Dialogue: 0,0:59:25.96,0:59:27.80,Default,,0,0,0,,叫摩西\NHuh. Moses.
+Dialogue: 0,0:59:25.96,0:59:27.75,Screen,,0,0,0,,{\an8}（摩西）
 Dialogue: 0,0:59:45.96,0:59:47.80,Default,,0,0,0,,到你了 三号球道\NLane three. That's you.
 Dialogue: 0,0:59:54.81,0:59:56.60,Default,,0,0,0,,- 你好 - 要点什么？\N- Hi, how you doing? - Could I help?
 Dialogue: 0,0:59:56.61,0:59:57.86,Default,,0,0,0,,还有球道吗？\NCan I get a lane?
@@ -1618,24 +1619,24 @@ Dialogue: 0,1:15:42.81,1:15:44.50,Default,,0,0,0,,- 不 不行 - 不行？好的
 Dialogue: 0,1:15:44.88,1:15:49.05,Default,,0,0,0,,这样吧 你给莫罗斯科剧院打个电话问问\NHow about this, why don't you try giving a call over to the Morosco Theatre.
 Dialogue: 0,1:15:49.54,1:15:50.91,Default,,0,0,0,,好 莫罗斯科剧院\NThe Morosco Theatre.
 Dialogue: 0,1:15:50.92,1:15:53.50,Default,,0,0,0,,所以我算什么？我这是干嘛啊\NSo, I'm like what? What am I doing?
-Dialogue: 0,1:15:53.51,1:15:54.93,Default,,0,0,0,,真不该来 好好晚上被你毁了\NComing up here to wreck my night.
-Dialogue: 0,1:15:54.95,1:15:56.80,Default,,0,0,0,,说真的 妈 我根本不知道你会来这儿\NHonest, Mama, I didn't even know you were coming here.
+Dialogue: 0,1:15:53.51,1:15:55.34,Default,,0,0,0,,真不该来 好好晚上被你毁了\NComing up here to wreck my night.
+Dialogue: 0,1:15:55.36,1:15:56.80,Default,,0,0,0,,说真的 妈 你怎么会在这种地方\NHonest, Mama, I didn't even know you were coming here.
 Dialogue: 0,1:15:56.82,1:15:58.06,Default,,0,0,0,,我受够了你这套把戏\NI'm through with you playing games.
 Dialogue: 0,1:15:58.08,1:15:59.31,Default,,0,0,0,,我只是来找点乐子\NI was just coming for a good time.
-Dialogue: 0,1:15:59.33,1:16:01.69,Default,,0,0,0,,我听说应召女郎都在这儿扎堆\NI heard this was where all the call girls gather.
+Dialogue: 0,1:15:59.33,1:16:01.69,Default,,0,0,0,,听说应召女郎都在这儿\NI heard this was where all the call girls gather.
 Dialogue: 0,1:16:03.81,1:16:07.61,Default,,0,0,0,,我在努力攒钱重建生活 你不明白吗？\NI'm trying to rebuild my life here. Don't you understand that?
 Dialogue: 0,1:16:07.63,1:16:09.90,Default,,0,0,0,,你这是出卖自己吧\NMore like selling out to the highest bidder.
-Dialogue: 0,1:16:09.91,1:16:12.40,Default,,0,0,0,,你没资格评判我 杰德\NYou've got no right to judge me, Jed.
+Dialogue: 0,1:16:09.91,1:16:12.40,Default,,0,0,0,,你没资格评判我 小杰\NYou've got no right to judge me, Jed.
 Dialogue: 0,1:16:12.42,1:16:14.61,Default,,0,0,0,,我拼尽全力才换来那么一点幸福\NI fought tooth and nail for every shred of happiness
 Dialogue: 0,1:16:14.63,1:16:16.90,Default,,0,0,0,,- 我拼尽全力... - 那你给过我什么？\N- I've ever found while you... - Right, and what did you give to me?
 Dialogue: 0,1:16:16.92,1:16:18.76,Default,,0,0,0,,你从没相信过我 一次都没有\NYou never believed in me. Not once!
 Dialogue: 0,1:16:20.25,1:16:23.57,Default,,0,0,0,,少装可怜 你自生自灭吧\NYou wanna wallow in self-pity? Well, here's an oven, Jed!
 Dialogue: 0,1:16:23.58,1:16:24.67,Default,,0,0,0,,阿尔玛 别\NAlma!
 Dialogue: 0,1:16:24.69,1:16:25.75,Default,,0,0,0,,我没事 亨利\NI'm all right, Henry.
-Dialogue: 0,1:16:25.75,1:16:28.09,Default,,0,0,0,,- 给我们点时间 - 我妈就是个婊子\N- Just give us a minute, please. - My mama is a dirty bird.
+Dialogue: 0,1:16:25.77,1:16:28.09,Default,,0,0,0,,- 给我们点时间 - 我妈就是个婊子\N- Just give us a minute, please. - My mama is a dirty bird.
 Dialogue: 0,1:16:28.11,1:16:30.09,Default,,0,0,0,,嘴放干净点 杰迪代亚\NBe careful now, Jedidiah.
 Dialogue: 0,1:16:30.10,1:16:34.72,Default,,0,0,0,,你给她的那身花衣服 只是掩盖她的耻辱\NAnd that fancy dress you put her in is the only thing keeping in the stench!
-Dialogue: 0,1:16:36.64,1:16:38.89,Default,,0,0,0,,别打我孩子\NDon't you lay a hand on my child.
+Dialogue: 0,1:16:36.64,1:16:38.89,Default,,0,0,0,,别打我儿子\NDon't you lay a hand on my child.
 Dialogue: 0,1:16:38.91,1:16:40.62,Default,,0,0,0,,我...抱歉\NI-I'm sorry, uh...
 Dialogue: 0,1:16:45.55,1:16:47.77,Default,,0,0,0,,妈 完蛋了\NMama, what did I do?
 Dialogue: 0,1:16:47.79,1:16:49.80,Default,,0,0,0,,走 快跑\NGo! Run!
@@ -1659,7 +1660,7 @@ Dialogue: 0,1:17:37.41,1:17:39.08,Default,,0,0,0,,是我 马蒂\NHey, it's Marty
 Dialogue: 0,1:17:41.75,1:17:43.55,Default,,0,0,0,,伦敦那个\NFrom London.
 Dialogue: 0,1:17:44.50,1:17:45.66,Default,,0,0,0,,你怎么跑这了？\NWhat are you doing here?
 Dialogue: 0,1:17:45.68,1:17:47.32,Default,,0,0,0,,来见个朋友 他搞舞台的\NWell, I got a friend in the stagehands union.
-Dialogue: 0,1:17:47.33,1:17:48.63,Default,,0,0,0,,我过来给他送点东西\NI was dropping something off for him.
+Dialogue: 0,1:17:47.34,1:17:48.63,Default,,0,0,0,,我过来给他送点东西\NI was dropping something off for him.
 Dialogue: 0,1:17:48.64,1:17:50.75,Default,,0,0,0,,- 你刚才看了吧 - 看了 没关系吧\N- You watched that? - Yeah, I hope that's okay.
 Dialogue: 0,1:17:50.77,1:17:51.88,Default,,0,0,0,,噢 天呐\NOh, God.
 Dialogue: 0,1:17:51.90,1:17:54.21,Default,,0,0,0,,没想到你又开始演戏了\NHey, I can't believe you're acting again.
@@ -1667,17 +1668,17 @@ Dialogue: 0,1:17:54.23,1:17:56.38,Default,,0,0,0,,那不叫演戏 他老抢我�
 Dialogue: 0,1:17:56.40,1:17:59.05,Default,,0,0,0,,挺气人的 那家伙什么来头？\NYeah, no, that looked frustrating. What's the deal with that guy?
 Dialogue: 0,1:17:59.07,1:18:00.34,Default,,0,0,0,,别提了\NDon't get me started.
 Dialogue: 0,1:18:00.35,1:18:02.06,Default,,0,0,0,,即便被抢戏 你也比他演得好\NYeah, you were running circles around him.
-Dialogue: 0,1:18:02.89,1:18:04.10,Default,,0,0,0,,这还用说\NOf course I am.
+Dialogue: 0,1:18:02.89,1:18:04.10,Default,,0,0,0,,那还用说\NOf course I am.
 Dialogue: 0,1:18:04.12,1:18:05.73,Default,,0,0,0,,对 演得真好\NYeah. It was unbelievable.
 Dialogue: 0,1:18:05.75,1:18:07.39,Default,,0,0,0,,他连续三天不睡觉\NHe stays up for three days in a row
 Dialogue: 0,1:18:07.41,1:18:09.73,Default,,0,0,0,,就是为了要演得累\Nbecause his character is supposed to be tired.
 Dialogue: 0,1:18:09.75,1:18:11.17,Default,,0,0,0,,- 真是疯了 - 对啊\N- It's obnoxious. - Oh, God.
-Dialogue: 0,1:18:13.01,1:18:16.09,Default,,0,0,0,,他要是真那么投入 干嘛因为锁个门停下来？\NIf he's so committed, why'd he stop the scene?
+Dialogue: 0,1:18:13.01,1:18:16.09,Default,,0,0,0,,他要是真投入  怎么会因锁打断？\NIf he's so committed, why'd he stop the scene?
 Dialogue: 0,1:18:17.11,1:18:18.99,Default,,0,0,0,,干嘛不一脚踹开？\NWhy didn't he punch his hand through the screen,
-Dialogue: 0,1:18:19.01,1:18:20.14,Default,,0,0,0,,接着演呢？\Nunlock it from the other side?
+Dialogue: 0,1:18:19.01,1:18:20.43,Default,,0,0,0,,接着演呢？\Nunlock it from the other side?
 Dialogue: 0,1:18:21.66,1:18:23.45,Default,,0,0,0,,- 对吧？换我会这么干 - 格伦\N- Right? That's what I would've done. - Glenn!
 Dialogue: 0,1:18:23.76,1:18:25.26,Default,,0,0,0,,- 这就来 - 格伦\N- Yeah. - Glenn!
-Dialogue: 0,1:18:25.70,1:18:27.70,Default,,0,0,0,,- 好的 来了 - 我给你说句话\N- Yes. Thank you. Yes. - I need to talk to you.
+Dialogue: 0,1:18:25.70,1:18:27.70,Default,,0,0,0,,- 好的 来了 - 我跟你说句话\N- Yes. Thank you. Yes. - I need to talk to you.
 Dialogue: 0,1:18:30.26,1:18:32.55,Default,,0,0,0,,- 怎么了？ - 你说怎么了\N- Yes, what? - What? What? What?
 Dialogue: 0,1:18:32.57,1:18:36.03,Default,,0,0,0,,这小子比他更懂这个角色\NThis kid understands the character better than he does.
 Dialogue: 0,1:18:36.04,1:18:37.27,Default,,0,0,0,,你说什么？\NExcuse me?
@@ -1685,7 +1686,7 @@ Dialogue: 0,1:18:37.28,1:18:38.63,Default,,0,0,0,,- 把你刚说的话告诉他 
 Dialogue: 0,1:18:38.64,1:18:39.43,Default,,0,0,0,,说吧 告诉他\NNo, tell him.
 Dialogue: 0,1:18:39.45,1:18:41.77,Default,,0,0,0,,我说你不像是真入戏了\NI was just saying you didn't really seem like you were in the scene is all.
 Dialogue: 0,1:18:42.63,1:18:45.32,Default,,0,0,0,,- 他懂不懂戏？ - 当局者迷\N- Uh, who is this? - He's nobody.
-Dialogue: 0,1:18:45.34,1:18:48.77,Default,,0,0,0,,- 旁观者清 - 而且 以我的经验\N- That's the point. - Also, you know, in my experience,
+Dialogue: 0,1:18:45.34,1:18:48.77,Default,,0,0,0,,- 旁观者清 - 而且 在我看来\N- That's the point. - Also, you know, in my experience,
 Dialogue: 0,1:18:50.02,1:18:51.88,Default,,0,0,0,,只有玩过家家才这样拿刀\Nonly children hold a knife like this.
 Dialogue: 0,1:18:51.89,1:18:53.56,Default,,0,0,0,,要是真打 刀该这样拿\NIf it's a serious fight, you hold your knife like this,
 Dialogue: 0,1:18:53.58,1:18:54.95,Default,,0,0,0,,- 刀要在上面 - 这又不是街头斗殴\N- with the blade square to your wrist. - This is not a street fight.
@@ -1693,22 +1694,22 @@ Dialogue: 0,1:18:54.97,1:18:56.40,Default,,0,0,0,,好吧 既然你们不求真�
 Dialogue: 0,1:18:56.41,1:18:58.15,Default,,0,0,0,,还得再加点花样\Nyou might as well add a little flair.
 Dialogue: 0,1:19:01.97,1:19:03.13,Default,,0,0,0,,就像这样\NLike that.
 Dialogue: 0,1:19:03.14,1:19:04.48,Default,,0,0,0,,- 别闹了 - 对吧 凯？\N- Cut it out. - Right, Kay?
-Dialogue: 0,1:19:04.50,1:19:06.75,Default,,0,0,0,,行了 行了 谢了你的教程 抓紧走吧\NYeah, okay. Thanks for the tutorial. Thank you very much.
-Dialogue: 0,1:19:06.76,1:19:10.86,Default,,0,0,0,,真是太感谢了 今天就到这吧 谢谢\NThank you very much indeed. That's all we need today. Thank you.
+Dialogue: 0,1:19:04.50,1:19:06.75,Default,,0,0,0,,行了 行了 谢了你的教程 谢谢\NYeah, okay. Thanks for the tutorial. Thank you very much.
+Dialogue: 0,1:19:06.76,1:19:10.86,Default,,0,0,0,,真是太感谢了 抓紧走吧 谢谢\NThank you very much indeed. That's all we need today. Thank you.
 Dialogue: 0,1:19:10.87,1:19:12.63,Default,,0,0,0,,- 加油 凯 - 送他出去\N- Best of luck, Kay. Best of luck. - Get him out!
 Dialogue: 0,1:19:12.65,1:19:15.67,Default,,0,0,0,,这里不需要你了 谢谢 抓紧走吧\NWe no longer require your presence. Thank you very much.
 Dialogue: 0,1:19:15.69,1:19:18.05,Default,,0,0,0,,恕我直言...\NWell, with all due respect...
 Dialogue: 0,1:19:18.07,1:19:19.88,Default,,0,0,0,,每套布景竟然都要五千多块\NAnd yet every set cost more than $5,000.
 Dialogue: 0,1:19:19.90,1:19:23.38,Default,,0,0,0,,要让您太太高兴又少花钱 真办不到啊\NI can't just snap my fingers and get your money and your wife into alignment.
 Dialogue: 0,1:19:23.39,1:19:24.89,Default,,0,0,0,,那我花钱雇你干嘛\NI pay you to say no.
-Dialogue: 0,1:19:24.90,1:19:26.81,Default,,0,0,0,,我得让她感觉有主导权 又要控制她开销\NShe seems to think that this is carte blanche.
+Dialogue: 0,1:19:24.90,1:19:26.81,Default,,0,0,0,,让她感觉有主导权 又要控制她开销\NShe seems to think that this is carte blanche.
 Dialogue: 0,1:19:26.83,1:19:28.53,Default,,0,0,0,,这根本做不到啊\NI can't just perform the impossible here.
 Dialogue: 0,1:19:28.55,1:19:31.93,Default,,0,0,0,,要是你做不到 我就另请他人\NIf you can't control her, I will find someone else who can.
 Dialogue: 0,1:19:32.24,1:19:33.45,Default,,0,0,0,,混蛋\NAsshole.
 Dialogue: 0,1:19:38.49,1:19:41.10,Default,,0,0,0,,洛克威尔先生 请等一下\NMr. Rockwell. Mr. Rockwell.
 Dialogue: 0,1:19:41.11,1:19:43.71,Default,,0,0,0,,- 干什么？ - 是我 马蒂·毛瑟 又见面了\N- What? - Hey. Marty Mauser. Nice to see you.
 Dialogue: 0,1:19:43.74,1:19:47.46,Default,,0,0,0,,是不是你冒充我儿子战友给我办公室打的电话？\NDid you call my office and say you're friends with my son?
-Dialogue: 0,1:19:47.62,1:19:48.99,Default,,0,0,0,,- 是的 但是... - 该死!\N- Yes. But... - Goddamn it!
+Dialogue: 0,1:19:47.62,1:19:48.99,Default,,0,0,0,,- 是的 但是... - 混蛋\N- Yes. But... - Goddamn it!
 Dialogue: 0,1:19:49.00,1:19:51.07,Default,,0,0,0,,我没别的办法联络您了 请您听我说\NI had no other way to get in touch with you. Please.
 Dialogue: 0,1:19:51.08,1:19:52.71,Default,,0,0,0,,我想再谈谈去日本的事\NI wanna revisit our conversation about Japan.
 Dialogue: 0,1:19:52.73,1:19:54.95,Default,,0,0,0,,我重新考虑过了 我想去 我觉得主意不错\NI reconsidered it and I wanna do it. I think it's a great idea.
