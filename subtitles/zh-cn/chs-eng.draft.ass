@@ -1482,7 +1482,7 @@ Dialogue: 0,1:08:46.97,1:08:48.79,Default,,0,0,0,,我会给你买辆新出租 �
 Dialogue: 0,1:08:48.81,1:08:50.60,Default,,0,0,0,,别担心 沃利 我的好兄弟\NDon't worry about it. Wally, I love you.
 Dialogue: 0,1:08:50.61,1:08:51.86,Default,,0,0,0,,关门\NClose my door.
 Dialogue: 0,1:09:18.05,1:09:19.05,Default,,0,0,0,,嘿 马蒂\NHey, Marty.
-Dialogue: 0,1:09:23.35,1:09:24.35,Screen,,0,0,0,,{\an8}（桌上网球俱乐部）
+Dialogue: 0,1:09:23.35,1:09:24.35,Screen,,0,0,0,,{\an8}（劳伦斯百老汇球场）
 Dialogue: 0,1:09:31.30,1:09:34.01,Default,,0,0,0,,- 嘿 泰德 - 嘿 马蒂 近来怎样？\N- Hey, Ted. - Hey, Marty. How you doing, man?
 Dialogue: 0,1:09:34.03,1:09:35.55,Default,,0,0,0,,- 劳伦斯在吗？ - 听说令尊的事情了 请节哀\N- Is Lawrence here? - Sorry about your loss.
 Dialogue: 0,1:09:35.57,1:09:36.97,Default,,0,0,0,,没事的 劳伦斯来了吗？\NIt's all right. Is Lawrence here tonight?
@@ -1897,277 +1897,280 @@ Dialogue: 0,1:28:43.22,1:28:45.30,Default,,0,0,0,,超前开 快 开进玉米地\
 Dialogue: 0,1:28:46.13,1:28:48.77,Default,,0,0,0,,- 快开 快开 快开 - 天呐 天呐 天呐\N- Go, go, go, go, go, go, go. - Oh, my god! Oh, my god! Oh, my god!
 Dialogue: 0,1:28:51.06,1:28:52.27,Default,,0,0,0,,天呐\NOh, no!
 Dialogue: 0,1:28:54.31,1:28:56.66,Screen,,0,0,0,,{\an8}（摩西）
-Dialogue: 0,1:29:09.28,1:29:10.70,Default,,0,0,0,,- {\i1}Hello?{\i0}\N- Hi.
-Dialogue: 0,1:29:11.03,1:29:12.12,Default,,0,0,0,,Hi, did you...
-Dialogue: 0,1:29:12.12,1:29:14.91,Default,,0,0,0,,Did you by any chance\Nlose a dog named Moses?
-Dialogue: 0,1:29:15.83,1:29:17.29,Default,,0,0,0,,{\i1}Yeah, I did. Why?{\i0}
-Dialogue: 0,1:29:17.29,1:29:19.83,Default,,0,0,0,,Oh, you did? Amazing!\N'Cause we just found him.
-Dialogue: 0,1:29:19.84,1:29:21.88,Default,,0,0,0,,- {\i1}For real?{\i0}\N- I did, yeah.
-Dialogue: 0,1:29:21.88,1:29:24.21,Default,,0,0,0,,- {\i1}How is he? How's his breathing?{\i0}\N- You know what?
-Dialogue: 0,1:29:24.21,1:29:27.17,Default,,0,0,0,,When we got him,\Nhis breathing was a little shallow.
-Dialogue: 0,1:29:27.18,1:29:29.55,Default,,0,0,0,,- The money.\N- {\i1}Give me your address.{\i0}
-Dialogue: 0,1:29:29.55,1:29:31.05,Default,,0,0,0,,{\i1}I'm gonna come right now.{\i0}
-Dialogue: 0,1:29:31.05,1:29:33.02,Default,,0,0,0,,Well, that's the thing.
-Dialogue: 0,1:29:33.93,1:29:36.06,Default,,0,0,0,,{\i1}The thing? What do you mean?{\i0}
-Dialogue: 0,1:29:36.06,1:29:38.56,Default,,0,0,0,,'Cause you know in situations\Nlike these it's...
-Dialogue: 0,1:29:38.56,1:29:41.77,Default,,0,0,0,,it's kind of customary\Nto give the person a reward, no?
-Dialogue: 0,1:29:41.77,1:29:44.11,Default,,0,0,0,,{\i1}Yeah, fine. How much you have in mind?{\i0}
-Dialogue: 0,1:29:45.30,1:29:47.97,Default,,0,0,0,,- 钱太多了 太多了 - 不 直接说 他他妈有的是钱\N- It's too much money. It's too much. - No, say it. He's fucking loaded.
-Dialogue: 0,1:29:47.97,1:29:48.97,Default,,0,0,0,,- 喂? - 告诉他\N- Hello?- Tell him.
-Dialogue: 0,1:29:49.64,1:29:52.85,Default,,0,0,0,,我在想 拿两千块钱还算公道\NI was thinking maybe $2,000 seems fair for this kind of a thing.
-Dialogue: 0,1:29:52.85,1:29:54.35,Default,,0,0,0,,我觉得挺公道的\NThat seems pretty fair to me.
-Dialogue: 0,1:29:54.35,1:29:56.10,Default,,0,0,0,,- 两千 - 你开玩笑呢吧?\N- Two thousand. - You're joking, right?
-Dialogue: 0,1:29:56.73,1:29:59.36,Default,,0,0,0,,- 没开玩笑 - 简直他妈的离谱\N- No, no. No. - That's fucking ridiculous.
-Dialogue: 0,1:29:59.36,1:30:00.36,Default,,0,0,0,,听着 听着...\NLook, look...
-Dialogue: 0,1:30:01.69,1:30:03.82,Default,,0,0,0,,我知道这事跟你没关系\NI know it's really not your problem,
-Dialogue: 0,1:30:04.65,1:30:08.45,Default,,0,0,0,,但我快生了 而且 瞧 我现在也没丈夫\Nbut I'm about to have a baby, and, look, I got no husband right now.
-Dialogue: 0,1:30:08.45,1:30:11.49,Default,,0,0,0,,我没工作 这笔钱真的 真的能帮到我\NI got no job, and this money would really, really help me.
-Dialogue: 0,1:30:11.49,1:30:13.45,Default,,0,0,0,,而且 你懂的 咱们都是好人...\NAnd, you know, let's be good people and...
-Dialogue: 0,1:30:13.45,1:30:16.71,Default,,0,0,0,,你知道那条狗是我从收容所免费领的 对吧?\NYou realize I got that dog for free at the pound, right?
-Dialogue: 0,1:30:17.46,1:30:20.21,Default,,0,0,0,,额 那你这看法可就不对了\NWell, that's kind of the wrong way to look at it.
-Dialogue: 0,1:30:20.21,1:30:22.46,Default,,0,0,0,,- 噢 是吗? - 是的 真的\N- Oh, really?- Yeah, really.
-Dialogue: 0,1:30:22.46,1:30:23.96,Default,,0,0,0,,那我该怎么看?\NHow am I supposed to look at it?
-Dialogue: 0,1:30:23.96,1:30:26.76,Default,,0,0,0,,咱们就这么说吧 我现在打这电话不是为了狗\N'Cause let's just say that I'm not calling about a dog.
-Dialogue: 0,1:30:26.76,1:30:28.43,Default,,0,0,0,,假设我这电话是为你妈打的\NLet's say that I'm calling about your mother,
-Dialogue: 0,1:30:28.43,1:30:31.43,Default,,0,0,0,,我是个医生 我得给她做急诊手术\Nand I'm a doctor, and I gotta perform emergency surgery on her
-Dialogue: 0,1:30:31.43,1:30:33.10,Default,,0,0,0,,否则她就没命了 你会怎么做?\Nor she's gonna die. What are you gonna do?
-Dialogue: 0,1:30:33.10,1:30:35.64,Default,,0,0,0,,就因为你妈也是"免费"来的 你就拒绝手术?\NRefuse the surgery because you got your mother for free?
-Dialogue: 0,1:30:35.64,1:30:37.48,Default,,0,0,0,,不! 那太疯了 你肯定会同意手术\NNo! That's crazy. You're gonna take the surgery
-Dialogue: 0,1:30:37.48,1:30:39.48,Default,,0,0,0,,- 因为你爱你妈 - 这是我听过最蠢的话\N- because you love your mother. - That's the stupidest thing I ever heard.
-Dialogue: 0,1:30:39.48,1:30:42.36,Default,,0,0,0,,那我看你压根不懂什么是爱\NWell, then I guess you don't know anything about love.
-Dialogue: 0,1:30:42.36,1:30:45.90,Default,,0,0,0,,行了 别扯了 给我地址 好吗? 我现在就过去\NAll right, forget it. Give me your address, okay? I'll come now.
-Dialogue: 0,1:30:45.90,1:30:48.15,Default,,0,0,0,,- 我带现金过去 - 抱歉 但不行\N- I'll bring you the cash.- I'm sorry, but no.
-Dialogue: 0,1:30:48.16,1:30:49.53,Default,,0,0,0,,- 不行? - 不行\N- No?- No.
-Dialogue: 0,1:30:49.53,1:30:52.87,Default,,0,0,0,,这真的不是你的错 听起来你也是个大好人\Nit's really not your fault, and you sound like a very nice person.
-Dialogue: 0,1:30:52.87,1:30:55.41,Default,,0,0,0,,只是我以前被坑过太多次了\NIt's just I've been ripped off one too many times in the past,
-Dialogue: 0,1:30:55.41,1:30:57.29,Default,,0,0,0,,我再也不想让那种事发生了\Nand I'm just not willing to let that happen to me again.
-Dialogue: 0,1:30:57.29,1:31:00.46,Default,,0,0,0,,所以 咱们得想个办法 让我先拿到钱\NSo, we're just gonna need to find a way to get me the money first.
-Dialogue: 0,1:31:00.46,1:31:01.96,Default,,0,0,0,,- 你懂吗? 对 - 真的吗?\N- You know? Yeah. - Yeah?
-Dialogue: 0,1:31:01.96,1:31:03.79,Default,,0,0,0,,给我听好了 你这个他妈的臭娘们\NListen to me, you fucking dumb bitch.
-Dialogue: 0,1:31:03.80,1:31:05.92,Default,,0,0,0,,- 你一分钱也别想拿到... - 你有什么毛病?\N- You're not getting one red cent...- What is wrong with you?
-Dialogue: 0,1:31:05.92,1:31:07.17,Default,,0,0,0,,...除非我亲眼见到它\N...without me laying eyes on him.
-Dialogue: 0,1:31:07.17,1:31:09.76,Default,,0,0,0,,- 如果你真的不在乎... - 听明白了吗 妹子?\N- If you really don't give a shit about... - You understand, sister?
-Dialogue: 0,1:31:09.76,1:31:12.43,Default,,0,0,0,,...你那只白捡的狗 没准我该把它捐给医学界做研究?\N...your dog that you got for free, how about I donate him to medical science?
-Dialogue: 0,1:31:12.43,1:31:15.26,Default,,0,0,0,,- 你想要那种结果吗? - 我就说这行不通\N- Would that be something you want? - I told you this wasn't gonna work.
-Dialogue: 0,1:31:15.27,1:31:17.02,Default,,0,0,0,,我早该知道的 我在干什么啊?\NI should have known better. What am I doing?
-Dialogue: 0,1:31:17.02,1:31:18.27,Default,,0,0,0,,- 真是个烂主意 - 马蒂!\N- It was a terrible idea. - Marty!
-Dialogue: 0,1:31:18.27,1:31:19.69,Default,,0,0,0,,- 蠢透了 - 抱歉 我当时想...\N- It was moronic. - I'm sorry, I was--
-Dialogue: 0,1:31:19.69,1:31:21.94,Default,,0,0,0,,抱歉 我只是想试一把\NI'm sorry. I was trying to give it a shot.
-Dialogue: 0,1:31:21.94,1:31:24.32,Default,,0,0,0,,- 不是你的错 是这事太蠢了 - 好了 冷静点\N- It's not your fault. It was stupid. - All right. Calm down.
-Dialogue: 0,1:31:26.61,1:31:28.57,Default,,0,0,0,,那狗是什么颜色的?\NWhat color is the dog?
-Dialogue: 0,1:31:28.57,1:31:30.91,Default,,0,0,0,,干嘛? 谁在乎啊 是棕色的\NWhy? Who cares? It's brown.
-Dialogue: 0,1:31:30.91,1:31:33.82,Default,,0,0,0,,好吧 因为我老板认识当地所有的育犬师\NOkay, because my boss knows all of the local breeders,
-Dialogue: 0,1:31:33.83,1:31:35.95,Default,,0,0,0,,没准咱们能找只长得一样的\Nand maybe we can get one that looks the same,
-Dialogue: 0,1:31:35.95,1:31:37.62,Default,,0,0,0,,主人肯定分不出区别\Nand the owner won't be able to tell the difference.
-Dialogue: 0,1:31:37.62,1:31:39.54,Default,,0,0,0,,你觉得他会认不出他心爱的狗?\NYou don't think he's gonna recognize his own dog that he loves?
-Dialogue: 0,1:31:39.54,1:31:41.79,Default,,0,0,0,,- 我是说起码一开始认不出 - 我现在本该在练球\N- I'm saying maybe not at first. - I should be working on my game right now.
-Dialogue: 0,1:31:41.79,1:31:43.46,Default,,0,0,0,,结果我现在却在二手车场\NInstead, I'm in a used car lot
-Dialogue: 0,1:31:43.46,1:31:46.30,Default,,0,0,0,,玩这种恶作剧电话 把生活搞得像个笑话\Nmaking a mockery of my life, doing prank calls.
-Dialogue: 0,1:32:00.85,1:32:02.81,Default,,0,0,0,,- 你们在干什么? - 嘿 你怎么还没睡?\N- What are you guys doing? - Hey. What are you still doing up?
-Dialogue: 0,1:32:02.81,1:32:04.81,Default,,0,0,0,,小点声 我爸妈在睡觉\NKeep your voice down. My parents are sleeping.
-Dialogue: 0,1:32:04.82,1:32:06.57,Default,,0,0,0,,- 我不知道他们回来了 - 我告诉过你他们回来了\N- I didn't know they were back. - I told you they were back.
-Dialogue: 0,1:32:06.57,1:32:08.90,Default,,0,0,0,,- 我爸的车呢? - 在车库里\N- Where's my dad's car? - It's in the garage.
-Dialogue: 0,1:32:08.90,1:32:10.99,Default,,0,0,0,,迪翁 我跟你说 我们这一天过得简直难以置信\NYou're not gonna believe, Dion, when I tell you the day that we had.
-Dialogue: 0,1:32:10.99,1:32:13.16,Default,,0,0,0,,- 你骗了我 - 不 我没有 你在说什么呢?\N- You tricked me. - No, I didn't. What are you talking about?
-Dialogue: 0,1:32:13.16,1:32:15.07,Default,,0,0,0,,- 你确实骗了 你这骗子婊子 - 喔\N- Yes, you did, you lying bitch. - Whoa.
-Dialogue: 0,1:32:15.08,1:32:17.03,Default,,0,0,0,,嘿 嘴放干净点 你这死肥猪\NHey, you watch your mouth, you fat piece of shit.
-Dialogue: 0,1:32:17.04,1:32:18.83,Default,,0,0,0,,- 别这么跟我说话 - 别这么跟他说话\N- Don't talk to me like that. - Don't talk to him like that.
-Dialogue: 0,1:32:18.83,1:32:20.04,Default,,0,0,0,,他可是我全世界最铁的朋友\NHe's one of my favorite people on the planet.
-Dialogue: 0,1:32:20.04,1:32:21.75,Default,,0,0,0,,- 叫他别这么跟我说话 - 别这么跟她说话\N- Tell him not to talk to me like that. - Don't talk to her like that.
-Dialogue: 0,1:32:21.75,1:32:24.08,Default,,0,0,0,,- 别这么跟他说话 - 小声点\N- Don't talk to him like that. - Keep it down.
-Dialogue: 0,1:32:24.08,1:32:26.38,Default,,0,0,0,,是我让她干的 我不开口她肯定不会干\NI'm the one that told her to do it. She wouldn't have if I didn't.
-Dialogue: 0,1:32:26.38,1:32:29.21,Default,,0,0,0,,- 把车钥匙给我 - 行 就在这儿 拿着\N- Give me the car keys. - Okay, they're right here. Okay?
-Dialogue: 0,1:32:30.09,1:32:31.67,Default,,0,0,0,,- 咱们出了点小剐蹭... - 什么?\N- We got into a little fender bender... - What?
+Dialogue: 0,1:29:09.28,1:29:10.70,Default,,0,0,0,,- 喂 - 喂\N- Hello? - Hi.
+Dialogue: 0,1:29:10.89,1:29:11.98,Default,,0,0,0,,你是不是...\NHi, did you...
+Dialogue: 0,1:29:11.99,1:29:14.78,Default,,0,0,0,,你是不是丢了一只叫摩西的狗？\NDid you by any chance lose a dog named Moses?
+Dialogue: 0,1:29:15.83,1:29:17.29,Default,,0,0,0,,丢了 怎么了？\NYeah, I did. Why?
+Dialogue: 0,1:29:17.31,1:29:19.83,Default,,0,0,0,,真的？太好了 我们刚好捡到他\NOh, you did? Amazing! 'Cause we just found him.
+Dialogue: 0,1:29:19.84,1:29:21.63,Default,,0,0,0,,- 真的假的？ - 真的\N- For real? - I did, yeah.
+Dialogue: 0,1:29:21.64,1:29:24.20,Default,,0,0,0,,- 他怎么样 还喘不喘？ - 实话跟你说\N- How is he? How's his breathing? - You know what?
+Dialogue: 0,1:29:24.21,1:29:27.52,Default,,0,0,0,,刚开始他呼吸挺虚的\NWhen we got him, his breathing was a little shallow.
+Dialogue: 0,1:29:27.54,1:29:29.54,Default,,0,0,0,,- 赶紧谈钱 - 把你地址给我\N- The money. - Give me your address.
+Dialogue: 0,1:29:29.55,1:29:31.05,Default,,0,0,0,,我马上到\NI'm gonna come right now.
+Dialogue: 0,1:29:31.07,1:29:33.04,Default,,0,0,0,,事情没那么简单\NWell, that's the thing.
+Dialogue: 0,1:29:33.93,1:29:36.06,Default,,0,0,0,,你什么意思？\NThe thing? What do you mean?
+Dialogue: 0,1:29:36.08,1:29:38.56,Default,,0,0,0,,这事儿按惯例\N'Cause you know in situations like these it's...
+Dialogue: 0,1:29:38.58,1:29:41.77,Default,,0,0,0,,应该给点赏钱吧？\Nit's kind of customary to give the person a reward, no?
+Dialogue: 0,1:29:41.79,1:29:44.13,Default,,0,0,0,,好吧 那你想要多少？\NYeah, fine. How much you have in mind?
+Dialogue: 0,1:29:45.19,1:29:47.64,Default,,0,0,0,,- 开价太高了吧？ - 不高 他有的是钱\N- It's too much money. It's too much. - No, say it. He's fucking loaded.
+Dialogue: 0,1:29:47.66,1:29:48.77,Default,,0,0,0,,- 喂 - 直接说\N- Hello?- Tell him.
+Dialogue: 0,1:29:49.64,1:29:52.84,Default,,0,0,0,,要我说两千挺合适的\NI was thinking maybe $2,000 seems fair for this kind of a thing.
+Dialogue: 0,1:29:52.85,1:29:54.35,Default,,0,0,0,,挺公道的\NThat seems pretty fair to me.
+Dialogue: 0,1:29:54.37,1:29:56.12,Default,,0,0,0,,- 只要两千 - 你开玩笑吧？\N- Two thousand. - You're joking, right?
+Dialogue: 0,1:29:56.73,1:29:59.36,Default,,0,0,0,,- 没开玩笑 - 你他妈在耍我吧\N- No, no. No. - That's fucking ridiculous.
+Dialogue: 0,1:29:59.38,1:30:00.38,Default,,0,0,0,,听着 听着...\NLook, look...
+Dialogue: 0,1:30:01.69,1:30:03.82,Default,,0,0,0,,我知道这跟你没关系 但...\NI know it's really not your problem, but...
+Dialogue: 0,1:30:04.65,1:30:08.44,Default,,0,0,0,,但我快生了 而且我一个人 没丈夫\NI'm about to have a baby, and, look, I got no husband right now.
+Dialogue: 0,1:30:08.45,1:30:11.49,Default,,0,0,0,,也没工作 这钱就算行善积德了\NI got no job, and this money would really, really help me.
+Dialogue: 0,1:30:11.51,1:30:13.45,Default,,0,0,0,,咱们行善吧\NAnd, you know, let's be good people and...
+Dialogue: 0,1:30:13.47,1:30:16.71,Default,,0,0,0,,那狗是我在收容所白领的 知道吗？\NYou realize I got that dog for free at the pound, right?
+Dialogue: 0,1:30:17.46,1:30:20.20,Default,,0,0,0,,这么想就错了\NWell, that's kind of the wrong way to look at it.
+Dialogue: 0,1:30:20.21,1:30:22.46,Default,,0,0,0,,- 错了？ - 对 错了\N- Oh, really?- Yeah, really.
+Dialogue: 0,1:30:22.48,1:30:23.98,Default,,0,0,0,,那我该怎么想？\NHow am I supposed to look at it?
+Dialogue: 0,1:30:24.00,1:30:26.76,Default,,0,0,0,,比方说我不是在谈狗\N'Cause let's just say that I'm not calling about a dog.
+Dialogue: 0,1:30:26.78,1:30:28.75,Default,,0,0,0,,比方说我是在说你母亲\NLet's say that I'm calling about your mother,
+Dialogue: 0,1:30:28.77,1:30:31.43,Default,,0,0,0,,我是医生 要做急救手术\Nand I'm a doctor, and I gotta perform emergency surgery on her
+Dialogue: 0,1:30:31.45,1:30:33.09,Default,,0,0,0,,不然她会死 你该怎么办？\Nor she's gonna die. What are you gonna do?
+Dialogue: 0,1:30:33.10,1:30:35.64,Default,,0,0,0,,你能因她不是买来的就不救吗？\NRefuse the surgery because you got your mother for free?
+Dialogue: 0,1:30:35.66,1:30:37.48,Default,,0,0,0,,不会的 你会救你母亲\NNo! That's crazy. You're gonna take the surgery
+Dialogue: 0,1:30:37.50,1:30:39.48,Default,,0,0,0,,- 因为你爱她 - 这是什么胡扯比喻\N- because you love your mother. - That's the stupidest thing I ever heard.
+Dialogue: 0,1:30:39.50,1:30:42.02,Default,,0,0,0,,那就说明你不懂爱\NWell, then I guess you don't know anything about love.
+Dialogue: 0,1:30:42.04,1:30:45.89,Default,,0,0,0,,行了 别扯了 把地址给我 我现在就来\NAll right, forget it. Give me your address, okay? I'll come now.
+Dialogue: 0,1:30:45.90,1:30:48.22,Default,,0,0,0,,- 带钱来 - 抱歉 但不行\N- I'll bring you the cash. - I'm sorry, but no.
+Dialogue: 0,1:30:48.23,1:30:49.75,Default,,0,0,0,,- 不行？ - 不行\N- No? - No.
+Dialogue: 0,1:30:49.77,1:30:52.86,Default,,0,0,0,,别误会 你听着也像好人\Nit's really not your fault, and you sound like a very nice person.
+Dialogue: 0,1:30:52.87,1:30:55.40,Default,,0,0,0,,但我以前被坑过太多次了\NIt's just I've been ripped off one too many times in the past,
+Dialogue: 0,1:30:55.41,1:30:57.29,Default,,0,0,0,,这回不能冒险\Nand I'm just not willing to let that happen to me again.
+Dialogue: 0,1:30:57.31,1:31:00.45,Default,,0,0,0,,所以 这次必须先拿到钱\NSo, we're just gonna need to find a way to get me the money first.
+Dialogue: 0,1:31:00.46,1:31:01.96,Default,,0,0,0,,- 你懂吗？ - 懂\N- You know? Yeah. - Yeah?
+Dialogue: 0,1:31:01.98,1:31:03.79,Default,,0,0,0,,给我听好了 你这蠢娘们\NListen to me, you fucking dumb bitch.
+Dialogue: 0,1:31:03.80,1:31:05.91,Default,,0,0,0,,- 你一分钱都别想拿到 - 你嘴怎么那么脏？\N- You're not getting one red cent... - What is wrong with you?
+Dialogue: 0,1:31:05.92,1:31:07.47,Default,,0,0,0,,....除非我亲眼见到狗\N...without me laying eyes on him.
+Dialogue: 0,1:31:07.48,1:31:09.75,Default,,0,0,0,,- 你真不在乎的话... - 听明白了吗 妹子？\N- If you really don't give a shit about... - You understand, sister?
+Dialogue: 0,1:31:09.76,1:31:12.48,Default,,0,0,0,,...既然狗是白领的 我就把他送去做实验\N...your dog that you got for free, how about I donate him to medical science?
+Dialogue: 0,1:31:12.50,1:31:15.26,Default,,0,0,0,,- 你想那样吗？ - 我就说这行不通\N- Would that be something you want? - I told you this wasn't gonna work.
+Dialogue: 0,1:31:14.33,1:31:20.31,Screen,,0,0,0,,{\an8}（旧车行）
+Dialogue: 0,1:31:15.28,1:31:17.02,Default,,0,0,0,,我早该料到 我到底在想啥\NI should have known better. What am I doing?
+Dialogue: 0,1:31:17.04,1:31:18.27,Default,,0,0,0,,- 真是个烂主意 - 马蒂\N- It was a terrible idea. - Marty!
+Dialogue: 0,1:31:18.29,1:31:19.69,Default,,0,0,0,,- 烂透了 - 抱歉 我...\N- It was moronic. - I'm sorry, I was--
+Dialogue: 0,1:31:19.71,1:31:21.94,Default,,0,0,0,,抱歉 我只是想碰碰运气\NI'm sorry. I was trying to give it a shot.
+Dialogue: 0,1:31:21.96,1:31:24.34,Default,,0,0,0,,- 不怪你 是这事就不对头 - 好了 别慌\N- It's not your fault. It was stupid. - All right. Calm down.
+Dialogue: 0,1:31:26.61,1:31:28.57,Default,,0,0,0,,那狗是什么颜色的？\NWhat color is the dog?
+Dialogue: 0,1:31:28.59,1:31:30.91,Default,,0,0,0,,问这干嘛？棕色的\NWhy? Who cares? It's brown.
+Dialogue: 0,1:31:30.93,1:31:33.82,Default,,0,0,0,,是这样 我老板认识所有狗贩\NOkay, because my boss knows all of the local breeders,
+Dialogue: 0,1:31:33.83,1:31:35.94,Default,,0,0,0,,没准能找只长差不多的\Nand maybe we can get one that looks the same,
+Dialogue: 0,1:31:35.95,1:31:37.62,Default,,0,0,0,,他不一定看得出来\Nand the owner won't be able to tell the difference.
+Dialogue: 0,1:31:37.64,1:31:39.50,Default,,0,0,0,,他能认不出他心爱的狗？\NYou don't think he's gonna recognize his own dog that he loves?
+Dialogue: 0,1:31:39.52,1:31:41.78,Default,,0,0,0,,- 我是说不会立马发现 - 我现在该练球的\N- But I'm saying maybe not at first. - I should be working on my game right now.
+Dialogue: 0,1:31:41.79,1:31:43.46,Default,,0,0,0,,结果跑到这个旧车场\NInstead, I'm in a used car lot
+Dialogue: 0,1:31:43.48,1:31:46.33,Default,,0,0,0,,丢人现眼 整这些没用的电话\Nmaking a mockery of my life, doing prank calls.
+Dialogue: 0,1:32:00.85,1:32:02.81,Default,,0,0,0,,- 你们从哪来的？ - 老兄 你怎么还没睡？\N- What are you guys doing? - Hey, pal. What are you still doing up?
+Dialogue: 0,1:32:02.83,1:32:04.81,Default,,0,0,0,,小点声 我爸妈在睡觉\NKeep your voice down. My parents are sleeping.
+Dialogue: 0,1:32:04.83,1:32:06.57,Default,,0,0,0,,- 他们回来了？ - 我告诉过你了\N- I didn't know they were back. - I told you they were back.
+Dialogue: 0,1:32:06.59,1:32:08.75,Default,,0,0,0,,- 我爸的车呢？ - 就在车库\N- Where's my dad's car? - It's in the garage.
+Dialogue: 0,1:32:08.77,1:32:10.89,Default,,0,0,0,,我们今天经历的 绝对让你惊掉下巴\NYou're not gonna believe, Dion, when I tell you the day that we had.
+Dialogue: 0,1:32:10.90,1:32:12.85,Default,,0,0,0,,- 你骗了我 - 没有啊 你瞎说什么\N- You tricked me. - No, I didn't. What are you talking about?
+Dialogue: 0,1:32:12.86,1:32:15.06,Default,,0,0,0,,- 你确实骗了 你这骗人的死丫头 - 喔\N- Yes, you did, you lying bitch. - Whoa.
+Dialogue: 0,1:32:15.08,1:32:17.03,Default,,0,0,0,,嘴放干净点 你这死肥猪\NHey, you watch your mouth, you fat piece of shit.
+Dialogue: 0,1:32:17.04,1:32:18.82,Default,,0,0,0,,- 不许你骂我 - 别骂他\N- Don't talk to me like that. - Don't talk to him like that.
+Dialogue: 0,1:32:18.83,1:32:20.03,Default,,0,0,0,,他可是我最铁的朋友\NHe's one of my favorite people on the planet.
+Dialogue: 0,1:32:20.04,1:32:21.75,Default,,0,0,0,,- 叫他别骂我 - 你也别骂她\N- Tell him not to talk to me like that. - Don't talk to her like that.
+Dialogue: 0,1:32:21.77,1:32:23.62,Default,,0,0,0,,- 别骂他 - 小声点\N- Don't talk to him like that. - Keep it down.
+Dialogue: 0,1:32:23.64,1:32:26.75,Default,,0,0,0,,别怪她 是我让她干的\NI'm the one that told her to do it. She wouldn't have if I didn't.
+Dialogue: 0,1:32:26.77,1:32:29.21,Default,,0,0,0,,- 把车钥匙给我 - 行 就在这儿 给你\N- Give me the car keys. - Okay, they're right here. Okay?
+Dialogue: 0,1:32:30.09,1:32:31.67,Default,,0,0,0,,- 有点小剐蹭... - 什么？\N- We got into a little fender bender... - What?
 Dialogue: 0,1:32:31.68,1:32:32.76,Default,,0,0,0,,...但没大碍\N...but it's gonna be okay.
-Dialogue: 0,1:32:32.76,1:32:35.43,Default,,0,0,0,,- 只是点小伤 我会赔的 - 拿什么赔? 什么时候赔?\N- It's minor damage. I can pay for it. - How? When?
-Dialogue: 0,1:32:35.43,1:32:38.56,Default,,0,0,0,,迪翁 这么晚了 咱们都该歇歇了\NDion, it's very late right now. We should all get a little bit of rest.
-Dialogue: 0,1:32:38.56,1:32:40.06,Default,,0,0,0,,明早吃早饭时我会跟你爸解释清楚\NI'll smooth it over with your father at breakfast.
-Dialogue: 0,1:32:40.06,1:32:41.77,Default,,0,0,0,,- 他不会生气的... - 你们不能住这儿!\N- He's not gonna get angry-- - You're not staying here!
-Dialogue: 0,1:32:41.77,1:32:44.06,Default,,0,0,0,,- 咱们没别的地方住了 - 你们必须得走\N- We got no other place to stay. - You guys gotta go.
-Dialogue: 0,1:32:44.06,1:32:45.48,Default,,0,0,0,,不 迪翁 咱们必须得留下\NNo. Dion. We have to stay.
-Dialogue: 0,1:32:45.48,1:32:47.40,Default,,0,0,0,,- 咱们没处去... 迪翁 别赶人 - 不行 嘘\N- We have nowhere-- Dion. Stop it. - No. Shh.
-Dialogue: 0,1:32:47.40,1:32:49.15,Default,,0,0,0,,她都怀孕八个月了 你疯了吗?\NShe's eight months pregnant. Are you out of your mind?
-Dialogue: 0,1:32:49.15,1:32:50.86,Default,,0,0,0,,- 咱们能不能再谈谈? - 声音小点\N- Please can we just talk about it? - Keep your voice down.
-Dialogue: 0,1:32:50.86,1:32:52.19,Default,,0,0,0,,深更半夜的 你要把咱们赶到大街上?\NGonna throw us out in the street in the dead of night?
-Dialogue: 0,1:32:52.20,1:32:54.82,Default,,0,0,0,,- 没错 走吧 - 咱们真的没地方去\N- Yeah, yeah. - We've got nowhere to go.
-Dialogue: 0,1:32:55.91,1:32:57.87,Default,,0,0,0,,拿上你们的破烂赶紧滚\NGet your shit and leave.
-Dialogue: 0,1:32:57.87,1:32:58.95,Default,,0,0,0,,你知道咱们今天经历了什么吗?\NDo you have any idea what we've been through today?
-Dialogue: 0,1:32:58.95,1:33:00.45,Default,,0,0,0,,我没在跟你说话\NI'm not talking to you.
-Dialogue: 0,1:33:00.45,1:33:02.29,Default,,0,0,0,,你不想跟我说话?\NYou're not talking to me?
-Dialogue: 0,1:33:02.29,1:33:04.17,Default,,0,0,0,,现在你彻底不打算跟我说话了?\NNow you're not talking to me, period?
-Dialogue: 0,1:33:04.17,1:33:05.67,Default,,0,0,0,,真离谱\NUnbelievable.
-Dialogue: 0,1:33:05.67,1:33:07.59,Default,,0,0,0,,含着金汤匙出生肯定很爽吧\NMust be nice being born with a silver spoon in your mouth.
-Dialogue: 0,1:33:07.59,1:33:09.59,Default,,0,0,0,,而咱们有些人得为了生活奔波\NMeanwhile, some of us have to work for a living.
-Dialogue: 0,1:33:09.59,1:33:11.42,Default,,0,0,0,,你听过"工作"这词儿吗?\NYou ever heard that word, "work"?
-Dialogue: 0,1:33:11.42,1:33:13.22,Default,,0,0,0,,而不是整天躲屋里涂鸦\NInstead of doodling in your room all day?
-Dialogue: 0,1:33:14.30,1:33:15.97,Default,,0,0,0,,居然把朋友往大街上赶...\NThrowing your friends out on the street...
-Dialogue: 0,1:33:17.97,1:33:19.76,Default,,0,0,0,,别一直盯着咱们看行吗? 看墙去\NCan you not stare at us? Can you look at the wall?
-Dialogue: 0,1:33:19.77,1:33:21.06,Default,,0,0,0,,看得我毛骨悚然\NYou're creeping me out.
-Dialogue: 0,1:33:22.26,1:33:23.76,Default,,0,0,0,,咱们要去哪? 因为...\NWhere are we gonna go? Because...
-Dialogue: 0,1:33:24.02,1:33:26.19,Default,,0,0,0,,- 对不住 既然这儿就有张床... - 没事的\N- I'm sorry. You have a bed right here... - It's okay.
-Dialogue: 0,1:33:26.19,1:33:28.06,Default,,0,0,0,,- ...我本来能睡上面的 - 没事的\N- ...and I could be sleeping on it. - It's okay.
-Dialogue: 0,1:33:28.07,1:33:31.32,Default,,0,0,0,,我肚里还有个娃呢 我肚里还有个娃呢\NAnd I got a baby in me. I got a baby in me.
-Dialogue: 0,1:33:31.32,1:33:32.40,Default,,0,0,0,,看看你在干嘛?\NSee what you're doing?
-Dialogue: 0,1:33:32.40,1:33:34.86,Default,,0,0,0,,大半夜的把孕妇赶出门\NYou're throwing a pregnant woman out in the dead of the night.
-Dialogue: 0,1:33:34.86,1:33:36.99,Default,,0,0,0,,你会一辈子受良心谴责的\NIt's gonna live on your conscience forever.
-Dialogue: 0,1:33:36.99,1:33:38.95,Default,,0,0,0,,- 你干嘛要这么折磨自己? - 对不起\N- Why would you do this to yourself? - I'm sorry.
-Dialogue: 0,1:33:38.95,1:33:40.58,Default,,0,0,0,,能让我陪她待一会儿吗? 我得安慰她\NCan I have a moment with her, please? Just to comfort her,
-Dialogue: 0,1:33:40.58,1:33:42.16,Default,,0,0,0,,跟我亲妹妹单独待会 好吗?\Nin privacy with my sister, please?
-Dialogue: 0,1:33:42.16,1:33:44.54,Default,,0,0,0,,- 让她小声点 - 我尽量 但我得先让她冷静下来\N- Keep her voice down. - I'm gonna try, but I gotta calm her down.
-Dialogue: 0,1:33:44.54,1:33:46.79,Default,,0,0,0,,抱歉\NSorry.
-Dialogue: 0,1:33:47.29,1:33:49.80,Default,,0,0,0,,我不知道该怎么办 我不知道该怎么办\NI don't know what to do. I don't know what to do.
+Dialogue: 0,1:32:32.78,1:32:35.43,Default,,0,0,0,,- 就是小伤 我会赔的 - 拿什么赔？什么时候赔？\N- It's minor damage. I can pay for it. - How? When?
+Dialogue: 0,1:32:35.45,1:32:38.56,Default,,0,0,0,,迪翁 这么晚了 咱们都该歇歇了\NDion, it's very late right now. We should all get a little bit of rest.
+Dialogue: 0,1:32:38.58,1:32:40.06,Default,,0,0,0,,明天早饭时我来跟你爸解释\NI'll smooth it over with your father at breakfast.
+Dialogue: 0,1:32:40.08,1:32:41.82,Default,,0,0,0,,- 有我在你别... - 你们不能在这过夜\N- I know your father-- - You're not staying here!
+Dialogue: 0,1:32:41.84,1:32:44.06,Default,,0,0,0,,- 我们没别的地方可去了 - 你们必须得走\N- We got no other place to stay. - You guys gotta go.
+Dialogue: 0,1:32:44.08,1:32:45.48,Default,,0,0,0,,不 迪翁 我们必须得留下\NNo. Dion. We have to stay.
+Dialogue: 0,1:32:45.50,1:32:47.40,Default,,0,0,0,,- 没别的地方... 迪翁 别这样 - 不行 嘘\N- We have nowhere-- Dion. Stop it. - No. Shh.
+Dialogue: 0,1:32:47.42,1:32:49.29,Default,,0,0,0,,她都怀孕八个月了 你疯了吗？\NShe's eight months pregnant. Are you out of your mind?
+Dialogue: 0,1:32:49.30,1:32:51.00,Default,,0,0,0,,- 我们坐下来谈谈好不好 - 声音小点\N- Please can we just talk about it? - Keep your voice down.
+Dialogue: 0,1:32:51.01,1:32:52.27,Default,,0,0,0,,深更半夜把我们赶出去是吧\NGonna throw us out in the street in the dead of night?
+Dialogue: 0,1:32:52.28,1:32:54.85,Default,,0,0,0,,- 没错 进去收拾东西 - 我们真没地方去了\N- Yeah, yeah. Get in. - We've got nowhere to go.
+Dialogue: 0,1:32:54.87,1:32:55.84,Default,,0,0,0,,收拾东西赶紧走\NGet your shit and leave.
+Dialogue: 0,1:32:55.86,1:32:57.81,Default,,0,0,0,,知道我们今天经历了什么吗？\NDo you have any idea what we've been through today?
+Dialogue: 0,1:32:57.82,1:32:58.92,Default,,0,0,0,,我不理你\NI'm not talking to you.
+Dialogue: 0,1:32:58.94,1:33:00.41,Default,,0,0,0,,你不理我？\NYou're not talking to me?
+Dialogue: 0,1:33:00.42,1:33:02.34,Default,,0,0,0,,你彻底不打算理我了？\NNow you're not talking to me, period?
+Dialogue: 0,1:33:02.36,1:33:03.86,Default,,0,0,0,,这啥事啊\NUnbelievable.
+Dialogue: 0,1:33:05.67,1:33:07.59,Default,,0,0,0,,含金汤匙的人\NMust be nice being born with a silver spoon in your mouth.
+Dialogue: 0,1:33:07.61,1:33:09.59,Default,,0,0,0,,体会不到谋生的苦\NMeanwhile, some of us have to work for a living.
+Dialogue: 0,1:33:09.61,1:33:11.52,Default,,0,0,0,,你懂什么叫谋生吗？\NYou ever heard that word, "work"?
+Dialogue: 0,1:33:11.53,1:33:13.33,Default,,0,0,0,,整天在房里瞎玩\NInstead of doodling in your room all day?
+Dialogue: 0,1:33:14.30,1:33:15.97,Default,,0,0,0,,竟然把朋友往街上赶...\NThrowing your friends out on the street...
+Dialogue: 0,1:33:17.97,1:33:19.76,Default,,0,0,0,,别盯着我们看 看墙去\NCan you not stare at us? Can you look at the wall?
+Dialogue: 0,1:33:19.77,1:33:21.47,Default,,0,0,0,,别像监狱看守那样\NYou're creeping me out.
+Dialogue: 0,1:33:22.28,1:33:23.78,Default,,0,0,0,,我们能去哪儿？\NWhere are we gonna go? Because...
+Dialogue: 0,1:33:24.15,1:33:26.32,Default,,0,0,0,,- 对不住 这儿明明有床... - 没事的\N- I'm sorry. You have a bed right here... - It's okay.
+Dialogue: 0,1:33:26.33,1:33:28.15,Default,,0,0,0,,- ...我本来能睡这的 - 没事的\N- ...and I could be sleeping on it. - It's okay.
+Dialogue: 0,1:33:28.16,1:33:31.13,Default,,0,0,0,,而且我怀着孩子 我怀着孩子\NAnd I got a baby in me. I got a baby in me.
+Dialogue: 0,1:33:31.15,1:33:32.40,Default,,0,0,0,,没事的 看你干的好事\NIt's okay. See what you're doing?
+Dialogue: 0,1:33:32.42,1:33:34.96,Default,,0,0,0,,大半夜的把孕妇赶到街上\NYou're throwing a pregnant woman out on the street in the dead of the night.
+Dialogue: 0,1:33:34.97,1:33:36.99,Default,,0,0,0,,这事会让你一辈子良心不安\NIt's gonna live on your conscience forever.
+Dialogue: 0,1:33:37.01,1:33:38.95,Default,,0,0,0,,- 干嘛要自找苦吃？ - 对不起\N- Why would you do this to yourself? - I'm sorry.
+Dialogue: 0,1:33:38.97,1:33:40.58,Default,,0,0,0,,给我几分钟行吗？我得安抚下她\NCan I have a moment with her, please? Just to comfort her,
+Dialogue: 0,1:33:40.60,1:33:42.16,Default,,0,0,0,,让我跟我妹单独呆会儿\Nin privacy with my sister, please?
+Dialogue: 0,1:33:42.18,1:33:44.54,Default,,0,0,0,,- 让她小声点 - 我尽量 我尽量 我先把她安抚好\N- Keep her voice down. - I'm gonna try, but I gotta calm her down.
+Dialogue: 0,1:33:44.56,1:33:45.79,Default,,0,0,0,,抱歉\NSorry.
+Dialogue: 0,1:33:47.29,1:33:49.80,Default,,0,0,0,,这怎么办啊 这怎么办啊\NI don't know what to do. I don't know what to do.
 Dialogue: 0,1:33:51.55,1:33:52.96,Default,,0,0,0,,演得真好\NThat was really good.
-Dialogue: 0,1:33:52.97,1:33:54.59,Default,,0,0,0,,- 瑞秋 演得太牛了 - 谢谢\N- That was amazing, Rachel. - Thank you.
-Dialogue: 0,1:33:54.59,1:33:55.80,Default,,0,0,0,,太到位了 没准能成\NThat was so good, it might work.
-Dialogue: 0,1:33:55.80,1:33:58.01,Default,,0,0,0,,- 如果他把咱们赶走 咱们去哪? - 他现在可能真会留咱们住下\N- Where are we gonna go if he kicks us out? - He might actually let us stay now.
-Dialogue: 0,1:33:58.01,1:33:59.80,Default,,0,0,0,,那演技简直绝了\NThat acting was so brilliant.
-Dialogue: 0,1:33:59.81,1:34:02.56,Default,,0,0,0,,- 你真的在哭吗? - 没 马蒂 你在干什么?\N- Are you actually crying? - No. Marty, what are you doing?
-Dialogue: 0,1:34:03.39,1:34:05.39,Default,,0,0,0,,- 那是什么? - 什么?\N- What is that? - What?
-Dialogue: 0,1:34:06.69,1:34:07.85,Default,,0,0,0,,这是化妆品?\NIs this makeup?
-Dialogue: 0,1:34:11.36,1:34:12.57,Default,,0,0,0,,等等\NHold on.
-Dialogue: 0,1:34:12.57,1:34:15.90,Default,,0,0,0,,等等听我说 听我解释 这不怪我 好吗?\NJust wait. Because I can explain. It's not my fault. Okay?
-Dialogue: 0,1:34:15.90,1:34:16.99,Default,,0,0,0,,闭嘴\NNo talking.
-Dialogue: 0,1:34:16.99,1:34:19.70,Default,,0,0,0,,- 我也是没法子 你懂吗? - 够了 求你别说了 闭嘴\N- I didn't have a choice, you know? - Stop. Stop, please. Stop.
-Dialogue: 0,1:34:19.70,1:34:21.37,Default,,0,0,0,,- 瑞秋 别说了 - 我得离开那儿\N- Rachel, stop. - I needed to get out.
-Dialogue: 0,1:34:21.37,1:34:24.58,Default,,0,0,0,,- 看到我现在有多冷静了吗? 但快到头了 - 对\N- See how calm I am? It's not gonna last. - Yeah.
-Dialogue: 0,1:34:24.58,1:34:26.04,Default,,0,0,0,,给我滚出去\NGet the fuck out of here.
-Dialogue: 0,1:34:26.04,1:34:27.71,Default,,0,0,0,,- 不 我觉得... - 给我滚出去\N- No. What I think-- - Get the fuck out of here.
-Dialogue: 0,1:34:27.71,1:34:30.25,Default,,0,0,0,,- 我觉得咱们都该走 因为... - 闭嘴\N- I think that we should both go because... - Stop.
-Dialogue: 0,1:34:30.25,1:34:31.88,Default,,0,0,0,,这种破事也就我妈能干得出来\NThis is the kinda shit my mother would do to me.
-Dialogue: 0,1:34:31.88,1:34:34.17,Default,,0,0,0,,亏我这么对你 偏偏是你 居然也这么对我?\NHow could you of all people do this to me, the way I treat you?
-Dialogue: 0,1:34:34.17,1:34:37.51,Default,,0,0,0,,- 我怎么对你了? - 对 明知道我经历了什么还这么干?\N- How could I do this to you? - Yes, knowing what I'm going through?
-Dialogue: 0,1:34:37.51,1:34:39.89,Default,,0,0,0,,- 那你对我做的这些呢? - 够了 嘘 你在干嘛...\N- How about what you're doing to me? - Stop. Shh. What are you doing...
-Dialogue: 0,1:34:39.89,1:34:42.89,Default,,0,0,0,,哪怕有一秒钟 你考虑过你正在做什么吗...\NHave you ever for one second thought about what you're doing--
-Dialogue: 0,1:34:42.89,1:34:44.85,Default,,0,0,0,,- 住口 - 闭上你的臭嘴吧 你这自恋的畜生\N- Stop. - Shush yourself, you narcissistic prick.
-Dialogue: 0,1:34:44.85,1:34:46.68,Default,,0,0,0,,- 别碰我! - 够了 你们在干什么?\N- Don't touch me! - Stop. What are you doing?
-Dialogue: 0,1:34:46.69,1:34:49.10,Default,,0,0,0,,- 你要把我爸妈吵醒了 闭嘴 - 去他妈的你父母吧\N- You're gonna wake my parents up. Shut up. - Enough about your fucking parents.
-Dialogue: 0,1:34:49.10,1:34:50.52,Default,,0,0,0,,你他妈都三十岁的人了 难道不是吗?\NAren't you, like, 30 years old?
-Dialogue: 0,1:34:50.52,1:34:53.36,Default,,0,0,0,,你意识到我还有四周就生了吗?\NYou realize I'm due in four weeks?
-Dialogue: 0,1:34:53.36,1:34:55.15,Default,,0,0,0,,- 我还有四周就生了! - 孩子又不是我的\N- I am due in four weeks! - It's not my baby.
-Dialogue: 0,1:34:55.15,1:34:57.78,Default,,0,0,0,,而且孩子就是他的 顺便说下 真是他妈的孩子\NAnd it's his baby, by the way. It's his fucking baby.
-Dialogue: 0,1:34:57.78,1:34:59.36,Default,,0,0,0,,这事儿他也在撒谎\NHe's lying about that too.
-Dialogue: 0,1:34:59.36,1:35:02.28,Default,,0,0,0,,- 我家出什么事了? - 爸 我只是带几个朋友过来\N- What's going on in my house? - I was just having some friends over, Dad.
-Dialogue: 0,1:35:02.28,1:35:03.37,Default,,0,0,0,,伙计 你还好吗?\NBuddy, how are you?
-Dialogue: 0,1:35:03.37,1:35:05.66,Default,,0,0,0,,嘿 明早咱们得第一时间和斯伯丁开会\NHey, we have a meeting with Spalding first thing in the morning
-Dialogue: 0,1:35:05.66,1:35:07.62,Default,,0,0,0,,- 为了"至尊"的样球 - 迪翁 算了吧 别演了\N- for the Supreme samples. - Dion, come on. Give me a break.
-Dialogue: 0,1:35:07.62,1:35:09.25,Default,,0,0,0,,那根本就不可能成\NThat's never gonna happen.
-Dialogue: 0,1:35:09.25,1:35:11.54,Default,,0,0,0,,- 你拿了我儿子的钱 - 您在说什么呢?\N- You've taken my son's money. - What are you talking about?
-Dialogue: 0,1:35:11.54,1:35:14.13,Default,,0,0,0,,我不信 迪 难道你看不出来发生了什么吗?\NI don't believe it. D, don't you see what's happening?
-Dialogue: 0,1:35:14.13,1:35:16.51,Default,,0,0,0,,- 简直离谱 太他妈离谱了... - 你一直都在骗我儿子\N- Unbelievable. Un-fucking... - You're conning my son all along.
-Dialogue: 0,1:35:16.51,1:35:18.30,Default,,0,0,0,,- 我才没有骗你儿子 - 你卷走了他所有的钱\N- I am not conning your son. - You're taking all his money.
-Dialogue: 0,1:35:18.30,1:35:20.93,Default,,0,0,0,,我给了他生活的意义 哪怕你只给了他钱\NI give him meaning. All you do is give him money.
-Dialogue: 0,1:35:20.93,1:35:22.64,Default,,0,0,0,,- 我给了他奋斗的目标 - 给我听好!\N- I give him purpose. - You listen to me!
-Dialogue: 0,1:35:22.64,1:35:25.93,Default,,0,0,0,,他他妈看都不敢看你一眼 他怕你怕得要死\NHe won't even fucking look at you, he's so petrified of you.
-Dialogue: 0,1:35:25.93,1:35:28.85,Default,,0,0,0,,咱们怎么办 哈? 你们打算让咱们去哪儿?\NWhat are we gonna do, huh? Where do you expect us to go?
-Dialogue: 0,1:35:28.85,1:35:31.10,Default,,0,0,0,,你真想让我睡大街? 我怀孕了\NYou really want me to sleep on the street? I'm pregnant.
-Dialogue: 0,1:35:31.10,1:35:32.98,Default,,0,0,0,,别 别 迪翁! 迪翁!\NNo, no, no. Dion! Dion!
-Dialogue: 0,1:35:56.42,1:35:59.47,Default,,0,0,0,,行吧 瑞秋 我得告诉你件事 我没想针对你\NAll right, I gotta tell you something, Rachel. It's not intended to be mean.
-Dialogue: 0,1:35:59.47,1:36:02.13,Default,,0,0,0,,我有我的使命 而你没有\NI have a purpose. You don't.
-Dialogue: 0,1:36:02.14,1:36:03.64,Default,,0,0,0,,如果你觉得那算是什么恩赐 那你就大错特错了\NIf you think that's some sort of blessing, it's not.
-Dialogue: 0,1:36:03.64,1:36:05.89,Default,,0,0,0,,那反倒成了我人生中巨大的劣势\NIt puts me at a huge life disadvantage.
-Dialogue: 0,1:36:05.89,1:36:09.39,Default,,0,0,0,,它意味着我背负着要成就某件事的义务\NIt means I have an obligation to see a very specific thing through.
-Dialogue: 0,1:36:09.39,1:36:11.60,Default,,0,0,0,,而那份义务必然伴随着牺牲 懂吗?\NAnd with that obligation comes sacrifice, okay?
-Dialogue: 0,1:36:11.60,1:36:14.56,Default,,0,0,0,,我的人生是我所有被迫做出的选择的产物\NMy life is the product of all the choices I've had to make.
-Dialogue: 0,1:36:14.57,1:36:15.94,Default,,0,0,0,,而你的人生则是...\NYour life is the product of...
-Dialogue: 0,1:36:15.94,1:36:17.53,Default,,0,0,0,,我都不知道你的人生算什么产物\NI don't even know what your life is the product of.
-Dialogue: 0,1:36:17.53,1:36:19.74,Default,,0,0,0,,你过一天算一天 你这种人就这样\NYou're making it up as you go. That's the kind of person you are.
-Dialogue: 0,1:36:19.74,1:36:21.95,Default,,0,0,0,,我可不是那种人 懂吗?\NThat's not the kind of person I am, okay?
-Dialogue: 0,1:36:21.95,1:36:23.86,Default,,0,0,0,,你得为你那些操蛋决定负责\NYou're responsible for the shitty decisions you've made.
-Dialogue: 0,1:36:23.87,1:36:25.91,Default,,0,0,0,,我从没叫你结婚 一次都没有\NI never told you to get married, not once.
-Dialogue: 0,1:36:25.91,1:36:28.62,Default,,0,0,0,,- 你别想把这些赖在我头上 - 我明白\N- You cannot pawn them off onto me. - I understand.
-Dialogue: 0,1:36:28.62,1:36:30.71,Default,,0,0,0,,你在宠物店一年挣多少?\NHow much do you make a year at the pet store?
-Dialogue: 0,1:36:30.71,1:36:31.79,Default,,0,0,0,,差不多1200块\NAbout $1200.
-Dialogue: 0,1:36:31.79,1:36:34.83,Default,,0,0,0,,听着 免得你忘了 我得在一周内弄到1500块\NOkay, in case you forgot, I have a week to make $1500,
-Dialogue: 0,1:36:34.84,1:36:35.96,Default,,0,0,0,,还没算机票呢\Nnot including air fare.
-Dialogue: 0,1:36:35.96,1:36:38.59,Default,,0,0,0,,我现在得专注 别让我分心\NI need to focus right now, no distractions.
-Dialogue: 0,1:36:39.51,1:36:42.01,Default,,0,0,0,,- 真的很抱歉 - 没事\N- I'm really sorry. - No, it's okay.
-Dialogue: 0,1:36:42.01,1:36:43.97,Default,,0,0,0,,显而易见 我现在没法安定下来\NIt goes without saying, I'm in no position to settle down right now.
-Dialogue: 0,1:36:43.97,1:36:47.18,Default,,0,0,0,,断了这个念头吧 我现在不会安定下来的 好吗?\NGet that out of your mind. I will not settle down right now. Okay?
-Dialogue: 0,1:36:47.81,1:36:50.22,Default,,0,0,0,,要是你真打算离开艾拉 我不会抛弃你的\NIf you're serious about leaving Ira, I will not abandon you.
-Dialogue: 0,1:36:50.23,1:36:52.18,Default,,0,0,0,,作为朋友 我会帮你\NAs your friend, I will help you.
-Dialogue: 0,1:36:52.19,1:36:54.73,Default,,0,0,0,,咱们会去查 找个好的待产院\NWe'll do the research, we'll find a great maternity home.
-Dialogue: 0,1:36:54.73,1:36:56.90,Default,,0,0,0,,他们会收留你 给孩子找个好人家\NThey'll take you in, they'll ensure the baby's got a good family.
-Dialogue: 0,1:36:56.90,1:36:59.98,Default,,0,0,0,,我们可以办个... 不行? 怎么了?\NWe could do a-- No? No?
-Dialogue: 0,1:36:59.99,1:37:01.99,Default,,0,0,0,,那就回家吧 瑞秋 回家去\NThen go home, Rachel. Just go home.
-Dialogue: 0,1:37:04.57,1:37:07.53,Default,,0,0,0,,- 我该怎么说? - 你会想出办法的 回家吧 瑞秋\N- What am I gonna say? - You'll figure it out. Go home, Rachel.
-Dialogue: 0,1:38:02.34,1:38:04.13,Default,,0,0,0,,艾拉 醒醒\NIra, wake up.
-Dialogue: 0,1:38:10.85,1:38:12.27,Default,,0,0,0,,孩子不是你的\NIt's not your baby.
-Dialogue: 0,1:38:25.15,1:38:27.99,Default,,0,0,0,,蠢货 给我看着地\NStupid bitch, look at the fucking ground,
-Dialogue: 0,1:38:27.99,1:38:30.24,Default,,0,0,0,,活脱脱一个臭婊子\Nlike a dumb fucking whore.
-Dialogue: 0,1:38:30.24,1:38:31.24,Default,,0,0,0,,操\NFuck.
-Dialogue: 0,1:38:33.91,1:38:37.25,Default,,0,0,0,,真是他妈的扯淡 给我滚那边去\NFucking bullshit. Fucking go over there.
-Dialogue: 0,1:38:37.25,1:38:38.79,Default,,0,0,0,,给他妈我站到墙角去\NStand in the fucking corner.
-Dialogue: 0,1:38:38.79,1:38:40.75,Default,,0,0,0,,我要抽死你... 你想找死吗?\NI'm gonna smack... You wanna do this?
-Dialogue: 0,1:38:45.51,1:38:49.26,Default,,0,0,0,,那野种肯定跟它那死爹一样 是个满脸脓包的废物\NThat baby's gonna be a pimple-faced bum just like its fucking father.
-Dialogue: 0,1:38:50.35,1:38:52.14,Default,,0,0,0,,或者是像它那臭婊子妈一样的贱货\NOr it's gonna be a whore like its fucking whore mother.
-Dialogue: 0,1:38:52.14,1:38:54.35,Default,,0,0,0,,现在就开门! 别人还要睡觉呢!\NOpen up the door right now! There are people trying to sleep!
-Dialogue: 0,1:38:54.35,1:38:55.77,Default,,0,0,0,,什么?\NWhat?
-Dialogue: 0,1:38:55.77,1:39:00.06,Default,,0,0,0,,- 住手! 安静! - 嘿 瑞秋 你新婆婆来了\N- Stop this! Quiet! - Hey, Rachel. It's your new mother-in-law.
-Dialogue: 0,1:38:55.77,1:39:00.06,Default,,0,0,0,,- 住手! 安静! - 嘿 瑞秋 你新婆婆来了\N- Stop this! Quiet! - Hey, Rachel. It's your new mother-in-law.
-Dialogue: 0,1:39:00.06,1:39:02.86,Default,,0,0,0,,- 艾拉! 别这么跟她说! 对不起 - 嘿 恭喜啊 毛瑟太太\N- Ira! Don't say that to her! I'm sorry. - Hey, congratulations, Mrs. Mauser.
-Dialogue: 0,1:39:02.86,1:39:05.28,Default,,0,0,0,,- 您要当祖母了 - 什么?\N- You're gonna be a grandmother. - What?
-Dialogue: 0,1:39:05.28,1:39:08.40,Default,,0,0,0,,行了 瑞秋现在是你的累赘了 拿着她的破烂\NHere, she's your problem now. Here, take her shit.
-Dialogue: 0,1:39:08.41,1:39:09.99,Default,,0,0,0,,瑞秋 你需要帮忙吗?\NRachel, do you need help?
-Dialogue: 0,1:39:09.99,1:39:11.70,Default,,0,0,0,,- 够了 抱歉 - 亲爱的 需不需要帮忙?\N- That's enough. I'm sorry. - Do you need help, honey?
-Dialogue: 0,1:39:11.70,1:39:14.70,Default,,0,0,0,,- 没 我没事 大家回去睡吧 - 呵 很好 她倒挺愧疚的\N- No, I'm okay. Everyone, go back to bed. - Yeah, great. She's so sorry.
-Dialogue: 0,1:40:11.43,1:40:13.55,Default,,0,0,0,,- 你是瑞秋? - 你是埃兹拉?\N- Are you Rachel? - You're Ezra?
-Dialogue: 0,1:40:13.55,1:40:16.22,Default,,0,0,0,,- 他在哪? - 给钱我就带他出来\N- Where is he? - Give me the money and I'll bring him out.
-Dialogue: 0,1:40:16.22,1:40:19.06,Default,,0,0,0,,给钱? 不见到我的狗 你一分钱也别想拿\NMoney? You ain't getting a nickel unless I see my dog.
-Dialogue: 0,1:40:19.06,1:40:22.14,Default,,0,0,0,,告诉你 我可不是一个人 懂吗? 到处都是我的人盯着呢\NJust so you know, I'm not alone, okay? I got people watching all around me.
-Dialogue: 0,1:40:22.15,1:40:23.44,Default,,0,0,0,,我他妈才不管谁盯着\NI don't give a shit who's watching.
-Dialogue: 0,1:40:23.44,1:40:26.57,Default,,0,0,0,,我是说我有的是底气 劝你别耍花样\NI'm letting you know I'm very protected right now in case you try anything.
-Dialogue: 0,1:40:26.57,1:40:28.19,Default,,0,0,0,,- 什么? - 行了 你到底要不要你的狗?\N- What? - Okay, do you want your dog?
-Dialogue: 0,1:40:28.19,1:40:29.40,Default,,0,0,0,,狗就在我这儿\NI have your dog.
-Dialogue: 0,1:40:32.49,1:40:34.07,Default,,0,0,0,,- 你干嘛? - 我不要那个项圈\N- What are you doing? - I don't want that collar.
-Dialogue: 0,1:40:34.07,1:40:35.49,Default,,0,0,0,,- 我要项圈里的东西 - 拿钱出来\N- I want what's inside the collar. - Show me the money.
-Dialogue: 0,1:40:35.49,1:40:38.24,Default,,0,0,0,,如果我没弄到你的狗 我会有这个吗? 不可能\NWould I have this if I didn't have your dog? No.
-Dialogue: 0,1:40:38.25,1:40:41.12,Default,,0,0,0,,所以把钱拿出来 我这就去把他牵给你\NSo show me the money, and I'll go and get him for you.
-Dialogue: 0,1:40:41.12,1:40:43.04,Default,,0,0,0,,快点 赶紧的!\NCome on. Come on!
-Dialogue: 0,1:40:43.92,1:40:46.00,Default,,0,0,0,,妹子 你不知道你在跟谁玩呢 懂吗?\NYou don't know who you're playing with, girl. Okay?
-Dialogue: 0,1:40:46.00,1:40:48.05,Default,,0,0,0,,- 钱在这儿 - 我他妈才不管\N- Here's the money. - I don't fucking care.
-Dialogue: 0,1:40:48.05,1:40:49.67,Default,,0,0,0,,让我看看信封里装了什么\NShow me what's inside the envelope.
-Dialogue: 0,1:40:49.67,1:40:51.47,Default,,0,0,0,,我怎么知道里面到底有没有货?\NHow am I supposed to know there's anything in there?
-Dialogue: 0,1:40:51.47,1:40:54.30,Default,,0,0,0,,- 瞧 想看是吧? 给你看 行了吧? - 行 太好了\N- Here, you wanna see? Here, look. Okay? - Yes. Great.
-Dialogue: 0,1:40:55.51,1:40:57.89,Default,,0,0,0,,- 你去哪 妹子? - 她到底有没有带狗?\N- Where you going, girl? - Does she have the dog or what?
-Dialogue: 0,1:40:57.89,1:40:59.73,Default,,0,0,0,,谁他妈知道\NWho the fuck knows?
-Dialogue: 0,1:41:11.86,1:41:12.86,Default,,0,0,0,,好\NOkay.
-Dialogue: 0,1:41:16.07,1:41:18.33,Default,,0,0,0,,- 喂 布拉尼石酒吧 - 嗨 是我\N- Yeah, Blarney Stone.- Hi, it's me.
-Dialogue: 0,1:41:18.33,1:41:19.33,Default,,0,0,0,,“是我”是谁?\NWho's "me"?
-Dialogue: 0,1:41:20.12,1:41:22.20,Default,,0,0,0,,好的 谢谢 可以把狗牵出来了\NYeah, thank you. You can bring the dog out now.
-Dialogue: 0,1:41:22.21,1:41:24.96,Default,,0,0,0,,你就是那个丢下狗的人? 说好的“马上回来”呢?\NYou're the one that left the dog? What happened to "coming right back"?
-Dialogue: 0,1:41:24.96,1:41:27.25,Default,,0,0,0,,我们准备好了 牵出来吧\NWe're ready, so you can walk him outside.
-Dialogue: 0,1:41:27.25,1:41:30.55,Default,,0,0,0,,- 那畜生尿了一地 - 好的 待会儿见\N- The thing's pissed all over the floor.- Okay. I'll see you soon.
-Dialogue: 0,1:41:32.30,1:41:34.26,Default,,0,0,0,,- 怎么回事? - 听我说一下 好吗?\N- What is going on? - Listen to me for a second, okay?
-Dialogue: 0,1:41:34.26,1:41:37.22,Default,,0,0,0,,看 那边 瞧见没?\NLook. Right over there. Okay?
-Dialogue: 0,1:41:37.22,1:41:38.39,Default,,0,0,0,,那个绿顶篷\NThe green awning.
-Dialogue: 0,1:41:38.39,1:41:40.72,Default,,0,0,0,,我朋友马上会牵着狗出来\NMy friend's gonna come out in a second with the dog.
-Dialogue: 0,1:41:40.72,1:41:44.10,Default,,0,0,0,,只要你给钱 我就打电话说账结清了 行吗?\NOnce you give me the money, I'm gonna call and say we're squared up, okay?
-Dialogue: 0,1:41:44.85,1:41:47.36,Default,,0,0,0,,瞧 他正牵着狗呢 没骗你吧\NLook, there he is right now with the dog. I told you.
-Dialogue: 0,1:41:48.98,1:41:50.61,Default,,0,0,0,,把钱给我吧\NSo hand me the money.
-Dialogue: 0,1:41:50.61,1:41:52.36,Default,,0,0,0,,去你的\NFuck you.
-Dialogue: 0,1:41:52.36,1:41:54.66,Default,,0,0,0,,嘿! 嘿 把钱给我\NHey! Hey, give me my money.
-Dialogue: 0,1:41:55.86,1:41:57.78,Default,,0,0,0,,那什么... 嘿!\NWhat about... Hey!
-Dialogue: 0,1:41:58.33,1:42:00.20,Default,,0,0,0,,抓小偷! 拦住那两个人\NThief! Stop those two.
-Dialogue: 0,1:42:00.20,1:42:01.54,Default,,0,0,0,,- 他们抢了我的钱包 - 嘿\N- They took my wallet. - Hey.
-Dialogue: 0,1:42:01.54,1:42:02.91,Default,,0,0,0,,拦住他们!\NStop them!
-Dialogue: 0,1:42:02.91,1:42:04.41,Default,,0,0,0,,往哪跑? 嘿\NWhere you going? Hey.
-Dialogue: 0,1:42:04.41,1:42:05.75,Default,,0,0,0,,- 撒手 - 赶紧的\N- Get off of me. - Come on.
-Dialogue: 0,1:42:05.75,1:42:08.08,Default,,0,0,0,,嘿 还有那个! 那个打石膏的!\NHey, him too! Him with the cast!
+Dialogue: 0,1:33:52.98,1:33:54.59,Default,,0,0,0,,- 瑞秋 演得太好了 - 谢谢\N- That was amazing, Rachel. - Thank you.
+Dialogue: 0,1:33:54.61,1:33:55.80,Default,,0,0,0,,太好了 这招也许行得通\NThat was so good, it might work.
+Dialogue: 0,1:33:55.82,1:33:58.01,Default,,0,0,0,,- 要是被赶了 下一步去哪？ - 他估计不会赶咱们了\N- Where are we gonna go if he kicks us out? - He might actually let us stay now.
+Dialogue: 0,1:33:58.03,1:33:59.80,Default,,0,0,0,,多亏你这套苦肉计\NThat acting was so brilliant.
+Dialogue: 0,1:33:59.81,1:34:02.56,Default,,0,0,0,,- 你还真哭出来了？ - 不要 马蒂 你干嘛\N- Are you actually crying? - No. Marty, what are you doing?
+Dialogue: 0,1:34:03.63,1:34:05.63,Default,,0,0,0,,- 这是什么？ - 怎么了？\N- What is that? - What?
+Dialogue: 0,1:34:06.70,1:34:07.97,Default,,0,0,0,,这是化妆吗？\NIs this makeup?
+Dialogue: 0,1:34:11.36,1:34:12.57,Default,,0,0,0,,别急\NHold on.
+Dialogue: 0,1:34:12.59,1:34:15.89,Default,,0,0,0,,别急 听我解释 这不怪我 好吗？\NJust wait. Because I can explain. It's not my fault. Okay?
+Dialogue: 0,1:34:15.90,1:34:17.11,Default,,0,0,0,,别说话\NNo talking.
+Dialogue: 0,1:34:17.13,1:34:19.77,Default,,0,0,0,,- 我也是被逼无奈 你懂吗？ - 够了 求你别说了 住嘴\N- I didn't have a choice, you know? - Stop. Stop, please. Stop.
+Dialogue: 0,1:34:19.78,1:34:21.37,Default,,0,0,0,,- 瑞秋 别说了 - 我必须得逃出来\N- Rachel, stop. - I needed to get out.
+Dialogue: 0,1:34:21.39,1:34:24.44,Default,,0,0,0,,- 我冷静吗？但快到头了 - 嗯\N- See how calm I am? It's not gonna last. - Yeah.
+Dialogue: 0,1:34:24.46,1:34:26.10,Default,,0,0,0,,给我滚出去\NGet the fuck out of here.
+Dialogue: 0,1:34:26.12,1:34:27.71,Default,,0,0,0,,- 不 要走... - 赶快滚出去\N- No. What I think-- - Get the fuck out of here.
+Dialogue: 0,1:34:27.73,1:34:30.24,Default,,0,0,0,,- 要走一起走 因为... - 闭嘴\N- I think that we should both go because... - Stop.
+Dialogue: 0,1:34:30.25,1:34:31.88,Default,,0,0,0,,跟我妈一个套路\NThis is the kinda shit my mother would do to me.
+Dialogue: 0,1:34:31.90,1:34:34.26,Default,,0,0,0,,我对你这么好 你怎么下得了手\NHow could you of all people do this to me, the way I treat you?
+Dialogue: 0,1:34:34.27,1:34:37.59,Default,,0,0,0,,- 我下得了手？ - 对 你怎么下得了手？\N- How could I do this to you? - Yes, knowing what I'm going through?
+Dialogue: 0,1:34:37.60,1:34:39.89,Default,,0,0,0,,- 那你怎么忍心对我下手 - 别吵 嘘 你在干嘛\N- How about what you're doing to me? - Stop. Shh. What are you doing...
+Dialogue: 0,1:34:39.91,1:34:42.88,Default,,0,0,0,,你有认真想过自己在做啥吗？\NHave you ever for one second thought about what you're doing--
+Dialogue: 0,1:34:42.89,1:34:44.85,Default,,0,0,0,,- 闭嘴 - 你才闭嘴 你这自私自大的王八蛋\N- Stop. - Shush yourself, you narcissistic prick.
+Dialogue: 0,1:34:44.87,1:34:46.75,Default,,0,0,0,,- 别闹了 你在干什么？ - 别碰我\N- Stop. What are you doing? - Don't touch me!
+Dialogue: 0,1:34:46.77,1:34:49.10,Default,,0,0,0,,- 要把我爸妈吵醒了 闭嘴 - 去他妈的爸妈\N- You're gonna wake my parents up. Shut up. - Enough about your fucking parents.
+Dialogue: 0,1:34:49.12,1:34:50.60,Default,,0,0,0,,三十了还爸妈？\NAren't you, like, 30 years old?
+Dialogue: 0,1:34:50.61,1:34:53.35,Default,,0,0,0,,知道吗？我还有四周就要生了\NYou realize I'm due in four weeks?
+Dialogue: 0,1:34:53.36,1:34:55.54,Default,,0,0,0,,- 四周就要生了 - 孩子又不是我的\N- I am due in four weeks! - It's not my baby.
+Dialogue: 0,1:34:55.55,1:34:57.78,Default,,0,0,0,,就是他的孩子 这王八蛋的孩子\NAnd it's his baby, by the way. It's his fucking baby.
+Dialogue: 0,1:34:57.80,1:34:59.63,Default,,0,0,0,,他连这种事都骗了你\NHe's lying about that too.
+Dialogue: 0,1:34:59.65,1:35:02.28,Default,,0,0,0,,- 在我家闹什么呢？ - 爸 我只是请了几个朋友来\N- What's going on in my house? - I was just having some friends over, Dad.
+Dialogue: 0,1:35:02.30,1:35:03.37,Default,,0,0,0,,晚上好\NBuddy, how are you?
+Dialogue: 0,1:35:03.39,1:35:05.65,Default,,0,0,0,,嘿 明早咱们得和斯伯丁开个会\NHey, we have a meeting with Spalding first thing in the morning
+Dialogue: 0,1:35:03.39,1:35:07.58,Note,,0,0,0,,{\an8}【斯伯丁：知名美国运动器材公司】
+Dialogue: 0,1:35:05.66,1:35:07.62,Default,,0,0,0,,- 谈至尊球的事 - 迪翁 醒醒吧\N- for the Supreme samples. - Dion, come on. Give me a break.
+Dialogue: 0,1:35:07.64,1:35:09.24,Default,,0,0,0,,别做白日梦了\NThat's never gonna happen.
+Dialogue: 0,1:35:09.25,1:35:11.54,Default,,0,0,0,,- 你已经骗了我儿子的钱了 - 您在说什么呢？\N- You've taken my son's money. - What are you talking about?
+Dialogue: 0,1:35:11.56,1:35:14.13,Default,,0,0,0,,迪翁 你看不出来吗？\NI don't believe it. D, don't you see what's happening?
+Dialogue: 0,1:35:14.15,1:35:16.33,Default,,0,0,0,,- 我受不了了... - 你一直在骗我儿子\N- Unbelievable. Un-fucking... - You're conning my son all along.
+Dialogue: 0,1:35:16.35,1:35:17.94,Default,,0,0,0,,- 我没骗你儿子 - 你卷走了他所有的钱\N- I am not conning your son. - You're taking all his money.
+Dialogue: 0,1:35:17.96,1:35:20.92,Default,,0,0,0,,不对 我让他有追求 你用钱来敷衍\NNo, I give him meaning. All you do is give him money.
+Dialogue: 0,1:35:20.93,1:35:22.75,Default,,0,0,0,,- 我给了他奋斗目标 - 你给我听好\N- I give him purpose. - You listen to me!
+Dialogue: 0,1:35:22.77,1:35:25.92,Default,,0,0,0,,- 给我滚蛋 - 你天天骂他 看看他被你吓得\N- Get out of here right now! - He won't even fucking look at you, he's so petrified of you.
+Dialogue: 0,1:35:25.93,1:35:28.84,Default,,0,0,0,,我们怎么办？我们能去哪？\NWhat are we gonna do, huh? Where do you expect us to go?
+Dialogue: 0,1:35:28.85,1:35:31.10,Default,,0,0,0,,你真想让我睡大街？我怀孕了\NYou really want me to sleep on the street? I'm pregnant.
+Dialogue: 0,1:35:31.12,1:35:32.98,Default,,0,0,0,,别 别 别 迪翁 迪翁\NNo, no, no. Dion! Dion!
+Dialogue: 0,1:35:56.41,1:35:59.56,Default,,0,0,0,,行吧 瑞秋 我开门见山说吧 没别的意思\NAll right, I gotta tell you something, Rachel. It's not intended to be mean.
+Dialogue: 0,1:35:59.57,1:36:02.13,Default,,0,0,0,,我有人生目标 而你没有\NI have a purpose. You don't.
+Dialogue: 0,1:36:02.14,1:36:03.64,Default,,0,0,0,,别以为这是好事\NIf you think that's some sort of blessing, it's not.
+Dialogue: 0,1:36:03.66,1:36:05.95,Default,,0,0,0,,你反倒在拖累我\NIt puts me at a huge life disadvantage.
+Dialogue: 0,1:36:05.97,1:36:09.38,Default,,0,0,0,,我有个非常明确的目标\NIt means I have an obligation to see a very specific thing through.
+Dialogue: 0,1:36:09.39,1:36:11.93,Default,,0,0,0,,我得为它放弃一切 明白吗？\NAnd with that obligation comes sacrifice, okay?
+Dialogue: 0,1:36:11.94,1:36:14.56,Default,,0,0,0,,我是一步步才走到今天的\NMy life is the product of all the choices I've had to make.
+Dialogue: 0,1:36:14.57,1:36:15.93,Default,,0,0,0,,而你那人生...\NYour life is the product of...
+Dialogue: 0,1:36:15.94,1:36:17.68,Default,,0,0,0,,我实在不知道咋形容\NI don't even know what your life is the product of.
+Dialogue: 0,1:36:17.69,1:36:19.74,Default,,0,0,0,,你是走一步算一步的人\NYou're making it up as you go. That's the kind of person you are.
+Dialogue: 0,1:36:19.76,1:36:21.99,Default,,0,0,0,,我可不是这种人 明白吗？\NThat's not the kind of person I am, okay?
+Dialogue: 0,1:36:22.00,1:36:24.09,Default,,0,0,0,,你得为自己的烂决定承担后果\NYou're responsible for the shitty decisions you've made.
+Dialogue: 0,1:36:24.10,1:36:26.04,Default,,0,0,0,,我可没逼你嫁人\NI never told you to get married, not once.
+Dialogue: 0,1:36:26.06,1:36:28.80,Default,,0,0,0,,- 别把你的烂摊子丢给我 - 我知道了\N- You cannot pawn them off onto me. - I understand.
+Dialogue: 0,1:36:28.82,1:36:30.71,Default,,0,0,0,,你在宠物店一年挣多少？\NHow much do you make a year at the pet store?
+Dialogue: 0,1:36:30.71,1:36:31.80,Default,,0,0,0,,差不多1200块钱\NAbout $1200.
+Dialogue: 0,1:36:31.82,1:36:34.83,Default,,0,0,0,,别忘了 我一周内得弄到1500块\NOkay, in case you forgot, I have a week to make $1500,
+Dialogue: 0,1:36:34.84,1:36:36.12,Default,,0,0,0,,还没算机票呢\Nnot including air fare.
+Dialogue: 0,1:36:36.14,1:36:38.59,Default,,0,0,0,,现在必须专心 别让我分心\NI need to focus right now, no distractions.
+Dialogue: 0,1:36:39.60,1:36:42.00,Default,,0,0,0,,- 真的很抱歉 - 没事\N- I'm really sorry. - No, it's okay.
+Dialogue: 0,1:36:42.01,1:36:44.03,Default,,0,0,0,,我不会和你安定下来的\NIt goes without saying, I'm in no position to settle down right now.
+Dialogue: 0,1:36:44.05,1:36:47.57,Default,,0,0,0,,我现在没法跟你过日子 打消这个念头 明白吗？\NGet that out of your mind. I will not settle down right now. Okay?
+Dialogue: 0,1:36:47.92,1:36:50.33,Default,,0,0,0,,要是你真打算离开艾勒 我不会丢下你\NIf you're serious about leaving Ira, I will not abandon you.
+Dialogue: 0,1:36:50.34,1:36:52.12,Default,,0,0,0,,作为朋友 我会帮你\NAs your friend, I will help you.
+Dialogue: 0,1:36:52.14,1:36:54.76,Default,,0,0,0,,咱们打听打听 找个靠谱的产院收你\NWe'll do the research, we'll find a great maternity home.
+Dialogue: 0,1:36:54.77,1:36:57.09,Default,,0,0,0,,孩子生了再找个好人家送走\NThey'll take you in, they'll ensure the baby's got a good family.
+Dialogue: 0,1:36:57.11,1:36:59.98,Default,,0,0,0,,我们还能...不行吗？不行吗？\NWe could do a-- No? No?
+Dialogue: 0,1:37:00.03,1:37:02.03,Default,,0,0,0,,那就回家吧 瑞秋 回家吧\NThen go home, Rachel. Just go home.
+Dialogue: 0,1:37:04.60,1:37:07.73,Default,,0,0,0,,- 我该怎么跟他解释啊 - 自己想办法 快回去吧\N- What am I gonna say? - You'll figure it out. Go home, Rachel.
+Dialogue: 0,1:38:02.37,1:38:04.16,Default,,0,0,0,,艾勒 醒醒\NIra, wake up.
+Dialogue: 0,1:38:10.97,1:38:12.49,Default,,0,0,0,,孩子不是你的\NIt's not your baby.
+Dialogue: 0,1:38:25.23,1:38:27.99,Default,,0,0,0,,死贱人 不许抬头\NStupid bitch, look at the fucking ground,
+Dialogue: 0,1:38:28.01,1:38:30.24,Default,,0,0,0,,臭婊子\Nlike a dumb fucking whore.
+Dialogue: 0,1:38:30.26,1:38:31.58,Default,,0,0,0,,去死吧\NFuck.
+Dialogue: 0,1:38:33.91,1:38:37.10,Default,,0,0,0,,真他妈的 滚那边去\NFucking bullshit. Fucking go over there.
+Dialogue: 0,1:38:37.12,1:38:38.78,Default,,0,0,0,,给我面壁去\NStand in the fucking corner.
+Dialogue: 0,1:38:38.79,1:38:40.75,Default,,0,0,0,,我要抽死你...想试试吗？\NI'm gonna smack... You wanna do this?
+Dialogue: 0,1:38:45.59,1:38:50.02,Default,,0,0,0,,那野种肯定长成像他死爹那样的无赖\NThat baby's gonna be a pimple-faced bum just like its fucking father.
+Dialogue: 0,1:38:50.04,1:38:52.13,Default,,0,0,0,,或者像她娘一样下贱\NOr it's gonna be a whore like its fucking whore mother.
+Dialogue: 0,1:38:52.14,1:38:53.79,Default,,0,0,0,,- 快开门 - 又怎么了\N- Open up the door right now! - What?
+Dialogue: 0,1:38:53.81,1:38:56.60,Default,,0,0,0,,大半夜的还让不让人睡觉了\NThere are people trying to sleep!
+Dialogue: 0,1:38:56.61,1:39:00.06,Default,,0,0,0,,- 够了 别闹了 - 瑞秋 快看 你的新婆婆来了\N- Stop this! Quiet! - Hey, Rachel. It's your new mother-in-law.
+Dialogue: 0,1:39:00.08,1:39:02.86,Default,,0,0,0,,- 艾勒 别那样说她 - 恭喜你了 毛瑟太太\N- Ira! Don't say that to her! - Hey, congratulations, Mrs. Mauser.
+Dialogue: 0,1:39:02.88,1:39:05.04,Default,,0,0,0,,- 你快要当奶奶了 - 什么？\N- You're gonna be a grandmother. - What?
+Dialogue: 0,1:39:05.05,1:39:08.40,Default,,0,0,0,,来 瑞秋现在是你的累赘了 拿好她的破烂\NHere, she's your problem now. Here, take her shit.
+Dialogue: 0,1:39:08.41,1:39:09.99,Default,,0,0,0,,瑞秋 需要帮忙吗？\NRachel, do you need help?
+Dialogue: 0,1:39:10.01,1:39:11.85,Default,,0,0,0,,- 别闹了 要帮忙吗？ -  对不起\N- That's enough. Do you need help, honey? - I'm sorry.
+Dialogue: 0,1:39:11.86,1:39:15.32,Default,,0,0,0,,- 我没事 大家都回去休息吧 - 她可会装可怜了\N- No, I'm okay. Everyone, go back to bed. - Yeah, great. She's so sorry.
+Dialogue: 0,1:39:39.16,1:39:42.22,Screen,,0,0,0,,{\an2}（劳伦斯百老汇球场）
+Dialogue: 0,1:39:39.16,1:39:42.22,Note,,0,0,0,,{\an8}【上世纪中叶纽约著名乒乓球俱乐部】
+Dialogue: 0,1:40:11.43,1:40:13.64,Default,,0,0,0,,- 你就是瑞秋吧 - 你是伊兹拉？\N- Are you Rachel? - You're Ezra?
+Dialogue: 0,1:40:13.65,1:40:16.22,Default,,0,0,0,,- 狗在哪儿？ - 先交钱 再交狗\N- Where is he? - Give me the money and I'll bring him out.
+Dialogue: 0,1:40:16.24,1:40:19.06,Default,,0,0,0,,先交钱？见不到狗 你一分钱也得不到\NMoney? You ain't getting a nickel unless I see my dog.
+Dialogue: 0,1:40:19.08,1:40:22.14,Default,,0,0,0,,先说清楚 我有后援 一帮人看着呢\NJust so you know, I'm not alone, okay? I got people watching all around me.
+Dialogue: 0,1:40:22.16,1:40:23.44,Default,,0,0,0,,我才他妈不管谁看着\NI don't give a shit who's watching.
+Dialogue: 0,1:40:23.46,1:40:26.66,Default,,0,0,0,,我被保护着 你别耍花样\NI'm letting you know I'm very protected right now in case you try anything.
+Dialogue: 0,1:40:26.67,1:40:28.29,Default,,0,0,0,,- 什么？ - 好了 要狗吗？\N- What? - Okay, do you want your dog?
+Dialogue: 0,1:40:28.31,1:40:29.82,Default,,0,0,0,,狗在我这里\NI have your dog.
+Dialogue: 0,1:40:32.49,1:40:34.07,Default,,0,0,0,,- 抢什么？ - 我不在乎项圈\N- What are you doing? - I don't want that collar.
+Dialogue: 0,1:40:34.09,1:40:35.51,Default,,0,0,0,,- 我要的是狗 - 把钱亮出来\N- I want what's inside the collar. - Show me the money.
+Dialogue: 0,1:40:35.53,1:40:38.24,Default,,0,0,0,,要是我没你的狗 我哪会有这项圈？\NWould I have this if I didn't have your dog? No.
+Dialogue: 0,1:40:38.25,1:40:41.12,Default,,0,0,0,,把钱拿出来 我就去领狗\NSo show me the money, and I'll go and get him for you.
+Dialogue: 0,1:40:41.14,1:40:43.06,Default,,0,0,0,,快点 快点\NCome on. Come on!
+Dialogue: 0,1:40:43.92,1:40:46.10,Default,,0,0,0,,妹子 你知不知道你惹的是谁？\NYou don't know who you're playing with, girl. Okay?
+Dialogue: 0,1:40:46.12,1:40:48.05,Default,,0,0,0,,- 这是钱 - 我才不管你是谁\N- Here's the money. - I don't fucking care.
+Dialogue: 0,1:40:48.07,1:40:49.67,Default,,0,0,0,,把信封打开\NShow me what's inside the envelope.
+Dialogue: 0,1:40:49.69,1:40:51.47,Default,,0,0,0,,我怎么知道里面是不是钱\NHow am I supposed to know there's anything in there?
+Dialogue: 0,1:40:51.49,1:40:54.61,Default,,0,0,0,,- 想看是吧？看清楚没？看清楚没？ - 行 挺好\N- Here, you wanna see? Here, look. Okay? - Yes. Great.
+Dialogue: 0,1:40:55.51,1:40:57.89,Default,,0,0,0,,- 你往哪儿去？ - 她到底带没带狗来？\N- Where you going, girl? - Does she have the dog or what?
+Dialogue: 0,1:40:57.91,1:40:59.75,Default,,0,0,0,,谁他妈知道\NWho the fuck knows?
+Dialogue: 0,1:41:12.02,1:41:13.02,Default,,0,0,0,,好\NOkay.
+Dialogue: 0,1:41:16.07,1:41:18.50,Default,,0,0,0,,- 喂 布拉尼斯通酒吧 - 喂 是我\N- Yeah, Blarney Stone.- Hi, it's me.
+Dialogue: 0,1:41:18.51,1:41:19.71,Default,,0,0,0,,你是谁？\NWho's "me"?
+Dialogue: 0,1:41:20.12,1:41:22.41,Default,,0,0,0,,好了 可以把狗牵出来了 谢谢\NYeah, thank you. You can bring the dog out now.
+Dialogue: 0,1:41:22.42,1:41:25.34,Default,,0,0,0,,你把狗扔这的？你说马上回来 这也叫马上？\NYou're the one that left the dog? What happened to "coming right back"?
+Dialogue: 0,1:41:25.35,1:41:27.27,Default,,0,0,0,,都准备好了 牵出来吧\NWe're ready, so you can walk him outside.
+Dialogue: 0,1:41:27.29,1:41:30.55,Default,,0,0,0,,- 那畜生尿了一地 - 好的 待会儿见\N- The thing's pissed all over the floor.- Okay. I'll see you soon.
+Dialogue: 0,1:41:32.22,1:41:34.25,Default,,0,0,0,,- 怎么回事？ - 别急 听我说\N- What is going on? - Listen to me for a second, okay?
+Dialogue: 0,1:41:34.26,1:41:37.21,Default,,0,0,0,,看 那边 瞧见没？\NLook. Right over there. Okay?
+Dialogue: 0,1:41:37.22,1:41:38.39,Default,,0,0,0,,那个绿篷\NThe green awning.
+Dialogue: 0,1:41:38.41,1:41:40.72,Default,,0,0,0,,我朋友马上会牵狗出来\NMy friend's gonna come out in a second with the dog.
+Dialogue: 0,1:41:40.74,1:41:44.12,Default,,0,0,0,,你先把钱给我 我打电话通报\NOnce you give me the money, I'm gonna call and say we're squared up, okay?
+Dialogue: 0,1:41:45.13,1:41:47.77,Default,,0,0,0,,瞧 牵着狗出来了 没骗你吧\NLook, there he is right now with the dog. I told you.
+Dialogue: 0,1:41:49.12,1:41:50.69,Default,,0,0,0,,把钱给我吧\NSo hand me the money.
+Dialogue: 0,1:41:50.71,1:41:52.36,Default,,0,0,0,,去你的\NFuck you.
+Dialogue: 0,1:41:52.38,1:41:54.74,Default,,0,0,0,,嘿 嘿 把钱给我\NHey! Hey, give me my money.
+Dialogue: 0,1:41:55.86,1:41:57.78,Default,,0,0,0,,那我的钱呢 喂\NWhat about... Hey!
+Dialogue: 0,1:41:58.33,1:42:00.20,Default,,0,0,0,,抓贼 拦住那两个人\NThief! Stop those two.
+Dialogue: 0,1:42:00.22,1:42:01.90,Default,,0,0,0,,- 他们抢了我的钱包 - 嘿\N- They took my wallet. - Hey.
+Dialogue: 0,1:42:01.92,1:42:03.09,Default,,0,0,0,,拦住他们\NStop them!
+Dialogue: 0,1:42:03.10,1:42:04.41,Default,,0,0,0,,喂 别走\NWhere you going? Hey.
+Dialogue: 0,1:42:04.43,1:42:05.75,Default,,0,0,0,,- 滚开 松手 - 别跑了\N- Get off of me. - Come on.
+Dialogue: 0,1:42:05.77,1:42:08.08,Default,,0,0,0,,嘿 还有那个 那个打石膏的\NHey, him too! Him with the cast!
 Dialogue: 0,1:42:08.09,1:42:09.17,Default,,0,0,0,,那个打石膏的\NWith the cast.
-Dialogue: 0,1:42:09.17,1:42:11.17,Default,,0,0,0,,你们居然想抢孕妇的东西?\NWhat are you doing trying to steal from a pregnant woman?
-Dialogue: 0,1:42:11.17,1:42:12.88,Default,,0,0,0,,- 妈的 - 嘿 警察!\N- Shit. - Hey, police!
-Dialogue: 0,1:42:13.63,1:42:16.09,Default,,0,0,0,,这他妈是什么 伙计?\NWhat the fuck is this, man?
-Dialogue: 0,1:42:16.09,1:42:17.51,Default,,0,0,0,,那不是摩西 嘿\NThat not Moses. Hey.
-Dialogue: 0,1:42:17.51,1:42:19.01,Default,,0,0,0,,那不是我的狗\NThat's not my dog.
-Dialogue: 0,1:42:19.01,1:42:21.89,Default,,0,0,0,,喂 我在这儿 那个女的叫我过来的\NYo, I'm out here. The lady said to come here.
-Dialogue: 0,1:42:21.89,1:42:24.14,Default,,0,0,0,,- 他妈的耍我是吧? - 离远点 嘿!\N- Fucking playing games with me? - Stay away. Hey!
-Dialogue: 0,1:42:24.14,1:42:25.98,Default,,0,0,0,,他妈的耍我是吧? 哈?\NFucking playing games with me? Huh?
-Dialogue: 0,1:42:25.98,1:42:28.44,Default,,0,0,0,,你他妈跟我玩什么花招呢?\NWhat kind of fucking shit you playing with me?
-Dialogue: 0,1:42:28.44,1:42:31.77,Default,,0,0,0,,- 嘿 给我死开 退后 伙计 - 嘿 冷静点 妈的\N- Hey, get the fuck off me. Back up, man. - Hey, calm down. Shit.
-Dialogue: 0,1:42:31.78,1:42:33.53,Default,,0,0,0,,- 妈的 - 站住\N- Shit. - Stop there.
-Dialogue: 0,1:42:33.53,1:42:35.11,Default,,0,0,0,,谁来帮帮她!\NSomeone help her!
-Dialogue: 0,1:42:35.11,1:42:38.11,Default,,0,0,0,,- 救命! 帮帮我! - 被我逮到了吧 你这臭婊子!\N- Somebody! Help! - I got you, you fucking bitch!
-Dialogue: 0,1:42:38.12,1:42:41.03,Default,,0,0,0,,嘿! 住手!\NHey! Stop!
+Dialogue: 0,1:42:09.19,1:42:11.17,Default,,0,0,0,,竟然抢孕妇\NWhat are you doing trying to steal from a pregnant woman?
+Dialogue: 0,1:42:11.19,1:42:12.90,Default,,0,0,0,,- 该死 - 快喊警察\N- Shit. - Hey, police!
+Dialogue: 0,1:42:13.63,1:42:16.09,Default,,0,0,0,,这他妈什么玩意儿？\NWhat the fuck is this, man?
+Dialogue: 0,1:42:16.11,1:42:17.51,Default,,0,0,0,,这不是摩西\NThat not Moses. Hey.
+Dialogue: 0,1:42:17.53,1:42:19.01,Default,,0,0,0,,这不是我的狗\NThat's not my dog.
+Dialogue: 0,1:42:19.03,1:42:21.88,Default,,0,0,0,,- 摩西在哪儿？有个女的叫我牵狗出来的\N- Where's my Moses? - Yo, I'm out here. The lady said to come here.
+Dialogue: 0,1:42:21.89,1:42:24.14,Default,,0,0,0,,- 他妈的耍我是吧 - 别过来 喂\N- Fucking playing games with me? - Stay away. Hey!
+Dialogue: 0,1:42:24.16,1:42:25.98,Default,,0,0,0,,他妈的耍我是吧\NFucking playing games with me? Huh?
+Dialogue: 0,1:42:26.00,1:42:28.54,Default,,0,0,0,,什么鬼把戏\NWhat kind of fucking shit you playing with me?
+Dialogue: 0,1:42:28.56,1:42:31.77,Default,,0,0,0,,- 放手 滚开 退后 - 嘿 别激动 该死\N- Hey, get the fuck off me. Back up, man. - Hey, calm down. Shit.
+Dialogue: 0,1:42:31.78,1:42:33.52,Default,,0,0,0,,- 糟了 - 站住\N- Shit. - Stop there.
+Dialogue: 0,1:42:33.53,1:42:35.11,Default,,0,0,0,,快救她\NSomeone help her!
+Dialogue: 0,1:42:35.13,1:42:38.11,Default,,0,0,0,,- 救命 救命啊 - 抓到你了 你这混蛋\N- Somebody! Help! - I got you, you fucking bitch!
+Dialogue: 0,1:42:38.12,1:42:41.03,Default,,0,0,0,,嘿 住手\NHey! Stop!
 Dialogue: 0,1:42:44.25,1:42:45.25,Default,,0,0,0,,怎么了?\NWhat is it?
 Dialogue: 0,1:42:47.62,1:42:50.42,Default,,0,0,0,,- 嘿 别来无恙? - 你在这儿干什么?\N- Hey, how are you doing? - What are you doing here?
 Dialogue: 0,1:42:50.42,1:42:52.30,Default,,0,0,0,,都十二点半了 我在想你愿不愿意一块儿吃午饭\NIt's 12:30. I was wondering if you wanted to get lunch.
