@@ -2835,7 +2835,7 @@ Dialogue: 0,2:20:59.51,2:21:00.80,Default,,0,0,0,,我查一下\NOkay.
 Dialogue: 0,2:21:01.62,2:21:05.50,Default,,0,0,0,,这写着她昨晚被转到了产科病房\NSo it looks like she was moved to the maternity ward last night.
 Dialogue: 0,2:21:05.52,2:21:07.40,Default,,0,0,0,,- 产房？ - 是的\N- The maternity ward? - Yes.
 Dialogue: 0,2:21:07.41,2:21:10.15,Default,,0,0,0,,- 为什么要去产房？ - 抱歉 我不清楚细节\N- What do you mean, "the maternity ward"? - I'm sorry, I don't know the details.
-Dialogue: 0,2:21:10.16,2:21:12.68,Default,,0,0,0,,她没事吧？她生孩子了吗？预产期还有四周啊\NIs she okay? Did she have the baby? She's not due for four weeks.
+Dialogue: 0,2:21:10.16,2:21:12.68,Default,,0,0,0,,她没事吧？她生了吗？预产期还有四周啊\NIs she okay? Did she have the baby? She's not due for four weeks.
 Dialogue: 0,2:21:12.70,2:21:15.43,Default,,0,0,0,,我只知道 她是被急送过去的...\NThis is all the information that I have, that she was rushed--
 Dialogue: 0,2:21:15.45,2:21:17.61,Default,,0,0,0,,急送？什么意思？转到产房\N"Rushed"? What are you saying, "rushed"? First you said, "moved,"
 Dialogue: 0,2:21:17.62,2:21:19.62,Default,,0,0,0,,- 又急送 什么意思？ - 先生 请您冷静一下\N- now you're saying, "rushed"? - Sir, can you please calm down?
