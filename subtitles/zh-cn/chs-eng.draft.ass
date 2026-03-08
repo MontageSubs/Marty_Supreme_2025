@@ -355,33 +355,33 @@ Dialogue: 0,0:15:32.60,0:15:33.70,Default,,0,0,0,,还剩两局\NTwo games.
 Dialogue: 0,0:15:40.24,0:15:41.66,Default,,0,0,0,,21比9\N21-9.
 Dialogue: 0,0:15:57.29,0:15:58.38,Default,,0,0,0,,- 打得好 - 打得好 马蒂\N- Great game. - Great game, Marty.
 Dialogue: 0,0:15:58.40,0:16:00.07,Default,,0,0,0,,马蒂·毛瑟 胜出\NMatch, Mauser.
-Dialogue: 0,0:16:16.76,0:16:19.80,Default,,0,0,0,,那些在斯德哥尔胜出的人...\NThe winners of the tournament at Stockholm...
-Dialogue: 0,0:16:19.81,0:16:22.85,Default,,0,0,0,,嘿 你是拉姆·塞西吧\NHey. You're Ram Sethi, right?
-Dialogue: 0,0:16:22.86,0:16:24.27,Default,,0,0,0,,抱歉 您先等一会儿\NSorry, could you hold for a moment?
-Dialogue: 0,0:16:24.28,0:16:26.56,Default,,0,0,0,,- 你不介意吧？ - 请说 您有啥事儿？\N- You don't mind? - No. Can I help you with something?
+Dialogue: 0,0:16:16.76,0:16:19.50,Default,,0,0,0,,那些在斯德哥尔胜出的人...\NThe winners of the tournament at Stockholm...
+Dialogue: 0,0:16:19.52,0:16:22.85,Default,,0,0,0,,嘿 你是拉姆·塞西吧\NHey. You're Ram Sethi, right?
+Dialogue: 0,0:16:22.86,0:16:24.27,Default,,0,0,0,,抱歉 您先等会儿\NSorry, could you hold for a moment?
+Dialogue: 0,0:16:24.28,0:16:26.56,Default,,0,0,0,,- 你不介意吧？ - 请说 你有啥事？\N- You don't mind? - No. Can I help you with something?
 Dialogue: 0,0:16:26.57,0:16:28.81,Default,,0,0,0,,打听个事 你们住在哪家酒店？\NI was just curious, where are you staying while you're in town?
-Dialogue: 0,0:16:28.82,0:16:30.77,Default,,0,0,0,,- 这关您什么事儿？ - 没事\N- What business is it of yours? - No.
+Dialogue: 0,0:16:28.82,0:16:30.77,Default,,0,0,0,,- 这关你什么事？ - 没事\N- What business is it of yours? - No.
 Dialogue: 0,0:16:30.78,0:16:32.44,Default,,0,0,0,,就是随便打听下\NI'm just saying, what hotel are you staying at?
-Dialogue: 0,0:16:32.46,0:16:34.86,Default,,0,0,0,,国际乒联儿的官员儿都住丽兹酒店\NAll the IATT representatives are stationed at the Ritz.
+Dialogue: 0,0:16:32.46,0:16:34.86,Default,,0,0,0,,国际乒联的官员都住丽兹酒店\NAll the IATT representatives are stationed at the Ritz.
 Dialogue: 0,0:16:34.87,0:16:37.24,Default,,0,0,0,,- 丽兹酒店？别人也这么说 - 对\N- At the Ritz? Yeah, that's what I heard. - Yes.
 Dialogue: 0,0:16:37.25,0:16:39.41,Default,,0,0,0,,- 就这么定了 你没意见吧？ - 什么就这么定了？\N- Do you think that's okay? - I don't know what you're implying.
 Dialogue: 0,0:16:39.43,0:16:41.81,Default,,0,0,0,,- 你见过我住的那地方吗？ - 有啥问题吗？\N- Have you seen where they put me? - Is it a problem?
 Dialogue: 0,0:16:41.82,0:16:44.99,Default,,0,0,0,,客气说 那地方就是个狗窝\NWell, with all due respect, sir, it's a dump.
-Dialogue: 0,0:16:45.01,0:16:47.66,Default,,0,0,0,,哎呀 真不好意思啊 没伺候好您这位\NI'm so sorry it doesn't meet your high standards.
-Dialogue: 0,0:16:47.67,0:16:50.49,Default,,0,0,0,,咱这儿可是免费包住的 毛瑟先生啊\NWe offer complimentary housing to all our players, Mr. Mauser.
-Dialogue: 0,0:16:50.51,0:16:52.82,Default,,0,0,0,,我就纳闷 怎么就您在这儿挑三拣四？\NSo far as I know, you're the only one to complain.
+Dialogue: 0,0:16:45.01,0:16:47.66,Default,,0,0,0,,很抱歉没有让你满意\NI'm so sorry it doesn't meet your high standards.
+Dialogue: 0,0:16:47.67,0:16:50.49,Default,,0,0,0,,我们这儿给所有选手都是统一标准\NWe offer complimentary housing to all our players, Mr. Mauser.
+Dialogue: 0,0:16:50.51,0:16:52.82,Default,,0,0,0,,你是唯一一个来这抱怨的\NSo far as I know, you're the only one to complain.
 Dialogue: 0,0:16:52.84,0:16:54.89,Default,,0,0,0,,你这口气 别把我当普通选手 好吗？\NYou're talking to me like I'm any player off the street, okay?
 Dialogue: 0,0:16:54.91,0:16:57.13,Default,,0,0,0,,我得休息好 才能赢下比赛\NI need good rest so I can win the tournament.
 Dialogue: 0,0:16:57.14,0:16:59.84,Default,,0,0,0,,你很清楚美国人赢对这项运动的好处\NYou know perfectly well what an American win will do for the future of the sport.
-Dialogue: 0,0:16:59.86,0:17:03.03,Default,,0,0,0,,- 我就是未来桌球的代言人 - 那您就向美乒协反映呗\N- I'm good for table tennis, Mr. Sethi. - Appeal to the USTTA.
-Dialogue: 0,0:17:03.04,0:17:05.72,Default,,0,0,0,,美乒协有用吗？他们整个比赛就派两个人\NThere is no USTTA. The USTTA is two guys and a desk. It doesn't exist.
+Dialogue: 0,0:16:59.86,0:17:03.03,Default,,0,0,0,,- 我就是未来桌球的代言人 - 那就向美乒协反映呗\N- I'm good for table tennis, Mr. Sethi. - Appeal to the USTTA.
+Dialogue: 0,0:17:03.04,0:17:05.72,Default,,0,0,0,,美乒协有用吗？他们整个机构就那俩人\NThere is no USTTA. The USTTA is two guys and a desk. It doesn't exist.
 Dialogue: 0,0:17:05.73,0:17:07.31,Default,,0,0,0,,- 那就不归我管了 - 就归你管\N- Well, that's not my problem. - It is your problem.
 Dialogue: 0,0:17:07.33,0:17:09.60,Default,,0,0,0,,我要住你住的那家酒店 就这么简单\NI wanna stay where you're staying! That's what I need!
 Dialogue: 0,0:17:09.61,0:17:12.44,Default,,0,0,0,,您这番言论实在是太失礼了\NI am finding this whole exchange really offensive.
 Dialogue: 0,0:17:12.45,0:17:13.90,Default,,0,0,0,,- 我失礼？ - 对 您失礼\N- You're offended? - I am offended.
 Dialogue: 0,0:17:13.92,0:17:17.76,Default,,0,0,0,,你们才失礼呢 让明星选手住狗窝\NI'm offended! You're making your star player huddle in a rat's ass!
 Dialogue: 0,0:17:18.12,0:17:19.66,Default,,0,0,0,,抱歉刚才被打断了\NI'm so sorry for that interruption.
-Dialogue: 0,0:17:19.68,0:17:22.53,Default,,0,0,0,,那咱们接着说锡兰和墨西哥的事儿...\NUm, back to Ceylon and Mexico...
+Dialogue: 0,0:17:19.68,0:17:22.53,Default,,0,0,0,,那咱们接着说锡兰和墨西哥的事...\NUm, back to Ceylon and Mexico...
 Dialogue: 0,0:17:22.54,0:17:26.32,Default,,0,0,0,,- 这酒店真不赖 肯定很贵 - 是啊 确实不错\N- This is a nice hotel. Must cost a mint. - Yeah, very nice.
 Dialogue: 0,0:17:26.33,0:17:28.59,Default,,0,0,0,,是国际乒联报销的吗？\NThe IATT covers accommodations?
 Dialogue: 0,0:17:28.61,0:17:31.94,Default,,0,0,0,,- 明星选手才有这种待遇 - 是吗？那有多少名啊\N- Only for their star players. - Is that right? How many are there?
