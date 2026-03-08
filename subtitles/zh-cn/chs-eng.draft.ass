@@ -1015,11 +1015,11 @@ Dialogue: 0,0:50:54.00,0:50:55.50,Default,,0,0,0,,咱们跑去史坦顿岛\NWe w
 Dialogue: 0,0:50:55.51,0:50:58.05,Default,,0,0,0,,十分钟你就被认出了 你还想回去？\Nand within ten minutes, they recognized you, and now you want to go back?
 Dialogue: 0,0:50:58.07,0:51:00.94,Default,,0,0,0,,不去 这次去新泽西那边 奎因提过的那个地方\NNo, It's fine. We're gonna go to that place that Quinn was talking about in Jersey.
 Dialogue: 0,0:51:00.96,0:51:02.09,Default,,0,0,0,,坏主意\NThat's a bad idea.
-Dialogue: 0,0:51:02.10,0:51:04.82,Default,,0,0,0,,- 这就是你的新宠物了 - 不 妈妈 我想要个小甲兽\N- That's your new pet. - No, Mom, I want the armadillo.
+Dialogue: 0,0:51:02.10,0:51:04.82,Default,,0,0,0,,- 这就是你的新宠物了 - 不 妈妈 我想要个犰狳\N- That's your new pet. - No, Mom, I want the armadillo.
 Dialogue: 0,0:51:04.84,0:51:05.92,Default,,0,0,0,,我们商量过...\NNo, I already--
-Dialogue: 0,0:51:05.93,0:51:08.06,Default,,0,0,0,,这样吧 我给你拿个小甲兽\NYou know what? I'm just gonna get you the armadillo.
+Dialogue: 0,0:51:05.93,0:51:08.06,Default,,0,0,0,,这样吧 我给你拿个犰狳\NYou know what? I'm just gonna get you the armadillo.
 Dialogue: 0,0:51:08.08,0:51:11.20,Default,,0,0,0,,你抱好 你自己挑\NI'm gonna give him to you, and then you can make a decision. Okay?
-Dialogue: 0,0:51:11.21,0:51:12.95,Default,,0,0,0,,这是个大爬虫 兔子才更乖\NThey're not reptiles. They're mammals.
+Dialogue: 0,0:51:11.21,0:51:12.95,Default,,0,0,0,,这也是哺乳动物啊\NThey're not reptiles. They're mammals.
 Dialogue: 0,0:51:12.96,0:51:14.95,Default,,0,0,0,,行 太好了 你真是个大好人 一个半小时后见\NOkay, great. You're a beautiful man. I'll see you in an hour and a half.
 Dialogue: 0,0:51:14.97,0:51:17.00,Default,,0,0,0,,- 哪儿？ - 哈尔西见 就这样 好哥们\N- Where? - At the Halsey. Okay. I love you.
 Dialogue: 0,0:51:17.02,0:51:18.26,Default,,0,0,0,,谢了 再见\NThank you. Bye.
@@ -1735,9 +1735,9 @@ Dialogue: 0,1:20:22.53,1:20:25.07,Default,,0,0,0,,- 行吧 上车说 - 真的？
 Dialogue: 0,1:20:25.09,1:20:26.30,Default,,0,0,0,,汤米 开车\NTommy, let's go.
 Dialogue: 0,1:20:27.43,1:20:29.99,Default,,0,0,0,,嘿 嘿 嘿 嘿\NHey. Hey! Hey! Hey!
 Dialogue: 0,1:20:30.44,1:20:32.83,Default,,0,0,0,,你这王八蛋 桌球还是我给你引荐的\NYou son of a bitch. I gave you the idea!
-Dialogue: 0,1:20:43.22,1:20:45.92,Default,,0,0,0,,不好意思 凯·斯通小姐让我转告你\NI'm sorry. Miss Stone wanted to let you know
+Dialogue: 0,1:20:43.22,1:20:45.92,Default,,0,0,0,,不好意思 凯·斯通女士让我转告你\NI'm sorry. Ms. Stone wanted to let you know
 Dialogue: 0,1:20:45.93,1:20:47.76,Default,,0,0,0,,她想与您共进午餐\Nthat she'd love to have lunch with you.
-Dialogue: 0,1:20:47.78,1:20:49.37,Default,,0,0,0,,- 你是说小姐？ - 是的\N- Miss Stone? - Yes.
+Dialogue: 0,1:20:47.78,1:20:49.37,Default,,0,0,0,,- 凯·斯通？ - 是的\N- Ms. Stone? - Yes.
 Dialogue: 0,1:21:06.10,1:21:07.61,Default,,0,0,0,,天呐 我迟到太久了\NMy God, I'm so late.
 Dialogue: 0,1:21:07.62,1:21:09.20,Default,,0,0,0,,在意这些干嘛\NCome on. What do you care?
 Dialogue: 0,1:21:09.22,1:21:11.74,Default,,0,0,0,,你可是主角 心里应该爽才对\NYou're the star. Gotta feel pretty good, right?
@@ -2856,8 +2856,8 @@ Dialogue: 0,2:22:37.70,2:22:40.37,Default,,0,0,0,,没事 睡吧 我在这 我在
 Dialogue: 0,2:22:42.25,2:22:44.79,Default,,0,0,0,,别怕 我不会走的 我哪儿也不去\NI'm right here. Don't worry, I'm not going anywhere.
 Dialogue: 0,2:22:44.81,2:22:45.98,Default,,0,0,0,,继续睡吧\NGo back to sleep.
 Dialogue: 0,2:22:46.67,2:22:47.92,Default,,0,0,0,,我爱你\NI love you.
-Dialogue: 0,2:23:43.56,2:23:45.27,Default,,0,0,0,,- 家长吗？ - 米兹勒家的\N- Parent? - Mizler.
-Dialogue: 0,2:23:50.99,2:23:52.61,Default,,0,0,0,,你是爸爸福特吧？\NMr. Ford, right?
+Dialogue: 0,2:23:43.56,2:23:45.27,Default,,0,0,0,,- 谁家的？ - 米兹勒家的\N- What's the party?  - Mizler.
+Dialogue: 0,2:23:50.99,2:23:52.61,Default,,0,0,0,,四号箱 对吧？\NYou said four, right?
 Dialogue: 0,2:24:01.91,2:24:03.55,Default,,0,0,0,,要我抱起来给您看看吗？\NDo you want me to pick him up?
 Dialogue: 0,2:24:22.35,2:24:23.98,Default,,0,0,0,,跟爸爸打个招呼吧\NSay hi to Daddy.
 Dialogue: 0,2:24:29.82,2:24:32.19,Default,,0,0,0,,看那是爸爸 叫爸爸\NYeah, there he is. Say hi.
