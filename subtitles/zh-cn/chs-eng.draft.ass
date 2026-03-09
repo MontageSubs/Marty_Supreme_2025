@@ -1485,7 +1485,7 @@ Dialogue: 0,1:08:43.76,1:08:45.03,Default,,0,0,0,,我会补偿你的\NI'm gonna 
 Dialogue: 0,1:08:45.05,1:08:46.96,Default,,0,0,0,,别生我气 行吗?\NDon't be mad at me. Okay?
 Dialogue: 0,1:08:46.97,1:08:48.79,Default,,0,0,0,,我会给你买辆新出租 真的\NI'm gonna get you a new cab. All right?
 Dialogue: 0,1:08:48.81,1:08:50.60,Default,,0,0,0,,别担心 沃利 我的好兄弟\NDon't worry about it. Wally, I love you.
-Dialogue: 0,1:08:50.61,1:08:51.86,Default,,0,0,0,,关门\NClose my door.
+Dialogue: 0,1:08:50.61,1:08:51.86,Default,,0,0,0,,关门好吗\NClose my door.
 Dialogue: 0,1:09:18.05,1:09:19.05,Default,,0,0,0,,嘿 马蒂\NHey, Marty.
 Dialogue: 0,1:09:23.35,1:09:24.35,Screen,,0,0,0,,{\an8}（劳伦斯百老汇球场）
 Dialogue: 0,1:09:31.30,1:09:34.01,Default,,0,0,0,,- 嘿 泰德 - 嘿 马蒂 近来怎样？\N- Hey, Ted. - Hey, Marty. How you doing, man?
@@ -1553,8 +1553,8 @@ Dialogue: 0,1:13:07.76,1:13:09.43,Default,,0,0,0,,我和我老爸都看好你\NM
 Dialogue: 0,1:13:09.45,1:13:11.20,Default,,0,0,0,,我们投了钱的 你消失了 所以他挺生气的\NWe're invested. That's why he's been so mad.
 Dialogue: 0,1:13:13.02,1:13:14.68,Default,,0,0,0,,瞧瞧这个 瑞秋\NCheck it out, Rachel.
 Dialogue: 0,1:13:14.70,1:13:15.95,Default,,0,0,0,,来 看看这包装\NHere, check out the packaging.
-Dialogue: 0,1:13:18.33,1:13:20.46,Screen,,0,0,0,,{\an8}（至尊马蒂 马蒂·毛瑟冠军赛官方用球）
-Dialogue: 0,1:13:18.76,1:13:21.47,Default,,0,0,0,,“至尊马蒂 马蒂·毛瑟冠军赛官方用球”\N"Marty Supreme. The official Marty Mauser championship table tennis ball.
+Dialogue: 0,1:13:18.33,1:13:20.46,Screen,,0,0,0,,{\an8}（至尊马蒂牌 马蒂·毛瑟冠军赛官方用球）
+Dialogue: 0,1:13:18.76,1:13:21.47,Default,,0,0,0,,“至尊马蒂牌 马蒂·毛瑟冠军赛官方用球”\N"Marty Supreme. The official Marty Mauser championship table tennis ball.
 Dialogue: 0,1:13:20.46,1:13:22.67,Screen,,0,0,0,,{\an8}（精心打造 橙球 让你再也不必穿黑衣）
 Dialogue: 0,1:13:21.48,1:13:22.86,Default,,0,0,0,,“精心打造 橙球...”\NProfessionally made. Orange..."
 Dialogue: 0,1:13:22.88,1:13:24.60,Default,,0,0,0,,这宣传词 你想出来了？\NOrange spheres? You came up with that?
@@ -2862,6 +2862,35 @@ Dialogue: 0,2:24:01.91,2:24:03.55,Default,,0,0,0,,要我抱起来给您看看吗
 Dialogue: 0,2:24:22.35,2:24:23.98,Default,,0,0,0,,跟爸爸打个招呼吧\NSay hi to Daddy.
 Dialogue: 0,2:24:29.82,2:24:32.19,Default,,0,0,0,,看那是爸爸 叫爸爸\NYeah, there he is. Say hi.
 Dialogue: 0,2:24:42.62,2:24:44.91,Default,,0,0,0,,对 爸爸\NYes. Yeah.
+Dialogue: 0,2:24:52.61,2:24:56.02,Lyrics,,0,0,0,,{\an2}♪ 欢迎来到这场人生 ♪\N♪ Welcome to your life ♪
+Dialogue: 0,2:24:56.92,2:25:00.48,Lyrics,,0,0,0,,{\an2}♪ 没有回头的路可走 ♪\N♪ There's no turning back ♪
+Dialogue: 0,2:25:01.05,2:25:04.82,Lyrics,,0,0,0,,{\an2}♪ 即使你在梦中沉睡 ♪\N♪ Even while we sleep ♪
+Dialogue: 0,2:25:05.47,2:25:07.52,Lyrics,,0,0,0,,{\an2}♪ 坏事也会不约而至 ♪\N♪ We will find you ♪
+Dialogue: 0,2:25:07.53,2:25:11.75,Lyrics,,0,0,0,,{\an2}♪ 表面上装得彬彬有礼 ♪\N♪ Acting on your best behaviour ♪
+Dialogue: 0,2:25:11.76,2:25:16.12,Lyrics,,0,0,0,,{\an2}♪ 却背弃了良知的呼唤 ♪\N♪ Turn your back on Mother Nature ♪
+Dialogue: 0,2:25:16.14,2:25:21.34,Lyrics,,0,0,0,,{\an2}♪ 人人都想主宰这世界 ♪\N♪ Everybody wants to rule the world ♪
+Dialogue: 0,2:25:31.18,2:25:34.18,Lyrics,,0,0,0,,{\an2}♪ 都怪我的选择 ♪\N♪ It's my own design ♪
+Dialogue: 0,2:25:35.58,2:25:39.52,Lyrics,,0,0,0,,{\an2}♪ 我是自作自受 ♪\N♪ It's my own remorse ♪
+Dialogue: 0,2:25:39.72,2:25:42.97,Lyrics,,0,0,0,,{\an2}♪ 帮我去决定 ♪\N♪ Help me to decide ♪
+Dialogue: 0,2:25:44.06,2:25:46.11,Lyrics,,0,0,0,,{\an2}♪ 帮我去得到 ♪\N♪ Help me make the ♪
+Dialogue: 0,2:25:46.13,2:25:50.33,Lyrics,,0,0,0,,{\an2}♪ 那自由和欢乐 ♪\N♪ Most of freedom and of pleasure ♪
+Dialogue: 0,2:25:50.34,2:25:54.50,Lyrics,,0,0,0,,{\an2}♪ 没什么能永远长存 ♪\N♪ Nothing ever lasts forever ♪
+Dialogue: 0,2:25:54.51,2:25:59.50,Lyrics,,0,0,0,,{\an2}♪ 人人都想主宰这世界 ♪\N♪ Everybody wants to rule the world ♪
+Dialogue: 0,2:25:59.60,2:26:03.71,Lyrics,,0,0,0,,{\an2}♪ 总有阳光照不到的黑暗 ♪\N♪ There's a room where the light won't find you ♪
+Dialogue: 0,2:26:03.73,2:26:08.44,Lyrics,,0,0,0,,{\an2}♪ 高墙总有崩塌的一天 ♪\N♪ Holding hands while the walls come tumbling down ♪
+Dialogue: 0,2:26:08.46,2:26:12.30,Lyrics,,0,0,0,,{\an2}♪ 当这一切发生时 我会站在你身后 ♪\N♪ When they do, I'll be right behind you ♪
+Dialogue: 0,2:26:12.32,2:26:16.26,Lyrics,,0,0,0,,{\an2}♪ 庆幸我们走到这一步 ♪\N♪ So glad we've almost made it ♪
+Dialogue: 0,2:26:16.27,2:26:20.44,Lyrics,,0,0,0,,{\an2}♪ 遗憾他们必须要放弃 ♪\N♪ So sad they had to fade it ♪
+Dialogue: 0,2:26:20.45,2:26:26.40,Lyrics,,0,0,0,,{\an2}♪ 人人都想主宰这世界 ♪\N♪ Everybody wants to rule the world ♪
+Dialogue: 0,2:27:11.99,2:27:16.09,Lyrics,,0,0,0,,{\an2}♪ 我受不了这动荡的人生 ♪\N♪ I can't stand this indecision ♪
+Dialogue: 0,2:27:16.26,2:27:20.37,Lyrics,,0,0,0,,{\an2}♪ 也受不了被命运套牢 ♪\N♪ Married with a lack of vision ♪
+Dialogue: 0,2:27:20.52,2:27:25.21,Lyrics,,0,0,0,,{\an2}♪ 人人都想主宰... ♪\N♪ Everybody wants to rule the— ♪
+Dialogue: 0,2:27:25.23,2:27:29.57,Lyrics,,0,0,0,,{\an2}♪ 说你永远 永远 永远不会需要 ♪\N♪ Say that you'll never, never, never, never need it ♪
+Dialogue: 0,2:27:29.59,2:27:33.50,Lyrics,,0,0,0,,{\an2}♪ 一个头条 凭什么去相信？ ♪\N♪ One headline, why believe it? ♪
+Dialogue: 0,2:27:33.51,2:27:38.64,Lyrics,,0,0,0,,{\an2}♪ 人人都想主宰这世界 ♪\N♪ Everybody wants to rule the world ♪
+Dialogue: 0,2:27:46.17,2:27:50.57,Lyrics,,0,0,0,,{\an2}♪ 为了享尽自由和欢乐 ♪\N♪ All for freedom and for pleasure ♪
+Dialogue: 0,2:27:50.59,2:27:54.85,Lyrics,,0,0,0,,{\an2}♪ 没什么能永远长存 ♪\N♪ Nothing ever lasts forever ♪
+Dialogue: 0,2:27:54.86,2:28:00.37,Lyrics,,0,0,0,,{\an2}♪ 人人都想主宰这世界 ♪\N♪ Everybody wants to rule the world ♪
 
 [Aegisub Extradata]
 Data: 6,a-mo,e{"originalText"#3A"{\\c&H151E22&\\fscy120\\blur0.7\\be1.5\\bord0.3\\3c&H151E22&\\alpha&H08&\\pos(983#2C615)}#E4#B9#9D#E7#A0#81#E5#8D#8A"#2C"uuid"#3A"dcb389d8-5687-4ac5-9a52-787d2112f629"}
