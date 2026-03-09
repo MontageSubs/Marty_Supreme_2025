@@ -886,7 +886,7 @@ Dialogue: 0,0:05:14.99,0:05:16.99,Default,,0,0,0,,反手 反手\N{\rEng}Backhand
 Dialogue: 0,0:05:17.11,0:05:18.36,Default,,0,0,0,,放高球\N{\rEng}And lob.
 Dialogue: 0,0:05:19.70,0:05:20.86,Default,,0,0,0,,正手\N{\rEng}Forehand.
 Dialogue: 0,0:05:21.49,0:05:22.88,Default,,0,0,0,,- 马蒂 - 干嘛\N{\rEng}- Marty! - What!
-Dialogue: 0,0:05:22.89,0:05:24.86,Default,,0,0,0,,- 有电话 - 跟他说我二十分钟前就走了\N{\rEng}- Phone! - Tell him I left 20 minutes ago!
+Dialogue: 0,0:05:22.89,0:05:24.86,Default,,0,0,0,,- 有电话 - 跟他说我20分钟前就走了\N{\rEng}- Phone! - Tell him I left 20 minutes ago!
 Dialogue: 0,0:05:24.87,0:05:27.80,Default,,0,0,0,,我才不当你的传声筒 自己去接那该死的电话\N{\rEng}I'm not your goddamn messenger! Pick up the goddamn phone!
 Dialogue: 0,0:05:27.81,0:05:29.79,Default,,0,0,0,,我跟不上 沃利 把白衬衫脱了\N{\rEng}I can't. Wally, take the white shirt off.
 Dialogue: 0,0:05:29.81,0:05:31.86,Default,,0,0,0,,白球配白衬衫 看不清\N{\rEng}I can't follow the white ball against the white shirt.
@@ -972,7 +972,7 @@ Dialogue: 0,0:08:27.70,0:08:29.89,Default,,0,0,0,,谢谢 不用了 我不碰咖�
 Dialogue: 0,0:08:33.00,0:08:34.00,Default,,0,0,0,,听着\N{\rEng}Listen.
 Dialogue: 0,0:08:34.79,0:08:38.45,Default,,0,0,0,,我感谢你和我儿子的这份交情\N{\rEng}I appreciate you're friends with my son.
 Dialogue: 0,0:08:38.47,0:08:40.68,Default,,0,0,0,,但他不成器\N{\rEng}He's limited.
-Dialogue: 0,0:08:40.69,0:08:42.52,Default,,0,0,0,,三十岁还靠爹吃饭\N{\rEng}He's 30 years old. He's still living at home.
+Dialogue: 0,0:08:40.69,0:08:42.52,Default,,0,0,0,,30岁还靠爹吃饭\N{\rEng}He's 30 years old. He's still living at home.
 Dialogue: 0,0:08:42.54,0:08:44.19,Default,,0,0,0,,没啥名堂\N{\rEng}He hasn't done much.
 Dialogue: 0,0:08:44.21,0:08:47.27,Default,,0,0,0,,他也不懂做生意 就会乱花钱\N{\rEng}And he doesn't know business. He doesn't know the costs.
 Dialogue: 0,0:08:47.29,0:08:49.65,Default,,0,0,0,,恕我直言 盖拉尼斯先生 我不觉得他不成器\N{\rEng}I don't think he's limited, Mr. Galanis, respectfully.
@@ -1025,7 +1025,7 @@ Dialogue: 0,0:11:22.24,0:11:25.12,Default,,0,0,0,,我是来拿西装的 这是�
 Dialogue: 0,0:11:25.14,0:11:27.95,Default,,0,0,0,,打小乒乓还要穿西装 真长见识了\N{\rEng}Didn't know you need a suit to play ping pong.
 Dialogue: 0,0:11:25.14,0:11:29.11,Note,,0,0,0,,{\an8}【乒乓：1950年代“乒乓”在部分场合带有嘲讽意味】
 Dialogue: 0,0:11:29.12,0:11:31.80,Note,,0,0,0,,{\an8}【从事这项运动常被歧视 被视为不务正业】
-Dialogue: 0,0:11:36.91,0:11:39.45,Default,,0,0,0,,我就要老默欠我的那七百块\N{\rEng}I just want the $700 that Murray owes me.
+Dialogue: 0,0:11:36.91,0:11:39.45,Default,,0,0,0,,我就要老默欠我的那700块\N{\rEng}I just want the $700 that Murray owes me.
 Dialogue: 0,0:11:36.91,0:11:40.53,Note,,0,0,0,,{\an8}【约合2026年 8,600美元 6万人民币 26万新台币】
 Dialogue: 0,0:11:39.47,0:11:40.53,Default,,0,0,0,,不然呢？\N{\rEng}Yeah, or what?
 Dialogue: 0,0:11:40.55,0:11:42.45,Default,,0,0,0,,- 不然我就往你腿上来一枪 - 你不敢\N{\rEng}- Or I'm gonna shoot you in the leg. - No you're not.
@@ -1033,10 +1033,10 @@ Dialogue: 0,0:11:42.47,0:11:43.53,Default,,0,0,0,,你敢赌吗？\N{\rEng}You su
 Dialogue: 0,0:11:43.54,0:11:45.87,Default,,0,0,0,,你要是打我腿 你未来几年都得坐牢\N{\rEng}You shoot me in the leg, you'll be spending the next few years in jail.
 Dialogue: 0,0:11:45.89,0:11:47.32,Default,,0,0,0,,行 那我就朝你脑门开枪\N{\rEng}Okay, I'll shoot you in the head instead.
 Dialogue: 0,0:11:47.33,0:11:48.53,Default,,0,0,0,,你没那胆子\N{\rEng}You're not gonna do that either.
-Dialogue: 0,0:11:48.54,0:11:51.24,Default,,0,0,0,,洛伊 听我说 我只拿走我的那七百 绝不多拿\N{\rEng}Look, Lloyd, I just want what was promised to me, not a penny more.
+Dialogue: 0,0:11:48.54,0:11:51.24,Default,,0,0,0,,洛伊 听我说 我只拿走我的那700 绝不多拿\N{\rEng}Look, Lloyd, I just want what was promised to me, not a penny more.
 Dialogue: 0,0:11:51.25,0:11:53.54,Default,,0,0,0,,回来我会带回十倍奖金\N{\rEng}I'm gonna be coming home with ten times that amount in prize money.
 Dialogue: 0,0:11:53.55,0:11:55.62,Default,,0,0,0,,睁只眼闭只眼吧 让我拿走欠我的\N{\rEng}So just turn the other cheek, let me take what I'm owed,
-Dialogue: 0,0:11:55.63,0:11:57.42,Default,,0,0,0,,等我回来给你整整一百\N{\rEng}and I'll give you an even $100 dollars when I get back.
+Dialogue: 0,0:11:55.63,0:11:57.42,Default,,0,0,0,,等我回来给你整整100\N{\rEng}and I'll give you an even $100 dollars when I get back.
 Dialogue: 0,0:11:55.63,0:11:59.05,Note,,0,0,0,,{\an8}【约1,230美元 8,600人民币 3.7万新台币】
 Dialogue: 0,0:11:57.43,0:11:59.04,Default,,0,0,0,,不干\N{\rEng}Not interested.
 Dialogue: 0,0:11:59.05,0:12:01.18,Default,,0,0,0,,洛伊 别这样 转过来\N{\rEng}Lloyd, come on. Look at me, please.
@@ -1504,18 +1504,18 @@ Dialogue: 0,0:37:28.42,0:37:29.50,Default,,0,0,0,,去死吧你\N{\rEng}Fuck you!
 Dialogue: 0,0:37:29.52,0:37:31.86,Default,,0,0,0,,...日本选手远藤功人\N{\rEng}...Koto Endo!
 Dialogue: 0,0:37:34.21,0:37:36.67,Screen,,0,0,0,,{\an8}（日本新闻）
 Dialogue: 0,0:37:38.29,0:37:42.64,Screen,,0,0,0,,{\an8}（特别报道）
-Dialogue: 0,0:37:38.29,0:37:42.18,Default,,0,0,0,,（日语）第十九届英国桌球公开赛上 日本首次问鼎冠军
+Dialogue: 0,0:37:38.29,0:37:42.18,Default,,0,0,0,,（日语）第19届英国桌球公开赛上 日本首次问鼎冠军
 Dialogue: 0,0:37:43.55,0:37:45.88,Default,,0,0,0,,（日语）这是自太平洋战争结束以来
 Dialogue: 0,0:37:45.90,0:37:49.45,Default,,0,0,0,,（日语）首位日本选手在国际赛场上夺得胜利
 Dialogue: 0,0:37:52.14,0:37:54.06,Default,,0,0,0,,（日语）获胜者为远藤功人
 Dialogue: 0,0:37:55.82,0:37:58.29,Default,,0,0,0,,（日语）这位无名的日本挑战者 他在决赛中
-Dialogue: 0,0:37:58.31,0:38:02.50,Default,,0,0,0,,（日语）以三比零的压倒性优势击败夺冠热门的美国强手
+Dialogue: 0,0:37:58.31,0:38:02.50,Default,,0,0,0,,（日语）以3比0的压倒性优势击败夺冠热门的美国强手
 Dialogue: 0,0:38:08.65,0:38:10.87,Default,,0,0,0,,（日语）东京十万民众涌上街头
 Dialogue: 0,0:38:10.88,0:38:12.85,Default,,0,0,0,,（日语）宛若庆典游行
 Dialogue: 0,0:38:12.86,0:38:14.64,Default,,0,0,0,,（日语）热烈欢庆他的凯旋
 Dialogue: 0,0:38:16.31,0:38:20.07,Default,,0,0,0,,（日语）远藤却以谦逊自持 愿以一名普通工匠身份回国
 Dialogue: 0,0:38:20.09,0:38:22.92,Default,,0,0,0,,（日语）而非受封为所谓英雄
-Dialogue: 0,0:38:23.02,0:38:27.73,Default,,0,0,0,,（日语）远藤十六岁遭遇东京大轰炸 失去听觉
+Dialogue: 0,0:38:23.02,0:38:27.73,Default,,0,0,0,,（日语）远藤16岁遭遇东京大轰炸 失去听觉
 Dialogue: 0,0:38:27.74,0:38:31.38,Default,,0,0,0,,（日语）他在无声之中磨砺感官 最终以钢铁般意志征服赛场
 Dialogue: 0,0:38:32.80,0:38:36.40,Default,,0,0,0,,（日语）如今 世界桌球的目光聚焦于我邦
 Dialogue: 0,0:38:34.68,0:38:39.89,Screen,,0,0,0,,{\an8}（第23界世界桌球锦标赛）
@@ -1542,7 +1542,7 @@ Dialogue: 0,0:39:39.77,0:39:42.51,Default,,0,0,0,,我想在世锦赛期间\N{\rE
 Dialogue: 0,0:39:42.53,0:39:46.32,Default,,0,0,0,,安排一场你和远藤的表演赛\N{\rEng}around the time of the World Championships between you and Endo.
 Dialogue: 0,0:39:46.33,0:39:48.26,Default,,0,0,0,,- 嗯 - 你肯定会喜欢的\N{\rEng}- Mmm. - I think you'd like that idea.
 Dialogue: 0,0:39:48.28,0:39:49.81,Default,,0,0,0,,我给你开个价\N{\rEng}So I'm gonna make you an offer.
-Dialogue: 0,0:39:49.82,0:39:51.69,Default,,0,0,0,,一千美金酬劳\N{\rEng}I'll pay you a thousand dollars.
+Dialogue: 0,0:39:49.82,0:39:51.69,Default,,0,0,0,,1000美金酬劳\N{\rEng}I'll pay you a thousand dollars.
 Dialogue: 0,0:39:49.82,0:39:51.69,Note,,0,0,0,,{\an8}【约1.2万美元 8.5万人民币 37万新台币】
 Dialogue: 0,0:39:51.70,0:39:54.19,Default,,0,0,0,,还安排你住东京帝国饭店\N{\rEng}I'll put you up at the Imperial Hotel in Tokyo.
 Dialogue: 0,0:39:51.70,0:39:54.21,Note,,0,0,0,,{\an8}【东京帝国饭店：建于19世纪末 东京三大顶级酒店之一】
@@ -1891,7 +1891,7 @@ Dialogue: 0,0:55:47.29,0:55:48.67,Default,,0,0,0,,- 哟 马蒂 - 干嘛？\N{\rE
 Dialogue: 0,0:55:49.58,0:55:50.83,Default,,0,0,0,,丽兹酒店是哪出？\N{\rEng}What's the Ritz?
 Dialogue: 0,0:55:50.84,0:55:51.79,Default,,0,0,0,,干嘛问这个？\N{\rEng}Why?
 Dialogue: 0,0:55:51.80,0:55:54.26,Default,,0,0,0,,你被国际乒联\N{\rEng}You got a $1,500 fine
-Dialogue: 0,0:55:54.28,0:55:56.27,Default,,0,0,0,,罚了一千五百美金\N{\rEng}from the International Table Tennis...
+Dialogue: 0,0:55:54.28,0:55:56.27,Default,,0,0,0,,罚了1500美金\N{\rEng}from the International Table Tennis...
 Dialogue: 0,0:55:54.28,0:55:58.15,Note,,0,0,0,,{\an8}【约1.2万美元 8.5万人民币 37万新台币】
 Dialogue: 0,0:55:56.29,0:55:58.16,Default,,0,0,0,,- 什么？ - ...他们说...\N{\rEng}- What? - ...Association and...
 Dialogue: 0,0:55:58.17,0:55:59.88,Default,,0,0,0,,- 他们还... - 快拿给我\N{\rEng}- And they... - Bring it in here!
@@ -1967,9 +1967,9 @@ Dialogue: 0,0:58:25.86,0:58:29.03,Default,,0,0,0,,好 打开那个包 椅子上�
 Dialogue: 0,0:58:29.05,0:58:31.55,Default,,0,0,0,,对 把包打开\N{\rEng}Yeah, go in that bag, okay? Open it up.
 Dialogue: 0,0:58:31.57,0:58:33.29,Default,,0,0,0,,我得给你上个止血带\N{\rEng}I'm gonna apply a tourniquet to you.
 Dialogue: 0,0:58:33.31,0:58:35.27,Default,,0,0,0,,换掉原来的\N{\rEng}I'm gonna remove the other tourniquet right now.
-Dialogue: 0,0:58:35.28,0:58:37.17,Default,,0,0,0,,拿五十给你自己\N{\rEng}Take 50 for yourself. Yeah.
+Dialogue: 0,0:58:35.28,0:58:37.17,Default,,0,0,0,,拿50给你自己\N{\rEng}Take 50 for yourself. Yeah.
 Dialogue: 0,0:58:35.28,0:58:38.41,Note,,0,0,0,,{\an8}【约600美元 4,100人民币 1.8万新台币】
-Dialogue: 0,0:58:37.19,0:58:38.40,Default,,0,0,0,,再拿五十给兽医 明白吗？\N{\rEng}Bring 50 for the vet, okay?
+Dialogue: 0,0:58:37.19,0:58:38.40,Default,,0,0,0,,再拿50给兽医 明白吗？\N{\rEng}Bring 50 for the vet, okay?
 Dialogue: 0,0:58:38.41,0:58:39.66,Default,,0,0,0,,有血喷出来\N{\rEng}We got blood squirting out.
 Dialogue: 0,0:58:39.68,0:58:41.22,Default,,0,0,0,,兽医在13街和1大道交口\N{\rEng}He's on 13th and 1st.
 Dialogue: 0,0:58:41.23,0:58:43.85,Default,,0,0,0,,告诉他我一完事就赶过去 懂吗？\N{\rEng}And tell him I'll be there as soon as I can get there, okay?
@@ -1981,8 +1981,8 @@ Dialogue: 0,0:58:51.10,0:58:52.83,Default,,0,0,0,,准备抬 送他去贝尔维�
 Dialogue: 0,0:58:52.85,0:58:54.73,Default,,0,0,0,,一看就靠谱\N{\rEng}Fucking mensch.
 Dialogue: 0,0:58:54.74,0:58:56.81,Default,,0,0,0,,现在掉头送他去兽医还来得及\N{\rEng}We can still turn around and take him to the vet.
 Dialogue: 0,0:58:56.82,0:58:57.88,Default,,0,0,0,,不用 不用\N{\rEng}No. No.
-Dialogue: 0,0:58:57.89,0:59:00.20,Default,,0,0,0,,- 五十块绰绰有余了 - 什么比五十大？是一百块\N{\rEng}- Fifty dollars is more than enough. - You know what's better than 50? 100.
-Dialogue: 0,0:59:00.21,0:59:01.59,Default,,0,0,0,,一百本钱能让咱大赚一笔\N{\rEng}We can clean house with a hundred.
+Dialogue: 0,0:58:57.89,0:59:00.20,Default,,0,0,0,,- 50块绰绰有余了 - 什么比50大？是100块\N{\rEng}- Fifty dollars is more than enough. - You know what's better than 50? 100.
+Dialogue: 0,0:59:00.21,0:59:01.59,Default,,0,0,0,,100本钱能让咱大赚一笔\N{\rEng}We can clean house with a hundred.
 Dialogue: 0,0:59:01.60,0:59:03.22,Default,,0,0,0,,你个贪心的犹太鬼\N{\rEng}Don't be greedy, you fucking Jew.
 Dialogue: 0,0:59:03.24,0:59:06.07,Default,,0,0,0,,- 有1500美元罚款 你亲自拿给我的 别忘了 - 别叫了\N{\rEng}- No, no. It's a $1,500 fine. You're the one that showed it to me. - Shut your mouth!
 Dialogue: 0,0:59:06.08,0:59:08.51,Default,,0,0,0,,- 而且我们还得连赌两周夜场 - 我们？\N{\rEng}- By the way, we gotta do this every night for two weeks, - "We"?
@@ -2050,9 +2050,9 @@ Dialogue: 0,1:01:36.28,1:01:38.70,Default,,0,0,0,,赖什么账？怎么回事？
 Dialogue: 0,1:01:38.71,1:01:41.29,Default,,0,0,0,,我开出租的 曼哈顿来的\N{\rEng}I'm a taxi driver. From Manhattan.
 Dialogue: 0,1:01:41.79,1:01:43.08,Default,,0,0,0,,- 曼哈顿？ - 对\N{\rEng}- Manhattan? - Yeah.
 Dialogue: 0,1:01:43.10,1:01:44.68,Default,,0,0,0,,那路费可不便宜 伙计\N{\rEng}That's an expensive trip, man.
-Dialogue: 0,1:01:44.70,1:01:46.87,Default,,0,0,0,,可不是 大概二十块到二十五块呢\N{\rEng}Oh, yeah. $20, $25.
+Dialogue: 0,1:01:44.70,1:01:46.87,Default,,0,0,0,,可不是 大概20块到25块呢\N{\rEng}Oh, yeah. $20, $25.
 Dialogue: 0,1:01:46.89,1:01:48.81,Default,,0,0,0,,碰上有钱的主儿\N{\rEng}Well, the high rollers tip five,
-Dialogue: 0,1:01:48.82,1:01:51.03,Default,,0,0,0,,还能再给五块小费\N{\rEng}so that's five in tips. And...
+Dialogue: 0,1:01:48.82,1:01:51.03,Default,,0,0,0,,还能再给5块小费\N{\rEng}so that's five in tips. And...
 Dialogue: 0,1:01:51.04,1:01:54.13,Default,,0,0,0,,我刚把他送到 那人从后面掐住我脖子\N{\rEng}I fucking get to the spot, the guy chokes me out,
 Dialogue: 0,1:01:54.15,1:01:56.06,Default,,0,0,0,,- 朝我后脑勺猛揍 - 不会吧\N{\rEng}- punching me in the back of the head. - No.
 Dialogue: 0,1:01:56.07,1:01:58.52,Default,,0,0,0,,然后抢了钱就跑\N{\rEng}Takes my money and run the fuck off.
@@ -2136,11 +2136,11 @@ Dialogue: 0,1:04:36.29,1:04:37.67,Default,,0,0,0,,- 加油 罗杰 - 加油\N{\rE
 Dialogue: 0,1:04:37.68,1:04:38.76,Default,,0,0,0,,- 快点 别磨蹭 - 你？\N{\rEng}- Let's go right now. - You?
 Dialogue: 0,1:04:38.78,1:04:40.25,Default,,0,0,0,,我不跟你打 你太厉害了\N{\rEng}I won't play you. You're too good.
 Dialogue: 0,1:04:40.26,1:04:41.72,Default,,0,0,0,,我让你4分\N{\rEng}I'll spot you four points.
-Dialogue: 0,1:04:43.02,1:04:44.10,Default,,0,0,0,,行 赌四十块\N{\rEng}Fine. Forty dollars.
+Dialogue: 0,1:04:43.02,1:04:44.10,Default,,0,0,0,,行 赌40块\N{\rEng}Fine. Forty dollars.
 Dialogue: 0,1:04:43.02,1:04:46.63,Note,,0,0,0,,{\an8}【约490美元 3,300人民币 1.5万新台币】
-Dialogue: 0,1:04:44.60,1:04:46.64,Default,,0,0,0,,四十块？我没这么多钱\N{\rEng}Forty dollars? I don't have forty dollars.
+Dialogue: 0,1:04:44.60,1:04:46.64,Default,,0,0,0,,40块？我没这么多钱\N{\rEng}Forty dollars? I don't have forty dollars.
 Dialogue: 0,1:04:48.45,1:04:50.37,Default,,0,0,0,,爱打就打 不打拉倒 我得走了\N{\rEng}You want it? Take it or leave it. I gotta go.
-Dialogue: 0,1:04:50.65,1:04:52.66,Default,,0,0,0,,- 四十块 - 一 二 三...\N{\rEng}- Forty dollars. - One, two, three...
+Dialogue: 0,1:04:50.65,1:04:52.66,Default,,0,0,0,,- 40块 - 一 二 三...\N{\rEng}- Forty dollars. - One, two, three...
 Dialogue: 0,1:04:52.67,1:04:54.80,Default,,0,0,0,,谁还有钱 谁还有钱？\N{\rEng}Come on, who's got cash? Who's got cash?
 Dialogue: 0,1:04:54.82,1:04:56.57,Default,,0,0,0,,- 我帮你 - 都帮沃利出点\N{\rEng}- I got you. - It's Team Wally. Come on.
 Dialogue: 0,1:04:56.59,1:04:58.63,Default,,0,0,0,,来 来 来 都凑一凑 凑一凑 送他回家\N{\rEng}Pitch in, pitch in. Let's get him home. Come on, come on.
@@ -2457,7 +2457,7 @@ Dialogue: 0,1:19:06.76,1:19:10.86,Default,,0,0,0,,真是太感谢了 抓紧走�
 Dialogue: 0,1:19:10.87,1:19:12.63,Default,,0,0,0,,- 加油 凯 - 送他出去\N{\rEng}- Best of luck, Kay. Best of luck. - Get him out!
 Dialogue: 0,1:19:12.65,1:19:15.67,Default,,0,0,0,,这里不需要你了 谢谢 抓紧走吧\N{\rEng}We no longer require your presence. Thank you very much.
 Dialogue: 0,1:19:15.69,1:19:18.05,Default,,0,0,0,,恕我直言...\N{\rEng}Well, with all due respect...
-Dialogue: 0,1:19:18.07,1:19:19.88,Default,,0,0,0,,每套布景竟然都要五千多块\N{\rEng}And yet every set cost more than $5,000.
+Dialogue: 0,1:19:18.07,1:19:19.88,Default,,0,0,0,,每套布景竟然都要5000多块\N{\rEng}And yet every set cost more than $5,000.
 Dialogue: 0,1:19:19.90,1:19:23.38,Default,,0,0,0,,要让您太太高兴又少花钱 真办不到啊\N{\rEng}I can't just snap my fingers and get your money and your wife into alignment.
 Dialogue: 0,1:19:23.39,1:19:24.89,Default,,0,0,0,,那我花钱雇你干嘛\N{\rEng}I pay you to say no.
 Dialogue: 0,1:19:24.90,1:19:26.81,Default,,0,0,0,,让她感觉有主导权 又要控制她开销\N{\rEng}She seems to think that this is carte blanche.
@@ -2672,9 +2672,9 @@ Dialogue: 0,1:29:38.58,1:29:41.77,Default,,0,0,0,,应该给点赏钱吧？\N{\rE
 Dialogue: 0,1:29:41.79,1:29:44.13,Default,,0,0,0,,好吧 那你想要多少？\N{\rEng}Yeah, fine. How much you have in mind?
 Dialogue: 0,1:29:45.19,1:29:47.64,Default,,0,0,0,,- 开价太高了吧？ - 不高 他有的是钱\N{\rEng}- It's too much money. It's too much. - No, say it. He's fucking loaded.
 Dialogue: 0,1:29:47.66,1:29:48.77,Default,,0,0,0,,- 喂 - 快说\N{\rEng}- Hello?- Tell him.
-Dialogue: 0,1:29:49.64,1:29:52.84,Default,,0,0,0,,要我说两千挺合适的\N{\rEng}I was thinking maybe $2,000 seems fair for this kind of a thing.
+Dialogue: 0,1:29:49.64,1:29:52.84,Default,,0,0,0,,要我说2000挺合适的\N{\rEng}I was thinking maybe $2,000 seems fair for this kind of a thing.
 Dialogue: 0,1:29:52.85,1:29:54.35,Default,,0,0,0,,挺公道的\N{\rEng}That seems pretty fair to me.
-Dialogue: 0,1:29:54.37,1:29:56.12,Default,,0,0,0,,- 只要两千 - 你开玩笑吧？\N{\rEng}- Two thousand. - You're joking, right?
+Dialogue: 0,1:29:54.37,1:29:56.12,Default,,0,0,0,,- 只要2000 - 你开玩笑吧？\N{\rEng}- Two thousand. - You're joking, right?
 Dialogue: 0,1:29:56.73,1:29:59.36,Default,,0,0,0,,- 没开玩笑 - 你他妈在耍我吧\N{\rEng}- No, no. No. - That's fucking ridiculous.
 Dialogue: 0,1:29:59.38,1:30:00.38,Default,,0,0,0,,听着 听着...\N{\rEng}Look, look...
 Dialogue: 0,1:30:01.69,1:30:03.82,Default,,0,0,0,,我知道这跟你没关系 但...\N{\rEng}I know it's really not your problem, but...
@@ -2800,7 +2800,7 @@ Dialogue: 0,1:34:39.91,1:34:42.88,Default,,0,0,0,,你有认真想过自己在做
 Dialogue: 0,1:34:42.89,1:34:44.85,Default,,0,0,0,,- 闭嘴 - 你才闭嘴 你这自私自大的王八蛋\N{\rEng}- Stop. - Shush yourself, you narcissistic prick.
 Dialogue: 0,1:34:44.87,1:34:46.75,Default,,0,0,0,,- 别闹了 你在干什么？ - 别碰我\N{\rEng}- Stop. What are you doing? - Don't touch me!
 Dialogue: 0,1:34:46.77,1:34:49.10,Default,,0,0,0,,- 要把我爸妈吵醒了 闭嘴 - 去他妈的爸妈\N{\rEng}- You're gonna wake my parents up. Shut up. - Enough about your fucking parents.
-Dialogue: 0,1:34:49.12,1:34:50.60,Default,,0,0,0,,三十了还爸妈？\N{\rEng}Aren't you, like, 30 years old?
+Dialogue: 0,1:34:49.12,1:34:50.60,Default,,0,0,0,,30了还爸妈？\N{\rEng}Aren't you, like, 30 years old?
 Dialogue: 0,1:34:50.61,1:34:53.35,Default,,0,0,0,,知道吗？我还有四周就要生了\N{\rEng}You realize I'm due in four weeks?
 Dialogue: 0,1:34:53.36,1:34:55.54,Default,,0,0,0,,- 四周就要生了 - 孩子又不是我的\N{\rEng}- I am due in four weeks! - It's not my baby.
 Dialogue: 0,1:34:55.55,1:34:57.78,Default,,0,0,0,,就是他的孩子 这王八蛋的孩子\N{\rEng}And it's his baby, by the way. It's his fucking baby.
@@ -3004,7 +3004,7 @@ Dialogue: 0,1:46:35.66,1:46:37.48,Default,,0,0,0,,你今晚演得棒极了 太�
 Dialogue: 0,1:46:37.50,1:46:39.42,Default,,0,0,0,,- 我有样东西给你 - 给我？\N{\rEng}- I have something for you. - For me?
 Dialogue: 0,1:46:39.94,1:46:40.94,Default,,0,0,0,,转过去\N{\rEng}Turn around.
 Dialogue: 0,1:46:44.36,1:46:47.68,Default,,0,0,0,,每周年我丈夫都会送我一件首饰\N{\rEng}Every year my husband gives me a piece of jewelry for our anniversary.
-Dialogue: 0,1:46:48.44,1:46:51.49,Default,,0,0,0,,我有二十五件了 每件都代表受了一年的苦\N{\rEng}I have 25 of them. One for each year of misery.
+Dialogue: 0,1:46:48.44,1:46:51.49,Default,,0,0,0,,我有25件了 每件都代表受了一年的苦\N{\rEng}I have 25 of them. One for each year of misery.
 Dialogue: 0,1:46:52.18,1:46:54.17,Default,,0,0,0,,这条够你那趟路费了 没准还能剩\N{\rEng}That should cover your trip and then some.
 Dialogue: 0,1:46:55.27,1:46:57.48,Default,,0,0,0,,戴着让我浑身不自在\N{\rEng}Wearing it makes me feel like shit.
 Dialogue: 0,1:47:09.68,1:47:11.51,Default,,0,0,0,,完了 停下 停下 停下\N{\rEng}Oh, shit. Stop, stop, stop.
@@ -3052,7 +3052,7 @@ Dialogue: 0,1:49:22.16,1:49:23.58,Default,,0,0,0,,不 不准跟来\N{\rEng}No, y
 Dialogue: 0,1:49:24.82,1:49:26.57,Default,,0,0,0,,等等 等等\N{\rEng}Wait. Wait.
 Dialogue: 0,1:49:28.03,1:49:29.45,Default,,0,0,0,,好了\N{\rEng}There.
 Dialogue: 0,1:49:29.47,1:49:30.47,Default,,0,0,0,,你真漂亮\N{\rEng}You look beautiful.
-Dialogue: 0,1:49:31.53,1:49:32.93,Default,,0,0,0,,求你了 你有二十五条呢\N{\rEng}Please, you have 25 of them.
+Dialogue: 0,1:49:31.53,1:49:32.93,Default,,0,0,0,,求你了 你有25条呢\N{\rEng}Please, you have 25 of them.
 Dialogue: 0,1:49:32.95,1:49:34.42,Default,,0,0,0,,好\N{\rEng}Fine!
 Dialogue: 0,1:49:34.59,1:49:36.83,Default,,0,0,0,,- 待在这儿 明白吗？ - 好 我就在这里等\N{\rEng}- Stay here. Do you understand me? - I'll stay here. Okay.
 Dialogue: 0,1:49:36.84,1:49:38.28,Default,,0,0,0,,- 别乱跑 - 好\N{\rEng}- Do not move. - Okay.
@@ -3096,7 +3096,7 @@ Dialogue: 0,1:52:57.46,1:52:58.71,Default,,0,0,0,,打扰下\N{\rEng}Excuse me.
 Dialogue: 0,1:53:00.43,1:53:02.20,Default,,0,0,0,,- 您好 - 开啥玩笑啊\N{\rEng}- Hi. - You gotta be kidding me.
 Dialogue: 0,1:53:02.22,1:53:05.15,Default,,0,0,0,,- 抱歉登门打扰了 - 你怎么混进我家的？\N{\rEng}- I'm sorry to disturb you in your home. - How did you fuck get in my house?
 Dialogue: 0,1:53:05.17,1:53:07.85,Default,,0,0,0,,求您再给我一次机会 我求您了\N{\rEng}Please give me another chance. I am on my hands and knees.
-Dialogue: 0,1:53:07.87,1:53:11.38,Default,,0,0,0,,我得去日本 还需要一千五百块才能参加世锦赛\N{\rEng}I need a ride to Japan and I need $1,500 so I can compete in the championship.
+Dialogue: 0,1:53:07.87,1:53:11.38,Default,,0,0,0,,我得去日本 还需要1500块才能参加世锦赛\N{\rEng}I need a ride to Japan and I need $1,500 so I can compete in the championship.
 Dialogue: 0,1:53:11.40,1:53:13.79,Default,,0,0,0,,这活对我太重要了\N{\rEng}I need this job very, very badly.
 Dialogue: 0,1:53:13.81,1:53:15.33,Default,,0,0,0,,我求您了\N{\rEng}I'm begging you.
 Dialogue: 0,1:53:15.35,1:53:18.49,Default,,0,0,0,,我完全听您安排 输球也行\N{\rEng}I'll work for you however you want. I will lose.
