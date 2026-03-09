@@ -932,7 +932,7 @@ Dialogue: 0,0:06:57.85,0:06:59.13,Default,,0,0,0,,你就打电话核实去\N{\rE
 Dialogue: 0,0:06:59.15,0:07:02.20,Default,,0,0,0,,- 不过看你怎么打 朱迪在占着电话 - 喔 行\N{\rEng}- You're gonna have to get Judy off the phone first. - Oh, okay.
 Dialogue: 0,0:07:02.22,0:07:04.10,Default,,0,0,0,,喂 朱迪 把电话给我挂掉\N{\rEng}Hey, Judy, get off the phone.
 Dialogue: 0,0:07:15.35,0:07:18.10,Default,,0,0,0,,看 这颗是国际乒联标准球\N{\rEng}Okay, this is a normal IATT approved ball.
-Dialogue: 0,0:07:15.35,0:07:20.15,Note,,0,0,0,,{\an8}【国际乒乓球联合会：1926年成立 主管国际乒乓球赛事和规则】
+Dialogue: 0,0:07:15.35,0:07:20.15,Note,,0,0,0,,{\an8}【国际乒乓球联合会:1926年成立 主管国际乒乓球赛事和规则】
 Dialogue: 0,0:07:18.12,0:07:20.17,Default,,0,0,0,,盯紧这颗白球\N{\rEng}Try to follow the white ball against the white.
 Dialogue: 0,0:07:21.73,0:07:23.09,Default,,0,0,0,,在白背景下挺难的吧\N{\rEng}Almost impossible, right?
 Dialogue: 0,0:07:23.11,0:07:24.71,Default,,0,0,0,,你眼珠都没动\N{\rEng}I don't even see your eyes moving.
@@ -942,7 +942,7 @@ Dialogue: 0,0:07:29.60,0:07:31.58,Default,,0,0,0,,看吧 你盯得多牢 瞧他�
 Dialogue: 0,0:07:31.60,0:07:33.28,Default,,0,0,0,,- 看见没？ - 嗯 看见了\N{\rEng}- See how his eyes are looking? - Yeah, I see it.
 Dialogue: 0,0:07:33.30,0:07:34.66,Default,,0,0,0,,你现在盯得更紧了\N{\rEng}You're looking more engaged now.
 Dialogue: 0,0:07:34.68,0:07:36.54,Default,,0,0,0,,这就是机遇所在 目前桌球界\N{\rEng}So that's what we wanna do. Right now in the world of table tennis,
-Dialogue: 0,0:07:34.68,0:07:39.08,Note,,0,0,0,,{\an8}【桌球：英语中乒乓球亦称“桌上网球” 简称桌球】
+Dialogue: 0,0:07:34.68,0:07:39.08,Note,,0,0,0,,{\an8}【桌球:英语中乒乓球亦称“桌上网球” 简称桌球】
 Dialogue: 0,0:07:36.56,0:07:39.08,Default,,0,0,0,,为了盯住白球都得穿黑衣\N{\rEng}you're obliged to wear black, just so you can follow the white ball.
 Dialogue: 0,0:07:39.10,0:07:41.68,Default,,0,0,0,,- 看看这个 这是泰德·贝利 - 他是谁？\N{\rEng}- Look at this. That's Ted Bailey. - Who's that?
 Dialogue: 0,0:07:39.10,0:07:43.76,Note,,0,0,0,,{\an8}【桌上网球为正式运动称谓 乒乓球偏休闲用语】
@@ -950,7 +950,7 @@ Dialogue: 0,0:07:41.70,0:07:43.78,Default,,0,0,0,,他曾是英国冠军 世界�
 Dialogue: 0,0:07:43.80,0:07:45.96,Default,,0,0,0,,已经被我打败了\N{\rEng}He's the British champion. I've already beat him, by the way.
 Dialogue: 0,0:07:45.97,0:07:47.08,Default,,0,0,0,,再看这个\N{\rEng}Now look at this.
 Dialogue: 0,0:07:47.09,0:07:49.21,Default,,0,0,0,,网球界第一杰克·克雷默\N{\rEng}That's Jack Kramer, number one tennis player.
-Dialogue: 0,0:07:47.09,0:07:51.42,Note,,0,0,0,,{\an8}【杰克·克雷默：40-50年代著名网球手 推动网球精英化】
+Dialogue: 0,0:07:47.09,0:07:51.42,Note,,0,0,0,,{\an8}【杰克·克雷默:40-50年代著名网球手 推动网球精英化】
 Dialogue: 0,0:07:49.22,0:07:51.40,Default,,0,0,0,,- 有啥区别？ - 他穿的是全白\N{\rEng}- What's the difference there? - He's wearing all white.
 Dialogue: 0,0:07:51.42,0:07:53.05,Default,,0,0,0,,对 一身白 很绅士\N{\rEng}He's in all white. It's beautiful.
 Dialogue: 0,0:07:51.42,0:07:55.56,Note,,0,0,0,,{\an8}【50年代网球为绅士运动 桌上网球(乒乓球)尚非主流】
@@ -1023,7 +1023,7 @@ Dialogue: 0,0:11:18.60,0:11:19.67,Default,,0,0,0,,职业反应\N{\rEng}Just a re
 Dialogue: 0,0:11:19.68,0:11:22.22,Default,,0,0,0,,我要真想抢你 你早死在血泊里了\N{\rEng}If I wanted to rob you, you'd be dead. You'd be in a pool of blood.
 Dialogue: 0,0:11:22.24,0:11:25.12,Default,,0,0,0,,我是来拿西装的 这是我特地为这趟比赛买的\N{\rEng}I came to grab my suit. You know I bought this specifically for my trip?
 Dialogue: 0,0:11:25.14,0:11:27.95,Default,,0,0,0,,打小乒乓还要穿西装 真长见识了\N{\rEng}Didn't know you need a suit to play ping pong.
-Dialogue: 0,0:11:25.14,0:11:29.11,Note,,0,0,0,,{\an8}【乒乓：1950年代“乒乓”在部分场合带有嘲讽意味】
+Dialogue: 0,0:11:25.14,0:11:29.11,Note,,0,0,0,,{\an8}【乒乓:1950年代“乒乓”在部分场合带有嘲讽意味】
 Dialogue: 0,0:11:29.12,0:11:31.80,Note,,0,0,0,,{\an8}【从事这项运动常被歧视 被视为不务正业】
 Dialogue: 0,0:11:36.91,0:11:39.45,Default,,0,0,0,,我就要老默欠我的那700块\N{\rEng}I just want the $700 that Murray owes me.
 Dialogue: 0,0:11:36.91,0:11:40.53,Note,,0,0,0,,{\an8}【约合2026年 8,600美元 6万人民币 26万新台币】
@@ -1087,11 +1087,11 @@ Dialogue: 0,0:13:44.44,0:13:45.79,Lyrics,,0,0,0,,{\an7}♪ 握手 ♪\N{\rLyrics
 Dialogue: 0,0:13:44.67,0:13:45.98,Screen,,0,0,0,,{\an8}（第一场）
 Dialogue: 0,0:13:47.02,0:13:48.38,Lyrics,,0,0,0,,{\an7}♪ 握手 ♪\N{\rLyricsEng}♪ Shake hands ♪
 Dialogue: 0,0:13:55.79,0:13:57.55,Default,,0,0,0,,马蒂·毛瑟 赛点\N{\rEng}Match point, Mauser.
-Dialogue: 0,0:13:57.57,0:14:02.63,Note,,0,0,0,,{\an8}【赛点：率先达到者只需再得一分即可赢下整场比赛】
+Dialogue: 0,0:13:57.57,0:14:02.63,Note,,0,0,0,,{\an8}【赛点:率先达到者只需再得一分即可赢下整场比赛】
 Dialogue: 0,0:14:02.65,0:14:10.23,Note,,0,0,0,,{\an8}【1950年代乒乓球普遍采用每局21分制 比赛多为五局三胜】
 Dialogue: 0,0:14:19.27,0:14:21.63,Default,,0,0,0,,马蒂·毛瑟 胜出\N{\rEng}Match, Mauser.
 Dialogue: 0,0:14:24.70,0:14:28.40,Default,,0,0,0,,你给我太多正手机会了 应该逼我打反手\N{\rEng}You let me get to my forehand too much. Should've tried to put me in my backhand.
-Dialogue: 0,0:14:24.70,0:14:28.43,Note,,0,0,0,,{\an8}【正手/反手：在乒乓球中正手利于进攻 反手偏防守】
+Dialogue: 0,0:14:24.70,0:14:28.43,Note,,0,0,0,,{\an8}【正手/反手:在乒乓球中正手利于进攻 反手偏防守】
 Dialogue: 0,0:14:28.43,0:14:30.07,Default,,0,0,0,,远藤 得分\N{\rEng}Point, Endo.
 Dialogue: 0,0:14:50.24,0:14:52.16,Default,,0,0,0,,远藤 得分\N{\rEng}Point, Endo.
 Dialogue: 0,0:14:57.93,0:15:00.47,Default,,0,0,0,,- 几比几了？ - 19比4\N{\rEng}- What's the score here? - Nineteen-four.
@@ -1145,7 +1145,7 @@ Dialogue: 0,0:17:40.01,0:17:42.14,Default,,0,0,0,,他曾连续三年夺冠\N{\rE
 Dialogue: 0,0:17:42.16,0:17:44.94,Default,,0,0,0,,- 他名气可不小 - 我名气也不小\N{\rEng}- He's got quite the reputation. - I have quite the reputation.
 Dialogue: 0,0:17:44.96,0:17:48.85,Default,,0,0,0,,奥斯维辛集中营都办不到的事 我要办成\N{\rEng}Look, I'm gonna do to Kletzki what Auschwitz couldn't.
 Dialogue: 0,0:17:48.86,0:17:51.03,Default,,0,0,0,,看我怎么把他灭了\N{\rEng}Okay. I'm gonna finish the job.
-Dialogue: 0,0:17:48.86,0:17:53.07,Note,,0,0,0,,{\an8}【奥斯维辛：纳粹设立的集中营 实施种族灭绝】
+Dialogue: 0,0:17:48.86,0:17:53.07,Note,,0,0,0,,{\an8}【奥斯维辛:纳粹设立的集中营 实施种族灭绝】
 Dialogue: 0,0:17:53.09,0:17:55.58,Default,,0,0,0,,- 天呐 - 这话有点过了\N{\rEng}- Jesus Christ. - A little strong, mate.
 Dialogue: 0,0:17:55.60,0:17:57.38,Default,,0,0,0,,没事的 我能说 我也是犹太人\N{\rEng}It's all right. I'm Jewish. I can say that.
 Dialogue: 0,0:17:57.40,0:17:59.90,Default,,0,0,0,,事实上你想想 我更像是希特勒的大噩梦\N{\rEng}In fact, if you think about it, I'm like Hitler's worst nightmare.
@@ -1288,7 +1288,7 @@ Dialogue: 0,0:23:29.32,0:23:30.95,Default,,0,0,0,,马蒂·毛瑟 得分\N{\rEng}
 Dialogue: 0,0:23:30.97,0:23:33.20,Default,,0,0,0,,20比5\N{\rEng}Twenty to five.
 Dialogue: 0,0:23:33.22,0:23:36.83,Default,,0,0,0,,克莱茨基整场落后两局 零局比二\N{\rEng}Kletzki trails Mauser two games to nil.
 Dialogue: 0,0:23:37.25,0:23:40.41,Default,,0,0,0,,马蒂·毛瑟 局点兼赛点\N{\rEng}Game and match point, Mauser.
-Dialogue: 0,0:23:37.25,0:23:40.42,Note,,0,0,0,,{\an8}【局点兼赛点：表示马蒂再得一分即可赢下整场比赛】
+Dialogue: 0,0:23:37.25,0:23:40.42,Note,,0,0,0,,{\an8}【局点兼赛点:表示马蒂再得一分即可赢下整场比赛】
 Dialogue: 0,0:23:40.43,0:23:42.16,Default,,0,0,0,,- 咱们找点乐子玩玩 - 好吧\N{\rEng}- Let's have a little fun with this one. - Okay.
 Dialogue: 0,0:23:42.17,0:23:43.71,Default,,0,0,0,,- 玩出花样来 - 收到\N{\rEng}- Have a little fun, all right? - Gotcha.
 Dialogue: 0,0:23:44.29,0:23:46.19,Default,,0,0,0,,换克莱茨基发球\N{\rEng}Service switches to Kletzki.
@@ -1308,7 +1308,7 @@ Dialogue: 0,0:25:04.90,0:25:07.47,Default,,0,0,0,,我就来个威灵顿牛排和
 Dialogue: 0,0:25:07.49,0:25:09.34,Default,,0,0,0,,要点就点最贵的\N{\rEng}because they're the most expensive items on the menu.
 Dialogue: 0,0:25:09.36,0:25:12.34,Default,,0,0,0,,我想再唠叨两句关于巡回表演队的事\N{\rEng}Listen, I would like to keep going back a little bit about the Globetrotters.
 Dialogue: 0,0:25:12.35,0:25:13.93,Default,,0,0,0,,- 哈林篮球队那事儿？ - 对\N{\rEng}- About the Harlem Globetrotters, again? - Yes.
-Dialogue: 0,0:25:12.35,0:25:16.70,Note,,0,0,0,,{\an8}【哈林篮球队：美国巡回表演篮球队 擅长花式竞技与表演】
+Dialogue: 0,0:25:12.35,0:25:16.70,Note,,0,0,0,,{\an8}【哈林篮球队:美国巡回表演篮球队 擅长花式竞技与表演】
 Dialogue: 0,0:25:13.95,0:25:15.47,Default,,0,0,0,,- 我跟你说过了 我不干 - 为什么？\N{\rEng}- I told you, I'm not interested. - Why not?
 Dialogue: 0,0:25:15.49,0:25:16.68,Default,,0,0,0,,就是不想干\N{\rEng}'Cause I don't wanna do it.
 Dialogue: 0,0:25:16.70,0:25:18.39,Default,,0,0,0,,报酬很高\N{\rEng}It's great money.
@@ -1375,7 +1375,7 @@ Dialogue: 0,0:27:32.51,0:27:34.18,Default,,0,0,0,,在那边火得不行\N{\rEng}
 Dialogue: 0,0:27:34.19,0:27:35.20,Default,,0,0,0,,说个有意思的事\N{\rEng}Oh, you're gonna like this.
 Dialogue: 0,0:27:35.22,0:27:37.62,Default,,0,0,0,,你知道他们怎么握拍的吗？\N{\rEng}Do you know what they call their grip? The way they hold their rackets?
 Dialogue: 0,0:27:37.64,0:27:39.58,Default,,0,0,0,,- 不知道 - 他们管那叫直笔握拍\N{\rEng}- No. - They call it penholder.
-Dialogue: 0,0:27:37.64,0:27:40.89,Note,,0,0,0,,{\an8}【直拍：起源日本 英文含“握笔”之意】
+Dialogue: 0,0:27:37.64,0:27:40.89,Note,,0,0,0,,{\an8}【直拍:起源日本 英文含“握笔”之意】
 Dialogue: 0,0:27:40.91,0:27:41.70,Default,,0,0,0,,那又怎样？\N{\rEng}So what?
 Dialogue: 0,0:27:41.72,0:27:43.07,Default,,0,0,0,,你可以拿去用\N{\rEng}You can use that.
 Dialogue: 0,0:27:43.08,0:27:44.04,Default,,0,0,0,,用来干嘛？\N{\rEng}Use it for what?
@@ -1466,7 +1466,7 @@ Dialogue: 0,0:33:51.01,0:33:53.76,Screen,,0,0,0,,{\an8}（第二局）
 Dialogue: 0,0:34:05.21,0:34:09.47,Default,,0,0,0,,马蒂·毛瑟 得分 10比19\N{\rEng}Point, Mauser. 10-19.
 Dialogue: 0,0:34:09.49,0:34:10.57,Default,,0,0,0,,好样的 马蒂\N{\rEng}Okay, Marty!
 Dialogue: 0,0:34:34.99,0:34:38.95,Default,,0,0,0,,远藤 得分 20比10\N{\rEng}Point, Endo. 20-10.
-Dialogue: 0,0:34:40.16,0:34:45.42,Note,,0,0,0,,{\an8}【局点：率先达到者只需再得一分即可赢此局】
+Dialogue: 0,0:34:40.16,0:34:45.42,Note,,0,0,0,,{\an8}【局点:率先达到者只需再得一分即可赢此局】
 Dialogue: 0,0:34:40.16,0:34:41.87,Default,,0,0,0,,局点\N{\rEng}Game point.
 Dialogue: 0,0:34:45.95,0:34:47.46,Default,,0,0,0,,快发球\N{\rEng}Go! Serve.
 Dialogue: 0,0:35:07.86,0:35:11.86,Default,,0,0,0,,远藤 得分 21比10\N{\rEng}Point, Endo. 21-10.
@@ -1545,7 +1545,7 @@ Dialogue: 0,0:39:48.28,0:39:49.81,Default,,0,0,0,,我给你开个价\N{\rEng}So 
 Dialogue: 0,0:39:49.82,0:39:51.69,Default,,0,0,0,,1000美金酬劳\N{\rEng}I'll pay you a thousand dollars.
 Dialogue: 0,0:39:49.82,0:39:51.69,Note,,0,0,0,,{\an8}【约1.2万美元 8.5万人民币 37万新台币】
 Dialogue: 0,0:39:51.70,0:39:54.19,Default,,0,0,0,,还安排你住东京帝国饭店\N{\rEng}I'll put you up at the Imperial Hotel in Tokyo.
-Dialogue: 0,0:39:51.70,0:39:54.21,Note,,0,0,0,,{\an8}【东京帝国饭店：建于19世纪末 东京三大顶级酒店之一】
+Dialogue: 0,0:39:51.70,0:39:54.21,Note,,0,0,0,,{\an8}【东京帝国饭店:建于19世纪末 东京三大顶级酒店之一】
 Dialogue: 0,0:39:54.21,0:39:57.01,Default,,0,0,0,,要是你从纽约出发 还可以坐我的私人飞机\N{\rEng}And if you're leaving from New York, I'll give you a seat on my private plane,
 Dialogue: 0,0:39:57.02,0:39:59.26,Default,,0,0,0,,让你这辈子体验一回什么叫奢华\N{\rEng}and you'll fly in luxury for the first time in your life.
 Dialogue: 0,0:39:59.27,0:40:00.65,Default,,0,0,0,,钱的事之后再商量\N{\rEng}Okay, we can negotiate my price later.
@@ -1592,7 +1592,7 @@ Dialogue: 0,0:41:31.34,0:41:33.26,Default,,0,0,0,,而他们杀了你儿子 这�
 Dialogue: 0,0:41:41.00,0:41:44.45,Default,,0,0,0,,听着 咱俩互揭伤疤 扯平了 行吗？\N{\rEng}Look, you struck a nerve, I struck a nerve. Okay? Now we're even.
 Dialogue: 0,0:41:45.53,0:41:46.61,Default,,0,0,0,,滚出去\N{\rEng}Get out.
 Dialogue: 0,0:41:48.93,0:41:52.11,Default,,0,0,0,,不行 你还欠我一顿饭\N{\rEng}Nah, I think you owe me a meal first.
-Dialogue: 0,0:41:55.43,0:41:58.46,Screen,,0,0,0,,{\an8}（有请：哈林篮球队）
+Dialogue: 0,0:41:55.43,0:41:58.46,Screen,,0,0,0,,{\an8}（有请:哈林篮球队）
 Dialogue: 0,0:41:58.83,0:42:04.27,Default,,0,0,0,,（塞克语）让我们热烈欢迎小乒乓登场
 Dialogue: 0,0:42:05.73,0:42:11.57,Default,,0,0,0,,（塞克语）他们将上演“一闪一闪亮晶晶”
 Dialogue: 0,0:42:06.63,0:42:08.80,Screen,,0,0,0,,{\an8}（南斯拉夫 萨拉热窝）
@@ -1736,10 +1736,10 @@ Dialogue: 0,0:49:18.87,0:49:20.77,Default,,0,0,0,,再给你十块\N{\rEng}Here a
 Dialogue: 0,0:49:20.87,0:49:22.14,Default,,0,0,0,,好 行吧\N{\rEng}Yeah, all right.
 Dialogue: 0,0:49:22.87,0:49:24.62,Default,,0,0,0,,花园咖啡馆啊 点什么馅三明治？\N{\rEng}Garden Café, huh? What do you get?
 Dialogue: 0,0:49:24.64,0:49:26.31,Default,,0,0,0,,烟熏肉啊 还能什么？\N{\rEng}The pastrami, what else?
-Dialogue: 0,0:49:24.64,0:49:27.97,Note,,0,0,0,,{\an8}【烟熏肉三明治：东欧犹太移民特色食物】
+Dialogue: 0,0:49:24.64,0:49:27.97,Note,,0,0,0,,{\an8}【烟熏肉三明治:东欧犹太移民特色食物】
 Dialogue: 0,0:49:26.32,0:49:27.99,Default,,0,0,0,,- 噢 烟熏肉 - 你点什么馅？\N{\rEng}- Ah, pastrami. - What do you get?
 Dialogue: 0,0:49:28.00,0:49:28.74,Default,,0,0,0,,英式烤牛肉\N{\rEng}Roast beef.
-Dialogue: 0,0:49:28.00,0:49:31.97,Note,,0,0,0,,{\an8}【英式烧牛肉：传统英式料理】
+Dialogue: 0,0:49:28.00,0:49:31.97,Note,,0,0,0,,{\an8}【英式烧牛肉:传统英式料理】
 Dialogue: 0,0:49:28.75,0:49:30.19,Default,,0,0,0,,- 英式烧牛肉？ - 嗯\N{\rEng}- Roast beef? - Yeah.
 Dialogue: 0,0:49:30.20,0:49:31.97,Default,,0,0,0,,（意第绪语）你这吃洋饭的条子\N{\rEng}Goyishecop!
 Dialogue: 0,0:49:39.63,0:49:40.64,Default,,0,0,0,,嘿\N{\rEng}Hey.
@@ -2567,7 +2567,7 @@ Dialogue: 0,1:24:00.35,1:24:01.46,Default,,0,0,0,,我爸今晚就回来了\N{\rE
 Dialogue: 0,1:24:01.48,1:24:03.21,Default,,0,0,0,,我这就回去 全力做这件事\N{\rEng}I'll come back now and give you my undivided attention.
 Dialogue: 0,1:24:03.23,1:24:04.83,Default,,0,0,0,,先让我跟我妹说句话\N{\rEng}Let me just talk to my sister for a second.
 Dialogue: 0,1:24:04.84,1:24:07.13,Default,,0,0,0,,瑞秋 马蒂来电话了\N{\rEng}Rachel, Marty's on the phone.
-Dialogue: 0,1:24:08.67,1:24:10.42,Default,,0,0,0,,- 喂 你在哪儿？ - 喂 瑞秋 听好了\N{\rEng}- Hi. Where are you?- Hi, Rachel, listen.
+Dialogue: 0,1:24:08.67,1:24:10.42,Default,,0,0,0,,- 喂 你在哪儿？ - 喂 瑞秋 听好了\N{\rEng}- Hi. Where are you? - Hi, Rachel, listen.
 Dialogue: 0,1:24:10.44,1:24:12.75,Default,,0,0,0,,我夹克里有个狗项圈\N{\rEng}There's a dog collar in my jacket, okay?
 Dialogue: 0,1:24:12.76,1:24:14.68,Default,,0,0,0,,有个人狗在新泽西丢了\N{\rEng}I know a guy who lost a dog out in New Jersey.
 Dialogue: 0,1:24:14.70,1:24:16.25,Default,,0,0,0,,他会付大笔赏金\N{\rEng}He'll pay a big reward.
@@ -2671,7 +2671,7 @@ Dialogue: 0,1:29:36.08,1:29:38.56,Default,,0,0,0,,这事儿按惯例\N{\rEng}'Ca
 Dialogue: 0,1:29:38.58,1:29:41.77,Default,,0,0,0,,应该给点赏钱吧？\N{\rEng}it's kind of customary to give the person a reward, no?
 Dialogue: 0,1:29:41.79,1:29:44.13,Default,,0,0,0,,好吧 那你想要多少？\N{\rEng}Yeah, fine. How much you have in mind?
 Dialogue: 0,1:29:45.19,1:29:47.64,Default,,0,0,0,,- 开价太高了吧？ - 不高 他有的是钱\N{\rEng}- It's too much money. It's too much. - No, say it. He's fucking loaded.
-Dialogue: 0,1:29:47.66,1:29:48.77,Default,,0,0,0,,- 喂 - 快说\N{\rEng}- Hello?- Tell him.
+Dialogue: 0,1:29:47.66,1:29:48.77,Default,,0,0,0,,- 喂 - 快说\N{\rEng}- Hello? - Tell him.
 Dialogue: 0,1:29:49.64,1:29:52.84,Default,,0,0,0,,要我说2000挺合适的\N{\rEng}I was thinking maybe $2,000 seems fair for this kind of a thing.
 Dialogue: 0,1:29:52.85,1:29:54.35,Default,,0,0,0,,挺公道的\N{\rEng}That seems pretty fair to me.
 Dialogue: 0,1:29:54.37,1:29:56.12,Default,,0,0,0,,- 只要2000 - 你开玩笑吧？\N{\rEng}- Two thousand. - You're joking, right?
@@ -2683,7 +2683,7 @@ Dialogue: 0,1:30:08.45,1:30:11.49,Default,,0,0,0,,也没工作 这钱就算行�
 Dialogue: 0,1:30:11.51,1:30:13.45,Default,,0,0,0,,咱们行善吧\N{\rEng}And, you know, let's be good people and...
 Dialogue: 0,1:30:13.47,1:30:16.71,Default,,0,0,0,,那狗是我在收容所白领的 知道吗？\N{\rEng}You realize I got that dog for free at the pound, right?
 Dialogue: 0,1:30:17.46,1:30:20.20,Default,,0,0,0,,这么想就错了\N{\rEng}Well, that's kind of the wrong way to look at it.
-Dialogue: 0,1:30:20.21,1:30:22.46,Default,,0,0,0,,- 错了？ - 对 错了\N{\rEng}- Oh, really?- Yeah, really.
+Dialogue: 0,1:30:20.21,1:30:22.46,Default,,0,0,0,,- 错了？ - 对 错了\N{\rEng}- Oh, really? - Yeah, really.
 Dialogue: 0,1:30:22.48,1:30:23.98,Default,,0,0,0,,那我该怎么想？\N{\rEng}How am I supposed to look at it?
 Dialogue: 0,1:30:24.00,1:30:26.76,Default,,0,0,0,,比方说我不是在谈狗\N{\rEng}'Cause let's just say that I'm not calling about a dog.
 Dialogue: 0,1:30:26.78,1:30:28.75,Default,,0,0,0,,比方说我是在说你母亲\N{\rEng}Let's say that I'm calling about your mother,
@@ -2808,7 +2808,7 @@ Dialogue: 0,1:34:57.80,1:34:59.63,Default,,0,0,0,,他连这种事都骗了你\N{
 Dialogue: 0,1:34:59.65,1:35:02.28,Default,,0,0,0,,- 在我家闹什么呢？ - 爸 我只是请了几个朋友来\N{\rEng}- What's going on in my house? - I was just having some friends over, Dad.
 Dialogue: 0,1:35:02.30,1:35:03.37,Default,,0,0,0,,晚上好\N{\rEng}Buddy, how are you?
 Dialogue: 0,1:35:03.39,1:35:05.65,Default,,0,0,0,,嘿 明早咱们得和斯伯丁开个会\N{\rEng}Hey, we have a meeting with Spalding first thing in the morning
-Dialogue: 0,1:35:03.39,1:35:07.58,Note,,0,0,0,,{\an8}【斯伯丁：知名美国运动器材公司】
+Dialogue: 0,1:35:03.39,1:35:07.58,Note,,0,0,0,,{\an8}【斯伯丁:知名美国运动器材公司】
 Dialogue: 0,1:35:05.66,1:35:07.62,Default,,0,0,0,,- 谈至尊球的事 - 迪翁 醒醒吧\N{\rEng}- for the Supreme samples. - Dion, come on. Give me a break.
 Dialogue: 0,1:35:07.64,1:35:09.24,Default,,0,0,0,,别做白日梦了\N{\rEng}That's never gonna happen.
 Dialogue: 0,1:35:09.25,1:35:11.54,Default,,0,0,0,,- 你已经骗了我儿子的钱了 - 您在说什么呢？\N{\rEng}- You've taken my son's money. - What are you talking about?
@@ -2870,7 +2870,7 @@ Dialogue: 0,1:39:08.41,1:39:09.99,Default,,0,0,0,,瑞秋 需要帮忙吗？\N{\r
 Dialogue: 0,1:39:10.01,1:39:11.85,Default,,0,0,0,,- 别闹了 要帮忙吗？ - 对不起\N{\rEng}- That's enough. Do you need help, honey? - I'm sorry.
 Dialogue: 0,1:39:11.86,1:39:15.32,Default,,0,0,0,,- 我没事 大家都回去休息吧 - 她可会装可怜了\N{\rEng}- No, I'm okay. Everyone, go back to bed. - Yeah, great. She's so sorry.
 Dialogue: 0,1:39:39.16,1:39:42.22,Screen,,0,0,0,,{\an2}（劳伦斯百老汇球场）
-Dialogue: 0,1:39:39.16,1:39:42.22,Note,,0,0,0,,{\an8}【劳伦斯球场：20世纪中叶纽约著名乒乓球俱乐部】
+Dialogue: 0,1:39:39.16,1:39:42.22,Note,,0,0,0,,{\an8}【劳伦斯球场:20世纪中叶纽约著名乒乓球俱乐部】
 Dialogue: 0,1:40:11.43,1:40:13.64,Default,,0,0,0,,- 你就是瑞秋吧 - 你是伊兹拉？\N{\rEng}- Are you Rachel? - You're Ezra?
 Dialogue: 0,1:40:13.65,1:40:16.22,Default,,0,0,0,,- 狗在哪儿？ - 先交钱 再交狗\N{\rEng}- Where is he? - Give me the money and I'll bring him out.
 Dialogue: 0,1:40:16.24,1:40:19.06,Default,,0,0,0,,先交钱？见不到狗 你一分钱也得不到\N{\rEng}Money? You ain't getting a nickel unless I see my dog.
@@ -2980,7 +2980,7 @@ Dialogue: 0,1:44:44.84,1:44:46.28,Default,,0,0,0,,就这样糊弄我吗？\N{\rE
 Dialogue: 0,1:44:46.29,1:44:48.87,Default,,0,0,0,,不是说要座无虚席吗？\N{\rEng}Well, I mean, it's a full house. Isn't that the point?
 Dialogue: 0,1:44:48.89,1:44:51.33,Default,,0,0,0,,全是不识货的 - 不 不是的\N{\rEng}Full of fucking morons. - No, no. You got some--
 Dialogue: 0,1:44:51.35,1:44:53.42,Default,,0,0,0,,- 弗雷德·阿斯泰尔也会来 - 我先走了 不打扰你们了\N{\rEng}- Fred Astaire is coming. - Okay, I'm gonna get out your hair...
-Dialogue: 0,1:44:51.35,1:44:56.21,Note,,0,0,0,,{\an8}【弗雷德·阿斯泰尔：20世纪美国著名舞者和演员】
+Dialogue: 0,1:44:51.35,1:44:56.21,Note,,0,0,0,,{\an8}【弗雷德·阿斯泰尔:20世纪美国著名舞者和演员】
 Dialogue: 0,1:44:53.44,1:44:56.21,Default,,0,0,0,,别急着走 记得给他留张今晚的票\N{\rEng}No. Make sure you give him a ticket for tonight.
 Dialogue: 0,1:44:56.23,1:44:58.22,Default,,0,0,0,,- 给我？ - 对\N{\rEng}- Really? - Yeah.
 Dialogue: 0,1:44:58.24,1:45:02.01,Default,,0,0,0,,小伙子 你这下有福了\N{\rEng}Oh. You are in for such a treat, young man.
