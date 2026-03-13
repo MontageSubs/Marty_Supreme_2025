@@ -1,0 +1,46 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Style: Default,Microsoft YaHei,85,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,60,1
+Style: Screen,Microsoft YaHei,85,&H00EFFEFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.42,0:00:03.91,Screen,,0,0,0,,{\an8\t(1000,3810,\alpha&HFF&)}（A24影业出品）
+Dialogue: 0,0:00:00.42,0:00:03.91,Screen,,0,0,0,,{\an2\t(1000,3810,\alpha&HFF&)}(蒙太奇字幕组 原创译制)
+Dialogue: 0,0:00:03.96,0:00:05.62,Default,,0,0,0,,我有人生目标
+Dialogue: 0,0:00:05.65,0:00:07.36,Screen,,0,0,0,,{\an8}“乔什·萨弗迪 执导了
+Dialogue: 0,0:00:07.36,0:00:09.26,Screen,,0,0,0,,{\an8\t(1010,1810,\alpha&HFF&)}“乔什·萨弗迪 执导了\N　一部年度佳片”
+Dialogue: 0,0:00:08.74,0:00:10.41,Default,,0,0,0,,别以为这是好事
+Dialogue: 0,0:00:10.94,0:00:14.43,Default,,0,0,0,,我有个非常明确的目标
+Dialogue: 0,0:00:14.94,0:00:15.79,Screen,,0,0,0,,{\an8}“查拉梅演艺生涯的
+Dialogue: 0,0:00:15.79,0:00:18.06,Screen,,0,0,0,,{\an8\t(1010,2610,\alpha&HFF&)}“查拉梅演艺生涯的\N　 又一巅峰之作”
+Dialogue: 0,0:00:16.81,0:00:19.02,Default,,0,0,0,,我得为它放弃一切
+Dialogue: 0,0:00:19.46,0:00:20.33,Screen,,0,0,0,,{\an8}“一个难以抗拒的
+Dialogue: 0,0:00:20.33,0:00:21.18,Screen,,0,0,0,,{\an8}“一个难以抗拒的\N　　逆袭故事”
+Dialogue: 0,0:00:20.94,0:00:22.86,Default,,0,0,0,,小毛毛回来了 宝贝
+Dialogue: 0,0:00:23.04,0:00:23.88,Screen,,0,0,0,,{\an8}“一个时代传奇
+Dialogue: 0,0:00:23.88,0:00:24.77,Screen,,0,0,0,,{\an8}“一个时代传奇\N　　在今天重焕生机”
+Dialogue: 0,0:00:24.61,0:00:26.01,Default,,0,0,0,,说来您可能不信
+Dialogue: 0,0:00:25.67,0:00:26.52,Screen,,0,0,0,,{\an8}（真是天选之子？）
+Dialogue: 0,0:00:26.08,0:00:27.84,Default,,0,0,0,,- 那人是你？\N- 对 拍得不错吧？
+Dialogue: 0,0:00:28.40,0:00:30.06,Screen,,0,0,0,,{\an8}“让人想起立欢呼的电影”
+Dialogue: 0,0:00:28.81,0:00:30.90,Default,,0,0,0,,难道看不出这里的风险吗？
+Dialogue: 0,0:00:30.91,0:00:34.08,Default,,0,0,0,,马蒂 人生没有第二次机会
+Dialogue: 0,0:00:34.33,0:00:36.14,Default,,0,0,0,,要帮忙吗？我可以帮你
+Dialogue: 0,0:00:36.15,0:00:37.87,Default,,0,0,0,,马蒂 快上车
+Dialogue: 0,0:00:37.32,0:00:39.82,Screen,,0,0,0,,{\an8}（耗时四周 依据剧本精心翻译）
+Dialogue: 0,0:00:39.82,0:00:43.84,Screen,,0,0,0,,{\an8\t(1510,4010,\alpha&HFF&)}（并配以原创震撼特效）
+Dialogue: 0,0:00:41.83,0:00:43.75,Default,,0,0,0,,我有人生目标
+Dialogue: 0,0:00:44.63,0:00:45.71,Screen,,0,0,0,,{\an8}《至　　　》
+Dialogue: 0,0:00:45.71,0:00:47.02,Screen,,0,0,0,,{\an8}《至尊　　》
+Dialogue: 0,0:00:47.02,0:00:48.13,Screen,,0,0,0,,{\an8}《至尊马　》
+Dialogue: 0,0:00:48.13,0:00:52.31,Screen,,0,0,0,,{\an8}《至尊马蒂》
+Dialogue: 0,0:00:52.31,0:00:56.10,Default,,0,0,0,,{\an8\fs50\b1\c&HE8F1EB&}蒙太奇字幕组 (MontageSubs)\N{\fs40}用爱发电 {\c&H211EE8&}♥{\c&HE8F1EB&} Powered by Love
