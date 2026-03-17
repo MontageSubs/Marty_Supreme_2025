@@ -5,12 +5,12 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 PlayResX: 1920
 PlayResY: 800
-Title: 至尊马蒂（2025）中文注释+特效字幕 蒙太奇字幕组
+Title: 至尊马蒂（2025）中英双语注释+特效字幕 蒙太奇字幕组
 Original Translation: 翻译：小p, NickCollect  | 校对：小p, Charlie, Frank, 十三
 Original Timing: 时间轴：小p
 Original Editing: 后期：NickCollect | 技术支持：Frank
 Script Updated By: 蒙太奇字幕组 (MontageSubs)
-Update Details: 2026年3月14日：我们真的太爱这部电影了。为了让字幕配得上这部电影，我们耗时5周，在翻译、时间轴、特效的每个细节上都打磨到极致。希望这份字幕能让你感受到我们的热爱，祝你观影愉快。- 4种语言：逐句参照剧本精细推敲翻译，额外补齐片中4种语言及歌词；- 5周：耗时5周全力制作并校对字幕；- 38处：知识注释38处，帮助快速理解剧情要点；- 190+处：日语内容听译并补充190+条；- 200+处：官方英文字幕中200+处错误，已逐句听译并修正；- 1900+行 / 20MB：ASS特效字幕1900+行，原始ASS文件体积达20MB；- 每一帧：每一帧（1900+）特效打磨，确保画面与字幕动作完美契合；- 每一句：对白每一句（2800+）对话反复斟酌译文，保证用词精准、语气贴合原意；- 每一轴：每一个字幕（4700+）时间轴逐条校准，精确到毫秒，确保完美同步。蒙太奇字幕组。 | 2026年3月17日：微调部分特效，修正一处翻译错误。
+Update Details: 2026年3月14日：我们真的太爱这部电影了。为了让字幕配得上这部电影，我们耗时5周，在翻译、时间轴、特效的每个细节上都打磨到极致。希望这份字幕能让你感受到我们的热爱，祝你观影愉快。- 4种语言：逐句参照剧本精细推敲翻译，额外补齐片中4种语言及歌词；- 5周：耗时5周全力制作并校对字幕；- 38处：知识注释38处，帮助快速理解剧情要点；- 190+处：日语内容听译并补充190+条；- 200+处：官方英文字幕中200+处错误，已逐句听译并修正；- 1900+行 / 20MB：ASS特效字幕1900+行，原始ASS文件体积达20MB；- 每一帧：每一帧（1900+）特效打磨，确保画面与字幕动作完美契合；- 每一句：对白每一句（2800+）对话反复斟酌译文，保证用词精准、语气贴合原意；- 每一轴：每一个字幕（4700+）时间轴逐条校准，精确到毫秒，确保完美同步。蒙太奇字幕组。 | 2026年3月17日：本字幕 V2 修正了若干翻译并微调了部分图形指令实现的特效位置以更贴近原始效果；为呈现更精细特效我们大量使用矢量图形，原始 .ass 文件有 24 MB（这是真的，可于 GitHub 查看原始 .ass），现通过我们开源的在线工具将图形指令子集化为内嵌字体，体积缩减至约 1 MB（播放器需支持字体子集化）。工具链接：https://montagesubs.github.io/ass-subset/ （ASS 子集化）、  https://montagesubs.github.io/svg-to-ass/ （SVG → ASS）；欢迎字幕爱好者使用、分享与反馈。
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
