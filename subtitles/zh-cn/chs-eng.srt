@@ -1758,7 +1758,7 @@ Sorry, could you hold for a moment?
 
 357
 00:16:24,280 --> 00:16:26,560
-- 你不介意吧？ - 请说 你有啥事？
+- 你不介意吧？ - 请说 您有啥事？
 - You don't mind? - No. Can I help you with something?
 
 358
@@ -1768,7 +1768,7 @@ I was just curious, where are you staying while you're in town?
 
 359
 00:16:28,820 --> 00:16:30,770
-- 这关你什么事？ - 没事
+- 这关您什么事？ - 没事
 - What business is it of yours? - No.
 
 360
@@ -1803,7 +1803,7 @@ Well, with all due respect, sir, it's a dump.
 
 366
 00:16:45,010 --> 00:16:47,660
-很抱歉没有让你满意
+很抱歉没有让您满意
 I'm so sorry it doesn't meet your high standards.
 
 367
@@ -1813,7 +1813,7 @@ We offer complimentary housing to all our players, Mr. Mauser.
 
 368
 00:16:50,510 --> 00:16:52,820
-你是唯一一个来这抱怨的
+您是唯一一个来这抱怨的
 So far as I know, you're the only one to complain.
 
 369
@@ -4032,7 +4032,7 @@ You understand that, right? It's the racket that beat me.
 
 821
 00:41:02,150 --> 00:41:04,330
-我根本不在乎桌球 这都不算体育
+我根本不在乎小乒乓 这都不算体育
 I don't care about table tennis. This is theater.
 
 822
@@ -6210,7 +6210,7 @@ Trust me, you can.
 
 1261
 01:00:38,830 --> 01:00:41,040
-- 这句谁对谁？ - 塞思对阵罗杰
+- 这局谁对谁？ - 塞思对阵罗杰
 - Where are we at? - All right, Seth vs. Roger.
 
 1262
@@ -6574,7 +6574,7 @@ Whoa, whoa, whoa.
 
 1334
 01:02:59,110 --> 01:03:01,870
-哇塞 你们这种人也会玩桌球了
+哇塞 你们这种人也会打乒乓了
 Oh, wow. I didn't know you guys played table tennis.
 
 1335
@@ -6663,12 +6663,12 @@ Yeah!
 
 1352
 01:03:56,480 --> 01:03:57,920
-球擦边了 都他妈看见了吧
+球落到桌子了 都他妈看见了吧
 It grazed the edge. You fucking saw that.
 
 1353
 01:03:57,940 --> 01:03:59,280
-没擦边
+没碰到
 It didn't graze the edge.
 
 1354
@@ -7962,8 +7962,12 @@ with him this morning.
 
 1613
 01:15:28,590 --> 01:15:30,990
-- 我对这事不熟 - 就是他儿子那个营的
+- 我对这事不熟 - 我是他儿子战友
 - I'm not familiar. - From his son's battalion.
+
+1613
+01:15:28,590 --> 01:15:30,990
+{\an8}（《不要鸡飞蛋打》首演）
 
 1614
 01:15:31,000 --> 01:15:33,810
@@ -8182,7 +8186,7 @@ Somebody needs to tell him something.
 
 1657
 01:17:29,750 --> 01:17:31,920
-- 我去给你拿点 - 天呐
+- 我去给你倒 - 天呐
 - Let me bring you some. - God.
 
 1658
@@ -8337,7 +8341,7 @@ I was just saying you didn't really seem like you were in the scene is all.
 
 1688
 01:18:42,630 --> 01:18:45,320
-- 他懂不懂戏？ - 当局者迷
+- 他是谁？ - 当局者迷
 - Uh, who is this? - He's nobody.
 
 1689
@@ -8682,7 +8686,7 @@ Like with me, I'm never accepting anyone's help.
 
 1757
 01:21:52,640 --> 01:21:56,750
-我只靠我自己 靠我的手艺
+我只靠我自己 靠我的才能
 I gotta do it completely on my own. Purely on the basis of my own talent.
 
 1758
@@ -8717,7 +8721,7 @@ Let me ask you something.
 
 1764
 01:22:13,060 --> 01:22:15,640
-你靠这门小桌球挣到钱了吗？
+你靠这门小乒乓挣到钱了吗？
 Do you make money at this little table tennis thing?
 
 1765
@@ -8797,7 +8801,7 @@ Wow.
 
 1780
 01:22:48,760 --> 01:22:51,550
-你这口气真像我妈 随便说说
+别介意 但你这口气真像我妈
 You sound like my mom. No offense.
 
 1781
@@ -8822,7 +8826,7 @@ That I'm old enough to fuck you in your hotel room
 
 1785
 01:22:58,690 --> 01:23:00,610
-在酒店干你一场 还是你的酒店
+在酒店干你一场 还是你开的房
 in the middle of your big comeback.
 
 1786
@@ -8985,9 +8989,13 @@ Also, there's a set of car keys in a bowl by the front door.
 - 看见了吗？ - 看见了
 - You see them? - Yeah.
 
+1814
+01:24:19,020 --> 01:24:27,775
+{\an8}（加油站）
+
 1818
 01:24:20,240 --> 01:24:22,980
-拿上钥匙 把车开来 别让迪翁瞧见
+把车偷偷开来 别让迪翁瞧见
 Grab the keys, and make sure Dion doesn't see you do it.
 
 1819
@@ -11983,12 +11991,12 @@ I've been trying to get in touch with you.
 
 2419
 01:57:05,170 --> 01:57:06,320
-你能别扯了吗？
+能别装了吗？
 You wanna cut the bullshit?
 
 2420
 01:57:06,340 --> 01:57:08,110
-没胡扯 我是真关心那狗的
+没装 我是真关心那狗的
 No bullshit. I'm genuinely concerned about him.
 
 2421
@@ -13532,7 +13540,7 @@ Okay, Mr. Rockwell.
 
 2747
 02:15:43,010 --> 02:15:44,770
-（日语）开局不错
+（日语）开局了
 
 2748
 02:15:45,920 --> 02:15:48,030
